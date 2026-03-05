@@ -1,0 +1,15 @@
+[
+  { "entityId": "los-angeles-lakers", "name": "Los Angeles Lakers", "type": "team", "nbaId": 1610612747 },
+  { "entityId": "golden-state-warriors", "name": "Golden State Warriors", "type": "team", "nbaId": 1610612744 },
+  { "entityId": "boston-celtics", "name": "Boston Celtics", "type": "team", "nbaId": 1610612738 },
+  { "entityId": "phoenix-suns", "name": "Phoenix Suns", "type": "team", "nbaId": 1610612756 },
+  { "entityId": "milwaukee-bucks", "name": "Milwaukee Bucks", "type": "team", "nbaId": 1610612749 },
+  { "entityId": "denver-nuggets", "name": "Denver Nuggets", "type": "team", "nbaId": 1610612743 },
+  { "entityId": "oklahoma-city-thunder", "name": "Oklahoma City Thunder", "type": "team", "nbaId": 1610612760, "years": "2008-present", "linkedTo": "seattle-supersonics" },
+  { "entityId": "seattle-supersonics", "name": "Seattle SuperSonics", "type": "team", "nbaId": 1610612760, "years": "1967-2008", "linkedTo": "oklahoma-city-thunder" },
+  { "entityId": "philadelphia-76ers", "name": "Philadelphia 76ers", "type": "team", "nbaId": 1610612755 },
+  { "entityId": "minnesota-timberwolves", "name": "Minnesota Timberwolves", "type": "team", "nbaId": 1610612750 },
+  { "entityId": "san-antonio-spurs", "name": "San Antonio Spurs", "type": "team", "nbaId": 1610612759 },
+  { "entityId": "miami-heat", "name": "Miami Heat", "type": "team", "nbaId": 1610612748 },
+  { "entityId": "cleveland-cavaliers", "name": "Cleveland Cavaliers", "type": "team", "nbaId": 1610612739 }
+]

@@ -1,0 +1,1666 @@
+{
+  "slug": "top-100-all-time",
+  "version": 1,
+  "publishedYear": 2020,
+  "segments": [
+    {
+      "ranks": [
+        100,
+        99,
+        98,
+        97
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        96,
+        95,
+        94
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        93,
+        92,
+        91,
+        90
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        89,
+        88,
+        87
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        86,
+        85,
+        84,
+        83
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        82,
+        81,
+        80
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        79,
+        78,
+        77,
+        76
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        75,
+        74,
+        73
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        72,
+        71,
+        70,
+        69
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        68,
+        67,
+        66
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        65,
+        64,
+        63,
+        62
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        61,
+        60,
+        59
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        58,
+        57,
+        56,
+        55
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        54,
+        53,
+        52
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        51,
+        50,
+        49,
+        48
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        47,
+        46,
+        45
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        44,
+        43,
+        42,
+        41
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        40,
+        39,
+        38
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        37,
+        36,
+        35,
+        34
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        33,
+        32,
+        31
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        30,
+        29,
+        28,
+        27
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        26,
+        25,
+        24
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        23,
+        22,
+        21,
+        20
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        19,
+        18,
+        17
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        16,
+        15,
+        14,
+        13
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        12,
+        11
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        10,
+        9
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        8,
+        7
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        6,
+        5
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        4,
+        3
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    },
+    {
+      "ranks": [
+        2,
+        1
+      ],
+      "videoId": "dQw4w9WgXcQ"
+    }
+  ],
+  "rankingAlex": [
+    {
+      "rank": 1,
+      "name": "LeBron James",
+      "entityId": "lebron-james",
+      "entityType": "player",
+      "nbaId": 2544
+    },
+    {
+      "rank": 2,
+      "name": "Stephen Curry",
+      "entityId": "stephen-curry",
+      "entityType": "player",
+      "nbaId": 201939
+    },
+    {
+      "rank": 3,
+      "name": "Kevin Durant",
+      "entityId": "kevin-durant",
+      "entityType": "player",
+      "nbaId": 201142
+    },
+    {
+      "rank": 4,
+      "name": "Giannis Antetokounmpo",
+      "entityId": "giannis-antetokounmpo",
+      "entityType": "player",
+      "nbaId": 203507
+    },
+    {
+      "rank": 5,
+      "name": "Nikola Jokic",
+      "entityId": "nikola-jokic",
+      "entityType": "player",
+      "nbaId": 203999
+    },
+    {
+      "rank": 6,
+      "name": "Luka Doncic",
+      "entityId": "luka-doncic",
+      "entityType": "player",
+      "nbaId": 1629029
+    },
+    {
+      "rank": 7,
+      "name": "Jayson Tatum",
+      "entityId": "jayson-tatum",
+      "entityType": "player",
+      "nbaId": 1628369
+    },
+    {
+      "rank": 8,
+      "name": "Shai Gilgeous-Alexander",
+      "entityId": "shai-gilgeous-alexander",
+      "entityType": "player",
+      "nbaId": 1628983
+    },
+    {
+      "rank": 9,
+      "name": "Joel Embiid",
+      "entityId": "joel-embiid",
+      "entityType": "player",
+      "nbaId": 203954
+    },
+    {
+      "rank": 10,
+      "name": "Anthony Edwards",
+      "entityId": "anthony-edwards",
+      "entityType": "player",
+      "nbaId": 1630162
+    },
+    {
+      "rank": 11,
+      "name": "Victor Wembanyama",
+      "entityId": "victor-wembanyama",
+      "entityType": "player",
+      "nbaId": 1641705
+    },
+    {
+      "rank": 12,
+      "name": "Anthony Davis",
+      "entityId": "anthony-davis",
+      "entityType": "player",
+      "nbaId": 203076
+    },
+    {
+      "rank": 13,
+      "name": "Jimmy Butler",
+      "entityId": "jimmy-butler",
+      "entityType": "player",
+      "nbaId": 202710
+    },
+    {
+      "rank": 14,
+      "name": "Devin Booker",
+      "entityId": "devin-booker",
+      "entityType": "player",
+      "nbaId": 1626164
+    },
+    {
+      "rank": 15,
+      "name": "Donovan Mitchell",
+      "entityId": "donovan-mitchell",
+      "entityType": "player",
+      "nbaId": 1628378
+    },
+    {
+      "rank": 16,
+      "name": "LeBron James",
+      "entityId": "lebron-james",
+      "entityType": "player",
+      "nbaId": 2544
+    },
+    {
+      "rank": 17,
+      "name": "Stephen Curry",
+      "entityId": "stephen-curry",
+      "entityType": "player",
+      "nbaId": 201939
+    },
+    {
+      "rank": 18,
+      "name": "Kevin Durant",
+      "entityId": "kevin-durant",
+      "entityType": "player",
+      "nbaId": 201142
+    },
+    {
+      "rank": 19,
+      "name": "Giannis Antetokounmpo",
+      "entityId": "giannis-antetokounmpo",
+      "entityType": "player",
+      "nbaId": 203507
+    },
+    {
+      "rank": 20,
+      "name": "Nikola Jokic",
+      "entityId": "nikola-jokic",
+      "entityType": "player",
+      "nbaId": 203999
+    },
+    {
+      "rank": 21,
+      "name": "Luka Doncic",
+      "entityId": "luka-doncic",
+      "entityType": "player",
+      "nbaId": 1629029
+    },
+    {
+      "rank": 22,
+      "name": "Jayson Tatum",
+      "entityId": "jayson-tatum",
+      "entityType": "player",
+      "nbaId": 1628369
+    },
+    {
+      "rank": 23,
+      "name": "Shai Gilgeous-Alexander",
+      "entityId": "shai-gilgeous-alexander",
+      "entityType": "player",
+      "nbaId": 1628983
+    },
+    {
+      "rank": 24,
+      "name": "Joel Embiid",
+      "entityId": "joel-embiid",
+      "entityType": "player",
+      "nbaId": 203954
+    },
+    {
+      "rank": 25,
+      "name": "Anthony Edwards",
+      "entityId": "anthony-edwards",
+      "entityType": "player",
+      "nbaId": 1630162
+    },
+    {
+      "rank": 26,
+      "name": "Victor Wembanyama",
+      "entityId": "victor-wembanyama",
+      "entityType": "player",
+      "nbaId": 1641705
+    },
+    {
+      "rank": 27,
+      "name": "Anthony Davis",
+      "entityId": "anthony-davis",
+      "entityType": "player",
+      "nbaId": 203076
+    },
+    {
+      "rank": 28,
+      "name": "Jimmy Butler",
+      "entityId": "jimmy-butler",
+      "entityType": "player",
+      "nbaId": 202710
+    },
+    {
+      "rank": 29,
+      "name": "Devin Booker",
+      "entityId": "devin-booker",
+      "entityType": "player",
+      "nbaId": 1626164
+    },
+    {
+      "rank": 30,
+      "name": "Donovan Mitchell",
+      "entityId": "donovan-mitchell",
+      "entityType": "player",
+      "nbaId": 1628378
+    },
+    {
+      "rank": 31,
+      "name": "LeBron James",
+      "entityId": "lebron-james",
+      "entityType": "player",
+      "nbaId": 2544
+    },
+    {
+      "rank": 32,
+      "name": "Stephen Curry",
+      "entityId": "stephen-curry",
+      "entityType": "player",
+      "nbaId": 201939
+    },
+    {
+      "rank": 33,
+      "name": "Kevin Durant",
+      "entityId": "kevin-durant",
+      "entityType": "player",
+      "nbaId": 201142
+    },
+    {
+      "rank": 34,
+      "name": "Giannis Antetokounmpo",
+      "entityId": "giannis-antetokounmpo",
+      "entityType": "player",
+      "nbaId": 203507
+    },
+    {
+      "rank": 35,
+      "name": "Nikola Jokic",
+      "entityId": "nikola-jokic",
+      "entityType": "player",
+      "nbaId": 203999
+    },
+    {
+      "rank": 36,
+      "name": "Luka Doncic",
+      "entityId": "luka-doncic",
+      "entityType": "player",
+      "nbaId": 1629029
+    },
+    {
+      "rank": 37,
+      "name": "Jayson Tatum",
+      "entityId": "jayson-tatum",
+      "entityType": "player",
+      "nbaId": 1628369
+    },
+    {
+      "rank": 38,
+      "name": "Shai Gilgeous-Alexander",
+      "entityId": "shai-gilgeous-alexander",
+      "entityType": "player",
+      "nbaId": 1628983
+    },
+    {
+      "rank": 39,
+      "name": "Joel Embiid",
+      "entityId": "joel-embiid",
+      "entityType": "player",
+      "nbaId": 203954
+    },
+    {
+      "rank": 40,
+      "name": "Anthony Edwards",
+      "entityId": "anthony-edwards",
+      "entityType": "player",
+      "nbaId": 1630162
+    },
+    {
+      "rank": 41,
+      "name": "Victor Wembanyama",
+      "entityId": "victor-wembanyama",
+      "entityType": "player",
+      "nbaId": 1641705
+    },
+    {
+      "rank": 42,
+      "name": "Anthony Davis",
+      "entityId": "anthony-davis",
+      "entityType": "player",
+      "nbaId": 203076
+    },
+    {
+      "rank": 43,
+      "name": "Jimmy Butler",
+      "entityId": "jimmy-butler",
+      "entityType": "player",
+      "nbaId": 202710
+    },
+    {
+      "rank": 44,
+      "name": "Devin Booker",
+      "entityId": "devin-booker",
+      "entityType": "player",
+      "nbaId": 1626164
+    },
+    {
+      "rank": 45,
+      "name": "Donovan Mitchell",
+      "entityId": "donovan-mitchell",
+      "entityType": "player",
+      "nbaId": 1628378
+    },
+    {
+      "rank": 46,
+      "name": "LeBron James",
+      "entityId": "lebron-james",
+      "entityType": "player",
+      "nbaId": 2544
+    },
+    {
+      "rank": 47,
+      "name": "Stephen Curry",
+      "entityId": "stephen-curry",
+      "entityType": "player",
+      "nbaId": 201939
+    },
+    {
+      "rank": 48,
+      "name": "Kevin Durant",
+      "entityId": "kevin-durant",
+      "entityType": "player",
+      "nbaId": 201142
+    },
+    {
+      "rank": 49,
+      "name": "Giannis Antetokounmpo",
+      "entityId": "giannis-antetokounmpo",
+      "entityType": "player",
+      "nbaId": 203507
+    },
+    {
+      "rank": 50,
+      "name": "Nikola Jokic",
+      "entityId": "nikola-jokic",
+      "entityType": "player",
+      "nbaId": 203999
+    },
+    {
+      "rank": 51,
+      "name": "Luka Doncic",
+      "entityId": "luka-doncic",
+      "entityType": "player",
+      "nbaId": 1629029
+    },
+    {
+      "rank": 52,
+      "name": "Jayson Tatum",
+      "entityId": "jayson-tatum",
+      "entityType": "player",
+      "nbaId": 1628369
+    },
+    {
+      "rank": 53,
+      "name": "Shai Gilgeous-Alexander",
+      "entityId": "shai-gilgeous-alexander",
+      "entityType": "player",
+      "nbaId": 1628983
+    },
+    {
+      "rank": 54,
+      "name": "Joel Embiid",
+      "entityId": "joel-embiid",
+      "entityType": "player",
+      "nbaId": 203954
+    },
+    {
+      "rank": 55,
+      "name": "Anthony Edwards",
+      "entityId": "anthony-edwards",
+      "entityType": "player",
+      "nbaId": 1630162
+    },
+    {
+      "rank": 56,
+      "name": "Victor Wembanyama",
+      "entityId": "victor-wembanyama",
+      "entityType": "player",
+      "nbaId": 1641705
+    },
+    {
+      "rank": 57,
+      "name": "Anthony Davis",
+      "entityId": "anthony-davis",
+      "entityType": "player",
+      "nbaId": 203076
+    },
+    {
+      "rank": 58,
+      "name": "Jimmy Butler",
+      "entityId": "jimmy-butler",
+      "entityType": "player",
+      "nbaId": 202710
+    },
+    {
+      "rank": 59,
+      "name": "Devin Booker",
+      "entityId": "devin-booker",
+      "entityType": "player",
+      "nbaId": 1626164
+    },
+    {
+      "rank": 60,
+      "name": "Donovan Mitchell",
+      "entityId": "donovan-mitchell",
+      "entityType": "player",
+      "nbaId": 1628378
+    },
+    {
+      "rank": 61,
+      "name": "LeBron James",
+      "entityId": "lebron-james",
+      "entityType": "player",
+      "nbaId": 2544
+    },
+    {
+      "rank": 62,
+      "name": "Stephen Curry",
+      "entityId": "stephen-curry",
+      "entityType": "player",
+      "nbaId": 201939
+    },
+    {
+      "rank": 63,
+      "name": "Kevin Durant",
+      "entityId": "kevin-durant",
+      "entityType": "player",
+      "nbaId": 201142
+    },
+    {
+      "rank": 64,
+      "name": "Giannis Antetokounmpo",
+      "entityId": "giannis-antetokounmpo",
+      "entityType": "player",
+      "nbaId": 203507
+    },
+    {
+      "rank": 65,
+      "name": "Nikola Jokic",
+      "entityId": "nikola-jokic",
+      "entityType": "player",
+      "nbaId": 203999
+    },
+    {
+      "rank": 66,
+      "name": "Luka Doncic",
+      "entityId": "luka-doncic",
+      "entityType": "player",
+      "nbaId": 1629029
+    },
+    {
+      "rank": 67,
+      "name": "Jayson Tatum",
+      "entityId": "jayson-tatum",
+      "entityType": "player",
+      "nbaId": 1628369
+    },
+    {
+      "rank": 68,
+      "name": "Shai Gilgeous-Alexander",
+      "entityId": "shai-gilgeous-alexander",
+      "entityType": "player",
+      "nbaId": 1628983
+    },
+    {
+      "rank": 69,
+      "name": "Joel Embiid",
+      "entityId": "joel-embiid",
+      "entityType": "player",
+      "nbaId": 203954
+    },
+    {
+      "rank": 70,
+      "name": "Anthony Edwards",
+      "entityId": "anthony-edwards",
+      "entityType": "player",
+      "nbaId": 1630162
+    },
+    {
+      "rank": 71,
+      "name": "Victor Wembanyama",
+      "entityId": "victor-wembanyama",
+      "entityType": "player",
+      "nbaId": 1641705
+    },
+    {
+      "rank": 72,
+      "name": "Anthony Davis",
+      "entityId": "anthony-davis",
+      "entityType": "player",
+      "nbaId": 203076
+    },
+    {
+      "rank": 73,
+      "name": "Jimmy Butler",
+      "entityId": "jimmy-butler",
+      "entityType": "player",
+      "nbaId": 202710
+    },
+    {
+      "rank": 74,
+      "name": "Devin Booker",
+      "entityId": "devin-booker",
+      "entityType": "player",
+      "nbaId": 1626164
+    },
+    {
+      "rank": 75,
+      "name": "Donovan Mitchell",
+      "entityId": "donovan-mitchell",
+      "entityType": "player",
+      "nbaId": 1628378
+    },
+    {
+      "rank": 76,
+      "name": "LeBron James",
+      "entityId": "lebron-james",
+      "entityType": "player",
+      "nbaId": 2544
+    },
+    {
+      "rank": 77,
+      "name": "Stephen Curry",
+      "entityId": "stephen-curry",
+      "entityType": "player",
+      "nbaId": 201939
+    },
+    {
+      "rank": 78,
+      "name": "Kevin Durant",
+      "entityId": "kevin-durant",
+      "entityType": "player",
+      "nbaId": 201142
+    },
+    {
+      "rank": 79,
+      "name": "Giannis Antetokounmpo",
+      "entityId": "giannis-antetokounmpo",
+      "entityType": "player",
+      "nbaId": 203507
+    },
+    {
+      "rank": 80,
+      "name": "Nikola Jokic",
+      "entityId": "nikola-jokic",
+      "entityType": "player",
+      "nbaId": 203999
+    },
+    {
+      "rank": 81,
+      "name": "Luka Doncic",
+      "entityId": "luka-doncic",
+      "entityType": "player",
+      "nbaId": 1629029
+    },
+    {
+      "rank": 82,
+      "name": "Jayson Tatum",
+      "entityId": "jayson-tatum",
+      "entityType": "player",
+      "nbaId": 1628369
+    },
+    {
+      "rank": 83,
+      "name": "Shai Gilgeous-Alexander",
+      "entityId": "shai-gilgeous-alexander",
+      "entityType": "player",
+      "nbaId": 1628983
+    },
+    {
+      "rank": 84,
+      "name": "Joel Embiid",
+      "entityId": "joel-embiid",
+      "entityType": "player",
+      "nbaId": 203954
+    },
+    {
+      "rank": 85,
+      "name": "Anthony Edwards",
+      "entityId": "anthony-edwards",
+      "entityType": "player",
+      "nbaId": 1630162
+    },
+    {
+      "rank": 86,
+      "name": "Victor Wembanyama",
+      "entityId": "victor-wembanyama",
+      "entityType": "player",
+      "nbaId": 1641705
+    },
+    {
+      "rank": 87,
+      "name": "Anthony Davis",
+      "entityId": "anthony-davis",
+      "entityType": "player",
+      "nbaId": 203076
+    },
+    {
+      "rank": 88,
+      "name": "Jimmy Butler",
+      "entityId": "jimmy-butler",
+      "entityType": "player",
+      "nbaId": 202710
+    },
+    {
+      "rank": 89,
+      "name": "Devin Booker",
+      "entityId": "devin-booker",
+      "entityType": "player",
+      "nbaId": 1626164
+    },
+    {
+      "rank": 90,
+      "name": "Donovan Mitchell",
+      "entityId": "donovan-mitchell",
+      "entityType": "player",
+      "nbaId": 1628378
+    },
+    {
+      "rank": 91,
+      "name": "LeBron James",
+      "entityId": "lebron-james",
+      "entityType": "player",
+      "nbaId": 2544
+    },
+    {
+      "rank": 92,
+      "name": "Stephen Curry",
+      "entityId": "stephen-curry",
+      "entityType": "player",
+      "nbaId": 201939
+    },
+    {
+      "rank": 93,
+      "name": "Kevin Durant",
+      "entityId": "kevin-durant",
+      "entityType": "player",
+      "nbaId": 201142
+    },
+    {
+      "rank": 94,
+      "name": "Giannis Antetokounmpo",
+      "entityId": "giannis-antetokounmpo",
+      "entityType": "player",
+      "nbaId": 203507
+    },
+    {
+      "rank": 95,
+      "name": "Nikola Jokic",
+      "entityId": "nikola-jokic",
+      "entityType": "player",
+      "nbaId": 203999
+    },
+    {
+      "rank": 96,
+      "name": "Luka Doncic",
+      "entityId": "luka-doncic",
+      "entityType": "player",
+      "nbaId": 1629029
+    },
+    {
+      "rank": 97,
+      "name": "Jayson Tatum",
+      "entityId": "jayson-tatum",
+      "entityType": "player",
+      "nbaId": 1628369
+    },
+    {
+      "rank": 98,
+      "name": "Shai Gilgeous-Alexander",
+      "entityId": "shai-gilgeous-alexander",
+      "entityType": "player",
+      "nbaId": 1628983
+    },
+    {
+      "rank": 99,
+      "name": "Joel Embiid",
+      "entityId": "joel-embiid",
+      "entityType": "player",
+      "nbaId": 203954
+    },
+    {
+      "rank": 100,
+      "name": "Anthony Edwards",
+      "entityId": "anthony-edwards",
+      "entityType": "player",
+      "nbaId": 1630162
+    }
+  ],
+  "rankingBastien": [
+    {
+      "rank": 1,
+      "name": "Nikola Jokic",
+      "entityId": "nikola-jokic",
+      "entityType": "player",
+      "nbaId": 203999
+    },
+    {
+      "rank": 2,
+      "name": "Shai Gilgeous-Alexander",
+      "entityId": "shai-gilgeous-alexander",
+      "entityType": "player",
+      "nbaId": 1628983
+    },
+    {
+      "rank": 3,
+      "name": "Kevin Durant",
+      "entityId": "kevin-durant",
+      "entityType": "player",
+      "nbaId": 201142
+    },
+    {
+      "rank": 4,
+      "name": "Anthony Davis",
+      "entityId": "anthony-davis",
+      "entityType": "player",
+      "nbaId": 203076
+    },
+    {
+      "rank": 5,
+      "name": "LeBron James",
+      "entityId": "lebron-james",
+      "entityType": "player",
+      "nbaId": 2544
+    },
+    {
+      "rank": 6,
+      "name": "Jayson Tatum",
+      "entityId": "jayson-tatum",
+      "entityType": "player",
+      "nbaId": 1628369
+    },
+    {
+      "rank": 7,
+      "name": "Donovan Mitchell",
+      "entityId": "donovan-mitchell",
+      "entityType": "player",
+      "nbaId": 1628378
+    },
+    {
+      "rank": 8,
+      "name": "Anthony Edwards",
+      "entityId": "anthony-edwards",
+      "entityType": "player",
+      "nbaId": 1630162
+    },
+    {
+      "rank": 9,
+      "name": "Giannis Antetokounmpo",
+      "entityId": "giannis-antetokounmpo",
+      "entityType": "player",
+      "nbaId": 203507
+    },
+    {
+      "rank": 10,
+      "name": "Jimmy Butler",
+      "entityId": "jimmy-butler",
+      "entityType": "player",
+      "nbaId": 202710
+    },
+    {
+      "rank": 11,
+      "name": "Luka Doncic",
+      "entityId": "luka-doncic",
+      "entityType": "player",
+      "nbaId": 1629029
+    },
+    {
+      "rank": 12,
+      "name": "Stephen Curry",
+      "entityId": "stephen-curry",
+      "entityType": "player",
+      "nbaId": 201939
+    },
+    {
+      "rank": 13,
+      "name": "Victor Wembanyama",
+      "entityId": "victor-wembanyama",
+      "entityType": "player",
+      "nbaId": 1641705
+    },
+    {
+      "rank": 14,
+      "name": "Joel Embiid",
+      "entityId": "joel-embiid",
+      "entityType": "player",
+      "nbaId": 203954
+    },
+    {
+      "rank": 15,
+      "name": "Devin Booker",
+      "entityId": "devin-booker",
+      "entityType": "player",
+      "nbaId": 1626164
+    },
+    {
+      "rank": 16,
+      "name": "Nikola Jokic",
+      "entityId": "nikola-jokic",
+      "entityType": "player",
+      "nbaId": 203999
+    },
+    {
+      "rank": 17,
+      "name": "Shai Gilgeous-Alexander",
+      "entityId": "shai-gilgeous-alexander",
+      "entityType": "player",
+      "nbaId": 1628983
+    },
+    {
+      "rank": 18,
+      "name": "Kevin Durant",
+      "entityId": "kevin-durant",
+      "entityType": "player",
+      "nbaId": 201142
+    },
+    {
+      "rank": 19,
+      "name": "Anthony Davis",
+      "entityId": "anthony-davis",
+      "entityType": "player",
+      "nbaId": 203076
+    },
+    {
+      "rank": 20,
+      "name": "LeBron James",
+      "entityId": "lebron-james",
+      "entityType": "player",
+      "nbaId": 2544
+    },
+    {
+      "rank": 21,
+      "name": "Jayson Tatum",
+      "entityId": "jayson-tatum",
+      "entityType": "player",
+      "nbaId": 1628369
+    },
+    {
+      "rank": 22,
+      "name": "Donovan Mitchell",
+      "entityId": "donovan-mitchell",
+      "entityType": "player",
+      "nbaId": 1628378
+    },
+    {
+      "rank": 23,
+      "name": "Anthony Edwards",
+      "entityId": "anthony-edwards",
+      "entityType": "player",
+      "nbaId": 1630162
+    },
+    {
+      "rank": 24,
+      "name": "Giannis Antetokounmpo",
+      "entityId": "giannis-antetokounmpo",
+      "entityType": "player",
+      "nbaId": 203507
+    },
+    {
+      "rank": 25,
+      "name": "Jimmy Butler",
+      "entityId": "jimmy-butler",
+      "entityType": "player",
+      "nbaId": 202710
+    },
+    {
+      "rank": 26,
+      "name": "Luka Doncic",
+      "entityId": "luka-doncic",
+      "entityType": "player",
+      "nbaId": 1629029
+    },
+    {
+      "rank": 27,
+      "name": "Stephen Curry",
+      "entityId": "stephen-curry",
+      "entityType": "player",
+      "nbaId": 201939
+    },
+    {
+      "rank": 28,
+      "name": "Victor Wembanyama",
+      "entityId": "victor-wembanyama",
+      "entityType": "player",
+      "nbaId": 1641705
+    },
+    {
+      "rank": 29,
+      "name": "Joel Embiid",
+      "entityId": "joel-embiid",
+      "entityType": "player",
+      "nbaId": 203954
+    },
+    {
+      "rank": 30,
+      "name": "Devin Booker",
+      "entityId": "devin-booker",
+      "entityType": "player",
+      "nbaId": 1626164
+    },
+    {
+      "rank": 31,
+      "name": "Nikola Jokic",
+      "entityId": "nikola-jokic",
+      "entityType": "player",
+      "nbaId": 203999
+    },
+    {
+      "rank": 32,
+      "name": "Shai Gilgeous-Alexander",
+      "entityId": "shai-gilgeous-alexander",
+      "entityType": "player",
+      "nbaId": 1628983
+    },
+    {
+      "rank": 33,
+      "name": "Kevin Durant",
+      "entityId": "kevin-durant",
+      "entityType": "player",
+      "nbaId": 201142
+    },
+    {
+      "rank": 34,
+      "name": "Anthony Davis",
+      "entityId": "anthony-davis",
+      "entityType": "player",
+      "nbaId": 203076
+    },
+    {
+      "rank": 35,
+      "name": "LeBron James",
+      "entityId": "lebron-james",
+      "entityType": "player",
+      "nbaId": 2544
+    },
+    {
+      "rank": 36,
+      "name": "Jayson Tatum",
+      "entityId": "jayson-tatum",
+      "entityType": "player",
+      "nbaId": 1628369
+    },
+    {
+      "rank": 37,
+      "name": "Donovan Mitchell",
+      "entityId": "donovan-mitchell",
+      "entityType": "player",
+      "nbaId": 1628378
+    },
+    {
+      "rank": 38,
+      "name": "Anthony Edwards",
+      "entityId": "anthony-edwards",
+      "entityType": "player",
+      "nbaId": 1630162
+    },
+    {
+      "rank": 39,
+      "name": "Giannis Antetokounmpo",
+      "entityId": "giannis-antetokounmpo",
+      "entityType": "player",
+      "nbaId": 203507
+    },
+    {
+      "rank": 40,
+      "name": "Jimmy Butler",
+      "entityId": "jimmy-butler",
+      "entityType": "player",
+      "nbaId": 202710
+    },
+    {
+      "rank": 41,
+      "name": "Luka Doncic",
+      "entityId": "luka-doncic",
+      "entityType": "player",
+      "nbaId": 1629029
+    },
+    {
+      "rank": 42,
+      "name": "Stephen Curry",
+      "entityId": "stephen-curry",
+      "entityType": "player",
+      "nbaId": 201939
+    },
+    {
+      "rank": 43,
+      "name": "Victor Wembanyama",
+      "entityId": "victor-wembanyama",
+      "entityType": "player",
+      "nbaId": 1641705
+    },
+    {
+      "rank": 44,
+      "name": "Joel Embiid",
+      "entityId": "joel-embiid",
+      "entityType": "player",
+      "nbaId": 203954
+    },
+    {
+      "rank": 45,
+      "name": "Devin Booker",
+      "entityId": "devin-booker",
+      "entityType": "player",
+      "nbaId": 1626164
+    },
+    {
+      "rank": 46,
+      "name": "Nikola Jokic",
+      "entityId": "nikola-jokic",
+      "entityType": "player",
+      "nbaId": 203999
+    },
+    {
+      "rank": 47,
+      "name": "Shai Gilgeous-Alexander",
+      "entityId": "shai-gilgeous-alexander",
+      "entityType": "player",
+      "nbaId": 1628983
+    },
+    {
+      "rank": 48,
+      "name": "Kevin Durant",
+      "entityId": "kevin-durant",
+      "entityType": "player",
+      "nbaId": 201142
+    },
+    {
+      "rank": 49,
+      "name": "Anthony Davis",
+      "entityId": "anthony-davis",
+      "entityType": "player",
+      "nbaId": 203076
+    },
+    {
+      "rank": 50,
+      "name": "LeBron James",
+      "entityId": "lebron-james",
+      "entityType": "player",
+      "nbaId": 2544
+    },
+    {
+      "rank": 51,
+      "name": "Jayson Tatum",
+      "entityId": "jayson-tatum",
+      "entityType": "player",
+      "nbaId": 1628369
+    },
+    {
+      "rank": 52,
+      "name": "Donovan Mitchell",
+      "entityId": "donovan-mitchell",
+      "entityType": "player",
+      "nbaId": 1628378
+    },
+    {
+      "rank": 53,
+      "name": "Anthony Edwards",
+      "entityId": "anthony-edwards",
+      "entityType": "player",
+      "nbaId": 1630162
+    },
+    {
+      "rank": 54,
+      "name": "Giannis Antetokounmpo",
+      "entityId": "giannis-antetokounmpo",
+      "entityType": "player",
+      "nbaId": 203507
+    },
+    {
+      "rank": 55,
+      "name": "Jimmy Butler",
+      "entityId": "jimmy-butler",
+      "entityType": "player",
+      "nbaId": 202710
+    },
+    {
+      "rank": 56,
+      "name": "Luka Doncic",
+      "entityId": "luka-doncic",
+      "entityType": "player",
+      "nbaId": 1629029
+    },
+    {
+      "rank": 57,
+      "name": "Stephen Curry",
+      "entityId": "stephen-curry",
+      "entityType": "player",
+      "nbaId": 201939
+    },
+    {
+      "rank": 58,
+      "name": "Victor Wembanyama",
+      "entityId": "victor-wembanyama",
+      "entityType": "player",
+      "nbaId": 1641705
+    },
+    {
+      "rank": 59,
+      "name": "Joel Embiid",
+      "entityId": "joel-embiid",
+      "entityType": "player",
+      "nbaId": 203954
+    },
+    {
+      "rank": 60,
+      "name": "Devin Booker",
+      "entityId": "devin-booker",
+      "entityType": "player",
+      "nbaId": 1626164
+    },
+    {
+      "rank": 61,
+      "name": "Nikola Jokic",
+      "entityId": "nikola-jokic",
+      "entityType": "player",
+      "nbaId": 203999
+    },
+    {
+      "rank": 62,
+      "name": "Shai Gilgeous-Alexander",
+      "entityId": "shai-gilgeous-alexander",
+      "entityType": "player",
+      "nbaId": 1628983
+    },
+    {
+      "rank": 63,
+      "name": "Kevin Durant",
+      "entityId": "kevin-durant",
+      "entityType": "player",
+      "nbaId": 201142
+    },
+    {
+      "rank": 64,
+      "name": "Anthony Davis",
+      "entityId": "anthony-davis",
+      "entityType": "player",
+      "nbaId": 203076
+    },
+    {
+      "rank": 65,
+      "name": "LeBron James",
+      "entityId": "lebron-james",
+      "entityType": "player",
+      "nbaId": 2544
+    },
+    {
+      "rank": 66,
+      "name": "Jayson Tatum",
+      "entityId": "jayson-tatum",
+      "entityType": "player",
+      "nbaId": 1628369
+    },
+    {
+      "rank": 67,
+      "name": "Donovan Mitchell",
+      "entityId": "donovan-mitchell",
+      "entityType": "player",
+      "nbaId": 1628378
+    },
+    {
+      "rank": 68,
+      "name": "Anthony Edwards",
+      "entityId": "anthony-edwards",
+      "entityType": "player",
+      "nbaId": 1630162
+    },
+    {
+      "rank": 69,
+      "name": "Giannis Antetokounmpo",
+      "entityId": "giannis-antetokounmpo",
+      "entityType": "player",
+      "nbaId": 203507
+    },
+    {
+      "rank": 70,
+      "name": "Jimmy Butler",
+      "entityId": "jimmy-butler",
+      "entityType": "player",
+      "nbaId": 202710
+    },
+    {
+      "rank": 71,
+      "name": "Luka Doncic",
+      "entityId": "luka-doncic",
+      "entityType": "player",
+      "nbaId": 1629029
+    },
+    {
+      "rank": 72,
+      "name": "Stephen Curry",
+      "entityId": "stephen-curry",
+      "entityType": "player",
+      "nbaId": 201939
+    },
+    {
+      "rank": 73,
+      "name": "Victor Wembanyama",
+      "entityId": "victor-wembanyama",
+      "entityType": "player",
+      "nbaId": 1641705
+    },
+    {
+      "rank": 74,
+      "name": "Joel Embiid",
+      "entityId": "joel-embiid",
+      "entityType": "player",
+      "nbaId": 203954
+    },
+    {
+      "rank": 75,
+      "name": "Devin Booker",
+      "entityId": "devin-booker",
+      "entityType": "player",
+      "nbaId": 1626164
+    },
+    {
+      "rank": 76,
+      "name": "Nikola Jokic",
+      "entityId": "nikola-jokic",
+      "entityType": "player",
+      "nbaId": 203999
+    },
+    {
+      "rank": 77,
+      "name": "Shai Gilgeous-Alexander",
+      "entityId": "shai-gilgeous-alexander",
+      "entityType": "player",
+      "nbaId": 1628983
+    },
+    {
+      "rank": 78,
+      "name": "Kevin Durant",
+      "entityId": "kevin-durant",
+      "entityType": "player",
+      "nbaId": 201142
+    },
+    {
+      "rank": 79,
+      "name": "Anthony Davis",
+      "entityId": "anthony-davis",
+      "entityType": "player",
+      "nbaId": 203076
+    },
+    {
+      "rank": 80,
+      "name": "LeBron James",
+      "entityId": "lebron-james",
+      "entityType": "player",
+      "nbaId": 2544
+    },
+    {
+      "rank": 81,
+      "name": "Jayson Tatum",
+      "entityId": "jayson-tatum",
+      "entityType": "player",
+      "nbaId": 1628369
+    },
+    {
+      "rank": 82,
+      "name": "Donovan Mitchell",
+      "entityId": "donovan-mitchell",
+      "entityType": "player",
+      "nbaId": 1628378
+    },
+    {
+      "rank": 83,
+      "name": "Anthony Edwards",
+      "entityId": "anthony-edwards",
+      "entityType": "player",
+      "nbaId": 1630162
+    },
+    {
+      "rank": 84,
+      "name": "Giannis Antetokounmpo",
+      "entityId": "giannis-antetokounmpo",
+      "entityType": "player",
+      "nbaId": 203507
+    },
+    {
+      "rank": 85,
+      "name": "Jimmy Butler",
+      "entityId": "jimmy-butler",
+      "entityType": "player",
+      "nbaId": 202710
+    },
+    {
+      "rank": 86,
+      "name": "Luka Doncic",
+      "entityId": "luka-doncic",
+      "entityType": "player",
+      "nbaId": 1629029
+    },
+    {
+      "rank": 87,
+      "name": "Stephen Curry",
+      "entityId": "stephen-curry",
+      "entityType": "player",
+      "nbaId": 201939
+    },
+    {
+      "rank": 88,
+      "name": "Victor Wembanyama",
+      "entityId": "victor-wembanyama",
+      "entityType": "player",
+      "nbaId": 1641705
+    },
+    {
+      "rank": 89,
+      "name": "Joel Embiid",
+      "entityId": "joel-embiid",
+      "entityType": "player",
+      "nbaId": 203954
+    },
+    {
+      "rank": 90,
+      "name": "Devin Booker",
+      "entityId": "devin-booker",
+      "entityType": "player",
+      "nbaId": 1626164
+    },
+    {
+      "rank": 91,
+      "name": "Nikola Jokic",
+      "entityId": "nikola-jokic",
+      "entityType": "player",
+      "nbaId": 203999
+    },
+    {
+      "rank": 92,
+      "name": "Shai Gilgeous-Alexander",
+      "entityId": "shai-gilgeous-alexander",
+      "entityType": "player",
+      "nbaId": 1628983
+    },
+    {
+      "rank": 93,
+      "name": "Kevin Durant",
+      "entityId": "kevin-durant",
+      "entityType": "player",
+      "nbaId": 201142
+    },
+    {
+      "rank": 94,
+      "name": "Anthony Davis",
+      "entityId": "anthony-davis",
+      "entityType": "player",
+      "nbaId": 203076
+    },
+    {
+      "rank": 95,
+      "name": "LeBron James",
+      "entityId": "lebron-james",
+      "entityType": "player",
+      "nbaId": 2544
+    },
+    {
+      "rank": 96,
+      "name": "Jayson Tatum",
+      "entityId": "jayson-tatum",
+      "entityType": "player",
+      "nbaId": 1628369
+    },
+    {
+      "rank": 97,
+      "name": "Donovan Mitchell",
+      "entityId": "donovan-mitchell",
+      "entityType": "player",
+      "nbaId": 1628378
+    },
+    {
+      "rank": 98,
+      "name": "Anthony Edwards",
+      "entityId": "anthony-edwards",
+      "entityType": "player",
+      "nbaId": 1630162
+    },
+    {
+      "rank": 99,
+      "name": "Giannis Antetokounmpo",
+      "entityId": "giannis-antetokounmpo",
+      "entityType": "player",
+      "nbaId": 203507
+    },
+    {
+      "rank": 100,
+      "name": "Jimmy Butler",
+      "entityId": "jimmy-butler",
+      "entityType": "player",
+      "nbaId": 202710
+    }
+  ]
+}

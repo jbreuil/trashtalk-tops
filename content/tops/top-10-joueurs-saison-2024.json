@@ -1,0 +1,36 @@
+{
+  "slug": "top-10-joueurs-saison-2024",
+  "title": "Top 10 des meilleurs joueurs de la saison 2023-24",
+  "subject": "meilleurs joueurs",
+  "format": 10,
+  "temporalType": "dated",
+  "season": "2023-24",
+  "version": 1,
+  "publishedAt": "2024-06-15",
+  "videoId": "dQw4w9WgXcQ",
+  "tags": ["saison", "joueurs"],
+  "rankingAlex": [
+    { "rank": 1, "name": "Nikola Jokic", "entityId": "nikola-jokic", "entityType": "player", "nbaId": 203999, "note": "MVP incontestable" },
+    { "rank": 2, "name": "Shai Gilgeous-Alexander", "entityId": "shai-gilgeous-alexander", "entityType": "player", "nbaId": 1628983 },
+    { "rank": 3, "name": "Luka Doncic", "entityId": "luka-doncic", "entityType": "player", "nbaId": 1629029 },
+    { "rank": 4, "name": "Giannis Antetokounmpo", "entityId": "giannis-antetokounmpo", "entityType": "player", "nbaId": 203507 },
+    { "rank": 5, "name": "Jayson Tatum", "entityId": "jayson-tatum", "entityType": "player", "nbaId": 1628369 },
+    { "rank": 6, "name": "LeBron James", "entityId": "lebron-james", "entityType": "player", "nbaId": 2544 },
+    { "rank": 7, "name": "Anthony Edwards", "entityId": "anthony-edwards", "entityType": "player", "nbaId": 1630162 },
+    { "rank": 8, "name": "Kevin Durant", "entityId": "kevin-durant", "entityType": "player", "nbaId": 201142 },
+    { "rank": 9, "name": "Stephen Curry", "entityId": "stephen-curry", "entityType": "player", "nbaId": 201939 },
+    { "rank": 10, "name": "Anthony Davis", "entityId": "anthony-davis", "entityType": "player", "nbaId": 203076 }
+  ],
+  "rankingBastien": [
+    { "rank": 1, "name": "Nikola Jokic", "entityId": "nikola-jokic", "entityType": "player", "nbaId": 203999 },
+    { "rank": 2, "name": "Luka Doncic", "entityId": "luka-doncic", "entityType": "player", "nbaId": 1629029 },
+    { "rank": 3, "name": "Shai Gilgeous-Alexander", "entityId": "shai-gilgeous-alexander", "entityType": "player", "nbaId": 1628983 },
+    { "rank": 4, "name": "Giannis Antetokounmpo", "entityId": "giannis-antetokounmpo", "entityType": "player", "nbaId": 203507 },
+    { "rank": 5, "name": "LeBron James", "entityId": "lebron-james", "entityType": "player", "nbaId": 2544, "note": "Le GOAT tient encore" },
+    { "rank": 6, "name": "Jayson Tatum", "entityId": "jayson-tatum", "entityType": "player", "nbaId": 1628369 },
+    { "rank": 7, "name": "Kevin Durant", "entityId": "kevin-durant", "entityType": "player", "nbaId": 201142 },
+    { "rank": 8, "name": "Anthony Edwards", "entityId": "anthony-edwards", "entityType": "player", "nbaId": 1630162 },
+    { "rank": 9, "name": "Stephen Curry", "entityId": "stephen-curry", "entityType": "player", "nbaId": 201939 },
+    { "rank": 10, "name": "Joel Embiid", "entityId": "joel-embiid", "entityType": "player", "nbaId": 203954 }
+  ]
+}

@@ -1,0 +1,5 @@
+[
+  { "entityId": "gregg-popovich", "name": "Gregg Popovich", "type": "coach", "nbaId": 2550, "gamesPlayed": 2030 },
+  { "entityId": "erik-spoelstra", "name": "Erik Spoelstra", "type": "coach", "nbaId": 1953, "gamesPlayed": 1300 },
+  { "entityId": "joe-mazzulla", "name": "Joe Mazzulla", "type": "coach", "nbaId": 0, "gamesPlayed": 164 }
+]

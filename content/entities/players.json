@@ -1,0 +1,17 @@
+[
+  { "entityId": "lebron-james", "name": "LeBron James", "type": "player", "nbaId": 2544, "gamesPlayed": 1492 },
+  { "entityId": "stephen-curry", "name": "Stephen Curry", "type": "player", "nbaId": 201939, "gamesPlayed": 956 },
+  { "entityId": "kevin-durant", "name": "Kevin Durant", "type": "player", "nbaId": 201142, "gamesPlayed": 1062 },
+  { "entityId": "giannis-antetokounmpo", "name": "Giannis Antetokounmpo", "type": "player", "nbaId": 203507, "gamesPlayed": 822 },
+  { "entityId": "nikola-jokic", "name": "Nikola Jokic", "type": "player", "nbaId": 203999, "gamesPlayed": 710 },
+  { "entityId": "luka-doncic", "name": "Luka Doncic", "type": "player", "nbaId": 1629029, "gamesPlayed": 400 },
+  { "entityId": "jayson-tatum", "name": "Jayson Tatum", "type": "player", "nbaId": 1628369, "gamesPlayed": 550 },
+  { "entityId": "shai-gilgeous-alexander", "name": "Shai Gilgeous-Alexander", "type": "player", "nbaId": 1628983, "gamesPlayed": 420 },
+  { "entityId": "joel-embiid", "name": "Joel Embiid", "type": "player", "nbaId": 203954, "gamesPlayed": 433 },
+  { "entityId": "anthony-edwards", "name": "Anthony Edwards", "type": "player", "nbaId": 1630162, "gamesPlayed": 310 },
+  { "entityId": "victor-wembanyama", "name": "Victor Wembanyama", "type": "player", "nbaId": 1641705, "gamesPlayed": 82 },
+  { "entityId": "anthony-davis", "name": "Anthony Davis", "type": "player", "nbaId": 203076, "gamesPlayed": 750 },
+  { "entityId": "jimmy-butler", "name": "Jimmy Butler", "type": "player", "nbaId": 202710, "gamesPlayed": 850 },
+  { "entityId": "devin-booker", "name": "Devin Booker", "type": "player", "nbaId": 1626164, "gamesPlayed": 620 },
+  { "entityId": "donovan-mitchell", "name": "Donovan Mitchell", "type": "player", "nbaId": 1628378, "gamesPlayed": 510 }
+]
