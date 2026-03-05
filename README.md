@@ -4,7 +4,7 @@ A static fan-made website to browse and explore NBA rankings ("TOPs") from [Tras
 
 > **Disclaimer**: This is an unofficial, non-commercial fan project. It is not affiliated with TrashTalk, the NBA, or any team or player mentioned.
 
-![Screenshot placeholder](docs/screenshot.png)
+[**Live Demo**](https://jbreuil.github.io/trashtalk-tops/)
 
 ## Features
 
