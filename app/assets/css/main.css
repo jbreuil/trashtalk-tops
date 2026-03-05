@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-bg: theme('colors.surface.100');
+    --color-bg-soft: theme('colors.surface.0');
+    --color-bg-mute: theme('colors.surface.200');
+    --color-text: theme('colors.surface.900');
+    --color-text-soft: theme('colors.surface.600');
+    --color-border: theme('colors.surface.300');
+  }
+
+  .dark {
+    --color-bg: theme('colors.surface.950');
+    --color-bg-soft: theme('colors.surface.900');
+    --color-bg-mute: theme('colors.surface.800');
+    --color-text: theme('colors.surface.50');
+    --color-text-soft: theme('colors.surface.400');
+    --color-border: theme('colors.surface.700');
+  }
+
+  body {
+    @apply bg-[var(--color-bg)] text-[var(--color-text)] transition-colors duration-200;
+  }
+}
