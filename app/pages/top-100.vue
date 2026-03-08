@@ -73,6 +73,29 @@ function sortedEntries(ranking: RankerRanking): RankingEntry[] {
   return ascending.value ? sorted.sort((a, b) => a.rank - b.rank) : sorted.sort((a, b) => b.rank - a.rank)
 }
 
+// Embedded video state
+const activeVideoId = computed(() => {
+  if (!currentTop100.value?.segments.length)
+    return ''
+  return currentTop100.value.segments[0].videoId
+})
+const currentVideoId = ref('')
+const currentTimestamp = ref<number | undefined>()
+
+const embedUrl = computed(() => {
+  const vid = currentVideoId.value || activeVideoId.value
+  if (!vid)
+    return ''
+  const t = currentTimestamp.value ? `?start=${currentTimestamp.value}` : ''
+  return `https://www.youtube.com/embed/${vid}${t}`
+})
+
+// Reset video when version changes
+watch(currentVersionNumber, () => {
+  currentVideoId.value = activeVideoId.value
+  currentTimestamp.value = undefined
+})
+
 /** Find the video segment that contains a given rank */
 function findSegment(rank: number): Top100Segment | undefined {
   if (!currentTop100.value)
@@ -80,13 +103,21 @@ function findSegment(rank: number): Top100Segment | undefined {
   return currentTop100.value.segments.find(s => s.ranks.includes(rank))
 }
 
-function videoLinkForRank(entry: RankingEntry): string | undefined {
+function goToSegment(segment: Top100Segment) {
+  currentVideoId.value = segment.videoId
+  currentTimestamp.value = undefined
+}
+
+function goToEntry(entry: RankingEntry) {
   const segment = findSegment(entry.rank)
   if (!segment)
-    return undefined
-  if (entry.timestamp)
-    return `https://www.youtube.com/watch?v=${segment.videoId}&t=${entry.timestamp}`
-  return `https://www.youtube.com/watch?v=${segment.videoId}`
+    return
+  currentVideoId.value = segment.videoId
+  currentTimestamp.value = entry.timestamp
+}
+
+function scrollToTop() {
+  window.scrollTo({ top: 0, behavior: 'smooth' })
 }
 
 /** Build a map of entityId -> rank for diff computation */
@@ -145,23 +176,35 @@ useHead({
         @change="onVersionChange"
       />
 
+      <!-- YouTube Embed -->
+      <div class="mb-6 aspect-video overflow-hidden rounded-xl">
+        <iframe
+          :key="embedUrl"
+          :src="embedUrl"
+          class="h-full w-full"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+          loading="lazy"
+        />
+      </div>
+
       <!-- Video segments -->
       <div class="mb-6">
         <h2 class="mb-3 text-sm font-semibold uppercase tracking-wide text-[var(--color-text-soft)]">
           Segments vidéo
         </h2>
         <div class="flex flex-wrap gap-2">
-          <a
+          <button
             v-for="segment in currentTop100.segments"
             :key="segment.ranks.join('-')"
-            :href="`https://www.youtube.com/watch?v=${segment.videoId}`"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="rounded-lg border border-[var(--color-border)] px-3 py-2 text-sm
-                   transition-colors hover:border-primary-500/50 hover:text-primary-500"
+            class="rounded-lg border px-3 py-2 text-sm transition-colors"
+            :class="currentVideoId === segment.videoId || (!currentVideoId && segment === currentTop100.segments[0])
+              ? 'border-primary-500 bg-primary-500/10 text-primary-500'
+              : 'border-[var(--color-border)] hover:border-primary-500/50 hover:text-primary-500'"
+            @click="goToSegment(segment)"
           >
             #{{ segment.ranks[segment.ranks.length - 1] }}–#{{ segment.ranks[0] }}
-          </a>
+          </button>
         </div>
       </div>
 
@@ -197,13 +240,13 @@ useHead({
                 class="border-t border-[var(--color-border)] transition-colors hover:bg-[var(--color-bg-soft)]"
               >
                 <td class="w-12 py-2 text-center text-sm font-bold text-primary-500">
-                  <a
-                    v-if="videoLinkForRank(entry)"
-                    :href="videoLinkForRank(entry)"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    class="hover:underline"
-                  >{{ entry.rank }}</a>
+                  <button
+                    v-if="findSegment(entry.rank)"
+                    class="hover:underline cursor-pointer"
+                    @click="goToEntry(entry)"
+                  >
+                    {{ entry.rank }}
+                  </button>
                   <template v-else>
                     {{ entry.rank }}
                   </template>
@@ -241,7 +284,7 @@ useHead({
         <button
           class="flex items-center gap-1 rounded-lg border border-[var(--color-border)] px-3 py-2
                  text-sm text-[var(--color-text-soft)] transition-colors hover:border-primary-500/50 hover:text-primary-500"
-          @click="window.scrollTo({ top: 0, behavior: 'smooth' })"
+          @click="scrollToTop"
         >
           &uarr; Haut de page
         </button>
