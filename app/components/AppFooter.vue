@@ -35,17 +35,24 @@ const currentYear = new Date().getFullYear()
         &copy; {{ currentYear }} TrashTalk Tops
       </p>
       <p class="text-xs">
-        Pour toute demande de retrait, contactez-nous via
-        <NuxtLink to="/about" class="text-primary-500 hover:text-primary-600 underline">
-          la page À propos
-        </NuxtLink>.
-        Un bug ou une erreur ?
+        Un TOP manquant, un bug ou une erreur ?
         <a
           href="https://github.com/jbreuil/trashtalk-tops/issues"
           target="_blank"
           rel="noopener noreferrer"
           class="text-primary-500 hover:text-primary-600 underline"
-        >Ouvrir une issue</a>.
+        >Ouvrir une issue</a>
+        ou proposer un
+        <a
+          href="https://github.com/jbreuil/trashtalk-tops/pulls"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="text-primary-500 hover:text-primary-600 underline"
+        >pull request</a>.
+        Pour toute demande de retrait, voir
+        <NuxtLink to="/about" class="text-primary-500 hover:text-primary-600 underline">
+          À propos
+        </NuxtLink>.
       </p>
     </div>
   </footer>

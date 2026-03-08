@@ -27,5 +27,9 @@ logs
 .vscode/*
 !.vscode/extensions.json
 
+# Script input files
+scripts/input/**/*.csv
+
 # Claude Code
 CLAUDE.md
+PROJECT.md

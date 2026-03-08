@@ -187,8 +187,8 @@
     "entityId": "billy-donovan",
     "name": "Billy Donovan",
     "type": "coach",
-    "gamesCoached": 862,
-    "wins": 463,
+    "gamesCoached": 863,
+    "wins": 464,
     "losses": 399
   },
   {
@@ -339,9 +339,9 @@
     "entityId": "brian-keefe",
     "name": "Brian Keefe",
     "type": "coach",
-    "gamesCoached": 182,
+    "gamesCoached": 183,
     "wins": 42,
-    "losses": 140
+    "losses": 141
   },
   {
     "entityId": "brian-shaw",
@@ -451,9 +451,9 @@
     "entityId": "charles-lee",
     "name": "Charles Lee",
     "type": "coach",
-    "gamesCoached": 144,
-    "wins": 50,
-    "losses": 94
+    "gamesCoached": 146,
+    "wins": 51,
+    "losses": 95
   },
   {
     "entityId": "charles-wolf",
@@ -491,8 +491,8 @@
     "entityId": "chris-finch",
     "name": "Chris Finch",
     "type": "coach",
-    "gamesCoached": 431,
-    "wins": 248,
+    "gamesCoached": 432,
+    "wins": 249,
     "losses": 183
   },
   {
@@ -571,9 +571,9 @@
     "entityId": "darko-rajakovic",
     "name": "Darko Rajakovic",
     "type": "coach",
-    "gamesCoached": 225,
+    "gamesCoached": 226,
     "wins": 90,
-    "losses": 135
+    "losses": 136
   },
   {
     "entityId": "darrell-walker",
@@ -635,9 +635,9 @@
     "entityId": "david-adelman",
     "name": "David Adelman",
     "type": "coach",
-    "gamesCoached": 65,
-    "wins": 41,
-    "losses": 24
+    "gamesCoached": 67,
+    "wins": 42,
+    "losses": 25
   },
   {
     "entityId": "david-blatt",
@@ -739,9 +739,9 @@
     "entityId": "doc-rivers",
     "name": "Doc Rivers",
     "type": "coach",
-    "gamesCoached": 2038,
+    "gamesCoached": 2039,
     "wins": 1188,
-    "losses": 850
+    "losses": 851
   },
   {
     "entityId": "dolph-schayes",
@@ -803,9 +803,9 @@
     "entityId": "doug-christie",
     "name": "Doug Christie",
     "type": "coach",
-    "gamesCoached": 114,
+    "gamesCoached": 115,
     "wins": 41,
-    "losses": 73
+    "losses": 74
   },
   {
     "entityId": "doug-collins",
@@ -963,8 +963,8 @@
     "entityId": "erik-spoelstra",
     "name": "Erik Spoelstra",
     "type": "coach",
-    "gamesCoached": 1421,
-    "wins": 820,
+    "gamesCoached": 1423,
+    "wins": 822,
     "losses": 601
   },
   {
@@ -1227,9 +1227,9 @@
     "entityId": "ime-udoka",
     "name": "Ime Udoka",
     "type": "coach",
-    "gamesCoached": 306,
-    "wins": 182,
-    "losses": 124
+    "gamesCoached": 308,
+    "wins": 183,
+    "losses": 125
   },
   {
     "entityId": "isiah-thomas",
@@ -1243,9 +1243,9 @@
     "entityId": "j-b-bickerstaff",
     "name": "J.B. Bickerstaff",
     "type": "coach",
-    "gamesCoached": 687,
+    "gamesCoached": 688,
     "wins": 344,
-    "losses": 343
+    "losses": 344
   },
   {
     "entityId": "jack-mccloskey",
@@ -1299,25 +1299,25 @@
     "entityId": "jamahl-mosley",
     "name": "Jamahl Mosley",
     "type": "coach",
-    "gamesCoached": 388,
-    "wins": 176,
+    "gamesCoached": 389,
+    "wins": 177,
     "losses": 212
   },
   {
     "entityId": "james-borrego",
     "name": "James Borrego",
     "type": "coach",
-    "gamesCoached": 382,
-    "wins": 165,
-    "losses": 217
+    "gamesCoached": 384,
+    "wins": 166,
+    "losses": 218
   },
   {
     "entityId": "jason-kidd",
     "name": "Jason Kidd",
     "type": "coach",
-    "gamesCoached": 762,
+    "gamesCoached": 764,
     "wins": 383,
-    "losses": 379
+    "losses": 381
   },
   {
     "entityId": "jay-triano",
@@ -1483,9 +1483,9 @@
     "entityId": "jj-redick",
     "name": "JJ Redick",
     "type": "coach",
-    "gamesCoached": 143,
-    "wins": 87,
-    "losses": 56
+    "gamesCoached": 145,
+    "wins": 88,
+    "losses": 57
   },
   {
     "entityId": "joe-lapchick",
@@ -1499,9 +1499,9 @@
     "entityId": "joe-mazzulla",
     "name": "Joe Mazzulla",
     "type": "coach",
-    "gamesCoached": 307,
-    "wins": 223,
-    "losses": 84
+    "gamesCoached": 309,
+    "wins": 224,
+    "losses": 85
   },
   {
     "entityId": "joe-mullaney",
@@ -1651,17 +1651,17 @@
     "entityId": "jordan-ott",
     "name": "Jordan Ott",
     "type": "coach",
-    "gamesCoached": 61,
-    "wins": 35,
-    "losses": 26
+    "gamesCoached": 63,
+    "wins": 36,
+    "losses": 27
   },
   {
     "entityId": "jordi-fernandez-torres",
     "name": "Jordi Fernández Torres",
     "type": "coach",
-    "gamesCoached": 143,
+    "gamesCoached": 144,
     "wins": 41,
-    "losses": 102
+    "losses": 103
   },
   {
     "entityId": "k-c-jones",
@@ -1947,8 +1947,8 @@
     "entityId": "mark-daigneault",
     "name": "Mark Daigneault",
     "type": "coach",
-    "gamesCoached": 463,
-    "wins": 259,
+    "gamesCoached": 464,
+    "wins": 260,
     "losses": 204
   },
   {
@@ -2019,9 +2019,9 @@
     "entityId": "mike-brown",
     "name": "Mike Brown",
     "type": "coach",
-    "gamesCoached": 820,
-    "wins": 494,
-    "losses": 326
+    "gamesCoached": 822,
+    "wins": 495,
+    "losses": 327
   },
   {
     "entityId": "mike-budenholzer",
@@ -2123,8 +2123,8 @@
     "entityId": "mitch-johnson",
     "name": "Mitch Johnson",
     "type": "coach",
-    "gamesCoached": 138,
-    "wins": 76,
+    "gamesCoached": 140,
+    "wins": 78,
     "losses": 62
   },
   {
@@ -2195,8 +2195,8 @@
     "entityId": "nick-nurse",
     "name": "Nick Nurse",
     "type": "coach",
-    "gamesCoached": 615,
-    "wins": 331,
+    "gamesCoached": 616,
+    "wins": 332,
     "losses": 284
   },
   {
@@ -2299,8 +2299,8 @@
     "entityId": "quin-snyder",
     "name": "Quin Snyder",
     "type": "coach",
-    "gamesCoached": 883,
-    "wins": 489,
+    "gamesCoached": 884,
+    "wins": 490,
     "losses": 394
   },
   {
@@ -2419,9 +2419,9 @@
     "entityId": "rick-carlisle",
     "name": "Rick Carlisle",
     "type": "coach",
-    "gamesCoached": 1914,
+    "gamesCoached": 1916,
     "wins": 1008,
-    "losses": 906
+    "losses": 908
   },
   {
     "entityId": "rick-pitino",
@@ -2611,8 +2611,8 @@
     "entityId": "steve-kerr",
     "name": "Steve Kerr",
     "type": "coach",
-    "gamesCoached": 936,
-    "wins": 598,
+    "gamesCoached": 937,
+    "wins": 599,
     "losses": 338
   },
   {
@@ -2691,9 +2691,9 @@
     "entityId": "tiago-splitter",
     "name": "Tiago Splitter",
     "type": "coach",
-    "gamesCoached": 61,
-    "wins": 29,
-    "losses": 32
+    "gamesCoached": 63,
+    "wins": 30,
+    "losses": 33
   },
   {
     "entityId": "tim-floyd",
@@ -2779,9 +2779,9 @@
     "entityId": "tuomas-iisalo",
     "name": "Tuomas Iisalo",
     "type": "coach",
-    "gamesCoached": 69,
+    "gamesCoached": 70,
     "wins": 27,
-    "losses": 42
+    "losses": 43
   },
   {
     "entityId": "tyrone-corbin",
@@ -2795,9 +2795,9 @@
     "entityId": "tyronn-lue",
     "name": "Tyronn Lue",
     "type": "coach",
-    "gamesCoached": 671,
-    "wins": 391,
-    "losses": 280
+    "gamesCoached": 673,
+    "wins": 392,
+    "losses": 281
   },
   {
     "entityId": "vince-boryla",
@@ -2851,9 +2851,9 @@
     "entityId": "will-hardy",
     "name": "Will Hardy",
     "type": "coach",
-    "gamesCoached": 307,
-    "wins": 103,
-    "losses": 204
+    "gamesCoached": 309,
+    "wins": 104,
+    "losses": 205
   },
   {
     "entityId": "willie-green",
