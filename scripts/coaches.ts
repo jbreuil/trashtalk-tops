@@ -2,6 +2,10 @@
  * Parsing logic for Basketball Reference coaches CSV export.
  */
 
+import { slugify } from './utils'
+
+export { slugify }
+
 export interface Coach {
   entityId: string
   name: string
@@ -17,15 +21,6 @@ const COL_COACH = 1
 const COL_G = 5
 const COL_W = 6
 const COL_L = 7
-
-export function slugify(name: string): string {
-  return name
-    .normalize('NFKD')
-    .replace(/[\u0300-\u036F]/g, '') // strip accents
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-|-$/g, '')
-}
 
 export function parseCsv(content: string): Coach[] {
   const coaches: Coach[] = []
