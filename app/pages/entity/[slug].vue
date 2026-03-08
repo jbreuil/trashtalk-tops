@@ -35,17 +35,46 @@ const typeLabels: Record<string, string> = {
 }
 
 // Collect all TOP appearances for this entity across all files (all versions)
+interface RankerAppearance {
+  ranker: string
+  rank: number
+  context?: string
+}
+
 interface TopAppearance {
   top: Top | Top100
   topTitle: string
   topSlug: string
   topVersion: number
-  ranker: string
-  rank: number
-  context?: string
+  rankerAppearances: RankerAppearance[]
   publishedAt: string
   isTop100: boolean
-  deduplicated: boolean
+  deduplicated: boolean // true only when a single ranker has the entity multiple times
+}
+
+function collectAppearances(
+  rankings: Top['rankings'],
+  targetEntityId: string,
+): { rankerAppearances: RankerAppearance[], deduplicated: boolean } {
+  const rankerAppearances: RankerAppearance[] = []
+  for (const ranking of rankings) {
+    for (const entry of ranking.entries) {
+      if (entry.entities?.some(e => e.entityId === targetEntityId)) {
+        rankerAppearances.push({
+          ranker: ranking.ranker,
+          rank: entry.rank,
+          context: entry.context,
+        })
+      }
+    }
+  }
+  // Deduplicate only when a single ranker has the entity multiple times
+  const countByRanker = new Map<string, number>()
+  for (const ra of rankerAppearances) {
+    countByRanker.set(ra.ranker, (countByRanker.get(ra.ranker) ?? 0) + 1)
+  }
+  const deduplicated = [...countByRanker.values()].some(c => c > 1)
+  return { rankerAppearances, deduplicated }
 }
 
 const allAppearances = computed<TopAppearance[]>(() => {
@@ -53,94 +82,36 @@ const allAppearances = computed<TopAppearance[]>(() => {
 
   // Standard TOPs
   for (const top of getAllTopFiles()) {
-    // Check if entity appears more than once across all rankings in this TOP
-    let totalAppearances = 0
-    for (const ranking of top.rankings) {
-      for (const entry of ranking.entries) {
-        if (entry.entities?.some(e => e.entityId === entityId))
-          totalAppearances++
-      }
-    }
-
-    if (totalAppearances > 1) {
-      // Deduplicated: show once with no rank
-      appearances.push({
-        top,
-        topTitle: top.title,
-        topSlug: top.slug,
-        topVersion: top.version,
-        ranker: '',
-        rank: 0,
-        publishedAt: top.publishedAt,
-        isTop100: false,
-        deduplicated: true,
-      })
-    }
-    else {
-      // Normal: show with rank and ranker
-      for (const ranking of top.rankings) {
-        for (const entry of ranking.entries) {
-          if (entry.entities?.some(e => e.entityId === entityId)) {
-            appearances.push({
-              top,
-              topTitle: top.title,
-              topSlug: top.slug,
-              topVersion: top.version,
-              ranker: ranking.ranker,
-              rank: entry.rank,
-              context: entry.context,
-              publishedAt: top.publishedAt,
-              isTop100: false,
-              deduplicated: false,
-            })
-          }
-        }
-      }
-    }
+    const { rankerAppearances, deduplicated } = collectAppearances(top.rankings, entityId)
+    if (rankerAppearances.length === 0)
+      continue
+    appearances.push({
+      top,
+      topTitle: top.title,
+      topSlug: top.slug,
+      topVersion: top.version,
+      rankerAppearances,
+      publishedAt: top.publishedAt,
+      isTop100: false,
+      deduplicated,
+    })
   }
 
   // Top 100
   for (const top100 of getAllTop100()) {
-    let totalAppearances = 0
-    for (const ranking of top100.rankings) {
-      for (const entry of ranking.entries) {
-        if (entry.entities?.some(e => e.entityId === entityId))
-          totalAppearances++
-      }
-    }
-
-    if (totalAppearances > 1) {
-      appearances.push({
-        top: top100,
-        topTitle: `Top 100 All-Time`,
-        topSlug: top100.slug,
-        topVersion: top100.version,
-        ranker: '',
-        rank: 0,
-        publishedAt: `${top100.publishedYear}-01-01`,
-        isTop100: true,
-        deduplicated: true,
-      })
-    }
-    else {
-      for (const ranking of top100.rankings) {
-        for (const entry of ranking.entries) {
-          if (entry.entities?.some(e => e.entityId === entityId)) {
-            appearances.push({
-              top: top100,
-              topTitle: `Top 100 All-Time`,
-              topSlug: top100.slug,
-              topVersion: top100.version,
-              ranker: ranking.ranker,
-              rank: entry.rank,
-              publishedAt: `${top100.publishedYear}-01-01`,
-              isTop100: true,
-              deduplicated: false,
-            })
-          }
-        }
-      }
-    }
+    const { rankerAppearances, deduplicated } = collectAppearances(top100.rankings, entityId)
+    if (rankerAppearances.length === 0)
+      continue
+    appearances.push({
+      top: top100,
+      topTitle: `Top 100 All-Time`,
+      topSlug: top100.slug,
+      topVersion: top100.version,
+      rankerAppearances,
+      publishedAt: `${top100.publishedYear}-01-01`,
+      isTop100: true,
+      deduplicated,
+    })
   }
 
   return appearances
@@ -155,7 +126,10 @@ const sortedAppearances = computed(() => {
     items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt))
   }
   else {
-    items.sort((a, b) => a.rank - b.rank)
+    // Sort by best (lowest) rank across all ranker appearances
+    const bestRank = (app: TopAppearance) =>
+      app.deduplicated ? Infinity : Math.min(...app.rankerAppearances.map(ra => ra.rank))
+    items.sort((a, b) => bestRank(a) - bestRank(b))
   }
   return items
 })
@@ -265,7 +239,7 @@ useHead({
       <div v-else class="space-y-2">
         <NuxtLink
           v-for="(app, idx) in sortedAppearances"
-          :key="`${app.topSlug}-${app.topVersion}-${app.ranker}-${idx}`"
+          :key="`${app.topSlug}-${app.topVersion}-${idx}`"
           :to="app.isTop100 ? '/top-100' : `/tops/${app.topSlug}?v=${app.topVersion}`"
           class="flex items-center justify-between rounded-xl border border-[var(--color-border)] p-3
                  transition-all hover:border-primary-500/50 hover:shadow-md hover:shadow-primary-500/5"
@@ -276,18 +250,24 @@ useHead({
             </h3>
             <div class="mt-0.5 flex items-center gap-2 text-xs text-[var(--color-text-soft)]">
               <span>{{ app.publishedAt }}</span>
-              <span v-if="!app.deduplicated && app.ranker" class="capitalize">{{ app.ranker }}</span>
-              <span v-if="app.context">({{ app.context }})</span>
               <span v-if="app.topVersion > 1">v{{ app.topVersion }}</span>
             </div>
           </div>
-          <div
-            v-if="!app.deduplicated"
-            class="ml-4 flex h-10 w-10 shrink-0 items-center justify-center rounded-full
-                   bg-primary-500/10 text-sm font-bold text-primary-600 dark:text-primary-400"
-            :class="{ 'blur-md select-none': spoilerOn }"
-          >
-            #{{ app.rank }}
+          <div v-if="!app.deduplicated" class="ml-4 flex min-w-28 shrink-0 flex-col gap-1">
+            <div
+              v-for="ra in app.rankerAppearances"
+              :key="ra.ranker"
+              class="flex items-center justify-between"
+              :class="{ 'blur-md select-none': spoilerOn }"
+            >
+              <span class="text-xs text-[var(--color-text-soft)]">{{ ra.ranker }}<template v-if="ra.context"> ({{ ra.context }})</template></span>
+              <span
+                class="flex h-7 w-7 items-center justify-center rounded-full
+                       bg-primary-500/10 text-xs font-bold text-primary-600 dark:text-primary-400"
+              >
+                {{ ra.rank }}
+              </span>
+            </div>
           </div>
         </NuxtLink>
       </div>
