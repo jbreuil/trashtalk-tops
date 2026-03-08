@@ -1,0 +1,229 @@
+{
+  "slug": "les-shooteurs",
+  "title": "NBA Top 10 All-Time (2021-22) : les shooteurs",
+  "subject": "les shooteurs",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 2,
+  "publishedAt": "2021-12-27",
+  "videoId": "m14hNm5A4IQ",
+  "tags": [
+    "shoots",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "STEPHEN CURRY",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "KLAY THOMPSON",
+          "entities": [
+            {
+              "entityId": "klay-thompson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "LARRY BIRD",
+          "entities": [
+            {
+              "entityId": "larry-bird",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "DIRK NOWITZKI",
+          "entities": [
+            {
+              "entityId": "dirk-nowitzki",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "KEVIN DURANT",
+          "entities": [
+            {
+              "entityId": "kevin-durant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "RAY ALLEN",
+          "entities": [
+            {
+              "entityId": "ray-allen",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "REGGIE MILLER",
+          "entities": [
+            {
+              "entityId": "reggie-miller",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "STEVE NASH",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "PEJA STOJAKOVIC",
+          "entities": [
+            {
+              "entityId": "peja-stojakovic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "MARK PRICE",
+          "entities": [
+            {
+              "entityId": "mark-price",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "STEPHEN CURRY",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "DIRK NOWITZKI",
+          "entities": [
+            {
+              "entityId": "dirk-nowitzki",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "RAY ALLEN",
+          "entities": [
+            {
+              "entityId": "ray-allen",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "KEVIN DURANT",
+          "entities": [
+            {
+              "entityId": "kevin-durant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "LARRY BIRD",
+          "entities": [
+            {
+              "entityId": "larry-bird",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "REGGIE MILLER",
+          "entities": [
+            {
+              "entityId": "reggie-miller",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "KLAY THOMPSON",
+          "entities": [
+            {
+              "entityId": "klay-thompson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "STEVE NASH",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "PEJA STOJAKOVIC",
+          "entities": [
+            {
+              "entityId": "peja-stojakovic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "KYRIE IRVING",
+          "entities": [
+            {
+              "entityId": "kyrie-irving",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

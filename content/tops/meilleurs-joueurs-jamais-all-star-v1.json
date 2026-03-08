@@ -1,0 +1,229 @@
+{
+  "slug": "meilleurs-joueurs-jamais-all-star",
+  "title": "Top 10 meilleurs joueurs jamais All-Star",
+  "subject": "meilleurs joueurs jamais All-Star",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2018-03-26",
+  "videoId": "w9zgOviV4LE",
+  "tags": [
+    "all-time",
+    "all-star-game"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "ROD STRICKLAND",
+          "entities": [
+            {
+              "entityId": "rod-strickland",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "EDDIE JOHNSON",
+          "entities": [
+            {
+              "entityId": "eddie-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "PURVIS SHORT",
+          "entities": [
+            {
+              "entityId": "purvis-short",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "RON HARPER",
+          "entities": [
+            {
+              "entityId": "ron-harper",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "CEDRIC MAXWELL",
+          "entities": [
+            {
+              "entityId": "cedric-maxwell",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "JASON TERRY",
+          "entities": [
+            {
+              "entityId": "jason-terry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "MIKE BIBBY",
+          "entities": [
+            {
+              "entityId": "mike-bibby",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "MIKE CONLEY",
+          "entities": [
+            {
+              "entityId": "mike-conley",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "JALEN ROSE",
+          "entities": [
+            {
+              "entityId": "jalen-rose",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "STEPHEN JACKSON",
+          "entities": [
+            {
+              "entityId": "stephen-jackson",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "ROD STRICKLAND",
+          "entities": [
+            {
+              "entityId": "rod-strickland",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "HAPPY HAIRSTON",
+          "entities": [
+            {
+              "entityId": "happy-hairston",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "EDDIE JOHNSON",
+          "entities": [
+            {
+              "entityId": "eddie-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "MIKE BIBBY",
+          "entities": [
+            {
+              "entityId": "mike-bibby",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "RON HARPER",
+          "entities": [
+            {
+              "entityId": "ron-harper",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "JALEN ROSE",
+          "entities": [
+            {
+              "entityId": "jalen-rose",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "PURVIS SHORT",
+          "entities": [
+            {
+              "entityId": "purvis-short",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "LAMAR ODOM",
+          "entities": [
+            {
+              "entityId": "lamar-odom",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "DEREK HARPER",
+          "entities": [
+            {
+              "entityId": "derek-harper",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "DRAZEN PETROVIC",
+          "entities": [
+            {
+              "entityId": "drazen-petrovic",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

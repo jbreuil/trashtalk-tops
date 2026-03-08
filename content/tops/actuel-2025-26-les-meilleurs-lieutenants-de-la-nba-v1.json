@@ -1,0 +1,229 @@
+{
+  "slug": "actuel-2025-26-les-meilleurs-lieutenants-de-la-nba",
+  "title": "NBA Top 10 actuel (2025-26) : les meilleurs lieutenants de la NBA !",
+  "subject": "actuel (2025-26) : les meilleurs lieutenants de la NBA",
+  "format": 10,
+  "temporalType": "dated",
+  "season": "2025-26",
+  "version": 1,
+  "publishedAt": "2026-02-23",
+  "videoId": "UrMg3-YBH04",
+  "tags": [
+    "lieutenant",
+    "saison"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Jaylen Brown",
+          "entities": [
+            {
+              "entityId": "jaylen-brown",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Anthony Davis",
+          "entities": [
+            {
+              "entityId": "anthony-davis",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Kyrie Irving",
+          "entities": [
+            {
+              "entityId": "kyrie-irving",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Derrick White",
+          "entities": [
+            {
+              "entityId": "derrick-white",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Bam Adebayo",
+          "entities": [
+            {
+              "entityId": "bam-adebayo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Alperen Sengun",
+          "entities": [
+            {
+              "entityId": "alperen-sengun",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Jamal Murray",
+          "entities": [
+            {
+              "entityId": "jamal-murray",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Scottie Barnes",
+          "entities": [
+            {
+              "entityId": "scottie-barnes",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Mikal Bridges",
+          "entities": [
+            {
+              "entityId": "mikal-bridges",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Evan Mobley",
+          "entities": [
+            {
+              "entityId": "evan-mobley",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Anthony Davis",
+          "entities": [
+            {
+              "entityId": "anthony-davis",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Jaylen Brown",
+          "entities": [
+            {
+              "entityId": "jaylen-brown",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Kyrie Irving",
+          "entities": [
+            {
+              "entityId": "kyrie-irving",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Bam Adebayo",
+          "entities": [
+            {
+              "entityId": "bam-adebayo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Derrick White",
+          "entities": [
+            {
+              "entityId": "derrick-white",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Jamal Murray",
+          "entities": [
+            {
+              "entityId": "jamal-murray",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Scottie Barnes",
+          "entities": [
+            {
+              "entityId": "scottie-barnes",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Alperen Sengun",
+          "entities": [
+            {
+              "entityId": "alperen-sengun",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Evan Mobley",
+          "entities": [
+            {
+              "entityId": "evan-mobley",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Khris Middleton",
+          "entities": [
+            {
+              "entityId": "khris-middleton",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

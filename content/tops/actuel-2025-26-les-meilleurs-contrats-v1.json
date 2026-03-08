@@ -1,0 +1,229 @@
+{
+  "slug": "actuel-2025-26-les-meilleurs-contrats",
+  "title": "NBA Top 10 actuel (2025-26) : les meilleurs contrats",
+  "subject": "actuel (2025-26) : les meilleurs contrats",
+  "format": 10,
+  "temporalType": "dated",
+  "season": "2025-26",
+  "version": 1,
+  "publishedAt": "2025-11-24",
+  "videoId": "m_Te2mi9W0M",
+  "tags": [
+    "contrats",
+    "saison"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Alperen Sengun",
+          "entities": [
+            {
+              "entityId": "alperen-sengun",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Jalen Brunson",
+          "entities": [
+            {
+              "entityId": "jalen-brunson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Ivica Zubac",
+          "entities": [
+            {
+              "entityId": "ivica-zubac",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Payton Pritchard",
+          "entities": [
+            {
+              "entityId": "payton-pritchard",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Deni Avdija",
+          "entities": [
+            {
+              "entityId": "deni-avdija",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Josh Giddey",
+          "entities": [
+            {
+              "entityId": "josh-giddey",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Austin Reaves",
+          "entities": [
+            {
+              "entityId": "austin-reaves",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Jalen Johnson",
+          "entities": [
+            {
+              "entityId": "jalen-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Aaron Nesmith",
+          "entities": [
+            {
+              "entityId": "aaron-nesmith",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Aaron Wiggins",
+          "entities": [
+            {
+              "entityId": "aaron-wiggins",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Jalen Brunson",
+          "entities": [
+            {
+              "entityId": "jalen-brunson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Alperen Sengun",
+          "entities": [
+            {
+              "entityId": "alperen-sengun",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Ivica Zubac",
+          "entities": [
+            {
+              "entityId": "ivica-zubac",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Deni Avdija",
+          "entities": [
+            {
+              "entityId": "deni-avdija",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Payton Pritchard",
+          "entities": [
+            {
+              "entityId": "payton-pritchard",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Jalen Johnson",
+          "entities": [
+            {
+              "entityId": "jalen-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Trey Murphy",
+          "entities": [
+            {
+              "entityId": "trey-murphy-iii",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Isaiah Stewart",
+          "entities": [
+            {
+              "entityId": "isaiah-stewart",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Aaron Wiggins",
+          "entities": [
+            {
+              "entityId": "aaron-wiggins",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Luke Kornet",
+          "entities": [
+            {
+              "entityId": "luke-kornet",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "slug": "meilleurs-internationaux-all-time",
+  "title": "Top 10 Meilleurs Internationaux All-Time",
+  "subject": "Meilleurs Internationaux All-Time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2017-10-30",
+  "videoId": "zhUUIbZ5gFk",
+  "tags": [
+    "all-time",
+    "international"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Dirk Nowitzki",
+          "entities": [
+            {
+              "entityId": "dirk-nowitzki",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Manu Ginobili",
+          "entities": [
+            {
+              "entityId": "manu-ginobili",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Pau Gasol",
+          "entities": [
+            {
+              "entityId": "pau-gasol",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Tony Parker",
+          "entities": [
+            {
+              "entityId": "tony-parker",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Steve Nash",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Dikembe Mutombo",
+          "entities": [
+            {
+              "entityId": "dikembe-mutombo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Yao Ming",
+          "entities": [
+            {
+              "entityId": "yao-ming",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Peja Stojakovic",
+          "entities": [
+            {
+              "entityId": "peja-stojakovic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Toni Kukoc",
+          "entities": [
+            {
+              "entityId": "toni-kukoc",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Marc Gasol",
+          "entities": [
+            {
+              "entityId": "marc-gasol",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Dirk Nowitzki",
+          "entities": [
+            {
+              "entityId": "dirk-nowitzki",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Pau Gasol",
+          "entities": [
+            {
+              "entityId": "pau-gasol",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Steve Nash",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Tony Parker",
+          "entities": [
+            {
+              "entityId": "tony-parker",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Manu Ginobili",
+          "entities": [
+            {
+              "entityId": "manu-ginobili",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Yao Ming",
+          "entities": [
+            {
+              "entityId": "yao-ming",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Dikembe Mutombo",
+          "entities": [
+            {
+              "entityId": "dikembe-mutombo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Peja Stojakovic",
+          "entities": [
+            {
+              "entityId": "peja-stojakovic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Detlef Schrempf",
+          "entities": [
+            {
+              "entityId": "detlef-schrempf",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Toni Kukoc",
+          "entities": [
+            {
+              "entityId": "toni-kukoc",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

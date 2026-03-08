@@ -1,0 +1,257 @@
+{
+  "slug": "moments-de-kobe-bryant",
+  "title": "Top 10 Moments de Kobe Bryant",
+  "subject": "Moments de Kobe Bryant",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2017-12-18",
+  "videoId": "_cHk9BdSJaY",
+  "tags": [
+    "moments",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "81 Points",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "62 Points",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Dernier Match",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Tendon d'Achille",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Série à 50 Points",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Bague 2009",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Suns Buzzer",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            },
+            {
+              "entityId": "phoenix-suns",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Portland Killer",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            },
+            {
+              "entityId": "portland-trail-blazers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Ben Wallace Poster",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            },
+            {
+              "entityId": "ben-wallace",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Game 4 Finals 2000",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            },
+            {
+              "entityId": "indiana-pacers",
+              "entityType": "team"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Bague 2009",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "81 Points",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Tendon d'Achille",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Février 2003",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "62 Points",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Dernier Match",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "360 Denver",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Game 4 Finales 2000",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            },
+            {
+              "entityId": "indiana-pacers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Bye-Bye Jordan",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            },
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Matt Barnes",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            },
+            {
+              "entityId": "matt-barnes",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

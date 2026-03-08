@@ -1,12 +1,14 @@
 import type { Entity } from '~/types'
 
 import coachesData from '~/../content/entities/coaches.json'
+import gmsData from '~/../content/entities/gms.json'
 import playersData from '~/../content/entities/players.json'
 import teamsData from '~/../content/entities/teams.json'
 
 const allEntities: Entity[] = [
   ...(playersData as Entity[]),
   ...(coachesData as Entity[]),
+  ...(gmsData as Entity[]),
   ...(teamsData as Entity[]),
 ]
 

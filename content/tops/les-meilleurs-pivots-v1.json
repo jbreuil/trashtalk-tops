@@ -1,0 +1,249 @@
+{
+  "slug": "les-meilleurs-pivots",
+  "title": "Apéro TrashTalk #22 - Top 10 Pivots All-Time",
+  "subject": "Pivots All-Time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2016-02-29",
+  "videoId": "kJQMngfXFZI",
+  "tags": [
+    "pivot",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Kareem Abdul-Jabbar",
+          "entities": [
+            {
+              "entityId": "kareem-abdul-jabbar",
+              "entityType": "player",
+              "nbaId": 76003
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Shaquille O'Neal",
+          "entities": [
+            {
+              "entityId": "shaquille-o-neal",
+              "entityType": "player",
+              "nbaId": 406
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Hakeem Olajuwon",
+          "entities": [
+            {
+              "entityId": "hakeem-olajuwon",
+              "entityType": "player",
+              "nbaId": 165
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Bill Russell",
+          "entities": [
+            {
+              "entityId": "bill-russell",
+              "entityType": "player",
+              "nbaId": 78049
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Wilt Chamberlain",
+          "entities": [
+            {
+              "entityId": "wilt-chamberlain",
+              "entityType": "player",
+              "nbaId": 76375
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Moses Malone",
+          "entities": [
+            {
+              "entityId": "moses-malone",
+              "entityType": "player",
+              "nbaId": 77449
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Wes Unseld",
+          "entities": [
+            {
+              "entityId": "wes-unseld",
+              "entityType": "player",
+              "nbaId": 78392
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "David Robinson",
+          "entities": [
+            {
+              "entityId": "david-robinson",
+              "entityType": "player",
+              "nbaId": 764
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Patrick Ewing",
+          "entities": [
+            {
+              "entityId": "patrick-ewing",
+              "entityType": "player",
+              "nbaId": 201607
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Robert Parish",
+          "entities": [
+            {
+              "entityId": "robert-parish",
+              "entityType": "player",
+              "nbaId": 305
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Kareem Abdul-Jabbar",
+          "entities": [
+            {
+              "entityId": "kareem-abdul-jabbar",
+              "entityType": "player",
+              "nbaId": 76003
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Hakeem Olajuwon",
+          "entities": [
+            {
+              "entityId": "hakeem-olajuwon",
+              "entityType": "player",
+              "nbaId": 165
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Shaquille O'Neal",
+          "entities": [
+            {
+              "entityId": "shaquille-o-neal",
+              "entityType": "player",
+              "nbaId": 406
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Wilt Chamberlain",
+          "entities": [
+            {
+              "entityId": "wilt-chamberlain",
+              "entityType": "player",
+              "nbaId": 76375
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Bill Russell",
+          "entities": [
+            {
+              "entityId": "bill-russell",
+              "entityType": "player",
+              "nbaId": 78049
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Moses Malone",
+          "entities": [
+            {
+              "entityId": "moses-malone",
+              "entityType": "player",
+              "nbaId": 77449
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "David Robinson",
+          "entities": [
+            {
+              "entityId": "david-robinson",
+              "entityType": "player",
+              "nbaId": 764
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Wes Unseld",
+          "entities": [
+            {
+              "entityId": "wes-unseld",
+              "entityType": "player",
+              "nbaId": 78392
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Patrick Ewing",
+          "entities": [
+            {
+              "entityId": "patrick-ewing",
+              "entityType": "player",
+              "nbaId": 201607
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Willis Reed",
+          "entities": [
+            {
+              "entityId": "willis-reed",
+              "entityType": "player",
+              "nbaId": 77929
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "slug": "meilleurs-contreurs-all-time",
+  "title": "Top 10 meilleurs contreurs all-time",
+  "subject": "meilleurs contreurs all-time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2018-03-19",
+  "videoId": "s3kaHNcOt68",
+  "tags": [
+    "blocks",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "BILL RUSSELL",
+          "entities": [
+            {
+              "entityId": "bill-russell",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "DIKEMBE MUTOMBO",
+          "entities": [
+            {
+              "entityId": "dikembe-mutombo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "HAKEEM OLAJUWON",
+          "entities": [
+            {
+              "entityId": "hakeem-olajuwon",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "ALONZO MOURNING",
+          "entities": [
+            {
+              "entityId": "alonzo-mourning",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "WILT CHAMBERLAIN",
+          "entities": [
+            {
+              "entityId": "wilt-chamberlain",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "BEN WALLACE",
+          "entities": [
+            {
+              "entityId": "ben-wallace",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "DAVID ROBINSON",
+          "entities": [
+            {
+              "entityId": "david-robinson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "MARK EATON",
+          "entities": [
+            {
+              "entityId": "mark-eaton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "TIM DUNCAN",
+          "entities": [
+            {
+              "entityId": "tim-duncan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "WADE - LEBRON",
+          "entities": [
+            {
+              "entityId": "dwyane-wade",
+              "entityType": "player"
+            },
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "HAKEEM OLAJUWON",
+          "entities": [
+            {
+              "entityId": "hakeem-olajuwon",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "WILT CHAMBERLAIN",
+          "entities": [
+            {
+              "entityId": "wilt-chamberlain",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "DIKEMBE MUTOMBO",
+          "entities": [
+            {
+              "entityId": "dikembe-mutombo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "BILL RUSSELL",
+          "entities": [
+            {
+              "entityId": "bill-russell",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "ALONZO MOURNING",
+          "entities": [
+            {
+              "entityId": "alonzo-mourning",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "DAVID ROBINSON",
+          "entities": [
+            {
+              "entityId": "david-robinson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "BEN WALLACE",
+          "entities": [
+            {
+              "entityId": "ben-wallace",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "KAREEM ABDUL JABBAR",
+          "entities": [
+            {
+              "entityId": "kareem-abdul-jabbar",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "MARK EATON",
+          "entities": [
+            {
+              "entityId": "mark-eaton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "PAT EWING",
+          "entities": [
+            {
+              "entityId": "patrick-ewing",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

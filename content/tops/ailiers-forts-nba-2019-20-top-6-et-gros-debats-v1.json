@@ -1,0 +1,161 @@
+{
+  "slug": "ailiers-forts-nba-2019-20-top-6-et-gros-debats",
+  "title": "Le Grand Apéro des ailiers-forts NBA 2019-20 : Top 6 et gros débats !",
+  "subject": "ailiers-forts NBA 2019-20 : Top 6 et gros débats",
+  "format": 6,
+  "temporalType": "dated",
+  "season": "2019-20",
+  "version": 1,
+  "publishedAt": "2020-05-25",
+  "videoId": "5yjsI04Ue_4",
+  "tags": [
+    "ailier-fort",
+    "saison"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Giannis Antetokounmpo",
+          "entities": [
+            {
+              "entityId": "giannis-antetokounmpo",
+              "entityType": "player",
+              "nbaId": 203507
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Anthony Davis",
+          "entities": [
+            {
+              "entityId": "anthony-davis",
+              "entityType": "player",
+              "nbaId": 203076
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Pascal Siakam",
+          "entities": [
+            {
+              "entityId": "pascal-siakam",
+              "entityType": "player",
+              "nbaId": 1627783
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Domantas Sabonis",
+          "entities": [
+            {
+              "entityId": "domantas-sabonis",
+              "entityType": "player",
+              "nbaId": 1627734
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Tobias Harris",
+          "entities": [
+            {
+              "entityId": "tobias-harris",
+              "entityType": "player",
+              "nbaId": 202699
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "John Collins",
+          "entities": [
+            {
+              "entityId": "john-collins",
+              "entityType": "player",
+              "nbaId": 1628381
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Giannis Antetokounmpo",
+          "entities": [
+            {
+              "entityId": "giannis-antetokounmpo",
+              "entityType": "player",
+              "nbaId": 203507
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Anthony Davis",
+          "entities": [
+            {
+              "entityId": "anthony-davis",
+              "entityType": "player",
+              "nbaId": 203076
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Pascal Siakam",
+          "entities": [
+            {
+              "entityId": "pascal-siakam",
+              "entityType": "player",
+              "nbaId": 1627783
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Domantas Sabonis",
+          "entities": [
+            {
+              "entityId": "domantas-sabonis",
+              "entityType": "player",
+              "nbaId": 1627734
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Tobias Harris",
+          "entities": [
+            {
+              "entityId": "tobias-harris",
+              "entityType": "player",
+              "nbaId": 202699
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Zion Williamson",
+          "entities": [
+            {
+              "entityId": "zion-williamson",
+              "entityType": "player",
+              "nbaId": 1629627
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

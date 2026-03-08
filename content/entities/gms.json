@@ -1,0 +1,26 @@
+[
+  {
+    "entityId": "bob-myers",
+    "name": "Bob Myers",
+    "type": "gm",
+    "team": "Golden State Warriors"
+  },
+  {
+    "entityId": "donnie-nelson",
+    "name": "Donnie Nelson",
+    "type": "gm",
+    "team": "Dallas Mavericks"
+  },
+  {
+    "entityId": "jerry-krause",
+    "name": "Jerry Krause",
+    "type": "gm",
+    "team": "Chicago Bulls"
+  },
+  {
+    "entityId": "rc-buford",
+    "name": "R.C. Buford",
+    "type": "gm",
+    "team": "San Antonio Spurs"
+  }
+]

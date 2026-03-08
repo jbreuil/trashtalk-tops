@@ -1,0 +1,229 @@
+{
+  "slug": "game-winners-au-buzzer",
+  "title": "NBA Top 10 All-Time (2021-22) : game winners au buzzer",
+  "subject": "game winners au buzzer",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2022-02-28",
+  "videoId": "SEdrRRv1uZU",
+  "tags": [
+    "game-winners",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "KAWHI SIXERS",
+          "entities": [
+            {
+              "entityId": "kawhi-leonard",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "JORDAN THE SHOT",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "LILLARD OKC",
+          "entities": [
+            {
+              "entityId": "damian-lillard",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "HORRY KINGS",
+          "entities": [
+            {
+              "entityId": "robert-horry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "FISHER 0.4",
+          "entities": [
+            {
+              "entityId": "derek-fisher",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "WESTBROOK DENVER",
+          "entities": [
+            {
+              "entityId": "russell-westbrook",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "SAMPSON LAKERS",
+          "entities": [
+            {
+              "entityId": "ralph-sampson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "LEBRONTO",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "KOBE PORTLAND",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "JORDAN UTAH",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "KAWHI SIXERS",
+          "entities": [
+            {
+              "entityId": "kawhi-leonard",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "JORDAN THE SHOT",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "LILLARD ROCKETS",
+          "entities": [
+            {
+              "entityId": "damian-lillard",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "HORRY KINGS",
+          "entities": [
+            {
+              "entityId": "robert-horry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "FISHER 0.4",
+          "entities": [
+            {
+              "entityId": "derek-fisher",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "LILLARD THUNDER",
+          "entities": [
+            {
+              "entityId": "damian-lillard",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "LEBRON MAGIC",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "KOBE HEAT",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "J. GREEN HEAT",
+          "entities": [
+            {
+              "entityId": "jeff-green",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "B-ROY ROCKETS",
+          "entities": [
+            {
+              "entityId": "brandon-roy",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

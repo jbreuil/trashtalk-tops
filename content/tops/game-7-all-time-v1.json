@@ -1,0 +1,309 @@
+{
+  "slug": "game-7-all-time",
+  "title": "Top 10 Game 7 All-Time",
+  "subject": "Game 7 All-Time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2018-05-07",
+  "videoId": "XyTJMWNOdxQ",
+  "tags": [
+    "all-time",
+    "game-7"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "CAVS - WARRIORS 2016",
+          "entities": [
+            {
+              "entityId": "cleveland-cavaliers",
+              "entityType": "team"
+            },
+            {
+              "entityId": "golden-state-warriors",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "LAKERS - CELTICS 1984",
+          "entities": [
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            },
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "LAKERS - PISTONS 1988",
+          "entities": [
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            },
+            {
+              "entityId": "detroit-pistons",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "CELTICS - CAVS 2008",
+          "entities": [
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            },
+            {
+              "entityId": "cleveland-cavaliers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "CELTICS - SIXERS 1981",
+          "entities": [
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            },
+            {
+              "entityId": "philadelphia-76ers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "SPURS - MAVS 2006",
+          "entities": [
+            {
+              "entityId": "san-antonio-spurs",
+              "entityType": "team"
+            },
+            {
+              "entityId": "dallas-mavericks",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "HEAT - SPURS 2013",
+          "entities": [
+            {
+              "entityId": "miami-heat",
+              "entityType": "team"
+            },
+            {
+              "entityId": "san-antonio-spurs",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "BULLS - PACERS 1998",
+          "entities": [
+            {
+              "entityId": "chicago-bulls",
+              "entityType": "team"
+            },
+            {
+              "entityId": "indiana-pacers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "KNICKS - LAKERS 1970",
+          "entities": [
+            {
+              "entityId": "new-york-knicks",
+              "entityType": "team"
+            },
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "CELTICS - LAKERS 1969",
+          "entities": [
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            },
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "LAKERS - PISTONS 1988",
+          "entities": [
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            },
+            {
+              "entityId": "detroit-pistons",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "CAVS - WARRIORS 2016",
+          "entities": [
+            {
+              "entityId": "cleveland-cavaliers",
+              "entityType": "team"
+            },
+            {
+              "entityId": "golden-state-warriors",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "KNICKS - LAKERS 1970",
+          "entities": [
+            {
+              "entityId": "new-york-knicks",
+              "entityType": "team"
+            },
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "CELTICS - CAVS 2008",
+          "entities": [
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            },
+            {
+              "entityId": "cleveland-cavaliers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "KINGS - LAKERS 2002",
+          "entities": [
+            {
+              "entityId": "sacramento-kings",
+              "entityType": "team"
+            },
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "LAKERS - CELTICS 1984",
+          "entities": [
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            },
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "CELTICS - SIXERS 1981",
+          "entities": [
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            },
+            {
+              "entityId": "philadelphia-76ers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "CELTICS - LAKERS 1969",
+          "entities": [
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            },
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "CLIPPERS - SPURS 2015",
+          "entities": [
+            {
+              "entityId": "los-angeles-clippers",
+              "entityType": "team"
+            },
+            {
+              "entityId": "san-antonio-spurs",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "ROCKETS - SUNS 1995",
+          "entities": [
+            {
+              "entityId": "houston-rockets",
+              "entityType": "team"
+            },
+            {
+              "entityId": "phoenix-suns",
+              "entityType": "team"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

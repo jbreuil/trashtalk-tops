@@ -1,22 +1,10 @@
 import type { Top, Top100 } from '~/types'
 
-import top100AllTimeV1 from '~/../content/top100/top-100-all-time-v1.json'
-// Static imports — one file per version (flat model)
-import meneursAllTimeV1 from '~/../content/tops/meilleurs-meneurs-all-time-v1.json'
-import meneursAllTimeV2 from '~/../content/tops/meilleurs-meneurs-all-time-v2.json'
-import top5RookiesSaison2025 from '~/../content/tops/top-5-rookies-saison-2025.json'
-import top10JoueursSaison2024 from '~/../content/tops/top-10-joueurs-saison-2024.json'
+const topModules = import.meta.glob('~/../content/tops/*.json', { eager: true, import: 'default' })
+const top100Modules = import.meta.glob('~/../content/top100/*.json', { eager: true, import: 'default' })
 
-const allTopFiles: Top[] = [
-  meneursAllTimeV1 as Top,
-  meneursAllTimeV2 as Top,
-  top10JoueursSaison2024 as Top,
-  top5RookiesSaison2025 as Top,
-]
-
-const allTop100Files: Top100[] = [
-  top100AllTimeV1 as Top100,
-]
+const allTopFiles: Top[] = Object.values(topModules) as Top[]
+const allTop100Files: Top100[] = Object.values(top100Modules) as Top100[]
 
 /** Group TOPs by slug to find all versions of the same TOP */
 function groupBySlug(tops: Top[]): Map<string, Top[]> {

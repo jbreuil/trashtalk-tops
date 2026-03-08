@@ -1,0 +1,229 @@
+{
+  "slug": "finisseurs-exterieurs-all-time",
+  "title": "Top 10 finisseurs extérieurs All-Time",
+  "subject": "finisseurs extérieurs All-Time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2018-04-30",
+  "videoId": "c2Gyxb16coM",
+  "tags": [
+    "finition",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "MICHAEL JORDAN",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "LEBRON JAMES",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "DWYANE WADE",
+          "entities": [
+            {
+              "entityId": "dwyane-wade",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "KYRIE IRVING",
+          "entities": [
+            {
+              "entityId": "kyrie-irving",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "KOBE BRYANT",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "ALLEN IVERSON",
+          "entities": [
+            {
+              "entityId": "allen-iverson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "JULIUS ERVING",
+          "entities": [
+            {
+              "entityId": "julius-erving",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "RUSSELL WESTBROOK",
+          "entities": [
+            {
+              "entityId": "russell-westbrook",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "D-ROSE",
+          "entities": [
+            {
+              "entityId": "derrick-rose",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "GEORGE GERVIN",
+          "entities": [
+            {
+              "entityId": "george-gervin",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "MICHAEL JORDAN",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "KYRIE IRVING",
+          "entities": [
+            {
+              "entityId": "kyrie-irving",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "LEBRON JAMES",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "KOBE BRYANT",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "D-ROSE",
+          "entities": [
+            {
+              "entityId": "derrick-rose",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "DWYANE WADE",
+          "entities": [
+            {
+              "entityId": "dwyane-wade",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "WESTBROOK",
+          "entities": [
+            {
+              "entityId": "russell-westbrook",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "DR J",
+          "entities": [
+            {
+              "entityId": "julius-erving",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "DREXLER",
+          "entities": [
+            {
+              "entityId": "clyde-drexler",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "TONY PI",
+          "entities": [
+            {
+              "entityId": "tony-parker",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

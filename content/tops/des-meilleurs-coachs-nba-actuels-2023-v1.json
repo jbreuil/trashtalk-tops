@@ -1,0 +1,149 @@
+{
+  "slug": "des-meilleurs-coachs-nba-actuels-2023",
+  "title": "Top 6 des meilleurs coachs NBA actuels (2023) !",
+  "subject": "meilleurs coachs NBA actuels (2023)",
+  "format": 6,
+  "temporalType": "dated",
+  "season": "2022-23",
+  "version": 1,
+  "publishedAt": "2023-08-14",
+  "videoId": "NdT0YXwjr74",
+  "tags": [
+    "coach",
+    "saison"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Erik Spoelstra",
+          "entities": [
+            {
+              "entityId": "erik-spoelstra",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Steve Kerr",
+          "entities": [
+            {
+              "entityId": "steve-kerr",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Mike Malone",
+          "entities": [
+            {
+              "entityId": "michael-malone",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Taylor Jenkins",
+          "entities": [
+            {
+              "entityId": "taylor-jenkins",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Mike Brown",
+          "entities": [
+            {
+              "entityId": "mike-brown",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Tyronn Lue",
+          "entities": [
+            {
+              "entityId": "tyronn-lue",
+              "entityType": "coach"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Erik Spoelstra",
+          "entities": [
+            {
+              "entityId": "erik-spoelstra",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Mike Malone",
+          "entities": [
+            {
+              "entityId": "michael-malone",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Steve Kerr",
+          "entities": [
+            {
+              "entityId": "steve-kerr",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Taylor Jenkins",
+          "entities": [
+            {
+              "entityId": "taylor-jenkins",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Tyronn Lue",
+          "entities": [
+            {
+              "entityId": "tyronn-lue",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Mike Brown",
+          "entities": [
+            {
+              "entityId": "mike-brown",
+              "entityType": "coach"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "slug": "des-meilleurs-meneurs-nba-actuels-2023",
+  "title": "Top 6 des meilleurs meneurs NBA actuels (2023) !",
+  "subject": "meilleurs meneurs NBA actuels (2023)",
+  "format": 6,
+  "temporalType": "dated",
+  "season": "2022-23",
+  "version": 1,
+  "publishedAt": "2023-07-10",
+  "videoId": "64xCQ2XlV9Y",
+  "tags": [
+    "meneur",
+    "saison"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Luka Doncic",
+          "entities": [
+            {
+              "entityId": "luka-doncic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Stephen Curry",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Damian Lillard",
+          "entities": [
+            {
+              "entityId": "damian-lillard",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "De'Aaron Fox",
+          "entities": [
+            {
+              "entityId": "de-aaron-fox",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Ja Morant",
+          "entities": [
+            {
+              "entityId": "ja-morant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Jamal Murray",
+          "entities": [
+            {
+              "entityId": "jamal-murray",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Stephen Curry",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Luka Doncic",
+          "entities": [
+            {
+              "entityId": "luka-doncic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Damian Lillard",
+          "entities": [
+            {
+              "entityId": "damian-lillard",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "De'Aaron Fox",
+          "entities": [
+            {
+              "entityId": "de-aaron-fox",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Jamal Murray",
+          "entities": [
+            {
+              "entityId": "jamal-murray",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Ja Morant",
+          "entities": [
+            {
+              "entityId": "ja-morant",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

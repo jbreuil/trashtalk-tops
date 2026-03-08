@@ -1,0 +1,229 @@
+{
+  "slug": "les-monstres-sans-bague",
+  "title": "NBA Top 10 All-Time (2021-22) : les monstres sans bague",
+  "subject": "les monstres sans bague",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 2,
+  "publishedAt": "2022-06-13",
+  "videoId": "pFvaoP5pTlU",
+  "tags": [
+    "sans-bague",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Karl Malone",
+          "entities": [
+            {
+              "entityId": "karl-malone",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Elgin Baylor",
+          "entities": [
+            {
+              "entityId": "elgin-baylor",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Allen Iverson",
+          "entities": [
+            {
+              "entityId": "allen-iverson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Charles Barkley",
+          "entities": [
+            {
+              "entityId": "charles-barkley",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Patrick Ewing",
+          "entities": [
+            {
+              "entityId": "patrick-ewing",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "James Harden",
+          "entities": [
+            {
+              "entityId": "james-harden",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "John Stockton",
+          "entities": [
+            {
+              "entityId": "john-stockton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Chris Paul",
+          "entities": [
+            {
+              "entityId": "chris-paul",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Russell Westbrook",
+          "entities": [
+            {
+              "entityId": "russell-westbrook",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Steve Nash",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Karl Malone",
+          "entities": [
+            {
+              "entityId": "karl-malone",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Elgin Baylor",
+          "entities": [
+            {
+              "entityId": "elgin-baylor",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Allen Iverson",
+          "entities": [
+            {
+              "entityId": "allen-iverson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Patrick Ewing",
+          "entities": [
+            {
+              "entityId": "patrick-ewing",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "James Harden",
+          "entities": [
+            {
+              "entityId": "james-harden",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Charles Barkley",
+          "entities": [
+            {
+              "entityId": "charles-barkley",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "John Stockton",
+          "entities": [
+            {
+              "entityId": "john-stockton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Chris Paul",
+          "entities": [
+            {
+              "entityId": "chris-paul",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Steve Nash",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Russell Westbrook",
+          "entities": [
+            {
+              "entityId": "russell-westbrook",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "slug": "meilleurs-cerveaux-all-time",
+  "title": "Top 10 meilleurs cerveaux All-Time",
+  "subject": "meilleurs cerveaux All-Time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2019-08-19",
+  "videoId": "BYuTHon9wlc",
+  "tags": [
+    "iq",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Jason Kidd",
+          "entities": [
+            {
+              "entityId": "jason-kidd",
+              "entityType": "player",
+              "nbaId": 467
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Larry Bird",
+          "entities": [
+            {
+              "entityId": "larry-bird",
+              "entityType": "player",
+              "nbaId": 1449
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Magic Johnson",
+          "entities": [
+            {
+              "entityId": "magic-johnson",
+              "entityType": "player",
+              "nbaId": 77142
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Steve Nash",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player",
+              "nbaId": 959
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Tim Duncan",
+          "entities": [
+            {
+              "entityId": "tim-duncan",
+              "entityType": "player",
+              "nbaId": 1495
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "John Stockton",
+          "entities": [
+            {
+              "entityId": "john-stockton",
+              "entityType": "player",
+              "nbaId": 304
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "LeBron James",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player",
+              "nbaId": 2544
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Michael Jordan",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player",
+              "nbaId": 893
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Manu Ginobili",
+          "entities": [
+            {
+              "entityId": "manu-ginobili",
+              "entityType": "player",
+              "nbaId": 1938
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Kareem Abdul-Jabbar",
+          "entities": [
+            {
+              "entityId": "kareem-abdul-jabbar",
+              "entityType": "player",
+              "nbaId": 76003
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Larry Bird",
+          "entities": [
+            {
+              "entityId": "larry-bird",
+              "entityType": "player",
+              "nbaId": 1449
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Tim Duncan",
+          "entities": [
+            {
+              "entityId": "tim-duncan",
+              "entityType": "player",
+              "nbaId": 1495
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "LeBron James",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player",
+              "nbaId": 2544
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Jason Kidd",
+          "entities": [
+            {
+              "entityId": "jason-kidd",
+              "entityType": "player",
+              "nbaId": 467
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Magic Johnson",
+          "entities": [
+            {
+              "entityId": "magic-johnson",
+              "entityType": "player",
+              "nbaId": 77142
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Bill Russell",
+          "entities": [
+            {
+              "entityId": "bill-russell",
+              "entityType": "player",
+              "nbaId": 78049
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "John Stockton",
+          "entities": [
+            {
+              "entityId": "john-stockton",
+              "entityType": "player",
+              "nbaId": 304
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Steve Nash",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player",
+              "nbaId": 959
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Hakeem Olajuwon",
+          "entities": [
+            {
+              "entityId": "hakeem-olajuwon",
+              "entityType": "player",
+              "nbaId": 165
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Pau Gasol",
+          "entities": [
+            {
+              "entityId": "pau-gasol",
+              "entityType": "player",
+              "nbaId": 2200
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

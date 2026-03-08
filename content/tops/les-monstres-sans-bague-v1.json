@@ -1,0 +1,250 @@
+{
+  "slug": "les-monstres-sans-bague",
+  "title": "Top 10 All-Time : les monstres sans bague - Apéro TrashTalk #73",
+  "subject": "les monstres sans bague",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2017-02-28",
+  "videoId": "Nlh9IaOl4yA",
+  "tags": [
+    "trashtalk",
+    "sans-bague",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Elgin Baylor",
+          "entities": [
+            {
+              "entityId": "elgin-baylor",
+              "entityType": "player",
+              "nbaId": 76127
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Karl Malone",
+          "entities": [
+            {
+              "entityId": "karl-malone",
+              "entityType": "player",
+              "nbaId": 252
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Patrick Ewing",
+          "entities": [
+            {
+              "entityId": "patrick-ewing",
+              "entityType": "player",
+              "nbaId": 201607
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Charles Barkley",
+          "entities": [
+            {
+              "entityId": "charles-barkley",
+              "entityType": "player",
+              "nbaId": 787
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "John Stockton",
+          "entities": [
+            {
+              "entityId": "john-stockton",
+              "entityType": "player",
+              "nbaId": 304
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Allen Iverson",
+          "entities": [
+            {
+              "entityId": "allen-iverson",
+              "entityType": "player",
+              "nbaId": 947
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Steve Nash",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player",
+              "nbaId": 959
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Chris Webber",
+          "entities": [
+            {
+              "entityId": "chris-webber",
+              "entityType": "player",
+              "nbaId": 185
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Reggie Miller",
+          "entities": [
+            {
+              "entityId": "reggie-miller",
+              "entityType": "player",
+              "nbaId": 397
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Dominique Wilkins",
+          "entities": [
+            {
+              "entityId": "dominique-wilkins",
+              "entityType": "player",
+              "nbaId": 1122
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Karl Malone",
+          "entities": [
+            {
+              "entityId": "karl-malone",
+              "entityType": "player",
+              "nbaId": 252
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Patrick Ewing",
+          "entities": [
+            {
+              "entityId": "patrick-ewing",
+              "entityType": "player",
+              "nbaId": 201607
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Elgin Baylor",
+          "entities": [
+            {
+              "entityId": "elgin-baylor",
+              "entityType": "player",
+              "nbaId": 76127
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Charles Barkley",
+          "entities": [
+            {
+              "entityId": "charles-barkley",
+              "entityType": "player",
+              "nbaId": 787
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Allen Iverson",
+          "entities": [
+            {
+              "entityId": "allen-iverson",
+              "entityType": "player",
+              "nbaId": 947
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "John Stockton",
+          "entities": [
+            {
+              "entityId": "john-stockton",
+              "entityType": "player",
+              "nbaId": 304
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Steve Nash",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player",
+              "nbaId": 959
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Dominique Wilkins",
+          "entities": [
+            {
+              "entityId": "dominique-wilkins",
+              "entityType": "player",
+              "nbaId": 1122
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Dikembe Mutombo",
+          "entities": [
+            {
+              "entityId": "dikembe-mutombo",
+              "entityType": "player",
+              "nbaId": 87
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Reggie Miller",
+          "entities": [
+            {
+              "entityId": "reggie-miller",
+              "entityType": "player",
+              "nbaId": 397
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

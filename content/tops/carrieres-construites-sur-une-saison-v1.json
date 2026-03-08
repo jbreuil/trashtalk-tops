@@ -1,0 +1,229 @@
+{
+  "slug": "carrieres-construites-sur-une-saison",
+  "title": "NBA Top 10 All-Time (2021-22) : carrières construites sur une saison",
+  "subject": "carrières construites sur une saison",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2022-01-10",
+  "videoId": "xJo9oqbkFMg",
+  "tags": [
+    "carrieres",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "I. THOMAS",
+          "entities": [
+            {
+              "entityId": "isaiah-thomas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "J. LIN",
+          "entities": [
+            {
+              "entityId": "jeremy-lin",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "L. STEPHENSON",
+          "entities": [
+            {
+              "entityId": "lance-stephenson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "A. BYNUM",
+          "entities": [
+            {
+              "entityId": "andrew-bynum",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "T. EVANS",
+          "entities": [
+            {
+              "entityId": "tyreke-evans",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "C. PARSONS",
+          "entities": [
+            {
+              "entityId": "chandler-parsons",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "D. GRANGER",
+          "entities": [
+            {
+              "entityId": "danny-granger",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "B. SIMMONS",
+          "entities": [
+            {
+              "entityId": "ben-simmons",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "D. BARROS",
+          "entities": [
+            {
+              "entityId": "dana-barros",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "O. ASIK",
+          "entities": [
+            {
+              "entityId": "omer-asik",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "J. LIN",
+          "entities": [
+            {
+              "entityId": "jeremy-lin",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "L. STEPHENSON",
+          "entities": [
+            {
+              "entityId": "lance-stephenson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "T. EVANS",
+          "entities": [
+            {
+              "entityId": "tyreke-evans",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "D. BARROS",
+          "entities": [
+            {
+              "entityId": "dana-barros",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "L. SANDERS",
+          "entities": [
+            {
+              "entityId": "larry-sanders",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "B. SIMMONS",
+          "entities": [
+            {
+              "entityId": "ben-simmons",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "C. PARSONS",
+          "entities": [
+            {
+              "entityId": "chandler-parsons",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "J. MAGLOIRE",
+          "entities": [
+            {
+              "entityId": "jamaal-magloire",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "D. HARRIS",
+          "entities": [
+            {
+              "entityId": "devin-harris",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "D. BERTANS",
+          "entities": [
+            {
+              "entityId": "davis-bertans",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

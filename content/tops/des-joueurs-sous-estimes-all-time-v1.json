@@ -1,0 +1,229 @@
+{
+  "slug": "des-joueurs-sous-estimes-all-time",
+  "title": "Top 10 des joueurs sous-estimés all-time",
+  "subject": "joueurs sous-estimés all-time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2019-05-27",
+  "videoId": "iSZJyaBicuc",
+  "tags": [
+    "sous-estimes",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "MOSES MALONE",
+          "entities": [
+            {
+              "entityId": "moses-malone",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "PETE MARAVICH",
+          "entities": [
+            {
+              "entityId": "pete-maravich",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "JOHN HAVLICEK",
+          "entities": [
+            {
+              "entityId": "john-havlicek",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "DOMINIQUE WILKINS",
+          "entities": [
+            {
+              "entityId": "dominique-wilkins",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "ELGIN BAYLOR",
+          "entities": [
+            {
+              "entityId": "elgin-baylor",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "CHRIS BOSH",
+          "entities": [
+            {
+              "entityId": "chris-bosh",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "CLYDE DREXLER",
+          "entities": [
+            {
+              "entityId": "clyde-drexler",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "WALT FRAZIER",
+          "entities": [
+            {
+              "entityId": "walt-frazier",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "PAU GASOL",
+          "entities": [
+            {
+              "entityId": "pau-gasol",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "MITCH RICHMOND",
+          "entities": [
+            {
+              "entityId": "mitch-richmond",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "ELVIN HAYES",
+          "entities": [
+            {
+              "entityId": "elvin-hayes",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "DOMINIQUE WILKINS",
+          "entities": [
+            {
+              "entityId": "dominique-wilkins",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "MOSES MALONE",
+          "entities": [
+            {
+              "entityId": "moses-malone",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "JOHN HAVLICEK",
+          "entities": [
+            {
+              "entityId": "john-havlicek",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "NATE THURMOND",
+          "entities": [
+            {
+              "entityId": "nate-thurmond",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "JERRY WEST",
+          "entities": [
+            {
+              "entityId": "jerry-west",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "CLYDE DREXLER",
+          "entities": [
+            {
+              "entityId": "clyde-drexler",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "WALT FRAZIER",
+          "entities": [
+            {
+              "entityId": "walt-frazier",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "SAM JONES",
+          "entities": [
+            {
+              "entityId": "sam-jones",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "ALEX ENGLISH",
+          "entities": [
+            {
+              "entityId": "alex-english",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

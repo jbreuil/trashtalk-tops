@@ -1,0 +1,233 @@
+{
+  "slug": "les-blessures-qui-changent-l-histoire",
+  "title": "NBA Top 10 All-Time : les blessures qui changent l'histoire",
+  "subject": "les blessures qui changent l'histoire",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2025-01-13",
+  "videoId": "gmIut6OrUic",
+  "tags": [
+    "blessures",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Derrick Rose 2012",
+          "entities": [
+            {
+              "entityId": "derrick-rose",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Kevin Durant 2019",
+          "entities": [
+            {
+              "entityId": "kevin-durant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Bill Russell 1958",
+          "entities": [
+            {
+              "entityId": "bill-russell",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Bill Walton 1978",
+          "entities": [
+            {
+              "entityId": "bill-walton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Klay Thompson 2019",
+          "entities": [
+            {
+              "entityId": "klay-thompson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Larry Bird 1985",
+          "entities": [
+            {
+              "entityId": "larry-bird",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Chris Paul 2018",
+          "entities": [
+            {
+              "entityId": "chris-paul",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Russell Westbrook 2013",
+          "entities": [
+            {
+              "entityId": "russell-westbrook",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Willis Reed 1970",
+          "entities": [
+            {
+              "entityId": "willis-reed",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Greg Oden 2007",
+          "entities": [
+            {
+              "entityId": "greg-oden",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "KD puis Klay 2019",
+          "entities": [
+            {
+              "entityId": "kevin-durant",
+              "entityType": "player"
+            },
+            {
+              "entityId": "klay-thompson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Derrick Rose",
+          "entities": [
+            {
+              "entityId": "derrick-rose",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Chris Paul 2018",
+          "entities": [
+            {
+              "entityId": "chris-paul",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Kevin Garnett 2009",
+          "entities": [
+            {
+              "entityId": "kevin-garnett",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Kyrie Irving 2021",
+          "entities": [
+            {
+              "entityId": "kyrie-irving",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Kareem Abdul-Jabbar 1980",
+          "entities": [
+            {
+              "entityId": "kareem-abdul-jabbar",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Yao Ming 2008",
+          "entities": [
+            {
+              "entityId": "yao-ming",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Isiah Thomas 1988",
+          "entities": [
+            {
+              "entityId": "isiah-thomas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Willis Reed 1970",
+          "entities": [
+            {
+              "entityId": "willis-reed",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Kyrie 2015",
+          "entities": [
+            {
+              "entityId": "kyrie-irving",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

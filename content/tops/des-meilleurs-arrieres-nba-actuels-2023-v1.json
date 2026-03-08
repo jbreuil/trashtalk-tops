@@ -1,0 +1,149 @@
+{
+  "slug": "des-meilleurs-arrieres-nba-actuels-2023",
+  "title": "Top 6 des meilleurs arrières NBA actuels (2023) !",
+  "subject": "meilleurs arrières NBA actuels (2023)",
+  "format": 6,
+  "temporalType": "dated",
+  "season": "2022-23",
+  "version": 1,
+  "publishedAt": "2023-07-17",
+  "videoId": "r-WoOSs8d-Y",
+  "tags": [
+    "arriere",
+    "saison"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Devin Booker",
+          "entities": [
+            {
+              "entityId": "devin-booker",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Shai Gilgeous-Alexander",
+          "entities": [
+            {
+              "entityId": "shai-gilgeous-alexander",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Jaylen Brown",
+          "entities": [
+            {
+              "entityId": "jaylen-brown",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Donovan Mitchell",
+          "entities": [
+            {
+              "entityId": "donovan-mitchell",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "James Harden",
+          "entities": [
+            {
+              "entityId": "james-harden",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Anthony Edwards",
+          "entities": [
+            {
+              "entityId": "anthony-edwards",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Devin Booker",
+          "entities": [
+            {
+              "entityId": "devin-booker",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Shai Gilgeous-Alexander",
+          "entities": [
+            {
+              "entityId": "shai-gilgeous-alexander",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Donovan Mitchell",
+          "entities": [
+            {
+              "entityId": "donovan-mitchell",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Jaylen Brown",
+          "entities": [
+            {
+              "entityId": "jaylen-brown",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Anthony Edwards",
+          "entities": [
+            {
+              "entityId": "anthony-edwards",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "James Harden",
+          "entities": [
+            {
+              "entityId": "james-harden",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

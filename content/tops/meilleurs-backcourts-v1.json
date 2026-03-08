@@ -1,0 +1,309 @@
+{
+  "slug": "meilleurs-backcourts",
+  "title": "NBA Top 10 All-Time (2021-22) : meilleurs backcourts",
+  "subject": "meilleurs backcourts",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2022-03-14",
+  "videoId": "KeKfW_fKdiE",
+  "tags": [
+    "backcourt",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Curry + Klay",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            },
+            {
+              "entityId": "klay-thompson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Isiah + Dumars",
+          "entities": [
+            {
+              "entityId": "isiah-thomas",
+              "entityType": "player"
+            },
+            {
+              "entityId": "joe-dumars",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Magic + Byron",
+          "entities": [
+            {
+              "entityId": "magic-johnson",
+              "entityType": "player"
+            },
+            {
+              "entityId": "byron-scott",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Tony + Manu",
+          "entities": [
+            {
+              "entityId": "tony-parker",
+              "entityType": "player"
+            },
+            {
+              "entityId": "manu-ginobili",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Kobe + Fisher",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            },
+            {
+              "entityId": "derek-fisher",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Jordan + Harper",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            },
+            {
+              "entityId": "ron-harper",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "West + Goodrich",
+          "entities": [
+            {
+              "entityId": "jerry-west",
+              "entityType": "player"
+            },
+            {
+              "entityId": "gail-goodrich",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Billups + Hamilton",
+          "entities": [
+            {
+              "entityId": "chauncey-billups",
+              "entityType": "player"
+            },
+            {
+              "entityId": "richard-hamilton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Frazier + Monroe",
+          "entities": [
+            {
+              "entityId": "walt-frazier",
+              "entityType": "player"
+            },
+            {
+              "entityId": "earl-monroe",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Cousy + Sharman",
+          "entities": [
+            {
+              "entityId": "bob-cousy",
+              "entityType": "player"
+            },
+            {
+              "entityId": "bill-sharman",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Curry + Klay",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            },
+            {
+              "entityId": "klay-thompson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Isiah + Dumars",
+          "entities": [
+            {
+              "entityId": "isiah-thomas",
+              "entityType": "player"
+            },
+            {
+              "entityId": "joe-dumars",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Magic + Byron",
+          "entities": [
+            {
+              "entityId": "magic-johnson",
+              "entityType": "player"
+            },
+            {
+              "entityId": "byron-scott",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Tony + Manu",
+          "entities": [
+            {
+              "entityId": "tony-parker",
+              "entityType": "player"
+            },
+            {
+              "entityId": "manu-ginobili",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "West + Goodrich",
+          "entities": [
+            {
+              "entityId": "jerry-west",
+              "entityType": "player"
+            },
+            {
+              "entityId": "gail-goodrich",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Jordan + Harper",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            },
+            {
+              "entityId": "ron-harper",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Billups + Hamilton",
+          "entities": [
+            {
+              "entityId": "chauncey-billups",
+              "entityType": "player"
+            },
+            {
+              "entityId": "richard-hamilton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Kobe + Fisher",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            },
+            {
+              "entityId": "derek-fisher",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Cousy + Sam Jones",
+          "entities": [
+            {
+              "entityId": "bob-cousy",
+              "entityType": "player"
+            },
+            {
+              "entityId": "sam-jones",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Frazier + Monroe",
+          "entities": [
+            {
+              "entityId": "walt-frazier",
+              "entityType": "player"
+            },
+            {
+              "entityId": "earl-monroe",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

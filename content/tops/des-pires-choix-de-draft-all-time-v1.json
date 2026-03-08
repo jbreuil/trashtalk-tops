@@ -1,0 +1,233 @@
+{
+  "slug": "des-pires-choix-de-draft-all-time",
+  "title": "Top 10 des pires choix de Draft All-Time",
+  "subject": "pires choix de Draft All-Time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2018-06-18",
+  "videoId": "g8AGSMBACLQ",
+  "tags": [
+    "drafts",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "DARKO MILICIC",
+          "entities": [
+            {
+              "entityId": "darko-milicic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "ANTHONY BENNETT",
+          "entities": [
+            {
+              "entityId": "anthony-bennett",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "CHRIS WASHBURN",
+          "entities": [
+            {
+              "entityId": "chris-washburn",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "JONNY FLYNN",
+          "entities": [
+            {
+              "entityId": "jonny-flynn",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "MICHAEL OLOWOKANDI",
+          "entities": [
+            {
+              "entityId": "michael-olowokandi",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "JOE SMITH",
+          "entities": [
+            {
+              "entityId": "joe-smith",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "LARUE MARTIN",
+          "entities": [
+            {
+              "entityId": "larue-martin",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "KWAME BROWN",
+          "entities": [
+            {
+              "entityId": "kwame-brown",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "MARVIN WILLIAMS",
+          "entities": [
+            {
+              "entityId": "marvin-williams",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "SAM BOWIE / GREG ODEN",
+          "entities": [
+            {
+              "entityId": "sam-bowie",
+              "entityType": "player"
+            },
+            {
+              "entityId": "greg-oden",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "ANTHONY BENNETT",
+          "entities": [
+            {
+              "entityId": "anthony-bennett",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "SAM BOWIE",
+          "entities": [
+            {
+              "entityId": "sam-bowie",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "DARKO MILICIC",
+          "entities": [
+            {
+              "entityId": "darko-milicic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "JOE SMITH",
+          "entities": [
+            {
+              "entityId": "joe-smith",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "OLOWOKANDI",
+          "entities": [
+            {
+              "entityId": "michael-olowokandi",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "PERVIS ELLISON",
+          "entities": [
+            {
+              "entityId": "pervis-ellison",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "CHRIS WASHBURN",
+          "entities": [
+            {
+              "entityId": "chris-washburn",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "JOHNNY FLINN",
+          "entities": [
+            {
+              "entityId": "jonny-flynn",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "LARUE MARTIN",
+          "entities": [
+            {
+              "entityId": "larue-martin",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "KWAME BROWN",
+          "entities": [
+            {
+              "entityId": "kwame-brown",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

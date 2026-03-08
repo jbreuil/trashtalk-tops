@@ -1,0 +1,227 @@
+{
+  "slug": "les-moments-vecus-en-direct",
+  "title": "NBA Top 10 All-Time (2021-22) : les moments vécus en direct",
+  "subject": "les moments vécus en direct",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2021-12-13",
+  "videoId": "FjCdDQgpwSg",
+  "tags": [
+    "moments",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "CURRY OKC 2016",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "THOMAS HEURTEL"
+        },
+        {
+          "rank": 3,
+          "name": "LE SHOOT DE KAWHI",
+          "entities": [
+            {
+              "entityId": "kawhi-leonard",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "LE CONTRE DE BATUM",
+          "entities": [
+            {
+              "entityId": "nicolas-batum",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "KYRIE THE SHOT",
+          "entities": [
+            {
+              "entityId": "kyrie-irving",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "DUNK CONTEST 2016",
+          "entities": [
+            {
+              "entityId": "zach-lavine",
+              "entityType": "player"
+            },
+            {
+              "entityId": "aaron-gordon",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "WESTBROOK DENVER",
+          "entities": [
+            {
+              "entityId": "russell-westbrook",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "THE DECISION",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "LA SORTIE DE KOBE",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "DEANDRE FREE AGENCY",
+          "entities": [
+            {
+              "entityId": "deandre-jordan",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "RIGAUDEAU TEAM USA",
+          "entities": [
+            {
+              "entityId": "antoine-rigaudeau",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "BRANDON ROY DALLAS",
+          "entities": [
+            {
+              "entityId": "brandon-roy",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "JORDAN SHEUG",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "LE CONTRE DE BATUM",
+          "entities": [
+            {
+              "entityId": "nicolas-batum",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "CURRY OKC 2016",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "NICK THE BRICK",
+          "entities": [
+            {
+              "entityId": "nick-anderson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "THE BLOCK LEBRON",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "IVERSON STEP OVER",
+          "entities": [
+            {
+              "entityId": "allen-iverson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "STOUDEMIRE BUZZER",
+          "entities": [
+            {
+              "entityId": "amar-e-stoudemire",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "BOOKER LAKERS 2021",
+          "entities": [
+            {
+              "entityId": "devin-booker",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "slug": "meilleurs-athletes-all-time",
+  "title": "Top 10 meilleurs athlètes all-time",
+  "subject": "meilleurs athlètes all-time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2018-01-15",
+  "videoId": "ChbAisSBd0o",
+  "tags": [
+    "athletisme",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Wilt Chamberlain",
+          "entities": [
+            {
+              "entityId": "wilt-chamberlain",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "LeBron James",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Russell Westbrook",
+          "entities": [
+            {
+              "entityId": "russell-westbrook",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Dennis Rodman",
+          "entities": [
+            {
+              "entityId": "dennis-rodman",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Michael Jordan",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Vince Carter",
+          "entities": [
+            {
+              "entityId": "vince-carter",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "David Robinson",
+          "entities": [
+            {
+              "entityId": "david-robinson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Shawn Kemp",
+          "entities": [
+            {
+              "entityId": "shawn-kemp",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Julius Erving",
+          "entities": [
+            {
+              "entityId": "julius-erving",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Nate Robinson",
+          "entities": [
+            {
+              "entityId": "nate-robinson",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Wilt Chamberlain",
+          "entities": [
+            {
+              "entityId": "wilt-chamberlain",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "LeBron James",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Michael Jordan",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Russell Westbrook",
+          "entities": [
+            {
+              "entityId": "russell-westbrook",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "David Robinson",
+          "entities": [
+            {
+              "entityId": "david-robinson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Dennis Rodman",
+          "entities": [
+            {
+              "entityId": "dennis-rodman",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Vince Carter",
+          "entities": [
+            {
+              "entityId": "vince-carter",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Julius Erving",
+          "entities": [
+            {
+              "entityId": "julius-erving",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Shawn Kemp",
+          "entities": [
+            {
+              "entityId": "shawn-kemp",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Allen Iverson",
+          "entities": [
+            {
+              "entityId": "allen-iverson",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "slug": "meilleurs-scoreurs-all-time",
+  "title": "Top 10 meilleurs scoreurs All-Time",
+  "subject": "meilleurs scoreurs All-Time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2018-10-29",
+  "videoId": "m3z0jUKUyrQ",
+  "tags": [
+    "scoring",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "KOBE",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "JORDAN",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "KD",
+          "entities": [
+            {
+              "entityId": "kevin-durant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "LEBRON",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "KAREEM",
+          "entities": [
+            {
+              "entityId": "kareem-abdul-jabbar",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "DIRK",
+          "entities": [
+            {
+              "entityId": "dirk-nowitzki",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "BIRD",
+          "entities": [
+            {
+              "entityId": "larry-bird",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "HARDEN",
+          "entities": [
+            {
+              "entityId": "james-harden",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "OLAJUWON",
+          "entities": [
+            {
+              "entityId": "hakeem-olajuwon",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "IVERSON",
+          "entities": [
+            {
+              "entityId": "allen-iverson",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "KD",
+          "entities": [
+            {
+              "entityId": "kevin-durant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "JORDAN",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "KOBE",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "LEBRON",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "BIRD",
+          "entities": [
+            {
+              "entityId": "larry-bird",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "KAREEM",
+          "entities": [
+            {
+              "entityId": "kareem-abdul-jabbar",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "DIRK",
+          "entities": [
+            {
+              "entityId": "dirk-nowitzki",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "IVERSON",
+          "entities": [
+            {
+              "entityId": "allen-iverson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "HARDEN",
+          "entities": [
+            {
+              "entityId": "james-harden",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "CURRY",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

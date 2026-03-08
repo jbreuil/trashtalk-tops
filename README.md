@@ -66,6 +66,61 @@ pnpm lint:fix  # autofix
 pnpm test
 ```
 
+## Data
+
+All data consumed by the site lives in `content/`. There are no API calls at runtime — everything is bundled at build time.
+
+### Source files
+
+| File | Content | Source | Update |
+|---|---|---|---|
+| `content/entities/players.json` | ~5 000 NBA players (name, nbaId, games played) | NBA.com public API | Automated script |
+| `content/entities/coaches.json` | ~360 NBA coaches (name, games coached, wins, losses) | Basketball-Reference.com | Automated script |
+| `content/entities/teams.json` | ~60 NBA teams and historical franchises (name, nbaId, years, franchise links) | NBA.com public API | Automated script |
+| `content/entities/gms.json` | General Managers referenced in TOP files | Manual | Manual |
+
+Entity files are the reference for all entity lookups (search, entity pages, ranking links). If an `entityId` used in a TOP JSON does not exist in the entity files, the entity page will 404.
+
+### General Managers (`gms.json`)
+
+This file is maintained by hand. It only needs to contain GMs that are actually referenced in `content/tops/` files (via `"entityType": "gm"` in a ranking entry). If a new TOP references a GM not yet in `gms.json`, add an entry before building:
+
+```json
+{
+  "entityId": "jerry-krause",
+  "name": "Jerry Krause",
+  "type": "gm",
+  "team": "Chicago Bulls"
+}
+```
+
+### TOP files (`content/tops/`)
+
+One JSON file per TOP version, named `{slug}-v{version}.json`. Rankings and entities are filled in manually.
+
+### Top 100 (`content/top100/`)
+
+Same structure as standard TOPs but with a `segments` array mapping rank ranges to video IDs. Separate directory because it has a different data model.
+
+### Entity slugs
+
+Entity IDs (`entityId`) are generated from the player's full legal name as returned by the NBA API. Some players have suffixes that differ from their common name:
+
+| Common name | `entityId` |
+|---|---|
+| Jimmy Butler | `jimmy-butler-iii` |
+| Jaren Jackson Jr. | `jaren-jackson-jr` |
+| Gary Payton II | `gary-payton-ii` |
+| Tim Hardaway Jr. | `tim-hardaway-jr` |
+
+When referencing a player in a TOP JSON file, always use the `entityId` from `content/entities/players.json` — not the common name.
+
+```json
+{ "entityId": "jimmy-butler-iii", "entityType": "player", "nbaId": 202710 }
+```
+
+The suffixes are meaningful when two players share the same base name (e.g. `gary-payton` vs `gary-payton-ii`), so they cannot be stripped automatically.
+
 ## Data Sources & Attribution
 
 The data used in this project comes from multiple sources. **None of the underlying data belongs to this project.**

@@ -1,0 +1,249 @@
+{
+  "slug": "defenseurs-interieurs-all-time",
+  "title": "Apéro TrashTalk #49 - Top 10 Défenseurs Intérieurs All-Time",
+  "subject": "Défenseurs Intérieurs All-Time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2016-07-27",
+  "videoId": "birlaj4aBlU",
+  "tags": [
+    "defense",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Hakeem Olajuwon",
+          "entities": [
+            {
+              "entityId": "hakeem-olajuwon",
+              "entityType": "player",
+              "nbaId": 165
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Dikembe Mutombo",
+          "entities": [
+            {
+              "entityId": "dikembe-mutombo",
+              "entityType": "player",
+              "nbaId": 87
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Tim Duncan",
+          "entities": [
+            {
+              "entityId": "tim-duncan",
+              "entityType": "player",
+              "nbaId": 1495
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Bill Russell",
+          "entities": [
+            {
+              "entityId": "bill-russell",
+              "entityType": "player",
+              "nbaId": 78049
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Dennis Rodman",
+          "entities": [
+            {
+              "entityId": "dennis-rodman",
+              "entityType": "player",
+              "nbaId": 23
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Ben Wallace",
+          "entities": [
+            {
+              "entityId": "ben-wallace",
+              "entityType": "player",
+              "nbaId": 1112
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "David Robinson",
+          "entities": [
+            {
+              "entityId": "david-robinson",
+              "entityType": "player",
+              "nbaId": 764
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Alonzo Mourning",
+          "entities": [
+            {
+              "entityId": "alonzo-mourning",
+              "entityType": "player",
+              "nbaId": 297
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Dwight Howard",
+          "entities": [
+            {
+              "entityId": "dwight-howard",
+              "entityType": "player",
+              "nbaId": 2730
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Kevin Garnett",
+          "entities": [
+            {
+              "entityId": "kevin-garnett",
+              "entityType": "player",
+              "nbaId": 708
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Bill Russell",
+          "entities": [
+            {
+              "entityId": "bill-russell",
+              "entityType": "player",
+              "nbaId": 78049
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Hakeem Olajuwon",
+          "entities": [
+            {
+              "entityId": "hakeem-olajuwon",
+              "entityType": "player",
+              "nbaId": 165
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Dikembe Mutombo",
+          "entities": [
+            {
+              "entityId": "dikembe-mutombo",
+              "entityType": "player",
+              "nbaId": 87
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Dennis Rodman",
+          "entities": [
+            {
+              "entityId": "dennis-rodman",
+              "entityType": "player",
+              "nbaId": 23
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Ben Wallace",
+          "entities": [
+            {
+              "entityId": "ben-wallace",
+              "entityType": "player",
+              "nbaId": 1112
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Tim Duncan",
+          "entities": [
+            {
+              "entityId": "tim-duncan",
+              "entityType": "player",
+              "nbaId": 1495
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "David Robinson",
+          "entities": [
+            {
+              "entityId": "david-robinson",
+              "entityType": "player",
+              "nbaId": 764
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Alonzo Mourning",
+          "entities": [
+            {
+              "entityId": "alonzo-mourning",
+              "entityType": "player",
+              "nbaId": 297
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Kevin Garnett",
+          "entities": [
+            {
+              "entityId": "kevin-garnett",
+              "entityType": "player",
+              "nbaId": 708
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Dwight Howard",
+          "entities": [
+            {
+              "entityId": "dwight-howard",
+              "entityType": "player",
+              "nbaId": 2730
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "slug": "crossover-all-time",
+  "title": "Apéro TrashTalk #43 - Top 10 crossover All-Time",
+  "subject": "crossover All-Time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2016-06-22",
+  "videoId": "6w1gWoPKHDo",
+  "tags": [
+    "crossovers",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Tim Hardaway",
+          "entities": [
+            {
+              "entityId": "tim-hardaway",
+              "entityType": "player",
+              "nbaId": 896
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Allen Iverson",
+          "entities": [
+            {
+              "entityId": "allen-iverson",
+              "entityType": "player",
+              "nbaId": 947
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Isiah Thomas",
+          "entities": [
+            {
+              "entityId": "isiah-thomas",
+              "entityType": "player",
+              "nbaId": 78318
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Rafer Alston",
+          "entities": [
+            {
+              "entityId": "rafer-alston",
+              "entityType": "player",
+              "nbaId": 1747
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Jamal Crawford",
+          "entities": [
+            {
+              "entityId": "jamal-crawford",
+              "entityType": "player",
+              "nbaId": 2037
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Jason Williams",
+          "entities": [
+            {
+              "entityId": "jason-williams",
+              "entityType": "player",
+              "nbaId": 1715
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Kyrie Irving",
+          "entities": [
+            {
+              "entityId": "kyrie-irving",
+              "entityType": "player",
+              "nbaId": 202681
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Rod Strickland",
+          "entities": [
+            {
+              "entityId": "rod-strickland",
+              "entityType": "player",
+              "nbaId": 393
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Steve Francis",
+          "entities": [
+            {
+              "entityId": "steve-francis",
+              "entityType": "player",
+              "nbaId": 1883
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Deron Williams / Derrick Rose",
+          "entities": [
+            {
+              "entityId": "deron-williams",
+              "entityType": "player",
+              "nbaId": 101114
+            },
+            {
+              "entityId": "derrick-rose",
+              "entityType": "player",
+              "nbaId": 201565
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Allen Iverson",
+          "entities": [
+            {
+              "entityId": "allen-iverson",
+              "entityType": "player",
+              "nbaId": 947
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Isiah Thomas",
+          "entities": [
+            {
+              "entityId": "isiah-thomas",
+              "entityType": "player",
+              "nbaId": 78318
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Jamal Crawford",
+          "entities": [
+            {
+              "entityId": "jamal-crawford",
+              "entityType": "player",
+              "nbaId": 2037
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Tim Hardaway",
+          "entities": [
+            {
+              "entityId": "tim-hardaway",
+              "entityType": "player",
+              "nbaId": 896
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Jason Williams",
+          "entities": [
+            {
+              "entityId": "jason-williams",
+              "entityType": "player",
+              "nbaId": 1715
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Rafer Alston",
+          "entities": [
+            {
+              "entityId": "rafer-alston",
+              "entityType": "player",
+              "nbaId": 1747
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Kyrie Irving",
+          "entities": [
+            {
+              "entityId": "kyrie-irving",
+              "entityType": "player",
+              "nbaId": 202681
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Steve Francis",
+          "entities": [
+            {
+              "entityId": "steve-francis",
+              "entityType": "player",
+              "nbaId": 1883
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Stephen Curry",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player",
+              "nbaId": 201939
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "God Shammgod",
+          "entities": [
+            {
+              "entityId": "god-shammgod",
+              "entityType": "player",
+              "nbaId": 1539
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

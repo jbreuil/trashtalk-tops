@@ -1,0 +1,150 @@
+{
+  "slug": "des-meilleurs-ailiers-forts-nba-actuels-2023",
+  "title": "Top 6 des meilleurs ailiers-forts NBA actuels (2023) !",
+  "subject": "meilleurs ailiers-forts NBA actuels (2023)",
+  "format": 6,
+  "temporalType": "dated",
+  "season": "2022-23",
+  "version": 1,
+  "publishedAt": "2023-07-31",
+  "videoId": "lhdeWstxRfQ",
+  "tags": [
+    "ailier",
+    "ailier-fort",
+    "saison"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Giannis Antetokounmpo",
+          "entities": [
+            {
+              "entityId": "giannis-antetokounmpo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Anthony Davis",
+          "entities": [
+            {
+              "entityId": "anthony-davis",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Pascal Siakam",
+          "entities": [
+            {
+              "entityId": "pascal-siakam",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Jaren Jackson Jr",
+          "entities": [
+            {
+              "entityId": "jaren-jackson-jr",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Karl-Anthony Towns",
+          "entities": [
+            {
+              "entityId": "karl-anthony-towns",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Julius Randle",
+          "entities": [
+            {
+              "entityId": "julius-randle",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Giannis Antetokounmpo",
+          "entities": [
+            {
+              "entityId": "giannis-antetokounmpo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Anthony Davis",
+          "entities": [
+            {
+              "entityId": "anthony-davis",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Pascal Siakam",
+          "entities": [
+            {
+              "entityId": "pascal-siakam",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Jaren Jackson Jr",
+          "entities": [
+            {
+              "entityId": "jaren-jackson-jr",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Lauri Markkanen",
+          "entities": [
+            {
+              "entityId": "lauri-markkanen",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Zion Williamson",
+          "entities": [
+            {
+              "entityId": "zion-williamson",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

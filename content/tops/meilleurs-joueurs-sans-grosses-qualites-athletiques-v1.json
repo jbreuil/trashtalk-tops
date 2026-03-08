@@ -1,0 +1,229 @@
+{
+  "slug": "meilleurs-joueurs-sans-grosses-qualites-athletiques",
+  "title": "Top 10 meilleurs joueurs sans grosses qualités athlétiques",
+  "subject": "meilleurs joueurs sans grosses qualités athlétiques",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2019-01-07",
+  "videoId": "K3oXb2sSafo",
+  "tags": [
+    "athletisme",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "LARRY BIRD",
+          "entities": [
+            {
+              "entityId": "larry-bird",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "REGGIE MILLER",
+          "entities": [
+            {
+              "entityId": "reggie-miller",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "JOHN STOCKTON",
+          "entities": [
+            {
+              "entityId": "john-stockton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "DIRK NOWITZKI",
+          "entities": [
+            {
+              "entityId": "dirk-nowitzki",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "STEVE NASH",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "WILLIS REED",
+          "entities": [
+            {
+              "entityId": "willis-reed",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "CHRIS MULLIN",
+          "entities": [
+            {
+              "entityId": "chris-mullin",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "ZACH RANDOLPH",
+          "entities": [
+            {
+              "entityId": "zach-randolph",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "MARC GASOL",
+          "entities": [
+            {
+              "entityId": "marc-gasol",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "TIM DUNCAN",
+          "entities": [
+            {
+              "entityId": "tim-duncan",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "LARRY BIRD",
+          "entities": [
+            {
+              "entityId": "larry-bird",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "DIRK NOWITZKI",
+          "entities": [
+            {
+              "entityId": "dirk-nowitzki",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "JOHN STOCKTON",
+          "entities": [
+            {
+              "entityId": "john-stockton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "STEVE NASH",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "CHRIS MULLIN",
+          "entities": [
+            {
+              "entityId": "chris-mullin",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "REGGIE MILLER",
+          "entities": [
+            {
+              "entityId": "reggie-miller",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "ZACH RANDOLPH",
+          "entities": [
+            {
+              "entityId": "zach-randolph",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "CHAUNCEY BILLUPS",
+          "entities": [
+            {
+              "entityId": "chauncey-billups",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "PEJA STOJAKOVIC",
+          "entities": [
+            {
+              "entityId": "peja-stojakovic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "BILL LAIMBEER",
+          "entities": [
+            {
+              "entityId": "bill-laimbeer",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

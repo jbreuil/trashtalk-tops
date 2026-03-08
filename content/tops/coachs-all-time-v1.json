@@ -1,0 +1,229 @@
+{
+  "slug": "coachs-all-time",
+  "title": "Apéro TrashTalk #25 - Top 10 Coachs All-Time",
+  "subject": "Coachs All-Time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2016-03-10",
+  "videoId": "I8ruWls01ck",
+  "tags": [
+    "coach",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Phil Jackson",
+          "entities": [
+            {
+              "entityId": "phil-jackson",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Gregg Popovich",
+          "entities": [
+            {
+              "entityId": "gregg-popovich",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Pat Riley",
+          "entities": [
+            {
+              "entityId": "pat-riley",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Chuck Daly",
+          "entities": [
+            {
+              "entityId": "chuck-daly",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Red Auerbach",
+          "entities": [
+            {
+              "entityId": "red-auerbach",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Larry Brown",
+          "entities": [
+            {
+              "entityId": "larry-brown",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Don Nelson",
+          "entities": [
+            {
+              "entityId": "don-nelson",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Rick Adelman",
+          "entities": [
+            {
+              "entityId": "rick-adelman",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "K.C. Jones",
+          "entities": [
+            {
+              "entityId": "k-c-jones",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Jerry Sloan",
+          "entities": [
+            {
+              "entityId": "jerry-sloan",
+              "entityType": "coach"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Gregg Popovich",
+          "entities": [
+            {
+              "entityId": "gregg-popovich",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Phil Jackson",
+          "entities": [
+            {
+              "entityId": "phil-jackson",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Pat Riley",
+          "entities": [
+            {
+              "entityId": "pat-riley",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Red Auerbach",
+          "entities": [
+            {
+              "entityId": "red-auerbach",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Chuck Daly",
+          "entities": [
+            {
+              "entityId": "chuck-daly",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "K.C. Jones",
+          "entities": [
+            {
+              "entityId": "k-c-jones",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Larry Brown",
+          "entities": [
+            {
+              "entityId": "larry-brown",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Don Nelson",
+          "entities": [
+            {
+              "entityId": "don-nelson",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Jerry Sloan",
+          "entities": [
+            {
+              "entityId": "jerry-sloan",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Rick Adelman",
+          "entities": [
+            {
+              "entityId": "rick-adelman",
+              "entityType": "coach"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

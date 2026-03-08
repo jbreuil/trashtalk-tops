@@ -1,0 +1,229 @@
+{
+  "slug": "pire-fin-de-carriere-all-time",
+  "title": "Top 10 pire fin de carrière all-time",
+  "subject": "pire fin de carrière all-time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2019-02-18",
+  "videoId": "dceYpRn6CLA",
+  "tags": [
+    "carrieres",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "ALLEN IVERSON",
+          "entities": [
+            {
+              "entityId": "allen-iverson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "STEVE NASH",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "ELGIN BAYLOR",
+          "entities": [
+            {
+              "entityId": "elgin-baylor",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "ISIAH THOMAS",
+          "entities": [
+            {
+              "entityId": "isiah-thomas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "KARL MALONE",
+          "entities": [
+            {
+              "entityId": "karl-malone",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "PAUL PIERCE",
+          "entities": [
+            {
+              "entityId": "paul-pierce",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "HAKEEM OLAJUWON",
+          "entities": [
+            {
+              "entityId": "hakeem-olajuwon",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "PATRICK EWING",
+          "entities": [
+            {
+              "entityId": "patrick-ewing",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "BARON DAVIS",
+          "entities": [
+            {
+              "entityId": "baron-davis",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "CHRIS BOSH",
+          "entities": [
+            {
+              "entityId": "chris-bosh",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "ELGIN BAYLOR",
+          "entities": [
+            {
+              "entityId": "elgin-baylor",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "ALLEN IVERSON",
+          "entities": [
+            {
+              "entityId": "allen-iverson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "STEVE NASH",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "LAMAR ODOM",
+          "entities": [
+            {
+              "entityId": "lamar-odom",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "PAT EWING",
+          "entities": [
+            {
+              "entityId": "patrick-ewing",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "KARL MALONE",
+          "entities": [
+            {
+              "entityId": "karl-malone",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "GILBERT ARENAS",
+          "entities": [
+            {
+              "entityId": "gilbert-arenas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "PAUL PIERCE",
+          "entities": [
+            {
+              "entityId": "paul-pierce",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "CHRIS BOSH",
+          "entities": [
+            {
+              "entityId": "chris-bosh",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "CARMELO ANTHONY",
+          "entities": [
+            {
+              "entityId": "carmelo-anthony",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "slug": "ailiers-forts-all-time",
+  "title": "Apéro TrashTalk #17 - Top 10 Ailiers Forts All-Time",
+  "subject": "Ailiers Forts All-Time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2016-02-13",
+  "videoId": "Xb2a-Xyg6wk",
+  "tags": [
+    "all-time",
+    "ailier-fort"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Tim Duncan",
+          "entities": [
+            {
+              "entityId": "tim-duncan",
+              "entityType": "player",
+              "nbaId": 1495
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Karl Malone",
+          "entities": [
+            {
+              "entityId": "karl-malone",
+              "entityType": "player",
+              "nbaId": 252
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Charles Barkley",
+          "entities": [
+            {
+              "entityId": "charles-barkley",
+              "entityType": "player",
+              "nbaId": 787
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Dirk Nowitzki",
+          "entities": [
+            {
+              "entityId": "dirk-nowitzki",
+              "entityType": "player",
+              "nbaId": 1717
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Dennis Rodman",
+          "entities": [
+            {
+              "entityId": "dennis-rodman",
+              "entityType": "player",
+              "nbaId": 23
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Elvin Hayes",
+          "entities": [
+            {
+              "entityId": "elvin-hayes",
+              "entityType": "player",
+              "nbaId": 76979
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Kevin Garnett",
+          "entities": [
+            {
+              "entityId": "kevin-garnett",
+              "entityType": "player",
+              "nbaId": 708
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Bob Pettit",
+          "entities": [
+            {
+              "entityId": "bob-pettit",
+              "entityType": "player",
+              "nbaId": 77847
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Pau Gasol",
+          "entities": [
+            {
+              "entityId": "pau-gasol",
+              "entityType": "player",
+              "nbaId": 2200
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Shawn Kemp",
+          "entities": [
+            {
+              "entityId": "shawn-kemp",
+              "entityType": "player",
+              "nbaId": 431
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Tim Duncan",
+          "entities": [
+            {
+              "entityId": "tim-duncan",
+              "entityType": "player",
+              "nbaId": 1495
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Karl Malone",
+          "entities": [
+            {
+              "entityId": "karl-malone",
+              "entityType": "player",
+              "nbaId": 252
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Dirk Nowitzki",
+          "entities": [
+            {
+              "entityId": "dirk-nowitzki",
+              "entityType": "player",
+              "nbaId": 1717
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Charles Barkley",
+          "entities": [
+            {
+              "entityId": "charles-barkley",
+              "entityType": "player",
+              "nbaId": 787
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Kevin Garnett",
+          "entities": [
+            {
+              "entityId": "kevin-garnett",
+              "entityType": "player",
+              "nbaId": 708
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Elvin Hayes",
+          "entities": [
+            {
+              "entityId": "elvin-hayes",
+              "entityType": "player",
+              "nbaId": 76979
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Bob Pettit",
+          "entities": [
+            {
+              "entityId": "bob-pettit",
+              "entityType": "player",
+              "nbaId": 77847
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Dennis Rodman",
+          "entities": [
+            {
+              "entityId": "dennis-rodman",
+              "entityType": "player",
+              "nbaId": 23
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Pau Gasol",
+          "entities": [
+            {
+              "entityId": "pau-gasol",
+              "entityType": "player",
+              "nbaId": 2200
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Kevin McHale",
+          "entities": [
+            {
+              "entityId": "kevin-mchale",
+              "entityType": "player",
+              "nbaId": 1450
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "slug": "coups-de-coeur-all-time",
+  "title": "Top 10 coups de coeur All-Time",
+  "subject": "coups de coeur all-time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2017-12-04",
+  "videoId": "otfHhM9_JJk",
+  "tags": [
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "JR Smith",
+          "entities": [
+            {
+              "entityId": "jr-smith",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Rasheed Wallace",
+          "entities": [
+            {
+              "entityId": "rasheed-wallace",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Josh Smith",
+          "entities": [
+            {
+              "entityId": "josh-smith",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Kyle Korver",
+          "entities": [
+            {
+              "entityId": "kyle-korver",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Hedo Turkoglu",
+          "entities": [
+            {
+              "entityId": "hedo-turkoglu",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Baron Davis",
+          "entities": [
+            {
+              "entityId": "baron-davis",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Jason Williams",
+          "entities": [
+            {
+              "entityId": "jason-williams",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Chauncey Billups",
+          "entities": [
+            {
+              "entityId": "chauncey-billups",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Kurt Thomas",
+          "entities": [
+            {
+              "entityId": "kurt-thomas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Andrei Kirilenko",
+          "entities": [
+            {
+              "entityId": "andrei-kirilenko",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Richard Dumas",
+          "entities": [
+            {
+              "entityId": "richard-dumas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Anthony Mason",
+          "entities": [
+            {
+              "entityId": "anthony-mason",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Gilbert Arenas",
+          "entities": [
+            {
+              "entityId": "gilbert-arenas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Ben Wallace",
+          "entities": [
+            {
+              "entityId": "ben-wallace",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Dan Majerle",
+          "entities": [
+            {
+              "entityId": "dan-majerle",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Amar'e Stoudemire",
+          "entities": [
+            {
+              "entityId": "amar-e-stoudemire",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Jason Williams",
+          "entities": [
+            {
+              "entityId": "jason-williams",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Robert Pack",
+          "entities": [
+            {
+              "entityId": "robert-pack",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Grant Hill",
+          "entities": [
+            {
+              "entityId": "grant-hill",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Stromile Swift",
+          "entities": [
+            {
+              "entityId": "stromile-swift",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

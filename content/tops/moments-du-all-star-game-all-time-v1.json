@@ -1,0 +1,208 @@
+{
+  "slug": "moments-du-all-star-game-all-time",
+  "title": "Top 10 Moments du All-Star Game All-Time",
+  "subject": "Moments du All-Star Game All-Time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2018-02-12",
+  "videoId": "L8x3RMmMDuY",
+  "tags": [
+    "moments",
+    "all-time",
+    "all-star-game"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "MAGIC 92",
+          "entities": [
+            {
+              "entityId": "magic-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "50 GREATEST 97"
+        },
+        {
+          "rank": 3,
+          "name": "JORDAN 2003",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "GREVE 64"
+        },
+        {
+          "rank": 5,
+          "name": "COMEBACK 2001",
+          "entities": [
+            {
+              "entityId": "allen-iverson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "LOGO 72",
+          "entities": [
+            {
+              "entityId": "jerry-west",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "JORDAN 88",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "STOCKTON MALONE 93",
+          "entities": [
+            {
+              "entityId": "john-stockton",
+              "entityType": "player"
+            },
+            {
+              "entityId": "karl-malone",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "PIPPEN 94",
+          "entities": [
+            {
+              "entityId": "scottie-pippen",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "T-MAC 2002",
+          "entities": [
+            {
+              "entityId": "tracy-mcgrady",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "MAGIC 92",
+          "entities": [
+            {
+              "entityId": "magic-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "BOYCOTT 64"
+        },
+        {
+          "rank": 3,
+          "name": "JORDAN 2003",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "50 GREATEST 97"
+        },
+        {
+          "rank": 5,
+          "name": "JERRY WEST 72",
+          "entities": [
+            {
+              "entityId": "jerry-west",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "COMEBACK 2001",
+          "entities": [
+            {
+              "entityId": "allen-iverson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "STOCKTON MALONE 93",
+          "entities": [
+            {
+              "entityId": "john-stockton",
+              "entityType": "player"
+            },
+            {
+              "entityId": "karl-malone",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "WILT 62",
+          "entities": [
+            {
+              "entityId": "wilt-chamberlain",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "SHAQ 96",
+          "entities": [
+            {
+              "entityId": "shaquille-o-neal",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "MARVIN GAYE 83"
+        }
+      ]
+    }
+  ]
+}

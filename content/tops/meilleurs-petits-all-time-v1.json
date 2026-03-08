@@ -1,0 +1,229 @@
+{
+  "slug": "meilleurs-petits-all-time",
+  "title": "Top 10 Meilleurs Petits All-Time",
+  "subject": "Meilleurs Petits All-Time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2017-10-23",
+  "videoId": "kUJ8-BYZ_5E",
+  "tags": [
+    "petit",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "John Stockton",
+          "entities": [
+            {
+              "entityId": "john-stockton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Isiah Thomas",
+          "entities": [
+            {
+              "entityId": "isiah-thomas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Chris Paul",
+          "entities": [
+            {
+              "entityId": "chris-paul",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Allen Iverson",
+          "entities": [
+            {
+              "entityId": "allen-iverson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Nate Archibald",
+          "entities": [
+            {
+              "entityId": "nate-archibald",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Bob Cousy",
+          "entities": [
+            {
+              "entityId": "bob-cousy",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Tim Hardaway",
+          "entities": [
+            {
+              "entityId": "tim-hardaway",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Mark Price",
+          "entities": [
+            {
+              "entityId": "mark-price",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Gail Goodrich",
+          "entities": [
+            {
+              "entityId": "gail-goodrich",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Kevin Johnson",
+          "entities": [
+            {
+              "entityId": "kevin-johnson",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Isiah Thomas",
+          "entities": [
+            {
+              "entityId": "isiah-thomas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "John Stockton",
+          "entities": [
+            {
+              "entityId": "john-stockton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Allen Iverson",
+          "entities": [
+            {
+              "entityId": "allen-iverson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Chris Paul",
+          "entities": [
+            {
+              "entityId": "chris-paul",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Bob Cousy",
+          "entities": [
+            {
+              "entityId": "bob-cousy",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Nate Archibald",
+          "entities": [
+            {
+              "entityId": "nate-archibald",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Tim Hardaway",
+          "entities": [
+            {
+              "entityId": "tim-hardaway",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Kevin Johnson",
+          "entities": [
+            {
+              "entityId": "kevin-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Lenny Wilkens",
+          "entities": [
+            {
+              "entityId": "lenny-wilkens",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Gail Goodrich",
+          "entities": [
+            {
+              "entityId": "gail-goodrich",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

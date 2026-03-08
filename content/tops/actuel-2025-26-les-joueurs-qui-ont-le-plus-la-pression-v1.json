@@ -1,0 +1,229 @@
+{
+  "slug": "actuel-2025-26-les-joueurs-qui-ont-le-plus-la-pression",
+  "title": "NBA Top 10 actuel (2025-26) : les joueurs qui ont le plus la pression",
+  "subject": "actuel (2025-26) : les joueurs qui ont le plus la pression",
+  "format": 10,
+  "temporalType": "dated",
+  "season": "2025-26",
+  "version": 1,
+  "publishedAt": "2025-10-27",
+  "videoId": "E3CNwZfuJzc",
+  "tags": [
+    "pression",
+    "saison"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Zion Williamson",
+          "entities": [
+            {
+              "entityId": "zion-williamson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "LaMelo Ball",
+          "entities": [
+            {
+              "entityId": "lamelo-ball",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Joel Embiid",
+          "entities": [
+            {
+              "entityId": "joel-embiid",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Luka Doncic",
+          "entities": [
+            {
+              "entityId": "luka-doncic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Jonathan Kuminga",
+          "entities": [
+            {
+              "entityId": "jonathan-kuminga",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Ja Morant",
+          "entities": [
+            {
+              "entityId": "ja-morant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Deandre Ayton",
+          "entities": [
+            {
+              "entityId": "deandre-ayton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "De'Aaron Fox",
+          "entities": [
+            {
+              "entityId": "de-aaron-fox",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Franz Wagner",
+          "entities": [
+            {
+              "entityId": "franz-wagner",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "James Harden",
+          "entities": [
+            {
+              "entityId": "james-harden",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Giannis Antetokounmpo",
+          "entities": [
+            {
+              "entityId": "giannis-antetokounmpo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Trae Young",
+          "entities": [
+            {
+              "entityId": "trae-young",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Ja Morant",
+          "entities": [
+            {
+              "entityId": "ja-morant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Anthony Davis",
+          "entities": [
+            {
+              "entityId": "anthony-davis",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "LaMelo Ball",
+          "entities": [
+            {
+              "entityId": "lamelo-ball",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "LeBron James",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Jaden Ivey",
+          "entities": [
+            {
+              "entityId": "jaden-ivey",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Rudy Gobert",
+          "entities": [
+            {
+              "entityId": "rudy-gobert",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "De'Aaron Fox",
+          "entities": [
+            {
+              "entityId": "de-aaron-fox",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Mike Brown",
+          "entities": [
+            {
+              "entityId": "mike-brown",
+              "entityType": "coach"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

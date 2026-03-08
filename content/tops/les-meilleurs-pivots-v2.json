@@ -1,0 +1,229 @@
+{
+  "slug": "les-meilleurs-pivots",
+  "title": "NBA Top 10 All Time : les meilleurs pivots !",
+  "subject": "meilleurs pivots all-time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 2,
+  "publishedAt": "2026-02-09",
+  "videoId": "3fa08qEJwH0",
+  "tags": [
+    "pivot",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Kareem Abdul-Jabbar",
+          "entities": [
+            {
+              "entityId": "kareem-abdul-jabbar",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Bill Russell",
+          "entities": [
+            {
+              "entityId": "bill-russell",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Wilt Chamberlain",
+          "entities": [
+            {
+              "entityId": "wilt-chamberlain",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Shaquille O'Neal",
+          "entities": [
+            {
+              "entityId": "shaquille-o-neal",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Hakeem Olajuwon",
+          "entities": [
+            {
+              "entityId": "hakeem-olajuwon",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Nikola Jokić",
+          "entities": [
+            {
+              "entityId": "nikola-jokic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Moses Malone",
+          "entities": [
+            {
+              "entityId": "moses-malone",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "David Robinson",
+          "entities": [
+            {
+              "entityId": "david-robinson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Willis Reed",
+          "entities": [
+            {
+              "entityId": "willis-reed",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Patrick Ewing",
+          "entities": [
+            {
+              "entityId": "patrick-ewing",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Kareem Abdul-Jabbar",
+          "entities": [
+            {
+              "entityId": "kareem-abdul-jabbar",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Bill Russell",
+          "entities": [
+            {
+              "entityId": "bill-russell",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Shaquille O'Neal",
+          "entities": [
+            {
+              "entityId": "shaquille-o-neal",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Wilt Chamberlain",
+          "entities": [
+            {
+              "entityId": "wilt-chamberlain",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Nikola Jokić",
+          "entities": [
+            {
+              "entityId": "nikola-jokic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Hakeem Olajuwon",
+          "entities": [
+            {
+              "entityId": "hakeem-olajuwon",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Moses Malone",
+          "entities": [
+            {
+              "entityId": "moses-malone",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "David Robinson",
+          "entities": [
+            {
+              "entityId": "david-robinson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Patrick Ewing",
+          "entities": [
+            {
+              "entityId": "patrick-ewing",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Willis Reed",
+          "entities": [
+            {
+              "entityId": "willis-reed",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

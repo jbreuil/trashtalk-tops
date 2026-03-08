@@ -1,0 +1,160 @@
+{
+  "slug": "meneurs-nba-2019-20-top-6-et-gros-debats",
+  "title": "Le Grand Apéro des meneurs NBA 2019-20 : Top 6 et gros débats !",
+  "subject": "meneurs NBA 2019-20 : Top 6 et gros débats",
+  "format": 6,
+  "temporalType": "dated",
+  "season": "2019-20",
+  "version": 1,
+  "publishedAt": "2020-04-26",
+  "videoId": "jnlGOR_AcOk",
+  "tags": [
+    "meneur"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Luka Doncic",
+          "entities": [
+            {
+              "entityId": "luka-doncic",
+              "entityType": "player",
+              "nbaId": 1629029
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Damian Lillard",
+          "entities": [
+            {
+              "entityId": "damian-lillard",
+              "entityType": "player",
+              "nbaId": 203081
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Russell Westbrook",
+          "entities": [
+            {
+              "entityId": "russell-westbrook",
+              "entityType": "player",
+              "nbaId": 201566
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Kyle Lowry",
+          "entities": [
+            {
+              "entityId": "kyle-lowry",
+              "entityType": "player",
+              "nbaId": 200768
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Chris Paul",
+          "entities": [
+            {
+              "entityId": "chris-paul",
+              "entityType": "player",
+              "nbaId": 101108
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Trae Young",
+          "entities": [
+            {
+              "entityId": "trae-young",
+              "entityType": "player",
+              "nbaId": 1629027
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Luka Doncic",
+          "entities": [
+            {
+              "entityId": "luka-doncic",
+              "entityType": "player",
+              "nbaId": 1629029
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Russell Westbrook",
+          "entities": [
+            {
+              "entityId": "russell-westbrook",
+              "entityType": "player",
+              "nbaId": 201566
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Damian Lillard",
+          "entities": [
+            {
+              "entityId": "damian-lillard",
+              "entityType": "player",
+              "nbaId": 203081
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Kyle Lowry",
+          "entities": [
+            {
+              "entityId": "kyle-lowry",
+              "entityType": "player",
+              "nbaId": 200768
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Chris Paul",
+          "entities": [
+            {
+              "entityId": "chris-paul",
+              "entityType": "player",
+              "nbaId": 101108
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Trae Young",
+          "entities": [
+            {
+              "entityId": "trae-young",
+              "entityType": "player",
+              "nbaId": 1629027
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "slug": "les-meilleurs-geants",
+  "title": "NBA Top 10 All-Time (2021-22) : les meilleurs géants",
+  "subject": "les meilleurs géants",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2022-05-09",
+  "videoId": "KEfdJRVZ06U",
+  "tags": [
+    "geant",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Yao Ming",
+          "entities": [
+            {
+              "entityId": "yao-ming",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Arvydas Sabonis",
+          "entities": [
+            {
+              "entityId": "arvydas-sabonis",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Ralph Sampson",
+          "entities": [
+            {
+              "entityId": "ralph-sampson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Mark Eaton",
+          "entities": [
+            {
+              "entityId": "mark-eaton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Zydrunas Ilgauskas",
+          "entities": [
+            {
+              "entityId": "zydrunas-ilgauskas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Rik Smits",
+          "entities": [
+            {
+              "entityId": "rik-smits",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Kristaps Porzingis",
+          "entities": [
+            {
+              "entityId": "kristaps-porzingis",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Shawn Bradley",
+          "entities": [
+            {
+              "entityId": "shawn-bradley",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Gheorghe Muresan",
+          "entities": [
+            {
+              "entityId": "gheorghe-muresan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Manute Bol",
+          "entities": [
+            {
+              "entityId": "manute-bol",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Yao Ming",
+          "entities": [
+            {
+              "entityId": "yao-ming",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Arvydas Sabonis",
+          "entities": [
+            {
+              "entityId": "arvydas-sabonis",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Ralph Sampson",
+          "entities": [
+            {
+              "entityId": "ralph-sampson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Mark Eaton",
+          "entities": [
+            {
+              "entityId": "mark-eaton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Zydrunas Ilgauskas",
+          "entities": [
+            {
+              "entityId": "zydrunas-ilgauskas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Rik Smits",
+          "entities": [
+            {
+              "entityId": "rik-smits",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Kristaps Porzingis",
+          "entities": [
+            {
+              "entityId": "kristaps-porzingis",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Manute Bol",
+          "entities": [
+            {
+              "entityId": "manute-bol",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Shawn Bradley",
+          "entities": [
+            {
+              "entityId": "shawn-bradley",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Gheorghe Muresan",
+          "entities": [
+            {
+              "entityId": "gheorghe-muresan",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

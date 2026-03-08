@@ -1,0 +1,229 @@
+{
+  "slug": "joueurs-dirty-all-time",
+  "title": "Top 10 joueurs dirty all-time",
+  "subject": "joueurs dirty all-time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2018-04-02",
+  "videoId": "f9fl8DLhUR0",
+  "tags": [
+    "dirty",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "BILL LAIMBEER",
+          "entities": [
+            {
+              "entityId": "bill-laimbeer",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "ZAZA PACHULIA",
+          "entities": [
+            {
+              "entityId": "zaza-pachulia",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "RICK MAHORN",
+          "entities": [
+            {
+              "entityId": "rick-mahorn",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "BRUCE BOWEN",
+          "entities": [
+            {
+              "entityId": "bruce-bowen",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "CHARLES OAKLEY",
+          "entities": [
+            {
+              "entityId": "charles-oakley",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "DENNIS RODMAN",
+          "entities": [
+            {
+              "entityId": "dennis-rodman",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "KARL MALONE",
+          "entities": [
+            {
+              "entityId": "karl-malone",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "ISIAH THOMAS",
+          "entities": [
+            {
+              "entityId": "isiah-thomas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "DANNY AINGE",
+          "entities": [
+            {
+              "entityId": "danny-ainge",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "CHRISTIAN LAETTNER",
+          "entities": [
+            {
+              "entityId": "christian-laettner",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "BILL LAIMBEER",
+          "entities": [
+            {
+              "entityId": "bill-laimbeer",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "BRUCE BOWEN",
+          "entities": [
+            {
+              "entityId": "bruce-bowen",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "ISIAH THOMAS",
+          "entities": [
+            {
+              "entityId": "isiah-thomas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "KARL MALONE",
+          "entities": [
+            {
+              "entityId": "karl-malone",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "DENNIS RODMAN",
+          "entities": [
+            {
+              "entityId": "dennis-rodman",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "RICK MAHORN",
+          "entities": [
+            {
+              "entityId": "rick-mahorn",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "CHARLES OAKLEY",
+          "entities": [
+            {
+              "entityId": "charles-oakley",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "DIKEMBE MUTOMBO",
+          "entities": [
+            {
+              "entityId": "dikembe-mutombo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "ZAZA PACHULIA",
+          "entities": [
+            {
+              "entityId": "zaza-pachulia",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "JOHN STOCKTON",
+          "entities": [
+            {
+              "entityId": "john-stockton",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

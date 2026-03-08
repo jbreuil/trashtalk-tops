@@ -1,0 +1,228 @@
+{
+  "slug": "les-pires-equipes",
+  "title": "NBA Top 10 All-Time (2021-22) : les pires équipes",
+  "subject": "les pires équipes",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2021-11-29",
+  "videoId": "w3HkwzV90Fw",
+  "tags": [
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "BOBCATS 2012",
+          "entities": [
+            {
+              "entityId": "charlotte-bobcats",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "SIXERS 2016",
+          "entities": [
+            {
+              "entityId": "philadelphia-76ers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "SIXERS 1973",
+          "entities": [
+            {
+              "entityId": "philadelphia-76ers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "CAVS 2011",
+          "entities": [
+            {
+              "entityId": "cleveland-cavaliers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "MAVS 1993",
+          "entities": [
+            {
+              "entityId": "dallas-mavericks",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "NUGGETS 1998",
+          "entities": [
+            {
+              "entityId": "denver-nuggets",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "HEAT 1988",
+          "entities": [
+            {
+              "entityId": "miami-heat",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "GRIZZLIES 1996",
+          "entities": [
+            {
+              "entityId": "vancouver-grizzlies",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "ROCKETS 1983",
+          "entities": [
+            {
+              "entityId": "houston-rockets",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "NETS 2010",
+          "entities": [
+            {
+              "entityId": "new-jersey-nets",
+              "entityType": "team"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "BOBCATS 2012",
+          "entities": [
+            {
+              "entityId": "charlotte-bobcats",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "SIXERS 2016",
+          "entities": [
+            {
+              "entityId": "philadelphia-76ers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "HAWKS 2005",
+          "entities": [
+            {
+              "entityId": "atlanta-hawks",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "NETS 2010",
+          "entities": [
+            {
+              "entityId": "new-jersey-nets",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "NUGGETS 1998",
+          "entities": [
+            {
+              "entityId": "denver-nuggets",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "KNICKS 2019",
+          "entities": [
+            {
+              "entityId": "new-york-knicks",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "BULLS 2002",
+          "entities": [
+            {
+              "entityId": "chicago-bulls",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "CLIPPERS 1987",
+          "entities": [
+            {
+              "entityId": "los-angeles-clippers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "MAVS 1993",
+          "entities": [
+            {
+              "entityId": "dallas-mavericks",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "KINGS 2009",
+          "entities": [
+            {
+              "entityId": "sacramento-kings",
+              "entityType": "team"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

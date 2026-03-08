@@ -1,0 +1,308 @@
+{
+  "slug": "connexion-interieur-exterieur",
+  "title": "NBA Top 10 all time : connexion intérieur - extérieur",
+  "subject": "connexion intérieur - extérieur all-time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2025-11-17",
+  "videoId": "E5FMfm_XyeQ",
+  "tags": [
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Stockton - Malone",
+          "entities": [
+            {
+              "entityId": "john-stockton",
+              "entityType": "player"
+            },
+            {
+              "entityId": "karl-malone",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Payton - Kemp",
+          "entities": [
+            {
+              "entityId": "gary-payton",
+              "entityType": "player"
+            },
+            {
+              "entityId": "shawn-kemp",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Parker - Duncan",
+          "entities": [
+            {
+              "entityId": "tony-parker",
+              "entityType": "player"
+            },
+            {
+              "entityId": "tim-duncan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Curry - Draymond",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            },
+            {
+              "entityId": "draymond-green",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Kobe - Shaq",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            },
+            {
+              "entityId": "shaquille-o-neal",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Magic - Kareem",
+          "entities": [
+            {
+              "entityId": "magic-johnson",
+              "entityType": "player"
+            },
+            {
+              "entityId": "kareem-abdul-jabbar",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Jokic - Murray",
+          "entities": [
+            {
+              "entityId": "nikola-jokic",
+              "entityType": "player"
+            },
+            {
+              "entityId": "jamal-murray",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Nash - Amare",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player"
+            },
+            {
+              "entityId": "amar-e-stoudemire",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "CP3 - Blake",
+          "entities": [
+            {
+              "entityId": "chris-paul",
+              "entityType": "player"
+            },
+            {
+              "entityId": "blake-griffin",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Kidd - Martin",
+          "entities": [
+            {
+              "entityId": "jason-kidd",
+              "entityType": "player"
+            },
+            {
+              "entityId": "kenyon-martin",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Stockton - Malone",
+          "entities": [
+            {
+              "entityId": "john-stockton",
+              "entityType": "player"
+            },
+            {
+              "entityId": "karl-malone",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Murray - Jokic",
+          "entities": [
+            {
+              "entityId": "jamal-murray",
+              "entityType": "player"
+            },
+            {
+              "entityId": "nikola-jokic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Kobe - Shaq",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            },
+            {
+              "entityId": "shaquille-o-neal",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Curry - Draymond",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            },
+            {
+              "entityId": "draymond-green",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Payton - Kemp",
+          "entities": [
+            {
+              "entityId": "gary-payton",
+              "entityType": "player"
+            },
+            {
+              "entityId": "shawn-kemp",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Nash - Amar'e",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player"
+            },
+            {
+              "entityId": "amar-e-stoudemire",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Magic - Kareem",
+          "entities": [
+            {
+              "entityId": "magic-johnson",
+              "entityType": "player"
+            },
+            {
+              "entityId": "kareem-abdul-jabbar",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Penny - Shaq",
+          "entities": [
+            {
+              "entityId": "anfernee-hardaway",
+              "entityType": "player"
+            },
+            {
+              "entityId": "shaquille-o-neal",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Tony - Duncan",
+          "entities": [
+            {
+              "entityId": "tony-parker",
+              "entityType": "player"
+            },
+            {
+              "entityId": "tim-duncan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Kidd - K-Mart",
+          "entities": [
+            {
+              "entityId": "jason-kidd",
+              "entityType": "player"
+            },
+            {
+              "entityId": "kenyon-martin",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "slug": "les-meneurs",
+  "title": "NBA Top 10 All-Time (2021-22) : les meneurs",
+  "subject": "les meneurs",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 2,
+  "publishedAt": "2021-11-01",
+  "videoId": "30jLGQ-rMnI",
+  "tags": [
+    "meneur",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "MAGIC JOHNSON",
+          "entities": [
+            {
+              "entityId": "magic-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "STEPHEN CURRY",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "ISIAH THOMAS",
+          "entities": [
+            {
+              "entityId": "isiah-thomas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "JOHN STOCKTON",
+          "entities": [
+            {
+              "entityId": "john-stockton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "OSCAR ROBERTSON",
+          "entities": [
+            {
+              "entityId": "oscar-robertson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "BOB COUSY",
+          "entities": [
+            {
+              "entityId": "bob-cousy",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "GARY PAYTON",
+          "entities": [
+            {
+              "entityId": "gary-payton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "JASON KIDD",
+          "entities": [
+            {
+              "entityId": "jason-kidd",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "CHRIS PAUL",
+          "entities": [
+            {
+              "entityId": "chris-paul",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "RUSSELL WESTBROOK",
+          "entities": [
+            {
+              "entityId": "russell-westbrook",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "MAGIC JOHNSON",
+          "entities": [
+            {
+              "entityId": "magic-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "STEPHEN CURRY",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "ISIAH THOMAS",
+          "entities": [
+            {
+              "entityId": "isiah-thomas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "JOHN STOCKTON",
+          "entities": [
+            {
+              "entityId": "john-stockton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "OSCAR ROBERTSON",
+          "entities": [
+            {
+              "entityId": "oscar-robertson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "JASON KIDD",
+          "entities": [
+            {
+              "entityId": "jason-kidd",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "BOB COUSY",
+          "entities": [
+            {
+              "entityId": "bob-cousy",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "GARY PAYTON",
+          "entities": [
+            {
+              "entityId": "gary-payton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "RUSSELL WESTBROOK",
+          "entities": [
+            {
+              "entityId": "russell-westbrook",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "STEVE NASH",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

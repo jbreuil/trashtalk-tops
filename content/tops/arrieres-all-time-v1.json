@@ -1,0 +1,249 @@
+{
+  "slug": "arrieres-all-time",
+  "title": "Apéro TrashTalk #11 - Top 10 Arrières All -Time",
+  "subject": "Arrières All -Time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2016-01-30",
+  "videoId": "TDKko4YWu10",
+  "tags": [
+    "arriere",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Michael Jordan",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player",
+              "nbaId": 893
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Kobe Bryant",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player",
+              "nbaId": 977
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Jerry West",
+          "entities": [
+            {
+              "entityId": "jerry-west",
+              "entityType": "player",
+              "nbaId": 78497
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Dwyane Wade",
+          "entities": [
+            {
+              "entityId": "dwyane-wade",
+              "entityType": "player",
+              "nbaId": 2548
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Allen Iverson",
+          "entities": [
+            {
+              "entityId": "allen-iverson",
+              "entityType": "player",
+              "nbaId": 947
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Clyde Drexler",
+          "entities": [
+            {
+              "entityId": "clyde-drexler",
+              "entityType": "player",
+              "nbaId": 17
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Ray Allen",
+          "entities": [
+            {
+              "entityId": "ray-allen",
+              "entityType": "player",
+              "nbaId": 951
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Sam Jones",
+          "entities": [
+            {
+              "entityId": "sam-jones",
+              "entityType": "player",
+              "nbaId": 77196
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Reggie Miller",
+          "entities": [
+            {
+              "entityId": "reggie-miller",
+              "entityType": "player",
+              "nbaId": 397
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Vince Carter",
+          "entities": [
+            {
+              "entityId": "vince-carter",
+              "entityType": "player",
+              "nbaId": 1713
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Michael Jordan",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player",
+              "nbaId": 893
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Kobe Bryant",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player",
+              "nbaId": 977
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Jerry West",
+          "entities": [
+            {
+              "entityId": "jerry-west",
+              "entityType": "player",
+              "nbaId": 78497
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Dwyane Wade",
+          "entities": [
+            {
+              "entityId": "dwyane-wade",
+              "entityType": "player",
+              "nbaId": 2548
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Clyde Drexler",
+          "entities": [
+            {
+              "entityId": "clyde-drexler",
+              "entityType": "player",
+              "nbaId": 17
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Allen Iverson",
+          "entities": [
+            {
+              "entityId": "allen-iverson",
+              "entityType": "player",
+              "nbaId": 947
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Ray Allen",
+          "entities": [
+            {
+              "entityId": "ray-allen",
+              "entityType": "player",
+              "nbaId": 951
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Sam Jones",
+          "entities": [
+            {
+              "entityId": "sam-jones",
+              "entityType": "player",
+              "nbaId": 77196
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Reggie Miller",
+          "entities": [
+            {
+              "entityId": "reggie-miller",
+              "entityType": "player",
+              "nbaId": 397
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Manu Ginobili",
+          "entities": [
+            {
+              "entityId": "manu-ginobili",
+              "entityType": "player",
+              "nbaId": 1938
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

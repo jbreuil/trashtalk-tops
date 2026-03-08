@@ -1,0 +1,233 @@
+{
+  "slug": "de-la-longevite-all-time",
+  "title": "Top 10 de la longévité all-time",
+  "subject": "la longévité all-time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2019-02-04",
+  "videoId": "H6128LcN4iw",
+  "tags": [
+    "longevite",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "KAREEM",
+          "entities": [
+            {
+              "entityId": "kareem-abdul-jabbar",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "MALONE",
+          "entities": [
+            {
+              "entityId": "karl-malone",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "DUNCAN",
+          "entities": [
+            {
+              "entityId": "tim-duncan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "STOCKTON",
+          "entities": [
+            {
+              "entityId": "john-stockton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "DIRK",
+          "entities": [
+            {
+              "entityId": "dirk-nowitzki",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "GARNETT",
+          "entities": [
+            {
+              "entityId": "kevin-garnett",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "LEBRON",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "WILT",
+          "entities": [
+            {
+              "entityId": "wilt-chamberlain",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "VINCE",
+          "entities": [
+            {
+              "entityId": "vince-carter",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "GASOL ET PARKER",
+          "entities": [
+            {
+              "entityId": "pau-gasol",
+              "entityType": "player"
+            },
+            {
+              "entityId": "tony-parker",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "KAREEM",
+          "entities": [
+            {
+              "entityId": "kareem-abdul-jabbar",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "MALONE",
+          "entities": [
+            {
+              "entityId": "karl-malone",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "STOCKTON",
+          "entities": [
+            {
+              "entityId": "john-stockton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "DUNCAN",
+          "entities": [
+            {
+              "entityId": "tim-duncan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "DIRK",
+          "entities": [
+            {
+              "entityId": "dirk-nowitzki",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "KOBE",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "GARNETT",
+          "entities": [
+            {
+              "entityId": "kevin-garnett",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "LEBRON",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "PARISH",
+          "entities": [
+            {
+              "entityId": "robert-parish",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "RAYRAY",
+          "entities": [
+            {
+              "entityId": "ray-allen",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

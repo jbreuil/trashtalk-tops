@@ -1,0 +1,233 @@
+{
+  "slug": "les-meilleurs-surnoms",
+  "title": "NBA Top 10 All-Time : les meilleurs surnoms",
+  "subject": "les meilleurs surnoms",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2025-04-07",
+  "videoId": "48LunyTryNs",
+  "tags": [
+    "surnoms",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Magic Johnson",
+          "entities": [
+            {
+              "entityId": "magic-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Doctor J",
+          "entities": [
+            {
+              "entityId": "julius-erving",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "The Answer",
+          "entities": [
+            {
+              "entityId": "allen-iverson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "The Glove",
+          "entities": [
+            {
+              "entityId": "gary-payton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "King James",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Big Shot Bob",
+          "entities": [
+            {
+              "entityId": "robert-horry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "White Chocolate",
+          "entities": [
+            {
+              "entityId": "jason-williams",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Iso Joe",
+          "entities": [
+            {
+              "entityId": "joe-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Pistol Pete",
+          "entities": [
+            {
+              "entityId": "pete-maravich",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Agent Zero",
+          "entities": [
+            {
+              "entityId": "gilbert-arenas",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Magic Johnson",
+          "entities": [
+            {
+              "entityId": "magic-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "The Dream",
+          "entities": [
+            {
+              "entityId": "hakeem-olajuwon",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Mozart of the Hoops",
+          "entities": [
+            {
+              "entityId": "tony-parker",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "The Answer",
+          "entities": [
+            {
+              "entityId": "allen-iverson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Vinsanity",
+          "entities": [
+            {
+              "entityId": "vince-carter",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "The Matrix",
+          "entities": [
+            {
+              "entityId": "shawn-marion",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Doctor J",
+          "entities": [
+            {
+              "entityId": "julius-erving",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "The Beard",
+          "entities": [
+            {
+              "entityId": "james-harden",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "The Prince of Darkness",
+          "entities": [
+            {
+              "entityId": "bill-laimbeer",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "The Splash Bros",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            },
+            {
+              "entityId": "klay-thompson",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

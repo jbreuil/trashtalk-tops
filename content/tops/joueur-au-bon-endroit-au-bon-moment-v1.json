@@ -1,0 +1,229 @@
+{
+  "slug": "joueur-au-bon-endroit-au-bon-moment",
+  "title": "NBA Top 10 All-Time : joueur au bon endroit au bon moment",
+  "subject": "joueur au bon endroit au bon moment all-time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2025-12-01",
+  "videoId": "dsU2e2o0TDI",
+  "tags": [
+    "moments",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Robert Horry",
+          "entities": [
+            {
+              "entityId": "robert-horry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Steve Kerr",
+          "entities": [
+            {
+              "entityId": "steve-kerr",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Danny Green",
+          "entities": [
+            {
+              "entityId": "danny-green",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "JaVale McGee",
+          "entities": [
+            {
+              "entityId": "javale-mcgee",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "John Salley",
+          "entities": [
+            {
+              "entityId": "john-salley",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Derek Fisher",
+          "entities": [
+            {
+              "entityId": "derek-fisher",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Shane Battier",
+          "entities": [
+            {
+              "entityId": "shane-battier",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Dennis Rodman",
+          "entities": [
+            {
+              "entityId": "dennis-rodman",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Sam Cassell",
+          "entities": [
+            {
+              "entityId": "sam-cassell",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Alex Caruso",
+          "entities": [
+            {
+              "entityId": "alex-caruso",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Robert Horry",
+          "entities": [
+            {
+              "entityId": "robert-horry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Steve Kerr",
+          "entities": [
+            {
+              "entityId": "steve-kerr",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Danny Green",
+          "entities": [
+            {
+              "entityId": "danny-green",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "JaVale McGee",
+          "entities": [
+            {
+              "entityId": "javale-mcgee",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Ray Allen",
+          "entities": [
+            {
+              "entityId": "ray-allen",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Mark Aguirre",
+          "entities": [
+            {
+              "entityId": "mark-aguirre",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Derek Fisher",
+          "entities": [
+            {
+              "entityId": "derek-fisher",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Sam Cassell",
+          "entities": [
+            {
+              "entityId": "sam-cassell",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Horace Grant",
+          "entities": [
+            {
+              "entityId": "horace-grant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Tony Parker",
+          "entities": [
+            {
+              "entityId": "tony-parker",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

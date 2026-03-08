@@ -1,0 +1,148 @@
+{
+  "slug": "coachs-nba-2019-20-top-6-et-gros-debats",
+  "title": "Le Grand Apéro des coachs NBA 2019-20 : Top 6 et gros débats !",
+  "subject": "coachs NBA 2019-20 : Top 6 et gros débats",
+  "format": 6,
+  "temporalType": "dated",
+  "season": "2019-20",
+  "version": 1,
+  "publishedAt": "2020-05-17",
+  "videoId": "fab4TkFVInk",
+  "tags": [
+    "coach"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Rick Carlisle",
+          "entities": [
+            {
+              "entityId": "rick-carlisle",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Nick Nurse",
+          "entities": [
+            {
+              "entityId": "nick-nurse",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Erik Spoelstra",
+          "entities": [
+            {
+              "entityId": "erik-spoelstra",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Frank Vogel",
+          "entities": [
+            {
+              "entityId": "frank-vogel",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Mike Budenholzer",
+          "entities": [
+            {
+              "entityId": "mike-budenholzer",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Brad Stevens",
+          "entities": [
+            {
+              "entityId": "brad-stevens",
+              "entityType": "coach"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Nick Nurse",
+          "entities": [
+            {
+              "entityId": "nick-nurse",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Frank Vogel",
+          "entities": [
+            {
+              "entityId": "frank-vogel",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Mike Budenholzer",
+          "entities": [
+            {
+              "entityId": "mike-budenholzer",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Rick Carlisle",
+          "entities": [
+            {
+              "entityId": "rick-carlisle",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Erik Spoelstra",
+          "entities": [
+            {
+              "entityId": "erik-spoelstra",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Taylor Jenkins",
+          "entities": [
+            {
+              "entityId": "taylor-jenkins",
+              "entityType": "coach"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

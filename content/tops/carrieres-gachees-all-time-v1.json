@@ -1,0 +1,229 @@
+{
+  "slug": "carrieres-gachees-all-time",
+  "title": "Top 10 carrières gâchées all-time",
+  "subject": "carrières gâchées all-time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2018-01-01",
+  "videoId": "bEXrK2khIgc",
+  "tags": [
+    "carrieres",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Drazen Petrovic",
+          "entities": [
+            {
+              "entityId": "drazen-petrovic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Brandon Roy",
+          "entities": [
+            {
+              "entityId": "brandon-roy",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Bill Walton",
+          "entities": [
+            {
+              "entityId": "bill-walton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Tracy McGrady",
+          "entities": [
+            {
+              "entityId": "tracy-mcgrady",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Gilbert Arenas",
+          "entities": [
+            {
+              "entityId": "gilbert-arenas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Penny Hardaway",
+          "entities": [
+            {
+              "entityId": "anfernee-hardaway",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Grant Hill",
+          "entities": [
+            {
+              "entityId": "grant-hill",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Derrick Rose",
+          "entities": [
+            {
+              "entityId": "derrick-rose",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Yao Ming",
+          "entities": [
+            {
+              "entityId": "yao-ming",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Pete Maravich",
+          "entities": [
+            {
+              "entityId": "pete-maravich",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Gilbert Arenas",
+          "entities": [
+            {
+              "entityId": "gilbert-arenas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Brandon Roy",
+          "entities": [
+            {
+              "entityId": "brandon-roy",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Drazen Petrovic",
+          "entities": [
+            {
+              "entityId": "drazen-petrovic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Tracy McGrady",
+          "entities": [
+            {
+              "entityId": "tracy-mcgrady",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Penny Hardaway",
+          "entities": [
+            {
+              "entityId": "anfernee-hardaway",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Grant Hill",
+          "entities": [
+            {
+              "entityId": "grant-hill",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Yao Ming",
+          "entities": [
+            {
+              "entityId": "yao-ming",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Bill Walton",
+          "entities": [
+            {
+              "entityId": "bill-walton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Larry Johnson",
+          "entities": [
+            {
+              "entityId": "larry-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Reggie Lewis",
+          "entities": [
+            {
+              "entityId": "reggie-lewis",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

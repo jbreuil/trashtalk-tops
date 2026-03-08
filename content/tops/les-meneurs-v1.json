@@ -1,0 +1,250 @@
+{
+  "slug": "les-meneurs",
+  "title": "Apéro TrashTalk #6 - Top 10 des Meneurs All-Time",
+  "subject": "des Meneurs All-Time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2016-01-21",
+  "videoId": "luG8IiqwreU",
+  "tags": [
+    "meneur",
+    "trashtalk",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Magic Johnson",
+          "entities": [
+            {
+              "entityId": "magic-johnson",
+              "entityType": "player",
+              "nbaId": 77142
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Isiah Thomas",
+          "entities": [
+            {
+              "entityId": "isiah-thomas",
+              "entityType": "player",
+              "nbaId": 78318
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "John Stockton",
+          "entities": [
+            {
+              "entityId": "john-stockton",
+              "entityType": "player",
+              "nbaId": 304
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Oscar Robertson",
+          "entities": [
+            {
+              "entityId": "oscar-robertson",
+              "entityType": "player",
+              "nbaId": 600015
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Jason Kidd",
+          "entities": [
+            {
+              "entityId": "jason-kidd",
+              "entityType": "player",
+              "nbaId": 467
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Steve Nash",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player",
+              "nbaId": 959
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Bob Cousy",
+          "entities": [
+            {
+              "entityId": "bob-cousy",
+              "entityType": "player",
+              "nbaId": 600003
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Gary Payton",
+          "entities": [
+            {
+              "entityId": "gary-payton",
+              "entityType": "player",
+              "nbaId": 56
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Stephen Curry",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player",
+              "nbaId": 201939
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Chris Paul",
+          "entities": [
+            {
+              "entityId": "chris-paul",
+              "entityType": "player",
+              "nbaId": 101108
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Magic Johnson",
+          "entities": [
+            {
+              "entityId": "magic-johnson",
+              "entityType": "player",
+              "nbaId": 77142
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "John Stockton",
+          "entities": [
+            {
+              "entityId": "john-stockton",
+              "entityType": "player",
+              "nbaId": 304
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Isiah Thomas",
+          "entities": [
+            {
+              "entityId": "isiah-thomas",
+              "entityType": "player",
+              "nbaId": 78318
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Oscar Robertson",
+          "entities": [
+            {
+              "entityId": "oscar-robertson",
+              "entityType": "player",
+              "nbaId": 600015
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Jason Kidd",
+          "entities": [
+            {
+              "entityId": "jason-kidd",
+              "entityType": "player",
+              "nbaId": 467
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Gary Payton",
+          "entities": [
+            {
+              "entityId": "gary-payton",
+              "entityType": "player",
+              "nbaId": 56
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Steve Nash",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player",
+              "nbaId": 959
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Bob Cousy",
+          "entities": [
+            {
+              "entityId": "bob-cousy",
+              "entityType": "player",
+              "nbaId": 600003
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Stephen Curry",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player",
+              "nbaId": 201939
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Chris Paul",
+          "entities": [
+            {
+              "entityId": "chris-paul",
+              "entityType": "player",
+              "nbaId": 101108
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

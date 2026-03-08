@@ -1,0 +1,233 @@
+{
+  "slug": "meilleures-performances-de-playoffs-all-time",
+  "title": "Top 10 meilleures performances de Playoffs all-time",
+  "subject": "meilleures performances de Playoffs all-time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2019-04-29",
+  "videoId": "3WXAaSz9CQ8",
+  "tags": [
+    "all-time",
+    "playoffs"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "MAGIC 1980",
+          "entities": [
+            {
+              "entityId": "magic-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "JORDAN 1997",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "LEBRON 2012",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "FRAZIER 1970",
+          "entities": [
+            {
+              "entityId": "walt-frazier",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "DUNCAN 2003",
+          "entities": [
+            {
+              "entityId": "tim-duncan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "WORTHY 1988",
+          "entities": [
+            {
+              "entityId": "james-worthy",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "BARKLEY 1993",
+          "entities": [
+            {
+              "entityId": "charles-barkley",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "LEBRON 2007",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "SHAQ 2000",
+          "entities": [
+            {
+              "entityId": "shaquille-o-neal",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "IVERSON 2001",
+          "entities": [
+            {
+              "entityId": "allen-iverson",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "MAGIC 1980",
+          "entities": [
+            {
+              "entityId": "magic-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "LEBRON 2016",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "JORDAN 1997",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "FRAZIER 1970",
+          "entities": [
+            {
+              "entityId": "walt-frazier",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "WORTHY 1988",
+          "entities": [
+            {
+              "entityId": "james-worthy",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "BARKLEY 1993",
+          "entities": [
+            {
+              "entityId": "charles-barkley",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "JORDAN 1993",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "LEBRON 2007",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "DUNCAN 2003",
+          "entities": [
+            {
+              "entityId": "tim-duncan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "BAYLOR RUSSELL 1962",
+          "entities": [
+            {
+              "entityId": "elgin-baylor",
+              "entityType": "player"
+            },
+            {
+              "entityId": "bill-russell",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

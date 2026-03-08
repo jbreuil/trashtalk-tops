@@ -1,0 +1,229 @@
+{
+  "slug": "meilleurs-general-managers-all-time",
+  "title": "Top 10 meilleurs General Managers all-time",
+  "subject": "meilleurs General Managers all-time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2019-05-13",
+  "videoId": "V39SeXhc26k",
+  "tags": [
+    "general-manager",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "RC BUFORD",
+          "entities": [
+            {
+              "entityId": "rc-buford",
+              "entityType": "gm"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "JERRY WEST",
+          "entities": [
+            {
+              "entityId": "jerry-west",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "RED AUERBACH",
+          "entities": [
+            {
+              "entityId": "red-auerbach",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "JERRY KRAUSE",
+          "entities": [
+            {
+              "entityId": "jerry-krause",
+              "entityType": "gm"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "PAT RILEY",
+          "entities": [
+            {
+              "entityId": "pat-riley",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "JACK MCCLOSKEY",
+          "entities": [
+            {
+              "entityId": "jack-mccloskey",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "BOB MYERS",
+          "entities": [
+            {
+              "entityId": "bob-myers",
+              "entityType": "gm"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "DONNIE NELSON",
+          "entities": [
+            {
+              "entityId": "donnie-nelson",
+              "entityType": "gm"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "DANNY AINGE",
+          "entities": [
+            {
+              "entityId": "danny-ainge",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "COLANGELO FAMILY",
+          "entities": [
+            {
+              "entityId": "jerry-colangelo",
+              "entityType": "coach"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "RED AUERBACH",
+          "entities": [
+            {
+              "entityId": "red-auerbach",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "JERRY WEST",
+          "entities": [
+            {
+              "entityId": "jerry-west",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "JERRY KRAUSE",
+          "entities": [
+            {
+              "entityId": "jerry-krause",
+              "entityType": "gm"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "RC BUFORD",
+          "entities": [
+            {
+              "entityId": "rc-buford",
+              "entityType": "gm"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "PAT RILEY",
+          "entities": [
+            {
+              "entityId": "pat-riley",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "JACK MCCLOSKEY",
+          "entities": [
+            {
+              "entityId": "jack-mccloskey",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "BOB MYERS",
+          "entities": [
+            {
+              "entityId": "bob-myers",
+              "entityType": "gm"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "DANNY AINGE",
+          "entities": [
+            {
+              "entityId": "danny-ainge",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "GEOFF PETRIE",
+          "entities": [
+            {
+              "entityId": "geoff-petrie",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "JERRY COLANGELO",
+          "entities": [
+            {
+              "entityId": "jerry-colangelo",
+              "entityType": "coach"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

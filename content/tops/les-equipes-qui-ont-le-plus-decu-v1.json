@@ -1,0 +1,229 @@
+{
+  "slug": "les-equipes-qui-ont-le-plus-decu",
+  "title": "NBA Top 10 all time : les équipes qui ont le plus déçu",
+  "subject": "équipes qui ont le plus déçu all-time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2025-11-03",
+  "videoId": "NCm-jviCa7A",
+  "tags": [
+    "franchise",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Lakers 2013",
+          "entities": [
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Nets 2021",
+          "entities": [
+            {
+              "entityId": "brooklyn-nets",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Clippers 2020",
+          "entities": [
+            {
+              "entityId": "los-angeles-clippers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Sonics 1994",
+          "entities": [
+            {
+              "entityId": "seattle-supersonics",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Heat 2011",
+          "entities": [
+            {
+              "entityId": "miami-heat",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Lakers 2004",
+          "entities": [
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Thunder 2018",
+          "entities": [
+            {
+              "entityId": "oklahoma-city-thunder",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Mavs 2007",
+          "entities": [
+            {
+              "entityId": "dallas-mavericks",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Celtics 2019",
+          "entities": [
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Nets 2014",
+          "entities": [
+            {
+              "entityId": "brooklyn-nets",
+              "entityType": "team"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Suns 2023-25",
+          "entities": [
+            {
+              "entityId": "phoenix-suns",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Lakers 2012-13",
+          "entities": [
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Sonics 1993-94",
+          "entities": [
+            {
+              "entityId": "seattle-supersonics",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Knicks 2013-14",
+          "entities": [
+            {
+              "entityId": "new-york-knicks",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Mavs 2006-07",
+          "entities": [
+            {
+              "entityId": "dallas-mavericks",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Nets 2021-22",
+          "entities": [
+            {
+              "entityId": "brooklyn-nets",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Clippers 2022-25",
+          "entities": [
+            {
+              "entityId": "los-angeles-clippers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Spurs 2010-11",
+          "entities": [
+            {
+              "entityId": "san-antonio-spurs",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Suns 1994-95",
+          "entities": [
+            {
+              "entityId": "phoenix-suns",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Lakers 2003-04",
+          "entities": [
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

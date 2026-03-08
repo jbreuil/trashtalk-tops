@@ -1,0 +1,269 @@
+{
+  "slug": "les-plus-grands-what-if",
+  "title": "NBA Top 10 All-Time : les plus grands \"WHAT IF ?",
+  "subject": "les plus grands \"WHAT IF ?",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2025-12-15",
+  "videoId": "5KeGj4D-5Dw",
+  "tags": [
+    "what-if",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Portland Draft Jordan",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            },
+            {
+              "entityId": "portland-trail-blazers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Tim Duncan au Rebond",
+          "entities": [
+            {
+              "entityId": "tim-duncan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Derrick Rose Blessure",
+          "entities": [
+            {
+              "entityId": "derrick-rose",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Orteil KD",
+          "entities": [
+            {
+              "entityId": "kevin-durant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Melo Draft - Detroit",
+          "entities": [
+            {
+              "entityId": "carmelo-anthony",
+              "entityType": "player"
+            },
+            {
+              "entityId": "detroit-pistons",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Kings Lakers 2002",
+          "entities": [
+            {
+              "entityId": "sacramento-kings",
+              "entityType": "team"
+            },
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Grant Hill Blessure",
+          "entities": [
+            {
+              "entityId": "grant-hill",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Harden - OKC",
+          "entities": [
+            {
+              "entityId": "james-harden",
+              "entityType": "player"
+            },
+            {
+              "entityId": "oklahoma-city-thunder",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Curry chez les Wolves",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            },
+            {
+              "entityId": "minnesota-timberwolves",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Blessure Haliburton",
+          "entities": [
+            {
+              "entityId": "tyrese-haliburton",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "LeBron No Decision",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Blazers Draft Jordan",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            },
+            {
+              "entityId": "portland-trail-blazers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Kings 2002 Arbitrage",
+          "entities": [
+            {
+              "entityId": "sacramento-kings",
+              "entityType": "team"
+            },
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Shoot Kawhi",
+          "entities": [
+            {
+              "entityId": "kawhi-leonard",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Orteil KD",
+          "entities": [
+            {
+              "entityId": "kevin-durant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Wolves Draft Curry",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            },
+            {
+              "entityId": "minnesota-timberwolves",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Genou D-Rose",
+          "entities": [
+            {
+              "entityId": "derrick-rose",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Nets Draft Kobe",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            },
+            {
+              "entityId": "new-jersey-nets",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Pistons Draft Melo",
+          "entities": [
+            {
+              "entityId": "carmelo-anthony",
+              "entityType": "player"
+            },
+            {
+              "entityId": "detroit-pistons",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Len Bias",
+          "entities": [
+            {
+              "entityId": "len-bias",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

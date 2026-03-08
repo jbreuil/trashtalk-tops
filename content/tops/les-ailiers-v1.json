@@ -1,0 +1,249 @@
+{
+  "slug": "les-ailiers",
+  "title": "Apéro TrashTalk #13 - Top 10 Ailiers All-Time",
+  "subject": "Ailiers All-Time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2016-02-03",
+  "videoId": "hLW-y7qx_V8",
+  "tags": [
+    "ailier",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "LeBron James",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player",
+              "nbaId": 2544
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Larry Bird",
+          "entities": [
+            {
+              "entityId": "larry-bird",
+              "entityType": "player",
+              "nbaId": 1449
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Scottie Pippen",
+          "entities": [
+            {
+              "entityId": "scottie-pippen",
+              "entityType": "player",
+              "nbaId": 937
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "John Havlicek",
+          "entities": [
+            {
+              "entityId": "john-havlicek",
+              "entityType": "player",
+              "nbaId": 76970
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Julius Erving",
+          "entities": [
+            {
+              "entityId": "julius-erving",
+              "entityType": "player",
+              "nbaId": 76681
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "James Worthy",
+          "entities": [
+            {
+              "entityId": "james-worthy",
+              "entityType": "player",
+              "nbaId": 1460
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Paul Pierce",
+          "entities": [
+            {
+              "entityId": "paul-pierce",
+              "entityType": "player",
+              "nbaId": 1718
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Elgin Baylor",
+          "entities": [
+            {
+              "entityId": "elgin-baylor",
+              "entityType": "player",
+              "nbaId": 76127
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Dominique Wilkins",
+          "entities": [
+            {
+              "entityId": "dominique-wilkins",
+              "entityType": "player",
+              "nbaId": 1122
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Rick Barry",
+          "entities": [
+            {
+              "entityId": "rick-barry",
+              "entityType": "player",
+              "nbaId": 600013
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "LeBron James",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player",
+              "nbaId": 2544
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Larry Bird",
+          "entities": [
+            {
+              "entityId": "larry-bird",
+              "entityType": "player",
+              "nbaId": 1449
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "John Havlicek",
+          "entities": [
+            {
+              "entityId": "john-havlicek",
+              "entityType": "player",
+              "nbaId": 76970
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Julius Erving",
+          "entities": [
+            {
+              "entityId": "julius-erving",
+              "entityType": "player",
+              "nbaId": 76681
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Scottie Pippen",
+          "entities": [
+            {
+              "entityId": "scottie-pippen",
+              "entityType": "player",
+              "nbaId": 937
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "James Worthy",
+          "entities": [
+            {
+              "entityId": "james-worthy",
+              "entityType": "player",
+              "nbaId": 1460
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Elgin Baylor",
+          "entities": [
+            {
+              "entityId": "elgin-baylor",
+              "entityType": "player",
+              "nbaId": 76127
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Paul Pierce",
+          "entities": [
+            {
+              "entityId": "paul-pierce",
+              "entityType": "player",
+              "nbaId": 1718
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Dominique Wilkins",
+          "entities": [
+            {
+              "entityId": "dominique-wilkins",
+              "entityType": "player",
+              "nbaId": 1122
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Kevin Durant",
+          "entities": [
+            {
+              "entityId": "kevin-durant",
+              "entityType": "player",
+              "nbaId": 201142
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

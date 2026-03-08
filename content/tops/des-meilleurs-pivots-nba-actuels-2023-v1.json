@@ -1,0 +1,149 @@
+{
+  "slug": "des-meilleurs-pivots-nba-actuels-2023",
+  "title": "Top 6 des meilleurs pivots NBA actuels (2023) !",
+  "subject": "meilleurs pivots NBA actuels (2023)",
+  "format": 6,
+  "temporalType": "dated",
+  "season": "2022-23",
+  "version": 1,
+  "publishedAt": "2023-08-07",
+  "videoId": "A8BxeQnWsS0",
+  "tags": [
+    "pivot",
+    "saison"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Nikola Jokic",
+          "entities": [
+            {
+              "entityId": "nikola-jokic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Joel Embiid",
+          "entities": [
+            {
+              "entityId": "joel-embiid",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Bam Adebayo",
+          "entities": [
+            {
+              "entityId": "bam-adebayo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Domantas Sabonis",
+          "entities": [
+            {
+              "entityId": "domantas-sabonis",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Rudy Gobert",
+          "entities": [
+            {
+              "entityId": "rudy-gobert",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Deandre Ayton",
+          "entities": [
+            {
+              "entityId": "deandre-ayton",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Nikola Jokic",
+          "entities": [
+            {
+              "entityId": "nikola-jokic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Joel Embiid",
+          "entities": [
+            {
+              "entityId": "joel-embiid",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Bam Adebayo",
+          "entities": [
+            {
+              "entityId": "bam-adebayo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Domantas Sabonis",
+          "entities": [
+            {
+              "entityId": "domantas-sabonis",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Kristaps Porzingis",
+          "entities": [
+            {
+              "entityId": "kristaps-porzingis",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Brook Lopez",
+          "entities": [
+            {
+              "entityId": "brook-lopez",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

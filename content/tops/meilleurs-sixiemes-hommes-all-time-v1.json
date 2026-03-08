@@ -1,0 +1,229 @@
+{
+  "slug": "meilleurs-sixiemes-hommes-all-time",
+  "title": "Top 10 meilleurs sixièmes hommes All-Time",
+  "subject": "meilleurs sixièmes hommes All-Time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2018-02-26",
+  "videoId": "d7z-AS4M-_8",
+  "tags": [
+    "all-time",
+    "sixieme-homme"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "MANU GINOBILI",
+          "entities": [
+            {
+              "entityId": "manu-ginobili",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "JOHN HAVLICEK",
+          "entities": [
+            {
+              "entityId": "john-havlicek",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "VINNIE JOHNSON",
+          "entities": [
+            {
+              "entityId": "vinnie-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "KEVIN MCHALE",
+          "entities": [
+            {
+              "entityId": "kevin-mchale",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "JAMAL CRAWFORD",
+          "entities": [
+            {
+              "entityId": "jamal-crawford",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "JASON TERRY",
+          "entities": [
+            {
+              "entityId": "jason-terry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "TONI KUKOC",
+          "entities": [
+            {
+              "entityId": "toni-kukoc",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "DETLEF SCHREMPF",
+          "entities": [
+            {
+              "entityId": "detlef-schrempf",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "MICHAEL COOPER",
+          "entities": [
+            {
+              "entityId": "michael-cooper",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "BOBBY JONES",
+          "entities": [
+            {
+              "entityId": "bobby-jones",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "JOHN HAVLICEK",
+          "entities": [
+            {
+              "entityId": "john-havlicek",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "MANU GINOBILI",
+          "entities": [
+            {
+              "entityId": "manu-ginobili",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "VINNIE JOHNSON",
+          "entities": [
+            {
+              "entityId": "vinnie-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "JAMAL CRAWFORD",
+          "entities": [
+            {
+              "entityId": "jamal-crawford",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "MICHAEL COOPER",
+          "entities": [
+            {
+              "entityId": "michael-cooper",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "KEVIN MCHALE",
+          "entities": [
+            {
+              "entityId": "kevin-mchale",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "JASON TERRY",
+          "entities": [
+            {
+              "entityId": "jason-terry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "TONI KUKOC",
+          "entities": [
+            {
+              "entityId": "toni-kukoc",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "DELL CURRY",
+          "entities": [
+            {
+              "entityId": "dell-curry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "ROBERT HORRY",
+          "entities": [
+            {
+              "entityId": "robert-horry",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

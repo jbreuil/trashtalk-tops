@@ -1,0 +1,229 @@
+{
+  "slug": "meilleurs-trashtalkers-all-time",
+  "title": "Top 10 meilleurs trashtalkers all-time",
+  "subject": "meilleurs trashtalkers all-time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2017-12-25",
+  "videoId": "XE9vXGyv5sA",
+  "tags": [
+    "trashtalk",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Gary Payton",
+          "entities": [
+            {
+              "entityId": "gary-payton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Larry Bird",
+          "entities": [
+            {
+              "entityId": "larry-bird",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Michael Jordan",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Reggie Miller",
+          "entities": [
+            {
+              "entityId": "reggie-miller",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Kevin Garnett",
+          "entities": [
+            {
+              "entityId": "kevin-garnett",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Rasheed Wallace",
+          "entities": [
+            {
+              "entityId": "rasheed-wallace",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Paul Pierce",
+          "entities": [
+            {
+              "entityId": "paul-pierce",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Charles Barkley",
+          "entities": [
+            {
+              "entityId": "charles-barkley",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Kobe Bryant",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Shaquille O'Neal",
+          "entities": [
+            {
+              "entityId": "shaquille-o-neal",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Larry Bird",
+          "entities": [
+            {
+              "entityId": "larry-bird",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Gary Payton",
+          "entities": [
+            {
+              "entityId": "gary-payton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Michael Jordan",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Reggie Miller",
+          "entities": [
+            {
+              "entityId": "reggie-miller",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Rasheed Wallace",
+          "entities": [
+            {
+              "entityId": "rasheed-wallace",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Paul Pierce",
+          "entities": [
+            {
+              "entityId": "paul-pierce",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Kevin Garnett",
+          "entities": [
+            {
+              "entityId": "kevin-garnett",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Dikembe Mutombo",
+          "entities": [
+            {
+              "entityId": "dikembe-mutombo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Kobe Bryant",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Red Auerbach",
+          "entities": [
+            {
+              "entityId": "red-auerbach",
+              "entityType": "coach"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

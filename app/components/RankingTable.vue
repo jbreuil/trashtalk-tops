@@ -1,6 +1,7 @@
 <script setup lang="ts">
-import type { RankingEntry } from '~/types'
+import type { RankingEntityRef, RankingEntry } from '~/types'
 import { computed, ref, watch } from 'vue'
+import { useEntities } from '~/composables/useEntities'
 import { useRankingOrder } from '~/composables/useRankingOrder'
 import { useSpoiler } from '~/composables/useSpoiler'
 
@@ -12,6 +13,7 @@ const props = defineProps<{
 
 const { spoilerOn } = useSpoiler()
 const { ascending } = useRankingOrder()
+const { getById } = useEntities()
 
 // Granular spoiler: track which cells have been revealed
 const revealedCells = ref<Set<number>>(new Set())
@@ -63,6 +65,10 @@ function videoLink(videoId: string | undefined, timestamp: number | undefined): 
     return `https://www.youtube.com/watch?v=${videoId}&t=${timestamp}`
   return undefined
 }
+
+function entityName(ref: RankingEntityRef): string {
+  return getById(ref.entityId)?.name ?? ref.entityId
+}
 </script>
 
 <template>
@@ -96,9 +102,10 @@ function videoLink(videoId: string | undefined, timestamp: number | undefined): 
           </td>
           <td class="py-2.5 pr-4" @click="revealCell(entry.rank)">
             <div class="flex items-center gap-2">
+              <!-- Single entity: display entry.name as one link -->
               <NuxtLink
-                v-if="entry.entityId"
-                :to="`/entity/${entry.entityId}`"
+                v-if="entry.entities?.length === 1"
+                :to="`/entity/${entry.entities[0].entityId}`"
                 class="font-medium transition-colors hover:text-primary-500"
                 :class="{
                   'blur-md select-none pointer-events-none': isCellBlurred(entry.rank),
@@ -107,6 +114,27 @@ function videoLink(videoId: string | undefined, timestamp: number | undefined): 
               >
                 {{ entry.name }}
               </NuxtLink>
+              <!-- Multiple entities: display each as a separate link -->
+              <span
+                v-else-if="entry.entities && entry.entities.length > 1"
+                class="font-medium"
+                :class="{
+                  'blur-md select-none': isCellBlurred(entry.rank),
+                  'cursor-pointer': isCellBlurred(entry.rank),
+                }"
+              >
+                <template v-for="(entityRef, i) in entry.entities" :key="entityRef.entityId">
+                  <template v-if="i > 0"> &amp; </template>
+                  <NuxtLink
+                    :to="`/entity/${entityRef.entityId}`"
+                    class="transition-colors hover:text-primary-500"
+                    :class="{ 'pointer-events-none': isCellBlurred(entry.rank) }"
+                  >
+                    {{ entityName(entityRef) }}
+                  </NuxtLink>
+                </template>
+              </span>
+              <!-- No entity: plain text -->
               <span
                 v-else
                 class="font-medium"

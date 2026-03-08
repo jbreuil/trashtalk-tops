@@ -1,0 +1,229 @@
+{
+  "slug": "actuel-2024-25-les-meilleurs-pivots",
+  "title": "NBA Top 10 actuel (2024-25) : les meilleurs pivots !",
+  "subject": "actuel (2024-25) : les meilleurs pivots",
+  "format": 10,
+  "temporalType": "dated",
+  "season": "2024-25",
+  "version": 1,
+  "publishedAt": "2024-11-04",
+  "videoId": "WPJl3j6kyKI",
+  "tags": [
+    "pivot",
+    "saison"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Nikola Jokic",
+          "entities": [
+            {
+              "entityId": "nikola-jokic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Joel Embiid",
+          "entities": [
+            {
+              "entityId": "joel-embiid",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Bam Adebayo",
+          "entities": [
+            {
+              "entityId": "bam-adebayo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Victor Wembanyama",
+          "entities": [
+            {
+              "entityId": "victor-wembanyama",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Chet Holmgren",
+          "entities": [
+            {
+              "entityId": "chet-holmgren",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Domantas Sabonis",
+          "entities": [
+            {
+              "entityId": "domantas-sabonis",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Karl-Anthony Towns",
+          "entities": [
+            {
+              "entityId": "karl-anthony-towns",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Rudy Gobert",
+          "entities": [
+            {
+              "entityId": "rudy-gobert",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Alperen Sengun",
+          "entities": [
+            {
+              "entityId": "alperen-sengun",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Kristaps Porzingis",
+          "entities": [
+            {
+              "entityId": "kristaps-porzingis",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Nikola Jokic",
+          "entities": [
+            {
+              "entityId": "nikola-jokic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Joel Embiid",
+          "entities": [
+            {
+              "entityId": "joel-embiid",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Bam Adebayo",
+          "entities": [
+            {
+              "entityId": "bam-adebayo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Victor Wembanyama",
+          "entities": [
+            {
+              "entityId": "victor-wembanyama",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Chet Holmgren",
+          "entities": [
+            {
+              "entityId": "chet-holmgren",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Domantas Sabonis",
+          "entities": [
+            {
+              "entityId": "domantas-sabonis",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Karl-Anthony Towns",
+          "entities": [
+            {
+              "entityId": "karl-anthony-towns",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Rudy Gobert",
+          "entities": [
+            {
+              "entityId": "rudy-gobert",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Alperen Sengun",
+          "entities": [
+            {
+              "entityId": "alperen-sengun",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Kristaps Porzingis",
+          "entities": [
+            {
+              "entityId": "kristaps-porzingis",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

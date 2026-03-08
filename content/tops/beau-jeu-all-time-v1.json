@@ -1,0 +1,249 @@
+{
+  "slug": "beau-jeu-all-time",
+  "title": "Top 10 Beau Jeu All-Time",
+  "subject": "Beau Jeu All-Time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2017-12-11",
+  "videoId": "6dk9Y3LuCBA",
+  "tags": [
+    "beau-jeu",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Warriors 2016",
+          "entities": [
+            {
+              "entityId": "golden-state-warriors",
+              "entityType": "team"
+            }
+          ],
+          "context": "2016"
+        },
+        {
+          "rank": 2,
+          "name": "Celtics 1986",
+          "entities": [
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            }
+          ],
+          "context": "1986"
+        },
+        {
+          "rank": 3,
+          "name": "Lakers 1987",
+          "entities": [
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            }
+          ],
+          "context": "1987"
+        },
+        {
+          "rank": 4,
+          "name": "Suns 2005",
+          "entities": [
+            {
+              "entityId": "phoenix-suns",
+              "entityType": "team"
+            }
+          ],
+          "context": "2005"
+        },
+        {
+          "rank": 5,
+          "name": "Spurs 2014",
+          "entities": [
+            {
+              "entityId": "san-antonio-spurs",
+              "entityType": "team"
+            }
+          ],
+          "context": "2014"
+        },
+        {
+          "rank": 6,
+          "name": "Kings 00s",
+          "entities": [
+            {
+              "entityId": "sacramento-kings",
+              "entityType": "team"
+            }
+          ],
+          "context": "2000s"
+        },
+        {
+          "rank": 7,
+          "name": "Mavs 2002",
+          "entities": [
+            {
+              "entityId": "dallas-mavericks",
+              "entityType": "team"
+            }
+          ],
+          "context": "2002"
+        },
+        {
+          "rank": 8,
+          "name": "We Believe",
+          "entities": [
+            {
+              "entityId": "golden-state-warriors",
+              "entityType": "team"
+            }
+          ],
+          "context": "We Believe"
+        },
+        {
+          "rank": 9,
+          "name": "Bulls 1996",
+          "entities": [
+            {
+              "entityId": "chicago-bulls",
+              "entityType": "team"
+            }
+          ],
+          "context": "1996"
+        },
+        {
+          "rank": 10,
+          "name": "Suns 1993",
+          "entities": [
+            {
+              "entityId": "phoenix-suns",
+              "entityType": "team"
+            }
+          ],
+          "context": "1993"
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Lakers 80s",
+          "entities": [
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            }
+          ],
+          "context": "80s"
+        },
+        {
+          "rank": 2,
+          "name": "Warriors 10s",
+          "entities": [
+            {
+              "entityId": "golden-state-warriors",
+              "entityType": "team"
+            }
+          ],
+          "context": "10s"
+        },
+        {
+          "rank": 3,
+          "name": "Suns 00s",
+          "entities": [
+            {
+              "entityId": "phoenix-suns",
+              "entityType": "team"
+            }
+          ],
+          "context": "00s"
+        },
+        {
+          "rank": 4,
+          "name": "Spurs 2014",
+          "entities": [
+            {
+              "entityId": "san-antonio-spurs",
+              "entityType": "team"
+            }
+          ],
+          "context": "2014"
+        },
+        {
+          "rank": 5,
+          "name": "Kings 00s",
+          "entities": [
+            {
+              "entityId": "sacramento-kings",
+              "entityType": "team"
+            }
+          ],
+          "context": "00s"
+        },
+        {
+          "rank": 6,
+          "name": "Run TMC",
+          "entities": [
+            {
+              "entityId": "golden-state-warriors",
+              "entityType": "team"
+            }
+          ],
+          "context": "Run TMC"
+        },
+        {
+          "rank": 7,
+          "name": "Celtics 86",
+          "entities": [
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            }
+          ],
+          "context": "1986"
+        },
+        {
+          "rank": 8,
+          "name": "Heatles",
+          "entities": [
+            {
+              "entityId": "miami-heat",
+              "entityType": "team"
+            }
+          ],
+          "context": "Heatles"
+        },
+        {
+          "rank": 9,
+          "name": "Nuggets 80s",
+          "entities": [
+            {
+              "entityId": "denver-nuggets",
+              "entityType": "team"
+            }
+          ],
+          "context": "80s"
+        },
+        {
+          "rank": 10,
+          "name": "Bad Boys",
+          "entities": [
+            {
+              "entityId": "detroit-pistons",
+              "entityType": "team"
+            }
+          ],
+          "context": "Bad Boys"
+        }
+      ]
+    }
+  ]
+}

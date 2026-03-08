@@ -1,0 +1,229 @@
+{
+  "slug": "joueurs-internationaux",
+  "title": "NBA Top 10 All-Time (2021-22) : joueurs internationaux",
+  "subject": "joueurs internationaux",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2021-11-22",
+  "videoId": "p0n5JTK85SU",
+  "tags": [
+    "all-time",
+    "international"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "DIRK NOWITZKI",
+          "entities": [
+            {
+              "entityId": "dirk-nowitzki",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "G. ANTETOKOUNMPO",
+          "entities": [
+            {
+              "entityId": "giannis-antetokounmpo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "STEVE NASH",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "PAU GASOL",
+          "entities": [
+            {
+              "entityId": "pau-gasol",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "TONY PARKER",
+          "entities": [
+            {
+              "entityId": "tony-parker",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "MANU GINOBILI",
+          "entities": [
+            {
+              "entityId": "manu-ginobili",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "NIKOLA JOKIC",
+          "entities": [
+            {
+              "entityId": "nikola-jokic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "DIKEMBE MUTOMBO",
+          "entities": [
+            {
+              "entityId": "dikembe-mutombo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "MARC GASOL",
+          "entities": [
+            {
+              "entityId": "marc-gasol",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "YAO MING",
+          "entities": [
+            {
+              "entityId": "yao-ming",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "DIRK NOWITZKI",
+          "entities": [
+            {
+              "entityId": "dirk-nowitzki",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "G. ANTETOKOUNMPO",
+          "entities": [
+            {
+              "entityId": "giannis-antetokounmpo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "PAU GASOL",
+          "entities": [
+            {
+              "entityId": "pau-gasol",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "STEVE NASH",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "TONY PARKER",
+          "entities": [
+            {
+              "entityId": "tony-parker",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "MANU GINOBILI",
+          "entities": [
+            {
+              "entityId": "manu-ginobili",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "DIKEMBE MUTOMBO",
+          "entities": [
+            {
+              "entityId": "dikembe-mutombo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "MARC GASOL",
+          "entities": [
+            {
+              "entityId": "marc-gasol",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "YAO MING",
+          "entities": [
+            {
+              "entityId": "yao-ming",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "NIKOLA JOKIC",
+          "entities": [
+            {
+              "entityId": "nikola-jokic",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

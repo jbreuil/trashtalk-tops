@@ -1,0 +1,223 @@
+{
+  "slug": "actuel-2025-26-les-meilleurs-joueurs-two-way",
+  "title": "NBA Top 10 actuel (2025-26) : les meilleurs joueurs « two-way » !",
+  "subject": "actuel (2025-26) : les meilleurs joueurs « two-way »",
+  "format": 10,
+  "temporalType": "dated",
+  "season": "2025-26",
+  "version": 1,
+  "publishedAt": "2026-02-02",
+  "videoId": "4n-ysWZuE9Y",
+  "tags": [
+    "two-way",
+    "saison"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Giannis Antetokounmpo",
+          "entities": [
+            {
+              "entityId": "giannis-antetokounmpo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Shai Gilgeous-Alexander",
+          "entities": [
+            {
+              "entityId": "shai-gilgeous-alexander",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Jaylen Brown",
+          "entities": [
+            {
+              "entityId": "jaylen-brown",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Victor Wembanyama",
+          "entities": [
+            {
+              "entityId": "victor-wembanyama",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Kawhi Leonard",
+          "entities": [
+            {
+              "entityId": "kawhi-leonard",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Scottie Barnes",
+          "entities": [
+            {
+              "entityId": "scottie-barnes",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Anthony Edwards",
+          "entities": [
+            {
+              "entityId": "anthony-edwards",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Bam Adebayo",
+          "entities": [
+            {
+              "entityId": "bam-adebayo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Jalen Williams",
+          "entities": [
+            {
+              "entityId": "jalen-williams",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Jayson Tatum",
+          "entities": [
+            {
+              "entityId": "jayson-tatum",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Shai Gilgeous-Alexander",
+          "entities": [
+            {
+              "entityId": "shai-gilgeous-alexander",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Giannis Antetokounmpo",
+          "entities": [
+            {
+              "entityId": "giannis-antetokounmpo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Victor Wembanyama",
+          "entities": [
+            {
+              "entityId": "victor-wembanyama",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Jaylen Brown",
+          "entities": [
+            {
+              "entityId": "jaylen-brown",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Bam Adebayo",
+          "entities": [
+            {
+              "entityId": "bam-adebayo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Jalen Williams",
+          "entities": [
+            {
+              "entityId": "jalen-williams",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Scottie Barnes",
+          "entities": [
+            {
+              "entityId": "scottie-barnes",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Evan Mobley",
+          "entities": [
+            {
+              "entityId": "evan-mobley",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Amen Thompson",
+          "entities": [
+            {
+              "entityId": "amen-thompson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Kawhi Leonard / Anthony Davis"
+        }
+      ]
+    }
+  ]
+}

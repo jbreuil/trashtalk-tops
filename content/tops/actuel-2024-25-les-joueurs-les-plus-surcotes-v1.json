@@ -1,0 +1,229 @@
+{
+  "slug": "actuel-2024-25-les-joueurs-les-plus-surcotes",
+  "title": "NBA Top 10 actuel (2024-25) : les joueurs les plus surcotés",
+  "subject": "actuel (2024-25) : les joueurs les plus surcotés",
+  "format": 10,
+  "temporalType": "dated",
+  "season": "2024-25",
+  "version": 1,
+  "publishedAt": "2024-11-18",
+  "videoId": "PNpgA0nny9g",
+  "tags": [
+    "surcotes",
+    "saison"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Jamal Murray",
+          "entities": [
+            {
+              "entityId": "jamal-murray",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Tyler Herro",
+          "entities": [
+            {
+              "entityId": "tyler-herro",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Paul George",
+          "entities": [
+            {
+              "entityId": "paul-george",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "DeMar DeRozan",
+          "entities": [
+            {
+              "entityId": "demar-derozan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Karl-Anthony Towns",
+          "entities": [
+            {
+              "entityId": "karl-anthony-towns",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Tyrese Haliburton",
+          "entities": [
+            {
+              "entityId": "tyrese-haliburton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Kyle Kuzma",
+          "entities": [
+            {
+              "entityId": "kyle-kuzma",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Clint Capela",
+          "entities": [
+            {
+              "entityId": "clint-capela",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Mitchell Robinson",
+          "entities": [
+            {
+              "entityId": "mitchell-robinson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Dejounte Murray",
+          "entities": [
+            {
+              "entityId": "dejounte-murray",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "D'Angelo Russell",
+          "entities": [
+            {
+              "entityId": "d-angelo-russell",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Deandre Ayton",
+          "entities": [
+            {
+              "entityId": "deandre-ayton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "DeMar DeRozan",
+          "entities": [
+            {
+              "entityId": "demar-derozan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Dillon Brooks",
+          "entities": [
+            {
+              "entityId": "dillon-brooks",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Julius Randle",
+          "entities": [
+            {
+              "entityId": "julius-randle",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Karl-Anthony Towns",
+          "entities": [
+            {
+              "entityId": "karl-anthony-towns",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Jalen Green",
+          "entities": [
+            {
+              "entityId": "jalen-green",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Paul George",
+          "entities": [
+            {
+              "entityId": "paul-george",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Jamal Murray",
+          "entities": [
+            {
+              "entityId": "jamal-murray",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Collin Sexton",
+          "entities": [
+            {
+              "entityId": "collin-sexton",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

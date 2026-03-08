@@ -1,0 +1,305 @@
+{
+  "slug": "transferts-trade-deadline-all-time",
+  "title": "Top 10 transferts trade deadline All-Time",
+  "subject": "transferts trade deadline All-Time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2018-02-05",
+  "videoId": "yuyeFx817ws",
+  "tags": [
+    "trades",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Gasol Lakers",
+          "entities": [
+            {
+              "entityId": "pau-gasol",
+              "entityType": "player"
+            },
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "English Nuggets",
+          "entities": [
+            {
+              "entityId": "alex-english",
+              "entityType": "player"
+            },
+            {
+              "entityId": "denver-nuggets",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Aguirre Pistons",
+          "entities": [
+            {
+              "entityId": "mark-aguirre",
+              "entityType": "player"
+            },
+            {
+              "entityId": "detroit-pistons",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Rasheed Pistons",
+          "entities": [
+            {
+              "entityId": "rasheed-wallace",
+              "entityType": "player"
+            },
+            {
+              "entityId": "detroit-pistons",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Kevin Johnson Suns",
+          "entities": [
+            {
+              "entityId": "kevin-johnson",
+              "entityType": "player"
+            },
+            {
+              "entityId": "phoenix-suns",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Laimbeer Pistons",
+          "entities": [
+            {
+              "entityId": "bill-laimbeer",
+              "entityType": "player"
+            },
+            {
+              "entityId": "detroit-pistons",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Mutombo Sixers",
+          "entities": [
+            {
+              "entityId": "dikembe-mutombo",
+              "entityType": "player"
+            },
+            {
+              "entityId": "philadelphia-76ers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Drexler Rockets",
+          "entities": [
+            {
+              "entityId": "clyde-drexler",
+              "entityType": "player"
+            },
+            {
+              "entityId": "houston-rockets",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Isaiah Celtics",
+          "entities": [
+            {
+              "entityId": "isaiah-thomas",
+              "entityType": "player"
+            },
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Ray Allen Sonics",
+          "entities": [
+            {
+              "entityId": "ray-allen",
+              "entityType": "player"
+            },
+            {
+              "entityId": "seattle-supersonics",
+              "entityType": "team"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Rasheed Pistons",
+          "entities": [
+            {
+              "entityId": "rasheed-wallace",
+              "entityType": "player"
+            },
+            {
+              "entityId": "detroit-pistons",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Gasol Lakers",
+          "entities": [
+            {
+              "entityId": "pau-gasol",
+              "entityType": "player"
+            },
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Johnson Suns",
+          "entities": [
+            {
+              "entityId": "kevin-johnson",
+              "entityType": "player"
+            },
+            {
+              "entityId": "phoenix-suns",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Baron 2 fois",
+          "entities": [
+            {
+              "entityId": "baron-davis",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Aguirre Pistons",
+          "entities": [
+            {
+              "entityId": "mark-aguirre",
+              "entityType": "player"
+            },
+            {
+              "entityId": "detroit-pistons",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Isaiah Celtics",
+          "entities": [
+            {
+              "entityId": "isaiah-thomas",
+              "entityType": "player"
+            },
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Drexler Rockets",
+          "entities": [
+            {
+              "entityId": "clyde-drexler",
+              "entityType": "player"
+            },
+            {
+              "entityId": "houston-rockets",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "English Nuggets",
+          "entities": [
+            {
+              "entityId": "alex-english",
+              "entityType": "player"
+            },
+            {
+              "entityId": "denver-nuggets",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Bogut Warriors",
+          "entities": [
+            {
+              "entityId": "andrew-bogut",
+              "entityType": "player"
+            },
+            {
+              "entityId": "golden-state-warriors",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Mutombo Sixers",
+          "entities": [
+            {
+              "entityId": "dikembe-mutombo",
+              "entityType": "player"
+            },
+            {
+              "entityId": "philadelphia-76ers",
+              "entityType": "team"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

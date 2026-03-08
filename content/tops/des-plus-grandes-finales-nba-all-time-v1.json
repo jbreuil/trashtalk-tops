@@ -1,0 +1,309 @@
+{
+  "slug": "des-plus-grandes-finales-nba-all-time",
+  "title": "Top 10 des plus grandes Finales NBA all-time !",
+  "subject": "plus grandes Finales NBA all-time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2018-05-28",
+  "videoId": "uBkiiGElG-s",
+  "tags": [
+    "all-time",
+    "finals"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "CELTICS - LAKERS 84",
+          "entities": [
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            },
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "MAVS - HEAT 2011",
+          "entities": [
+            {
+              "entityId": "dallas-mavericks",
+              "entityType": "team"
+            },
+            {
+              "entityId": "miami-heat",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "BULLS - SUNS 93",
+          "entities": [
+            {
+              "entityId": "chicago-bulls",
+              "entityType": "team"
+            },
+            {
+              "entityId": "phoenix-suns",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "LAKERS - PISTONS 88",
+          "entities": [
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            },
+            {
+              "entityId": "detroit-pistons",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "BULLS - JAZZ 98",
+          "entities": [
+            {
+              "entityId": "chicago-bulls",
+              "entityType": "team"
+            },
+            {
+              "entityId": "utah-jazz",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "BULLS - JAZZ 97",
+          "entities": [
+            {
+              "entityId": "chicago-bulls",
+              "entityType": "team"
+            },
+            {
+              "entityId": "utah-jazz",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "HEAT - SPURS 2013",
+          "entities": [
+            {
+              "entityId": "miami-heat",
+              "entityType": "team"
+            },
+            {
+              "entityId": "san-antonio-spurs",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "CAVS - WARRIORS 2016",
+          "entities": [
+            {
+              "entityId": "cleveland-cavaliers",
+              "entityType": "team"
+            },
+            {
+              "entityId": "golden-state-warriors",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "SPURS - HEAT 2014",
+          "entities": [
+            {
+              "entityId": "san-antonio-spurs",
+              "entityType": "team"
+            },
+            {
+              "entityId": "miami-heat",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "LAKERS - CELTICS 2008",
+          "entities": [
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            },
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "LAKERS - PISTONS 88",
+          "entities": [
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            },
+            {
+              "entityId": "detroit-pistons",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "BULLS - JAZZ 97",
+          "entities": [
+            {
+              "entityId": "chicago-bulls",
+              "entityType": "team"
+            },
+            {
+              "entityId": "utah-jazz",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "CELTICS - LAKERS 87",
+          "entities": [
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            },
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "BULLS - SUNS 93",
+          "entities": [
+            {
+              "entityId": "chicago-bulls",
+              "entityType": "team"
+            },
+            {
+              "entityId": "phoenix-suns",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "HEAT - SPURS 2013",
+          "entities": [
+            {
+              "entityId": "miami-heat",
+              "entityType": "team"
+            },
+            {
+              "entityId": "san-antonio-spurs",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "SONICS - BULLETS 78",
+          "entities": [
+            {
+              "entityId": "seattle-supersonics",
+              "entityType": "team"
+            },
+            {
+              "entityId": "washington-bullets",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "CAVS - WARRIORS 2016",
+          "entities": [
+            {
+              "entityId": "cleveland-cavaliers",
+              "entityType": "team"
+            },
+            {
+              "entityId": "golden-state-warriors",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "LAKERS - SIXERS 80",
+          "entities": [
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            },
+            {
+              "entityId": "philadelphia-76ers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "CELTICS - SUNS 76",
+          "entities": [
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            },
+            {
+              "entityId": "phoenix-suns",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "HEAT - SPURS 2014",
+          "entities": [
+            {
+              "entityId": "miami-heat",
+              "entityType": "team"
+            },
+            {
+              "entityId": "san-antonio-spurs",
+              "entityType": "team"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

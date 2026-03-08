@@ -1,0 +1,109 @@
+{
+  "slug": "les-meilleures-classes-de-draft",
+  "title": "NBA Top 10 All-Time : les meilleures classes de Draft",
+  "subject": "les meilleures classes de Draft",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2024-12-23",
+  "videoId": "4PvaReEKSRo",
+  "tags": [
+    "drafts",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "1984"
+        },
+        {
+          "rank": 2,
+          "name": "2003"
+        },
+        {
+          "rank": 3,
+          "name": "1996"
+        },
+        {
+          "rank": 4,
+          "name": "1985"
+        },
+        {
+          "rank": 5,
+          "name": "1987"
+        },
+        {
+          "rank": 6,
+          "name": "2009"
+        },
+        {
+          "rank": 7,
+          "name": "1998"
+        },
+        {
+          "rank": 8,
+          "name": "2011"
+        },
+        {
+          "rank": 9,
+          "name": "1970"
+        },
+        {
+          "rank": 10,
+          "name": "2018"
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "1984"
+        },
+        {
+          "rank": 2,
+          "name": "1996"
+        },
+        {
+          "rank": 3,
+          "name": "2003"
+        },
+        {
+          "rank": 4,
+          "name": "1985"
+        },
+        {
+          "rank": 5,
+          "name": "1987"
+        },
+        {
+          "rank": 6,
+          "name": "2009"
+        },
+        {
+          "rank": 7,
+          "name": "1970"
+        },
+        {
+          "rank": 8,
+          "name": "1998"
+        },
+        {
+          "rank": 9,
+          "name": "1960"
+        },
+        {
+          "rank": 10,
+          "name": "2018"
+        }
+      ]
+    }
+  ]
+}

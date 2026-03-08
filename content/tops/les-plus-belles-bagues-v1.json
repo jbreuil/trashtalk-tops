@@ -1,0 +1,229 @@
+{
+  "slug": "les-plus-belles-bagues",
+  "title": "NBA Top 10 All-Time : les plus belles bagues",
+  "subject": "les plus belles bagues",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2024-12-09",
+  "videoId": "AGJP2JR9opI",
+  "tags": [
+    "all-time",
+    "playoffs"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Cavs 2016",
+          "entities": [
+            {
+              "entityId": "cleveland-cavaliers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Dirk 2011",
+          "entities": [
+            {
+              "entityId": "dirk-nowitzki",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Spurs 2014",
+          "entities": [
+            {
+              "entityId": "san-antonio-spurs",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Rockets 1995",
+          "entities": [
+            {
+              "entityId": "houston-rockets",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Jordan 1991",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Bulls 1996",
+          "entities": [
+            {
+              "entityId": "chicago-bulls",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Curry 2022",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Pistons 2004",
+          "entities": [
+            {
+              "entityId": "detroit-pistons",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Garnett 2008",
+          "entities": [
+            {
+              "entityId": "kevin-garnett",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Russell 1969",
+          "entities": [
+            {
+              "entityId": "bill-russell",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Cavs 2016",
+          "entities": [
+            {
+              "entityId": "cleveland-cavaliers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Bulls 1996",
+          "entities": [
+            {
+              "entityId": "chicago-bulls",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Rockets 1995",
+          "entities": [
+            {
+              "entityId": "houston-rockets",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Pistons 1989",
+          "entities": [
+            {
+              "entityId": "detroit-pistons",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Mavs 2011",
+          "entities": [
+            {
+              "entityId": "dallas-mavericks",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Lakers 1972",
+          "entities": [
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Spurs 2014",
+          "entities": [
+            {
+              "entityId": "san-antonio-spurs",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Celtics 1969",
+          "entities": [
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Heat 2013",
+          "entities": [
+            {
+              "entityId": "miami-heat",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Warriors 2022",
+          "entities": [
+            {
+              "entityId": "golden-state-warriors",
+              "entityType": "team"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

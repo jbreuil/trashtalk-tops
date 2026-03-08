@@ -1,0 +1,249 @@
+{
+  "slug": "passeurs-all-time",
+  "title": "Apéro TrashTalk #51 - Top 10 Passeurs All-Time",
+  "subject": "Passeurs All-Time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2016-08-11",
+  "videoId": "zceQXgrDG0g",
+  "tags": [
+    "passes",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Magic Johnson",
+          "entities": [
+            {
+              "entityId": "magic-johnson",
+              "entityType": "player",
+              "nbaId": 77142
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Jason Kidd",
+          "entities": [
+            {
+              "entityId": "jason-kidd",
+              "entityType": "player",
+              "nbaId": 467
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Isiah Thomas",
+          "entities": [
+            {
+              "entityId": "isiah-thomas",
+              "entityType": "player",
+              "nbaId": 78318
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Steve Nash",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player",
+              "nbaId": 959
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "John Stockton",
+          "entities": [
+            {
+              "entityId": "john-stockton",
+              "entityType": "player",
+              "nbaId": 304
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Jason Williams",
+          "entities": [
+            {
+              "entityId": "jason-williams",
+              "entityType": "player",
+              "nbaId": 1715
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Pete Maravich",
+          "entities": [
+            {
+              "entityId": "pete-maravich",
+              "entityType": "player",
+              "nbaId": 77459
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Chris Paul",
+          "entities": [
+            {
+              "entityId": "chris-paul",
+              "entityType": "player",
+              "nbaId": 101108
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Rajon Rondo",
+          "entities": [
+            {
+              "entityId": "rajon-rondo",
+              "entityType": "player",
+              "nbaId": 200765
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Andre Miller",
+          "entities": [
+            {
+              "entityId": "andre-miller",
+              "entityType": "player",
+              "nbaId": 1889
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Magic Johnson",
+          "entities": [
+            {
+              "entityId": "magic-johnson",
+              "entityType": "player",
+              "nbaId": 77142
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Jason Kidd",
+          "entities": [
+            {
+              "entityId": "jason-kidd",
+              "entityType": "player",
+              "nbaId": 467
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Pete Maravich",
+          "entities": [
+            {
+              "entityId": "pete-maravich",
+              "entityType": "player",
+              "nbaId": 77459
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Steve Nash",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player",
+              "nbaId": 959
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "John Stockton",
+          "entities": [
+            {
+              "entityId": "john-stockton",
+              "entityType": "player",
+              "nbaId": 304
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Isiah Thomas",
+          "entities": [
+            {
+              "entityId": "isiah-thomas",
+              "entityType": "player",
+              "nbaId": 78318
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Jason Williams",
+          "entities": [
+            {
+              "entityId": "jason-williams",
+              "entityType": "player",
+              "nbaId": 1715
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Chris Paul",
+          "entities": [
+            {
+              "entityId": "chris-paul",
+              "entityType": "player",
+              "nbaId": 101108
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Rajon Rondo",
+          "entities": [
+            {
+              "entityId": "rajon-rondo",
+              "entityType": "player",
+              "nbaId": 200765
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Larry Bird",
+          "entities": [
+            {
+              "entityId": "larry-bird",
+              "entityType": "player",
+              "nbaId": 1449
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

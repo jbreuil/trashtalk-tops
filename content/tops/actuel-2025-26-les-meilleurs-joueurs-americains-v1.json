@@ -1,0 +1,228 @@
+{
+  "slug": "actuel-2025-26-les-meilleurs-joueurs-americains",
+  "title": "NBA Top 10 actuel (2025-26) : les meilleurs joueurs américains !",
+  "subject": "actuel (2025-26) : les meilleurs joueurs américains",
+  "format": 10,
+  "temporalType": "dated",
+  "season": "2025-26",
+  "version": 1,
+  "publishedAt": "2026-03-02",
+  "videoId": "lBG_FMFvGSs",
+  "tags": [
+    "saison"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Anthony Edwards",
+          "entities": [
+            {
+              "entityId": "anthony-edwards",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Stephen Curry",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Cade Cunningham",
+          "entities": [
+            {
+              "entityId": "cade-cunningham",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Kawhi Leonard",
+          "entities": [
+            {
+              "entityId": "kawhi-leonard",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Jaylen Brown",
+          "entities": [
+            {
+              "entityId": "jaylen-brown",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Donovan Mitchell",
+          "entities": [
+            {
+              "entityId": "donovan-mitchell",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Kevin Durant",
+          "entities": [
+            {
+              "entityId": "kevin-durant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Devin Booker",
+          "entities": [
+            {
+              "entityId": "devin-booker",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Tyrese Maxey",
+          "entities": [
+            {
+              "entityId": "tyrese-maxey",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Jalen Brunson",
+          "entities": [
+            {
+              "entityId": "jalen-brunson",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Anthony Edwards",
+          "entities": [
+            {
+              "entityId": "anthony-edwards",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Stephen Curry",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Jayson Tatum",
+          "entities": [
+            {
+              "entityId": "jayson-tatum",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Jaylen Brown",
+          "entities": [
+            {
+              "entityId": "jaylen-brown",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Cade Cunningham",
+          "entities": [
+            {
+              "entityId": "cade-cunningham",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Kawhi Leonard",
+          "entities": [
+            {
+              "entityId": "kawhi-leonard",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Kevin Durant",
+          "entities": [
+            {
+              "entityId": "kevin-durant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "LeBron James",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Devin Booker",
+          "entities": [
+            {
+              "entityId": "devin-booker",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Jalen Brunson",
+          "entities": [
+            {
+              "entityId": "jalen-brunson",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

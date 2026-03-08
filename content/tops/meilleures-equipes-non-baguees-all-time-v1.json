@@ -1,0 +1,230 @@
+{
+  "slug": "meilleures-equipes-non-baguees-all-time",
+  "title": "Top 10 meilleures équipes non-baguées all-time",
+  "subject": "meilleures équipes non-baguées all-time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2019-04-01",
+  "videoId": "KTyDJl2_ZaU",
+  "tags": [
+    "all-time",
+    "franchise",
+    "sans-bague"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "WARRIORS 2016",
+          "entities": [
+            {
+              "entityId": "golden-state-warriors",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "KINGS 2002",
+          "entities": [
+            {
+              "entityId": "sacramento-kings",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "SUNS 93",
+          "entities": [
+            {
+              "entityId": "phoenix-suns",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "SONICS 96",
+          "entities": [
+            {
+              "entityId": "seattle-supersonics",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "JAZZ 98",
+          "entities": [
+            {
+              "entityId": "utah-jazz",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "LAKERS 86",
+          "entities": [
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "ROCKETS 2018",
+          "entities": [
+            {
+              "entityId": "houston-rockets",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "MAGIC 95",
+          "entities": [
+            {
+              "entityId": "orlando-magic",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "CAVS 2009",
+          "entities": [
+            {
+              "entityId": "cleveland-cavaliers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "BULLS 2011",
+          "entities": [
+            {
+              "entityId": "chicago-bulls",
+              "entityType": "team"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "WARRIORS 2016",
+          "entities": [
+            {
+              "entityId": "golden-state-warriors",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "SUNS 93",
+          "entities": [
+            {
+              "entityId": "phoenix-suns",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "KINGS 2002",
+          "entities": [
+            {
+              "entityId": "sacramento-kings",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "JAZZ 97",
+          "entities": [
+            {
+              "entityId": "utah-jazz",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "KNICKS 94",
+          "entities": [
+            {
+              "entityId": "new-york-knicks",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "LAKERS 69",
+          "entities": [
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "MAGIC 95",
+          "entities": [
+            {
+              "entityId": "orlando-magic",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "CELTICS 2009",
+          "entities": [
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "SONICS 96",
+          "entities": [
+            {
+              "entityId": "seattle-supersonics",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "PISTONS 88",
+          "entities": [
+            {
+              "entityId": "detroit-pistons",
+              "entityType": "team"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

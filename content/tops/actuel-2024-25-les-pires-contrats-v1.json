@@ -1,0 +1,229 @@
+{
+  "slug": "actuel-2024-25-les-pires-contrats",
+  "title": "NBA Top 10 actuel (2024-25) : les pires contrats",
+  "subject": "actuel (2024-25) : les pires contrats",
+  "format": 10,
+  "temporalType": "dated",
+  "season": "2024-25",
+  "version": 1,
+  "publishedAt": "2025-01-06",
+  "videoId": "W4W4Oh5R4SA",
+  "tags": [
+    "contrats",
+    "saison"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Bradley Beal",
+          "entities": [
+            {
+              "entityId": "bradley-beal",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Paul George",
+          "entities": [
+            {
+              "entityId": "paul-george",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Kawhi Leonard",
+          "entities": [
+            {
+              "entityId": "kawhi-leonard",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Khris Middleton",
+          "entities": [
+            {
+              "entityId": "khris-middleton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Zion Williamson",
+          "entities": [
+            {
+              "entityId": "zion-williamson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Joel Embiid",
+          "entities": [
+            {
+              "entityId": "joel-embiid",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Jerami Grant",
+          "entities": [
+            {
+              "entityId": "jerami-grant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Karl-Anthony Towns",
+          "entities": [
+            {
+              "entityId": "karl-anthony-towns",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Michael Porter Jr",
+          "entities": [
+            {
+              "entityId": "michael-porter-jr",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Zach LaVine",
+          "entities": [
+            {
+              "entityId": "zach-lavine",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Bradley Beal",
+          "entities": [
+            {
+              "entityId": "bradley-beal",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Paul George",
+          "entities": [
+            {
+              "entityId": "paul-george",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Kawhi Leonard",
+          "entities": [
+            {
+              "entityId": "kawhi-leonard",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Zion Williamson",
+          "entities": [
+            {
+              "entityId": "zion-williamson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Khris Middleton",
+          "entities": [
+            {
+              "entityId": "khris-middleton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Jamal Murray",
+          "entities": [
+            {
+              "entityId": "jamal-murray",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Jerami Grant",
+          "entities": [
+            {
+              "entityId": "jerami-grant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Zach LaVine",
+          "entities": [
+            {
+              "entityId": "zach-lavine",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Deandre Ayton",
+          "entities": [
+            {
+              "entityId": "deandre-ayton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Rudy Gobert",
+          "entities": [
+            {
+              "entityId": "rudy-gobert",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

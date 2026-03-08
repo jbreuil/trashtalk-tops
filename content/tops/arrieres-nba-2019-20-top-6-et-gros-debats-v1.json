@@ -1,0 +1,160 @@
+{
+  "slug": "arrieres-nba-2019-20-top-6-et-gros-debats",
+  "title": "Le Grand Apéro des arrières NBA 2019-20 : Top 6 et gros débats !",
+  "subject": "arrières NBA 2019-20 : Top 6 et gros débats",
+  "format": 6,
+  "temporalType": "dated",
+  "season": "2019-20",
+  "version": 1,
+  "publishedAt": "2020-05-03",
+  "videoId": "Le5tK_WqvBo",
+  "tags": [
+    "arriere"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "James Harden",
+          "entities": [
+            {
+              "entityId": "james-harden",
+              "entityType": "player",
+              "nbaId": 201935
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Bradley Beal",
+          "entities": [
+            {
+              "entityId": "bradley-beal",
+              "entityType": "player",
+              "nbaId": 203078
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Jimmy Butler",
+          "entities": [
+            {
+              "entityId": "jimmy-butler-iii",
+              "entityType": "player",
+              "nbaId": 202710
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Devin Booker",
+          "entities": [
+            {
+              "entityId": "devin-booker",
+              "entityType": "player",
+              "nbaId": 1626164
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Donovan Mitchell",
+          "entities": [
+            {
+              "entityId": "donovan-mitchell",
+              "entityType": "player",
+              "nbaId": 1628378
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Zach LaVine",
+          "entities": [
+            {
+              "entityId": "zach-lavine",
+              "entityType": "player",
+              "nbaId": 203897
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "James Harden",
+          "entities": [
+            {
+              "entityId": "james-harden",
+              "entityType": "player",
+              "nbaId": 201935
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Bradley Beal",
+          "entities": [
+            {
+              "entityId": "bradley-beal",
+              "entityType": "player",
+              "nbaId": 203078
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Jimmy Butler",
+          "entities": [
+            {
+              "entityId": "jimmy-butler-iii",
+              "entityType": "player",
+              "nbaId": 202710
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Donovan Mitchell",
+          "entities": [
+            {
+              "entityId": "donovan-mitchell",
+              "entityType": "player",
+              "nbaId": 1628378
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Devin Booker",
+          "entities": [
+            {
+              "entityId": "devin-booker",
+              "entityType": "player",
+              "nbaId": 1626164
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Zach LaVine",
+          "entities": [
+            {
+              "entityId": "zach-lavine",
+              "entityType": "player",
+              "nbaId": 203897
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

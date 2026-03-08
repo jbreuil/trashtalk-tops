@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { Top } from '~/types'
+import type { Top, Top100 } from '~/types'
 import { computed, ref } from 'vue'
 import { useEntities } from '~/composables/useEntities'
 import { useSpoiler } from '~/composables/useSpoiler'
@@ -9,7 +9,7 @@ const route = useRoute()
 const entityId = route.params.slug as string
 
 const { getById, getEntityMap } = useEntities()
-const { getAllTopFiles } = useTops()
+const { getAllTopFiles, getAllTop100 } = useTops()
 const { spoilerOn } = useSpoiler()
 
 const entity = getById(entityId)
@@ -31,41 +31,114 @@ const typeLabels: Record<string, string> = {
   player: 'Joueur',
   coach: 'Coach',
   team: 'Équipe',
+  gm: 'General Manager',
 }
 
 // Collect all TOP appearances for this entity across all files (all versions)
 interface TopAppearance {
-  top: Top
-  ranker: 'alex' | 'bastien'
+  top: Top | Top100
+  topTitle: string
+  topSlug: string
+  topVersion: number
+  ranker: string
   rank: number
   context?: string
   publishedAt: string
+  isTop100: boolean
+  deduplicated: boolean
 }
 
 const allAppearances = computed<TopAppearance[]>(() => {
   const appearances: TopAppearance[] = []
 
+  // Standard TOPs
   for (const top of getAllTopFiles()) {
-    for (const entry of top.rankingAlex) {
-      if (entry.entityId === entityId) {
-        appearances.push({
-          top,
-          ranker: 'alex',
-          rank: entry.rank,
-          context: entry.context,
-          publishedAt: top.publishedAt,
-        })
+    // Check if entity appears more than once across all rankings in this TOP
+    let totalAppearances = 0
+    for (const ranking of top.rankings) {
+      for (const entry of ranking.entries) {
+        if (entry.entities?.some(e => e.entityId === entityId))
+          totalAppearances++
       }
     }
-    for (const entry of top.rankingBastien) {
-      if (entry.entityId === entityId) {
-        appearances.push({
-          top,
-          ranker: 'bastien',
-          rank: entry.rank,
-          context: entry.context,
-          publishedAt: top.publishedAt,
-        })
+
+    if (totalAppearances > 1) {
+      // Deduplicated: show once with no rank
+      appearances.push({
+        top,
+        topTitle: top.title,
+        topSlug: top.slug,
+        topVersion: top.version,
+        ranker: '',
+        rank: 0,
+        publishedAt: top.publishedAt,
+        isTop100: false,
+        deduplicated: true,
+      })
+    }
+    else {
+      // Normal: show with rank and ranker
+      for (const ranking of top.rankings) {
+        for (const entry of ranking.entries) {
+          if (entry.entities?.some(e => e.entityId === entityId)) {
+            appearances.push({
+              top,
+              topTitle: top.title,
+              topSlug: top.slug,
+              topVersion: top.version,
+              ranker: ranking.ranker,
+              rank: entry.rank,
+              context: entry.context,
+              publishedAt: top.publishedAt,
+              isTop100: false,
+              deduplicated: false,
+            })
+          }
+        }
+      }
+    }
+  }
+
+  // Top 100
+  for (const top100 of getAllTop100()) {
+    let totalAppearances = 0
+    for (const ranking of top100.rankings) {
+      for (const entry of ranking.entries) {
+        if (entry.entities?.some(e => e.entityId === entityId))
+          totalAppearances++
+      }
+    }
+
+    if (totalAppearances > 1) {
+      appearances.push({
+        top: top100,
+        topTitle: `Top 100 All-Time`,
+        topSlug: top100.slug,
+        topVersion: top100.version,
+        ranker: '',
+        rank: 0,
+        publishedAt: `${top100.publishedYear}-01-01`,
+        isTop100: true,
+        deduplicated: true,
+      })
+    }
+    else {
+      for (const ranking of top100.rankings) {
+        for (const entry of ranking.entries) {
+          if (entry.entities?.some(e => e.entityId === entityId)) {
+            appearances.push({
+              top: top100,
+              topTitle: `Top 100 All-Time`,
+              topSlug: top100.slug,
+              topVersion: top100.version,
+              ranker: ranking.ranker,
+              rank: entry.rank,
+              publishedAt: `${top100.publishedYear}-01-01`,
+              isTop100: true,
+              deduplicated: false,
+            })
+          }
+        }
       }
     }
   }
@@ -85,6 +158,13 @@ const sortedAppearances = computed(() => {
     items.sort((a, b) => a.rank - b.rank)
   }
   return items
+})
+
+// NBA stats link (only for entities with nbaId)
+const nbaStatsUrl = computed(() => {
+  if (!entity.nbaId || entity.type === 'coach' || entity.type === 'gm')
+    return null
+  return `https://www.nba.com/stats/player/${entity.nbaId}`
 })
 
 useHead({
@@ -112,8 +192,26 @@ useHead({
         </h1>
         <div class="flex items-center gap-2 text-sm text-[var(--color-text-soft)]">
           <span>{{ typeLabels[entity.type] ?? entity.type }}</span>
+          <a
+            v-if="nbaStatsUrl"
+            :href="nbaStatsUrl"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-primary-500 hover:text-primary-600 underline"
+          >
+            Stats NBA
+          </a>
           <span v-if="entity.years" class="rounded bg-[var(--color-bg-mute)] px-2 py-0.5 text-xs">
             {{ entity.years }}
+          </span>
+          <span v-if="entity.gamesPlayed" class="rounded bg-[var(--color-bg-mute)] px-2 py-0.5 text-xs">
+            {{ entity.gamesPlayed }} matchs
+          </span>
+          <span v-if="entity.gamesCoached" class="rounded bg-[var(--color-bg-mute)] px-2 py-0.5 text-xs">
+            {{ entity.gamesCoached }} matchs coachés ({{ entity.wins }}V-{{ entity.losses }}D)
+          </span>
+          <span v-if="entity.team" class="rounded bg-[var(--color-bg-mute)] px-2 py-0.5 text-xs">
+            {{ entity.team }}
           </span>
         </div>
       </div>
@@ -167,23 +265,24 @@ useHead({
       <div v-else class="space-y-2">
         <NuxtLink
           v-for="(app, idx) in sortedAppearances"
-          :key="`${app.top.slug}-${app.top.version}-${app.ranker}-${idx}`"
-          :to="`/tops/${app.top.slug}?v=${app.top.version}`"
+          :key="`${app.topSlug}-${app.topVersion}-${app.ranker}-${idx}`"
+          :to="app.isTop100 ? '/top-100' : `/tops/${app.topSlug}?v=${app.topVersion}`"
           class="flex items-center justify-between rounded-xl border border-[var(--color-border)] p-3
                  transition-all hover:border-primary-500/50 hover:shadow-md hover:shadow-primary-500/5"
         >
           <div class="min-w-0 flex-1">
             <h3 class="truncate font-medium">
-              {{ app.top.title }}
+              {{ app.deduplicated ? `Apparaît dans ${app.topTitle}` : app.topTitle }}
             </h3>
             <div class="mt-0.5 flex items-center gap-2 text-xs text-[var(--color-text-soft)]">
               <span>{{ app.publishedAt }}</span>
-              <span class="capitalize">{{ app.ranker }}</span>
+              <span v-if="!app.deduplicated && app.ranker" class="capitalize">{{ app.ranker }}</span>
               <span v-if="app.context">({{ app.context }})</span>
-              <span v-if="app.top.version > 1">v{{ app.top.version }}</span>
+              <span v-if="app.topVersion > 1">v{{ app.topVersion }}</span>
             </div>
           </div>
           <div
+            v-if="!app.deduplicated"
             class="ml-4 flex h-10 w-10 shrink-0 items-center justify-center rounded-full
                    bg-primary-500/10 text-sm font-bold text-primary-600 dark:text-primary-400"
             :class="{ 'blur-md select-none': spoilerOn }"

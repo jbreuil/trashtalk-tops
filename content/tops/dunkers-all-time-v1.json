@@ -1,0 +1,254 @@
+{
+  "slug": "dunkers-all-time",
+  "title": "Apéro TrashTalk #33 - Top 10 Dunkers All-Time",
+  "subject": "Dunkers All-Time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2016-04-27",
+  "videoId": "5jdpA3kjSxY",
+  "tags": [
+    "dunks",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Vince Carter",
+          "entities": [
+            {
+              "entityId": "vince-carter",
+              "entityType": "player",
+              "nbaId": 1713
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Shawn Kemp",
+          "entities": [
+            {
+              "entityId": "shawn-kemp",
+              "entityType": "player",
+              "nbaId": 431
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Julius Erving",
+          "entities": [
+            {
+              "entityId": "julius-erving",
+              "entityType": "player",
+              "nbaId": 76681
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Michael Jordan",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player",
+              "nbaId": 893
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Dominique Wilkins",
+          "entities": [
+            {
+              "entityId": "dominique-wilkins",
+              "entityType": "player",
+              "nbaId": 1122
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Kobe Bryant",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player",
+              "nbaId": 977
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "LeBron James",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player",
+              "nbaId": 2544
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Tracy McGrady",
+          "entities": [
+            {
+              "entityId": "tracy-mcgrady",
+              "entityType": "player",
+              "nbaId": 1503
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Blake Griffin / Jason Richardson",
+          "entities": [
+            {
+              "entityId": "blake-griffin",
+              "entityType": "player",
+              "nbaId": 201933
+            },
+            {
+              "entityId": "jason-richardson",
+              "entityType": "player",
+              "nbaId": 2202
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Kevin Johnson",
+          "entities": [
+            {
+              "entityId": "kevin-johnson",
+              "entityType": "player",
+              "nbaId": 134
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Vince Carter",
+          "entities": [
+            {
+              "entityId": "vince-carter",
+              "entityType": "player",
+              "nbaId": 1713
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Michael Jordan",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player",
+              "nbaId": 893
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Dominique Wilkins",
+          "entities": [
+            {
+              "entityId": "dominique-wilkins",
+              "entityType": "player",
+              "nbaId": 1122
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Julius Erving",
+          "entities": [
+            {
+              "entityId": "julius-erving",
+              "entityType": "player",
+              "nbaId": 76681
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Kobe Bryant",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player",
+              "nbaId": 977
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "LeBron James",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player",
+              "nbaId": 2544
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Shawn Kemp",
+          "entities": [
+            {
+              "entityId": "shawn-kemp",
+              "entityType": "player",
+              "nbaId": 431
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Tracy McGrady",
+          "entities": [
+            {
+              "entityId": "tracy-mcgrady",
+              "entityType": "player",
+              "nbaId": 1503
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Jason Richardson",
+          "entities": [
+            {
+              "entityId": "jason-richardson",
+              "entityType": "player",
+              "nbaId": 2202
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Zach LaVine",
+          "entities": [
+            {
+              "entityId": "zach-lavine",
+              "entityType": "player",
+              "nbaId": 203897
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

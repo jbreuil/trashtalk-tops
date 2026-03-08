@@ -1,6 +1,94 @@
 {
-  "position": ["meneur", "arriere", "ailier", "ailier-fort", "pivot"],
-  "theme": ["dunks", "shoots", "passes", "defense", "clutch", "trades", "drafts", "game-winners"],
-  "scope": ["all-time", "saison", "decade", "playoffs", "finals"],
-  "era": ["80s", "90s", "2000s", "2010s", "2020s"]
+  "position": [
+    "meneur",
+    "arriere",
+    "ailier",
+    "ailier-fort",
+    "pivot"
+  ],
+  "skill": [
+    "shoots",
+    "dunks",
+    "passes",
+    "crossovers",
+    "blocks",
+    "scoring",
+    "defense",
+    "footwork",
+    "moves",
+    "alley-oops",
+    "finition",
+    "athletisme",
+    "beau-jeu",
+    "two-way",
+    "clutch",
+    "iq"
+  ],
+  "theme": [
+    "game-winners",
+    "trades",
+    "drafts",
+    "contrats",
+    "blessures",
+    "rivalites",
+    "moments",
+    "longevite",
+    "progression",
+    "carrieres",
+    "what-if",
+    "upsets",
+    "chokes",
+    "trashtalk",
+    "dirty",
+    "sans-bague",
+    "sous-estimes",
+    "surcotes",
+    "deceptions",
+    "pression",
+    "maillots",
+    "surnoms",
+    "revolutionnaires"
+  ],
+  "profile": [
+    "international",
+    "rookie",
+    "sixieme-homme",
+    "lieutenant",
+    "geant",
+    "petit",
+    "gaucher",
+    "non-drafte",
+    "complet",
+    "veteran",
+    "soldat",
+    "pyromane"
+  ],
+  "collectif": [
+    "coach",
+    "franchise",
+    "duo",
+    "big-three",
+    "backcourt",
+    "frontcourt",
+    "famille",
+    "general-manager"
+  ],
+  "scope": [
+    "all-time",
+    "saison",
+    "saison-reguliere",
+    "playoffs",
+    "finals",
+    "all-star-game",
+    "game-7"
+  ],
+  "era": [
+    "60s",
+    "70s",
+    "80s",
+    "90s",
+    "2000s",
+    "2010s",
+    "2020s"
+  ]
 }

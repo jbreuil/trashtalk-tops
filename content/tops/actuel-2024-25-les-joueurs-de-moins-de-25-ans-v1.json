@@ -1,0 +1,228 @@
+{
+  "slug": "actuel-2024-25-les-joueurs-de-moins-de-25-ans",
+  "title": "NBA Top 10 actuel (2024-25) : les joueurs de moins de 25 ans",
+  "subject": "actuel (2024-25) : les joueurs de moins de 25 ans",
+  "format": 10,
+  "temporalType": "dated",
+  "season": "2024-25",
+  "version": 1,
+  "publishedAt": "2024-12-02",
+  "videoId": "2UbJfPAUDcw",
+  "tags": [
+    "saison"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Anthony Edwards",
+          "entities": [
+            {
+              "entityId": "anthony-edwards",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Victor Wembanyama",
+          "entities": [
+            {
+              "entityId": "victor-wembanyama",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Paolo Banchero",
+          "entities": [
+            {
+              "entityId": "paolo-banchero",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Chet Holmgren",
+          "entities": [
+            {
+              "entityId": "chet-holmgren",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "LaMelo Ball",
+          "entities": [
+            {
+              "entityId": "lamelo-ball",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Tyrese Haliburton",
+          "entities": [
+            {
+              "entityId": "tyrese-haliburton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Tyrese Maxey",
+          "entities": [
+            {
+              "entityId": "tyrese-maxey",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Alperen Sengun",
+          "entities": [
+            {
+              "entityId": "alperen-sengun",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Scottie Barnes",
+          "entities": [
+            {
+              "entityId": "scottie-barnes",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Zion Williamson",
+          "entities": [
+            {
+              "entityId": "zion-williamson",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Anthony Edwards",
+          "entities": [
+            {
+              "entityId": "anthony-edwards",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Paolo Banchero",
+          "entities": [
+            {
+              "entityId": "paolo-banchero",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Victor Wembanyama",
+          "entities": [
+            {
+              "entityId": "victor-wembanyama",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "LaMelo Ball",
+          "entities": [
+            {
+              "entityId": "lamelo-ball",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Chet Holmgren",
+          "entities": [
+            {
+              "entityId": "chet-holmgren",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Tyrese Maxey",
+          "entities": [
+            {
+              "entityId": "tyrese-maxey",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Tyrese Haliburton",
+          "entities": [
+            {
+              "entityId": "tyrese-haliburton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Evan Mobley",
+          "entities": [
+            {
+              "entityId": "evan-mobley",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Cade Cunningham",
+          "entities": [
+            {
+              "entityId": "cade-cunningham",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Zion Williamson",
+          "entities": [
+            {
+              "entityId": "zion-williamson",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

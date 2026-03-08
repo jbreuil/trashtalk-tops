@@ -1,0 +1,229 @@
+{
+  "slug": "actuel-2024-25-les-meilleurs-arrieres",
+  "title": "NBA Top 10 actuel (2024-25) : les meilleurs arrières",
+  "subject": "actuel (2024-25) : les meilleurs arrières",
+  "format": 10,
+  "temporalType": "dated",
+  "season": "2024-25",
+  "version": 1,
+  "publishedAt": "2025-03-10",
+  "videoId": "QwUS863lmTk",
+  "tags": [
+    "arriere",
+    "saison"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Shai Gilgeous-Alexander",
+          "entities": [
+            {
+              "entityId": "shai-gilgeous-alexander",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Anthony Edwards",
+          "entities": [
+            {
+              "entityId": "anthony-edwards",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Devin Booker",
+          "entities": [
+            {
+              "entityId": "devin-booker",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Donovan Mitchell",
+          "entities": [
+            {
+              "entityId": "donovan-mitchell",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Desmond Bane",
+          "entities": [
+            {
+              "entityId": "desmond-bane",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Zach LaVine",
+          "entities": [
+            {
+              "entityId": "zach-lavine",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Tyler Herro",
+          "entities": [
+            {
+              "entityId": "tyler-herro",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Norman Powell",
+          "entities": [
+            {
+              "entityId": "norman-powell",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Derrick White",
+          "entities": [
+            {
+              "entityId": "derrick-white",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Jalen Green",
+          "entities": [
+            {
+              "entityId": "jalen-green",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Shai Gilgeous-Alexander",
+          "entities": [
+            {
+              "entityId": "shai-gilgeous-alexander",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Anthony Edwards",
+          "entities": [
+            {
+              "entityId": "anthony-edwards",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Devin Booker",
+          "entities": [
+            {
+              "entityId": "devin-booker",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Donovan Mitchell",
+          "entities": [
+            {
+              "entityId": "donovan-mitchell",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Zach LaVine",
+          "entities": [
+            {
+              "entityId": "zach-lavine",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Desmond Bane",
+          "entities": [
+            {
+              "entityId": "desmond-bane",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Derrick White",
+          "entities": [
+            {
+              "entityId": "derrick-white",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Tyler Herro",
+          "entities": [
+            {
+              "entityId": "tyler-herro",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Norman Powell",
+          "entities": [
+            {
+              "entityId": "norman-powell",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "RJ Barrett",
+          "entities": [
+            {
+              "entityId": "rj-barrett",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

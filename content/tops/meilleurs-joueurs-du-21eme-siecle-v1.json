@@ -1,0 +1,448 @@
+{
+  "slug": "meilleurs-joueurs-du-21eme-siecle",
+  "title": "NBA Top 21 : meilleurs joueurs du 21ème siècle",
+  "subject": "meilleurs joueurs du 21ème siècle",
+  "format": 21,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2026-01-12",
+  "videoId": "DMIJB-j8IN4",
+  "tags": [
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Simon",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "LeBron James",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Kobe Bryant",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Stephen Curry",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Tim Duncan",
+          "entities": [
+            {
+              "entityId": "tim-duncan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Kevin Durant",
+          "entities": [
+            {
+              "entityId": "kevin-durant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Dirk Nowitzki",
+          "entities": [
+            {
+              "entityId": "dirk-nowitzki",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Nikola Jokić",
+          "entities": [
+            {
+              "entityId": "nikola-jokic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Shaquille O'Neal",
+          "entities": [
+            {
+              "entityId": "shaquille-o-neal",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Kevin Garnett",
+          "entities": [
+            {
+              "entityId": "kevin-garnett",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Giannis Antetokounmpo",
+          "entities": [
+            {
+              "entityId": "giannis-antetokounmpo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 11,
+          "name": "Dwyane Wade",
+          "entities": [
+            {
+              "entityId": "dwyane-wade",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 12,
+          "name": "Kawhi Leonard",
+          "entities": [
+            {
+              "entityId": "kawhi-leonard",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 13,
+          "name": "Allen Iverson",
+          "entities": [
+            {
+              "entityId": "allen-iverson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 14,
+          "name": "James Harden",
+          "entities": [
+            {
+              "entityId": "james-harden",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 15,
+          "name": "Steve Nash",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 16,
+          "name": "Russell Westbrook",
+          "entities": [
+            {
+              "entityId": "russell-westbrook",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 17,
+          "name": "Jason Kidd",
+          "entities": [
+            {
+              "entityId": "jason-kidd",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 18,
+          "name": "Luka Dončić",
+          "entities": [
+            {
+              "entityId": "luka-doncic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 19,
+          "name": "Paul Pierce",
+          "entities": [
+            {
+              "entityId": "paul-pierce",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 20,
+          "name": "Chris Paul",
+          "entities": [
+            {
+              "entityId": "chris-paul",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 21,
+          "name": "Kyrie Irving",
+          "entities": [
+            {
+              "entityId": "kyrie-irving",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "LeBron James",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Stephen Curry",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Tim Duncan",
+          "entities": [
+            {
+              "entityId": "tim-duncan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Kobe Bryant",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Kevin Durant",
+          "entities": [
+            {
+              "entityId": "kevin-durant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Nikola Jokić",
+          "entities": [
+            {
+              "entityId": "nikola-jokic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Shaquille O'Neal",
+          "entities": [
+            {
+              "entityId": "shaquille-o-neal",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Dirk Nowitzki",
+          "entities": [
+            {
+              "entityId": "dirk-nowitzki",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Giannis Antetokounmpo",
+          "entities": [
+            {
+              "entityId": "giannis-antetokounmpo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Dwyane Wade",
+          "entities": [
+            {
+              "entityId": "dwyane-wade",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 11,
+          "name": "Kevin Garnett",
+          "entities": [
+            {
+              "entityId": "kevin-garnett",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 12,
+          "name": "Allen Iverson",
+          "entities": [
+            {
+              "entityId": "allen-iverson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 13,
+          "name": "James Harden",
+          "entities": [
+            {
+              "entityId": "james-harden",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 14,
+          "name": "Jason Kidd",
+          "entities": [
+            {
+              "entityId": "jason-kidd",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 15,
+          "name": "Russell Westbrook",
+          "entities": [
+            {
+              "entityId": "russell-westbrook",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 16,
+          "name": "Steve Nash",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 17,
+          "name": "Kawhi Leonard",
+          "entities": [
+            {
+              "entityId": "kawhi-leonard",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 18,
+          "name": "Chris Paul",
+          "entities": [
+            {
+              "entityId": "chris-paul",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 19,
+          "name": "Shai Gilgeous-Alexander",
+          "entities": [
+            {
+              "entityId": "shai-gilgeous-alexander",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 20,
+          "name": "Dwight Howard",
+          "entities": [
+            {
+              "entityId": "dwight-howard",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 21,
+          "name": "Paul Pierce",
+          "entities": [
+            {
+              "entityId": "paul-pierce",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

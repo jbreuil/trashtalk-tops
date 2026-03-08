@@ -1,0 +1,309 @@
+{
+  "slug": "rivalites-d-equipes-all-time",
+  "title": "Top 10 rivalités d'équipes All-Time",
+  "subject": "rivalités d'équipes All-Time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2018-01-22",
+  "videoId": "KJPMt8jvgIQ",
+  "tags": [
+    "rivalites",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Celtics - Lakers",
+          "entities": [
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            },
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Pacers - Knicks",
+          "entities": [
+            {
+              "entityId": "indiana-pacers",
+              "entityType": "team"
+            },
+            {
+              "entityId": "new-york-knicks",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Bulls - Pistons",
+          "entities": [
+            {
+              "entityId": "chicago-bulls",
+              "entityType": "team"
+            },
+            {
+              "entityId": "detroit-pistons",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Warriors - Cavs",
+          "entities": [
+            {
+              "entityId": "golden-state-warriors",
+              "entityType": "team"
+            },
+            {
+              "entityId": "cleveland-cavaliers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Kings - Lakers",
+          "entities": [
+            {
+              "entityId": "sacramento-kings",
+              "entityType": "team"
+            },
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Bulls - Knicks",
+          "entities": [
+            {
+              "entityId": "chicago-bulls",
+              "entityType": "team"
+            },
+            {
+              "entityId": "new-york-knicks",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Celtics - Sixers",
+          "entities": [
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            },
+            {
+              "entityId": "philadelphia-76ers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Celtics - Pistons",
+          "entities": [
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            },
+            {
+              "entityId": "detroit-pistons",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Knicks - Heat",
+          "entities": [
+            {
+              "entityId": "new-york-knicks",
+              "entityType": "team"
+            },
+            {
+              "entityId": "miami-heat",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Lakers - Spurs",
+          "entities": [
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            },
+            {
+              "entityId": "san-antonio-spurs",
+              "entityType": "team"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Celtics - Lakers",
+          "entities": [
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            },
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Bulls - Pistons",
+          "entities": [
+            {
+              "entityId": "chicago-bulls",
+              "entityType": "team"
+            },
+            {
+              "entityId": "detroit-pistons",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Celtics - Sixers",
+          "entities": [
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            },
+            {
+              "entityId": "philadelphia-76ers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Bulls - Knicks",
+          "entities": [
+            {
+              "entityId": "chicago-bulls",
+              "entityType": "team"
+            },
+            {
+              "entityId": "new-york-knicks",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Pacers - Knicks",
+          "entities": [
+            {
+              "entityId": "indiana-pacers",
+              "entityType": "team"
+            },
+            {
+              "entityId": "new-york-knicks",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Warriors - Cavs",
+          "entities": [
+            {
+              "entityId": "golden-state-warriors",
+              "entityType": "team"
+            },
+            {
+              "entityId": "cleveland-cavaliers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Celtics - Pistons",
+          "entities": [
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            },
+            {
+              "entityId": "detroit-pistons",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Kings - Lakers",
+          "entities": [
+            {
+              "entityId": "sacramento-kings",
+              "entityType": "team"
+            },
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Lakers - Spurs",
+          "entities": [
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            },
+            {
+              "entityId": "san-antonio-spurs",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Knicks - Heat",
+          "entities": [
+            {
+              "entityId": "new-york-knicks",
+              "entityType": "team"
+            },
+            {
+              "entityId": "miami-heat",
+              "entityType": "team"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

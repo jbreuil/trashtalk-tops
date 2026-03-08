@@ -1,0 +1,229 @@
+{
+  "slug": "actuel-2024-25-les-meilleurs-meneurs",
+  "title": "NBA Top 10 actuel (2024-25) : les meilleurs meneurs",
+  "subject": "actuel (2024-25) : les meilleurs meneurs",
+  "format": 10,
+  "temporalType": "dated",
+  "season": "2024-25",
+  "version": 1,
+  "publishedAt": "2025-03-31",
+  "videoId": "alwvVMGN7GA",
+  "tags": [
+    "meneur",
+    "saison"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Luka Doncic",
+          "entities": [
+            {
+              "entityId": "luka-doncic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Jalen Brunson",
+          "entities": [
+            {
+              "entityId": "jalen-brunson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Stephen Curry",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Tyrese Haliburton",
+          "entities": [
+            {
+              "entityId": "tyrese-haliburton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "James Harden",
+          "entities": [
+            {
+              "entityId": "james-harden",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Trae Young",
+          "entities": [
+            {
+              "entityId": "trae-young",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Kyrie Irving",
+          "entities": [
+            {
+              "entityId": "kyrie-irving",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Tyrese Maxey",
+          "entities": [
+            {
+              "entityId": "tyrese-maxey",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "De'Aaron Fox",
+          "entities": [
+            {
+              "entityId": "de-aaron-fox",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Damian Lillard",
+          "entities": [
+            {
+              "entityId": "damian-lillard",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Luka Doncic",
+          "entities": [
+            {
+              "entityId": "luka-doncic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Stephen Curry",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Jalen Brunson",
+          "entities": [
+            {
+              "entityId": "jalen-brunson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Kyrie Irving",
+          "entities": [
+            {
+              "entityId": "kyrie-irving",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Damian Lillard",
+          "entities": [
+            {
+              "entityId": "damian-lillard",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "James Harden",
+          "entities": [
+            {
+              "entityId": "james-harden",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Trae Young",
+          "entities": [
+            {
+              "entityId": "trae-young",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Cade Cunningham",
+          "entities": [
+            {
+              "entityId": "cade-cunningham",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "De'Aaron Fox",
+          "entities": [
+            {
+              "entityId": "de-aaron-fox",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Ja Morant",
+          "entities": [
+            {
+              "entityId": "ja-morant",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "slug": "les-duos-joueur-coach",
+  "title": "NBA Top 10 All-Time (2021-22) : les duos joueur - coach",
+  "subject": "les duos joueur - coach",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2022-05-30",
+  "videoId": "V5f-a9e0nDk",
+  "tags": [
+    "coach",
+    "duo",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Auerbach - Russell",
+          "entities": [
+            {
+              "entityId": "red-auerbach",
+              "entityType": "coach"
+            },
+            {
+              "entityId": "bill-russell",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Popovich - Duncan",
+          "entities": [
+            {
+              "entityId": "gregg-popovich",
+              "entityType": "coach"
+            },
+            {
+              "entityId": "tim-duncan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Jackson - Jordan",
+          "entities": [
+            {
+              "entityId": "phil-jackson",
+              "entityType": "coach"
+            },
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Daly - Isiah",
+          "entities": [
+            {
+              "entityId": "chuck-daly",
+              "entityType": "coach"
+            },
+            {
+              "entityId": "isiah-thomas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Kerr - Curry",
+          "entities": [
+            {
+              "entityId": "steve-kerr",
+              "entityType": "coach"
+            },
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Riley - Magic",
+          "entities": [
+            {
+              "entityId": "pat-riley",
+              "entityType": "coach"
+            },
+            {
+              "entityId": "magic-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Sloan - Stockton",
+          "entities": [
+            {
+              "entityId": "jerry-sloan",
+              "entityType": "coach"
+            },
+            {
+              "entityId": "john-stockton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Spoelstra - Wade",
+          "entities": [
+            {
+              "entityId": "erik-spoelstra",
+              "entityType": "coach"
+            },
+            {
+              "entityId": "dwyane-wade",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "D'Antoni - Nash",
+          "entities": [
+            {
+              "entityId": "mike-d-antoni",
+              "entityType": "coach"
+            },
+            {
+              "entityId": "steve-nash",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Saunders - KG",
+          "entities": [
+            {
+              "entityId": "flip-saunders",
+              "entityType": "coach"
+            },
+            {
+              "entityId": "kevin-garnett",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Popovich - Duncan",
+          "entities": [
+            {
+              "entityId": "gregg-popovich",
+              "entityType": "coach"
+            },
+            {
+              "entityId": "tim-duncan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Jackson - Jordan",
+          "entities": [
+            {
+              "entityId": "phil-jackson",
+              "entityType": "coach"
+            },
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Auerbach - Russell",
+          "entities": [
+            {
+              "entityId": "red-auerbach",
+              "entityType": "coach"
+            },
+            {
+              "entityId": "bill-russell",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Kerr - Curry",
+          "entities": [
+            {
+              "entityId": "steve-kerr",
+              "entityType": "coach"
+            },
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Riley - Magic",
+          "entities": [
+            {
+              "entityId": "pat-riley",
+              "entityType": "coach"
+            },
+            {
+              "entityId": "magic-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Daly - Thomas",
+          "entities": [
+            {
+              "entityId": "chuck-daly",
+              "entityType": "coach"
+            },
+            {
+              "entityId": "isiah-thomas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Jackson - Kobe",
+          "entities": [
+            {
+              "entityId": "phil-jackson",
+              "entityType": "coach"
+            },
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Carlisle - Dirk",
+          "entities": [
+            {
+              "entityId": "rick-carlisle",
+              "entityType": "coach"
+            },
+            {
+              "entityId": "dirk-nowitzki",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "D'Antoni - Nash",
+          "entities": [
+            {
+              "entityId": "mike-d-antoni",
+              "entityType": "coach"
+            },
+            {
+              "entityId": "steve-nash",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Tomjanovich - Hakeem",
+          "entities": [
+            {
+              "entityId": "rudy-tomjanovich",
+              "entityType": "coach"
+            },
+            {
+              "entityId": "hakeem-olajuwon",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

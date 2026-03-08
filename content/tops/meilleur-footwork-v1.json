@@ -1,0 +1,229 @@
+{
+  "slug": "meilleur-footwork",
+  "title": "NBA Top 10 All-Time (2021-22) : meilleur footwork",
+  "subject": "meilleur footwork",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2022-02-14",
+  "videoId": "RwCgeKbdg0I",
+  "tags": [
+    "footwork",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "HAKEEM OLAJUWON",
+          "entities": [
+            {
+              "entityId": "hakeem-olajuwon",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "KOBE BRYANT",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "KEVIN MCHALE",
+          "entities": [
+            {
+              "entityId": "kevin-mchale",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "MICHAEL JORDAN",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "TIM DUNCAN",
+          "entities": [
+            {
+              "entityId": "tim-duncan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "JAMES HARDEN",
+          "entities": [
+            {
+              "entityId": "james-harden",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "JOEL EMBIID",
+          "entities": [
+            {
+              "entityId": "joel-embiid",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "DEMAR DEROZAN",
+          "entities": [
+            {
+              "entityId": "demar-derozan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "CARMELO ANTHONY",
+          "entities": [
+            {
+              "entityId": "carmelo-anthony",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "LUKA DONCIC",
+          "entities": [
+            {
+              "entityId": "luka-doncic",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "HAKEEM OLAJUWON",
+          "entities": [
+            {
+              "entityId": "hakeem-olajuwon",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "MICHAEL JORDAN",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "KOBE BRYANT",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "KEVIN MCHALE",
+          "entities": [
+            {
+              "entityId": "kevin-mchale",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "LUIS SCOLA",
+          "entities": [
+            {
+              "entityId": "luis-scola",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "PAUL PIERCE",
+          "entities": [
+            {
+              "entityId": "paul-pierce",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "TIM DUNCAN",
+          "entities": [
+            {
+              "entityId": "tim-duncan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "KAWHI LEONARD",
+          "entities": [
+            {
+              "entityId": "kawhi-leonard",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "ADRIAN DANTLEY",
+          "entities": [
+            {
+              "entityId": "adrian-dantley",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "ZACH RANDOLPH",
+          "entities": [
+            {
+              "entityId": "zach-randolph",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

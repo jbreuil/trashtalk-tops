@@ -1,0 +1,233 @@
+{
+  "slug": "les-joueurs-beaux-a-voir-jouer",
+  "title": "NBA Top 10 All-Time (2021-22) : les joueurs beaux à voir jouer",
+  "subject": "les joueurs beaux à voir jouer",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2021-11-15",
+  "videoId": "mEa08iNcHYI",
+  "tags": [
+    "all-time",
+    "beau-jeu"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "MJ / KOBE",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            },
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "KYRIE IRVING",
+          "entities": [
+            {
+              "entityId": "kyrie-irving",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "KEVIN DURANT",
+          "entities": [
+            {
+              "entityId": "kevin-durant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "STEPHEN CURRY",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "HAKEEM OLAJUWON",
+          "entities": [
+            {
+              "entityId": "hakeem-olajuwon",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "CARMELO ANTHONY",
+          "entities": [
+            {
+              "entityId": "carmelo-anthony",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "JASON WILLIAMS",
+          "entities": [
+            {
+              "entityId": "jason-williams",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "TRACY MCGRADY",
+          "entities": [
+            {
+              "entityId": "tracy-mcgrady",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "MANU GINOBILI",
+          "entities": [
+            {
+              "entityId": "manu-ginobili",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "DERRICK ROSE",
+          "entities": [
+            {
+              "entityId": "derrick-rose",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "MAGIC JOHNSON",
+          "entities": [
+            {
+              "entityId": "magic-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "HAKEEM OLAJUWON",
+          "entities": [
+            {
+              "entityId": "hakeem-olajuwon",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "MICHAEL JORDAN",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "KOBE BRYANT",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "NIKOLA JOKIC",
+          "entities": [
+            {
+              "entityId": "nikola-jokic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "TRACY MCGRADY",
+          "entities": [
+            {
+              "entityId": "tracy-mcgrady",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "STEPHEN CURRY",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "KYRIE IRVING",
+          "entities": [
+            {
+              "entityId": "kyrie-irving",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "KEVIN DURANT",
+          "entities": [
+            {
+              "entityId": "kevin-durant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "ROD STRICKLAND",
+          "entities": [
+            {
+              "entityId": "rod-strickland",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

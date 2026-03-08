@@ -1,0 +1,229 @@
+{
+  "slug": "meilleurs-2nds-tours-de-draft-all-time",
+  "title": "Top 10 Meilleurs 2nds tours de Draft All-Time",
+  "subject": "Meilleurs 2nds tours de Draft All-Time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2017-11-13",
+  "videoId": "x1xbq4XnOp4",
+  "tags": [
+    "drafts",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Dennis Rodman",
+          "entities": [
+            {
+              "entityId": "dennis-rodman",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Manu Ginobili",
+          "entities": [
+            {
+              "entityId": "manu-ginobili",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Marc Gasol",
+          "entities": [
+            {
+              "entityId": "marc-gasol",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Mark Price",
+          "entities": [
+            {
+              "entityId": "mark-price",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Isaiah Thomas",
+          "entities": [
+            {
+              "entityId": "isaiah-thomas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Draymond Green",
+          "entities": [
+            {
+              "entityId": "draymond-green",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Paul Millsap",
+          "entities": [
+            {
+              "entityId": "paul-millsap",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Gilbert Arenas",
+          "entities": [
+            {
+              "entityId": "gilbert-arenas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Toni Kukoc",
+          "entities": [
+            {
+              "entityId": "toni-kukoc",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Nick Van Exel",
+          "entities": [
+            {
+              "entityId": "nick-van-exel",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Manu Ginobili",
+          "entities": [
+            {
+              "entityId": "manu-ginobili",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Dennis Rodman",
+          "entities": [
+            {
+              "entityId": "dennis-rodman",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Marc Gasol",
+          "entities": [
+            {
+              "entityId": "marc-gasol",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Draymond Green",
+          "entities": [
+            {
+              "entityId": "draymond-green",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Gilbert Arenas",
+          "entities": [
+            {
+              "entityId": "gilbert-arenas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Mark Price",
+          "entities": [
+            {
+              "entityId": "mark-price",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Paul Millsap",
+          "entities": [
+            {
+              "entityId": "paul-millsap",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Toni Kukoc",
+          "entities": [
+            {
+              "entityId": "toni-kukoc",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Nick Van Exel",
+          "entities": [
+            {
+              "entityId": "nick-van-exel",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Isaiah Thomas",
+          "entities": [
+            {
+              "entityId": "isaiah-thomas",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

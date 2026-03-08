@@ -1,0 +1,229 @@
+{
+  "slug": "ailiers-forts-all-time",
+  "title": "NBA Top 10 All-Time (2021-22) : ailiers-forts all-time",
+  "subject": "ailiers-forts all-time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 2,
+  "publishedAt": "2022-02-21",
+  "videoId": "7y0cA3BMHiQ",
+  "tags": [
+    "ailier-fort",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "TIM DUNCAN",
+          "entities": [
+            {
+              "entityId": "tim-duncan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "KARL MALONE",
+          "entities": [
+            {
+              "entityId": "karl-malone",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "DIRK NOWITZKI",
+          "entities": [
+            {
+              "entityId": "dirk-nowitzki",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "GIANNIS ANTETOKOUNMPO",
+          "entities": [
+            {
+              "entityId": "giannis-antetokounmpo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "CHARLES BARKLEY",
+          "entities": [
+            {
+              "entityId": "charles-barkley",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "KEVIN GARNETT",
+          "entities": [
+            {
+              "entityId": "kevin-garnett",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "BOB PETTIT",
+          "entities": [
+            {
+              "entityId": "bob-pettit",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "ELVIN HAYES",
+          "entities": [
+            {
+              "entityId": "elvin-hayes",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "ANTHONY DAVIS",
+          "entities": [
+            {
+              "entityId": "anthony-davis",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "PAU GASOL",
+          "entities": [
+            {
+              "entityId": "pau-gasol",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "TIM DUNCAN",
+          "entities": [
+            {
+              "entityId": "tim-duncan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "KARL MALONE",
+          "entities": [
+            {
+              "entityId": "karl-malone",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "GIANNIS ANTETOKOUNMPO",
+          "entities": [
+            {
+              "entityId": "giannis-antetokounmpo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "DIRK NOWITZKI",
+          "entities": [
+            {
+              "entityId": "dirk-nowitzki",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "CHARLES BARKLEY",
+          "entities": [
+            {
+              "entityId": "charles-barkley",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "KEVIN GARNETT",
+          "entities": [
+            {
+              "entityId": "kevin-garnett",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "ELVIN HAYES",
+          "entities": [
+            {
+              "entityId": "elvin-hayes",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "DENNIS RODMAN",
+          "entities": [
+            {
+              "entityId": "dennis-rodman",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "BOB PETTIT",
+          "entities": [
+            {
+              "entityId": "bob-pettit",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "PAU GASOL",
+          "entities": [
+            {
+              "entityId": "pau-gasol",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

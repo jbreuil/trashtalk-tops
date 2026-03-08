@@ -1,0 +1,233 @@
+{
+  "slug": "moments-du-mlk-day",
+  "title": "NBA Top 10 All-Time (2021-22) : moments du MLK Day",
+  "subject": "moments du MLK Day",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2022-01-17",
+  "videoId": "qP0BuJPBP-8",
+  "tags": [
+    "moments",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "G. ARENAS VS UTAH",
+          "entities": [
+            {
+              "entityId": "gilbert-arenas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "CHRIS PAUL - TUNNEL",
+          "entities": [
+            {
+              "entityId": "chris-paul",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "WARRIORS 2016",
+          "entities": [
+            {
+              "entityId": "golden-state-warriors",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "D. LILLARD 61 POINTS",
+          "entities": [
+            {
+              "entityId": "damian-lillard",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "TRENT TUCKER RULE",
+          "entities": [
+            {
+              "entityId": "trent-tucker",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "D. NOWITZKI BUZZER",
+          "entities": [
+            {
+              "entityId": "dirk-nowitzki",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "FISHER VS DALLAS 2012",
+          "entities": [
+            {
+              "entityId": "derek-fisher",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "ROOKIE BLAKE GRIFFIN",
+          "entities": [
+            {
+              "entityId": "blake-griffin",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "CHRIS PAUL BUZZER",
+          "entities": [
+            {
+              "entityId": "chris-paul",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "MARCUS CAMBY PUNCH",
+          "entities": [
+            {
+              "entityId": "marcus-camby",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "G. ARENAS VS UTAH",
+          "entities": [
+            {
+              "entityId": "gilbert-arenas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "CAVS VS WARRIORS 2018",
+          "entities": [
+            {
+              "entityId": "cleveland-cavaliers",
+              "entityType": "team"
+            },
+            {
+              "entityId": "golden-state-warriors",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "D. LILLARD 61 POINTS",
+          "entities": [
+            {
+              "entityId": "damian-lillard",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "D. HOWARD EN 36/26",
+          "entities": [
+            {
+              "entityId": "dwight-howard",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "D. NOWITZKI BUZZER",
+          "entities": [
+            {
+              "entityId": "dirk-nowitzki",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "J. VAN GUNDY EN HEROS",
+          "entities": [
+            {
+              "entityId": "jeff-van-gundy",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "BLAKE GRIFFIN ROOKIE",
+          "entities": [
+            {
+              "entityId": "blake-griffin",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "JAMES HARDEN 2015",
+          "entities": [
+            {
+              "entityId": "james-harden",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "B. DIAW TRIPLE-DOUBLE",
+          "entities": [
+            {
+              "entityId": "boris-diaw",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "CHRIS PAUL - TUNNEL",
+          "entities": [
+            {
+              "entityId": "chris-paul",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "slug": "meilleurs-duos-all-time",
+  "title": "Top 10 meilleurs duos All-Time",
+  "subject": "meilleurs duos All-Time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2018-11-26",
+  "videoId": "SeOtxcYFNXk",
+  "tags": [
+    "duo",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "JORDAN - PIPPEN",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            },
+            {
+              "entityId": "scottie-pippen",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "MALONE - STOCKTON",
+          "entities": [
+            {
+              "entityId": "karl-malone",
+              "entityType": "player"
+            },
+            {
+              "entityId": "john-stockton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "KAREEM - MAGIC",
+          "entities": [
+            {
+              "entityId": "kareem-abdul-jabbar",
+              "entityType": "player"
+            },
+            {
+              "entityId": "magic-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "SHAQ - KOBE",
+          "entities": [
+            {
+              "entityId": "shaquille-o-neal",
+              "entityType": "player"
+            },
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "KLAY - CURRY",
+          "entities": [
+            {
+              "entityId": "klay-thompson",
+              "entityType": "player"
+            },
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "COUSY - RUSSELL",
+          "entities": [
+            {
+              "entityId": "bob-cousy",
+              "entityType": "player"
+            },
+            {
+              "entityId": "bill-russell",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "LEBRON - WADE",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            },
+            {
+              "entityId": "dwyane-wade",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "ISIAH - DUMARS",
+          "entities": [
+            {
+              "entityId": "isiah-thomas",
+              "entityType": "player"
+            },
+            {
+              "entityId": "joe-dumars",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "OLAJUWON - SAMPSON",
+          "entities": [
+            {
+              "entityId": "hakeem-olajuwon",
+              "entityType": "player"
+            },
+            {
+              "entityId": "ralph-sampson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "KEMP - PAYTON",
+          "entities": [
+            {
+              "entityId": "shawn-kemp",
+              "entityType": "player"
+            },
+            {
+              "entityId": "gary-payton",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "JORDAN - PIPPEN",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player"
+            },
+            {
+              "entityId": "scottie-pippen",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "KAREEM - MAGIC",
+          "entities": [
+            {
+              "entityId": "kareem-abdul-jabbar",
+              "entityType": "player"
+            },
+            {
+              "entityId": "magic-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "MALONE - STOCKTON",
+          "entities": [
+            {
+              "entityId": "karl-malone",
+              "entityType": "player"
+            },
+            {
+              "entityId": "john-stockton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "ISIAH - LAIMBEER",
+          "entities": [
+            {
+              "entityId": "isiah-thomas",
+              "entityType": "player"
+            },
+            {
+              "entityId": "bill-laimbeer",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "SHAQ - KOBE",
+          "entities": [
+            {
+              "entityId": "shaquille-o-neal",
+              "entityType": "player"
+            },
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "KLAY - CURRY",
+          "entities": [
+            {
+              "entityId": "klay-thompson",
+              "entityType": "player"
+            },
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "LEBRON - WADE",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            },
+            {
+              "entityId": "dwyane-wade",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "COUSY - RUSSELL",
+          "entities": [
+            {
+              "entityId": "bob-cousy",
+              "entityType": "player"
+            },
+            {
+              "entityId": "bill-russell",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "WILT - WEST",
+          "entities": [
+            {
+              "entityId": "wilt-chamberlain",
+              "entityType": "player"
+            },
+            {
+              "entityId": "jerry-west",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "NASH - STOUDEMIRE",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player"
+            },
+            {
+              "entityId": "amar-e-stoudemire",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

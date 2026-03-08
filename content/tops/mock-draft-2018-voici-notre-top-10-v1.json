@@ -1,0 +1,229 @@
+{
+  "slug": "mock-draft-2018-voici-notre-top-10",
+  "title": "Mock Draft 2018 : voici notre Top 10 !",
+  "subject": "Mock Draft 2018 : voici notre Top 10",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2018-05-23",
+  "videoId": "CIQFYAljuKk",
+  "tags": [
+    "drafts",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "LUKA DONCIC",
+          "entities": [
+            {
+              "entityId": "luka-doncic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "DEANDRE AYTON",
+          "entities": [
+            {
+              "entityId": "deandre-ayton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "MARVIN BAGLEY",
+          "entities": [
+            {
+              "entityId": "marvin-bagley-iii",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "JAREN JACKSON JR",
+          "entities": [
+            {
+              "entityId": "jaren-jackson-jr",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "MICHAEL PORTER JR",
+          "entities": [
+            {
+              "entityId": "michael-porter-jr",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "MO BAMBA",
+          "entities": [
+            {
+              "entityId": "mo-bamba",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "WENDELL CARTER",
+          "entities": [
+            {
+              "entityId": "wendell-carter-jr",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "COLLIN SEXTON",
+          "entities": [
+            {
+              "entityId": "collin-sexton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "TRAE YOUNG",
+          "entities": [
+            {
+              "entityId": "trae-young",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "MIKAL BRIDGES",
+          "entities": [
+            {
+              "entityId": "mikal-bridges",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "DEANDRE AYTON",
+          "entities": [
+            {
+              "entityId": "deandre-ayton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "LUKA DONCIC",
+          "entities": [
+            {
+              "entityId": "luka-doncic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "MICHAEL PORTER JR",
+          "entities": [
+            {
+              "entityId": "michael-porter-jr",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "MARVIN BAGLEY",
+          "entities": [
+            {
+              "entityId": "marvin-bagley-iii",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "JAREN JACKSON JR",
+          "entities": [
+            {
+              "entityId": "jaren-jackson-jr",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "MO BAMBA",
+          "entities": [
+            {
+              "entityId": "mo-bamba",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "TRAE YOUNG",
+          "entities": [
+            {
+              "entityId": "trae-young",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "COLLIN SEXTON",
+          "entities": [
+            {
+              "entityId": "collin-sexton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "WENDELL CARTER",
+          "entities": [
+            {
+              "entityId": "wendell-carter-jr",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "MIKAL BRIDGES",
+          "entities": [
+            {
+              "entityId": "mikal-bridges",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

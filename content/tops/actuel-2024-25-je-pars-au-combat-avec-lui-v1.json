@@ -1,0 +1,228 @@
+{
+  "slug": "actuel-2024-25-je-pars-au-combat-avec-lui",
+  "title": "NBA Top 10 actuel (2024-25) : \"Je pars au combat avec lui",
+  "subject": "actuel (2024-25) : \"Je pars au combat avec lui",
+  "format": 10,
+  "temporalType": "dated",
+  "season": "2024-25",
+  "version": 1,
+  "publishedAt": "2025-01-20",
+  "videoId": "KBOtQul0ZFo",
+  "tags": [
+    "saison"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Giannis Antetokounmpo",
+          "entities": [
+            {
+              "entityId": "giannis-antetokounmpo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Josh Hart",
+          "entities": [
+            {
+              "entityId": "josh-hart",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Luguentz Dort",
+          "entities": [
+            {
+              "entityId": "luguentz-dort",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Jalen Suggs",
+          "entities": [
+            {
+              "entityId": "jalen-suggs",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Nikola Jokic",
+          "entities": [
+            {
+              "entityId": "nikola-jokic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Russell Westbrook",
+          "entities": [
+            {
+              "entityId": "russell-westbrook",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Jae Crowder",
+          "entities": [
+            {
+              "entityId": "jae-crowder",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Bam Adebayo",
+          "entities": [
+            {
+              "entityId": "bam-adebayo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Goga Bitadze",
+          "entities": [
+            {
+              "entityId": "goga-bitadze",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Steven Adams",
+          "entities": [
+            {
+              "entityId": "steven-adams",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Giannis Antetokounmpo",
+          "entities": [
+            {
+              "entityId": "giannis-antetokounmpo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Josh Hart",
+          "entities": [
+            {
+              "entityId": "josh-hart",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Ja Morant",
+          "entities": [
+            {
+              "entityId": "ja-morant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Derrick White",
+          "entities": [
+            {
+              "entityId": "derrick-white",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Guerschon Yabusele",
+          "entities": [
+            {
+              "entityId": "guerschon-yabusele",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Draymond Green",
+          "entities": [
+            {
+              "entityId": "draymond-green",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "TJ McConnell",
+          "entities": [
+            {
+              "entityId": "t-j-mcconnell",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Isaiah Hartenstein",
+          "entities": [
+            {
+              "entityId": "isaiah-hartenstein",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Dillon Brooks",
+          "entities": [
+            {
+              "entityId": "dillon-brooks",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Russell Westbrook",
+          "entities": [
+            {
+              "entityId": "russell-westbrook",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

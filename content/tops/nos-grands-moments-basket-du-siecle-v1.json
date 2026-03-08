@@ -1,0 +1,253 @@
+{
+  "slug": "nos-grands-moments-basket-du-siecle",
+  "title": "NBA Top 10 All Time : nos + grands moments basket du siècle !",
+  "subject": "nos + grands moments basket du siècle",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2025-12-29",
+  "videoId": "4S2PwU71iNU",
+  "tags": [
+    "moments",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Finales 2016",
+          "entities": [
+            {
+              "entityId": "golden-state-warriors",
+              "entityType": "team"
+            },
+            {
+              "entityId": "cleveland-cavaliers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Kobe 81 points",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Curry / OKC",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            },
+            {
+              "entityId": "oklahoma-city-thunder",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Shoot de Kawhi",
+          "entities": [
+            {
+              "entityId": "kawhi-leonard",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "The Decision",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Thomas Heurtel"
+        },
+        {
+          "rank": 7,
+          "name": "USA Espagne"
+        },
+        {
+          "rank": 8,
+          "name": "TMac vs Spurs",
+          "entities": [
+            {
+              "entityId": "tracy-mcgrady",
+              "entityType": "player"
+            },
+            {
+              "entityId": "san-antonio-spurs",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Ray Allen vs Spurs",
+          "entities": [
+            {
+              "entityId": "ray-allen",
+              "entityType": "player"
+            },
+            {
+              "entityId": "san-antonio-spurs",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Dunk Contest 2016",
+          "entities": [
+            {
+              "entityId": "zach-lavine",
+              "entityType": "player"
+            },
+            {
+              "entityId": "aaron-gordon",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "La Bulle"
+        },
+        {
+          "rank": 2,
+          "name": "Curry Nuit / Nuit",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Kobe Dernier Match",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Finales 2016",
+          "entities": [
+            {
+              "entityId": "golden-state-warriors",
+              "entityType": "team"
+            },
+            {
+              "entityId": "cleveland-cavaliers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Trade Luka",
+          "entities": [
+            {
+              "entityId": "luka-doncic",
+              "entityType": "player"
+            },
+            {
+              "entityId": "dallas-mavericks",
+              "entityType": "team"
+            },
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Dirk 2011",
+          "entities": [
+            {
+              "entityId": "dirk-nowitzki",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Malice au Palace",
+          "entities": [
+            {
+              "entityId": "metta-world-peace",
+              "entityType": "player"
+            },
+            {
+              "entityId": "indiana-pacers",
+              "entityType": "team"
+            },
+            {
+              "entityId": "detroit-pistons",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "EDF 2013"
+        },
+        {
+          "rank": 9,
+          "name": "Match 6 2013",
+          "entities": [
+            {
+              "entityId": "ray-allen",
+              "entityType": "player"
+            },
+            {
+              "entityId": "san-antonio-spurs",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Shaq 2000",
+          "entities": [
+            {
+              "entityId": "shaquille-o-neal",
+              "entityType": "player"
+            },
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

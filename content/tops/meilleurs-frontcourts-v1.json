@@ -1,0 +1,389 @@
+{
+  "slug": "meilleurs-frontcourts",
+  "title": "NBA Top 10 All-Time (2021-22) : meilleurs frontcourts",
+  "subject": "meilleurs frontcourts",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2022-03-28",
+  "videoId": "vFNssPO_0B8",
+  "tags": [
+    "frontcourt",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Bird/McHale/Parish",
+          "entities": [
+            {
+              "entityId": "larry-bird",
+              "entityType": "player"
+            },
+            {
+              "entityId": "kevin-mchale",
+              "entityType": "player"
+            },
+            {
+              "entityId": "robert-parish",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Moses/Julius/Bobby",
+          "entities": [
+            {
+              "entityId": "moses-malone",
+              "entityType": "player"
+            },
+            {
+              "entityId": "julius-erving",
+              "entityType": "player"
+            },
+            {
+              "entityId": "bobby-jones",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Pippen/Rodman/Kukoc",
+          "entities": [
+            {
+              "entityId": "scottie-pippen",
+              "entityType": "player"
+            },
+            {
+              "entityId": "dennis-rodman",
+              "entityType": "player"
+            },
+            {
+              "entityId": "toni-kukoc",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "KAJ/Worthy/Green",
+          "entities": [
+            {
+              "entityId": "kareem-abdul-jabbar",
+              "entityType": "player"
+            },
+            {
+              "entityId": "james-worthy",
+              "entityType": "player"
+            },
+            {
+              "entityId": "a-c-green",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Wilt/Billy/Chet",
+          "entities": [
+            {
+              "entityId": "wilt-chamberlain",
+              "entityType": "player"
+            },
+            {
+              "entityId": "billy-cunningham",
+              "entityType": "player"
+            },
+            {
+              "entityId": "chet-walker",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "LeBron/Bosh/Birdman",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            },
+            {
+              "entityId": "chris-bosh",
+              "entityType": "player"
+            },
+            {
+              "entityId": "chris-andersen",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Bowen/Duncan/Robinson",
+          "entities": [
+            {
+              "entityId": "bruce-bowen",
+              "entityType": "player"
+            },
+            {
+              "entityId": "tim-duncan",
+              "entityType": "player"
+            },
+            {
+              "entityId": "david-robinson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Pierce/Garnett/Perkins",
+          "entities": [
+            {
+              "entityId": "paul-pierce",
+              "entityType": "player"
+            },
+            {
+              "entityId": "kevin-garnett",
+              "entityType": "player"
+            },
+            {
+              "entityId": "kendrick-perkins",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Gasol/Bynum/Odom",
+          "entities": [
+            {
+              "entityId": "pau-gasol",
+              "entityType": "player"
+            },
+            {
+              "entityId": "andrew-bynum",
+              "entityType": "player"
+            },
+            {
+              "entityId": "lamar-odom",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Reed/DeBusschere/Bradley",
+          "entities": [
+            {
+              "entityId": "willis-reed",
+              "entityType": "player"
+            },
+            {
+              "entityId": "dave-debusschere",
+              "entityType": "player"
+            },
+            {
+              "entityId": "bill-bradley",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Bird/McHale/Parish",
+          "entities": [
+            {
+              "entityId": "larry-bird",
+              "entityType": "player"
+            },
+            {
+              "entityId": "kevin-mchale",
+              "entityType": "player"
+            },
+            {
+              "entityId": "robert-parish",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Moses/Julius/Bobby",
+          "entities": [
+            {
+              "entityId": "moses-malone",
+              "entityType": "player"
+            },
+            {
+              "entityId": "julius-erving",
+              "entityType": "player"
+            },
+            {
+              "entityId": "bobby-jones",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Pippen/Rodman/Kukoc",
+          "entities": [
+            {
+              "entityId": "scottie-pippen",
+              "entityType": "player"
+            },
+            {
+              "entityId": "dennis-rodman",
+              "entityType": "player"
+            },
+            {
+              "entityId": "toni-kukoc",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "LeBron/Bosh/Battier",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            },
+            {
+              "entityId": "chris-bosh",
+              "entityType": "player"
+            },
+            {
+              "entityId": "shane-battier",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "KAJ/Worthy/Green",
+          "entities": [
+            {
+              "entityId": "kareem-abdul-jabbar",
+              "entityType": "player"
+            },
+            {
+              "entityId": "james-worthy",
+              "entityType": "player"
+            },
+            {
+              "entityId": "a-c-green",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Havlicek/Sanders/Russell",
+          "entities": [
+            {
+              "entityId": "john-havlicek",
+              "entityType": "player"
+            },
+            {
+              "entityId": "thomas-sanders",
+              "entityType": "player"
+            },
+            {
+              "entityId": "bill-russell",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Dandridge/Hayes/Unseld",
+          "entities": [
+            {
+              "entityId": "bob-dandridge",
+              "entityType": "player"
+            },
+            {
+              "entityId": "elvin-hayes",
+              "entityType": "player"
+            },
+            {
+              "entityId": "wes-unseld",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Pierce/Garnett/Perkins",
+          "entities": [
+            {
+              "entityId": "paul-pierce",
+              "entityType": "player"
+            },
+            {
+              "entityId": "kevin-garnett",
+              "entityType": "player"
+            },
+            {
+              "entityId": "kendrick-perkins",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Iggy/KD/Draymond",
+          "entities": [
+            {
+              "entityId": "andre-iguodala",
+              "entityType": "player"
+            },
+            {
+              "entityId": "kevin-durant",
+              "entityType": "player"
+            },
+            {
+              "entityId": "draymond-green",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Bowen/Duncan/Robinson",
+          "entities": [
+            {
+              "entityId": "bruce-bowen",
+              "entityType": "player"
+            },
+            {
+              "entityId": "tim-duncan",
+              "entityType": "player"
+            },
+            {
+              "entityId": "david-robinson",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

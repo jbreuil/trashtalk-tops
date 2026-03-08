@@ -1,0 +1,229 @@
+{
+  "slug": "lui-dans-la-nba-actuelle",
+  "title": "NBA Top 10 All-Time (2021-22) : \"Lui... Dans la NBA actuelle\"",
+  "subject": "\"Lui... Dans la NBA actuelle\"",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2022-04-25",
+  "videoId": "90irizN0D1Q",
+  "tags": [
+    "all-time",
+    "what-if"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Pete Maravich",
+          "entities": [
+            {
+              "entityId": "pete-maravich",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Mahmoud Abdul-Rauf",
+          "entities": [
+            {
+              "entityId": "mahmoud-abdul-rauf",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Toni Kukoc",
+          "entities": [
+            {
+              "entityId": "toni-kukoc",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Mark Price",
+          "entities": [
+            {
+              "entityId": "mark-price",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Andrei Kirilenko",
+          "entities": [
+            {
+              "entityId": "andrei-kirilenko",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Sam Perkins",
+          "entities": [
+            {
+              "entityId": "sam-perkins",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Raef LaFrentz",
+          "entities": [
+            {
+              "entityId": "raef-lafrentz",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Nick Van Exel",
+          "entities": [
+            {
+              "entityId": "nick-van-exel",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Derrick Coleman",
+          "entities": [
+            {
+              "entityId": "derrick-coleman",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Robert Horry",
+          "entities": [
+            {
+              "entityId": "robert-horry",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Toni Kukoc",
+          "entities": [
+            {
+              "entityId": "toni-kukoc",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Pete Maravich",
+          "entities": [
+            {
+              "entityId": "pete-maravich",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Rod Strickland",
+          "entities": [
+            {
+              "entityId": "rod-strickland",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Tracy McGrady",
+          "entities": [
+            {
+              "entityId": "tracy-mcgrady",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Darrell Griffith",
+          "entities": [
+            {
+              "entityId": "darrell-griffith",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Detlef Schrempf",
+          "entities": [
+            {
+              "entityId": "detlef-schrempf",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Sam Perkins",
+          "entities": [
+            {
+              "entityId": "sam-perkins",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Al Harrington",
+          "entities": [
+            {
+              "entityId": "al-harrington",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Anthony Mason",
+          "entities": [
+            {
+              "entityId": "anthony-mason",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Larry Nance Sr",
+          "entities": [
+            {
+              "entityId": "larry-nance",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

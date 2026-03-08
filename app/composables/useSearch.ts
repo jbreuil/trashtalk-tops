@@ -47,7 +47,7 @@ export function useSearch() {
     ],
   })
 
-  const coaches = getByType('coach')
+  const coaches = [...getByType('coach'), ...getByType('gm')]
   const coachesFuse = new Fuse(coaches, {
     ...FUSE_OPTIONS,
     keys: [
@@ -55,23 +55,26 @@ export function useSearch() {
     ],
   })
 
-  /** Compute popularity score for an entity (0-1) based on gamesPlayed + TOP appearances */
+  /** Compute popularity score for an entity (0-1) based on career stats + TOP appearances */
   function entityPopularity(entity: Entity, topAppearances: number): number {
-    const gp = entity.gamesPlayed ?? 0
-    // Normalize gamesPlayed (max ~2000 for a long career)
+    const gp = entity.gamesPlayed ?? entity.gamesCoached ?? 0
+    // Normalize gamesPlayed/gamesCoached (max ~2000 for a long career)
     const gpScore = Math.min(gp / 2000, 1)
     // Normalize TOP appearances (max ~20 as reasonable cap)
     const topScore = Math.min(topAppearances / 20, 1)
     return (gpScore + topScore) / 2
   }
 
-  /** Count how many times an entity appears across all TOPs */
+  /** Count how many TOPs an entity appears in (deduplicated per TOP) */
   function countTopAppearances(entityId: string): number {
     let count = 0
     for (const top of getAllTops()) {
-      if (top.rankingAlex.some(e => e.entityId === entityId))
-        count++
-      if (top.rankingBastien.some(e => e.entityId === entityId))
+      const found = top.rankings.some(ranking =>
+        ranking.entries.some(entry =>
+          entry.entities?.some(e => e.entityId === entityId),
+        ),
+      )
+      if (found)
         count++
     }
     return count
@@ -137,12 +140,12 @@ export function useSearch() {
       groups.push({
         category: 'tops',
         label: CATEGORY_LABELS.tops,
-        results: rawTops.slice(0, slots.tops).map(r => ({
+        results: rawTops.map(r => ({
           category: 'tops' as const,
           item: r.item,
           score: r.score ?? 1,
         })),
-        total: rawTops.length,
+        defaultCount: slots.tops,
       })
     }
 
@@ -158,8 +161,8 @@ export function useSearch() {
       groups.push({
         category: 'franchises',
         label: CATEGORY_LABELS.franchises,
-        results: scored.slice(0, slots.franchises),
-        total: rawFranchises.length,
+        results: scored,
+        defaultCount: slots.franchises,
       })
     }
 
@@ -174,12 +177,12 @@ export function useSearch() {
       groups.push({
         category: 'joueurs',
         label: CATEGORY_LABELS.joueurs,
-        results: scored.slice(0, slots.joueurs),
-        total: rawJoueurs.length,
+        results: scored,
+        defaultCount: slots.joueurs,
       })
     }
 
-    // Coaches — popularity = gamesPlayed (gamesCoached) + TOP appearances
+    // Coaches — popularity = gamesCoached + TOP appearances
     if (rawCoaches.length > 0) {
       const scored = rawCoaches.map((r) => {
         const pop = entityPopularity(r.item, countTopAppearances(r.item.entityId))
@@ -190,8 +193,8 @@ export function useSearch() {
       groups.push({
         category: 'coaches',
         label: CATEGORY_LABELS.coaches,
-        results: scored.slice(0, slots.coaches),
-        total: rawCoaches.length,
+        results: scored,
+        defaultCount: slots.coaches,
       })
     }
 

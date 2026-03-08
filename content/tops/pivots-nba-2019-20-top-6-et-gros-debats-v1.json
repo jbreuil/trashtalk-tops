@@ -1,0 +1,160 @@
+{
+  "slug": "pivots-nba-2019-20-top-6-et-gros-debats",
+  "title": "Le Grand Apéro des pivots NBA 2019-20 : Top 6 et gros débats !",
+  "subject": "pivots NBA 2019-20 : Top 6 et gros débats",
+  "format": 6,
+  "temporalType": "dated",
+  "season": "2019-20",
+  "version": 1,
+  "publishedAt": "2020-06-01",
+  "videoId": "GUVAnBUZ6Mc",
+  "tags": [
+    "pivot"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Nikola Jokic",
+          "entities": [
+            {
+              "entityId": "nikola-jokic",
+              "entityType": "player",
+              "nbaId": 203999
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Joel Embiid",
+          "entities": [
+            {
+              "entityId": "joel-embiid",
+              "entityType": "player",
+              "nbaId": 203954
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Bam Adebayo",
+          "entities": [
+            {
+              "entityId": "bam-adebayo",
+              "entityType": "player",
+              "nbaId": 1628389
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Rudy Gobert",
+          "entities": [
+            {
+              "entityId": "rudy-gobert",
+              "entityType": "player",
+              "nbaId": 203497
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Andre Drummond",
+          "entities": [
+            {
+              "entityId": "andre-drummond",
+              "entityType": "player",
+              "nbaId": 203083
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Karl-Anthony Towns",
+          "entities": [
+            {
+              "entityId": "karl-anthony-towns",
+              "entityType": "player",
+              "nbaId": 1626157
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Nikola Jokic",
+          "entities": [
+            {
+              "entityId": "nikola-jokic",
+              "entityType": "player",
+              "nbaId": 203999
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Joel Embiid",
+          "entities": [
+            {
+              "entityId": "joel-embiid",
+              "entityType": "player",
+              "nbaId": 203954
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Rudy Gobert",
+          "entities": [
+            {
+              "entityId": "rudy-gobert",
+              "entityType": "player",
+              "nbaId": 203497
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Bam Adebayo",
+          "entities": [
+            {
+              "entityId": "bam-adebayo",
+              "entityType": "player",
+              "nbaId": 1628389
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Nikola Vucevic",
+          "entities": [
+            {
+              "entityId": "nikola-vucevic",
+              "entityType": "player",
+              "nbaId": 202696
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Andre Drummond",
+          "entities": [
+            {
+              "entityId": "andre-drummond",
+              "entityType": "player",
+              "nbaId": 203083
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

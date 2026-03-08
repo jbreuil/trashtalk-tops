@@ -1,0 +1,248 @@
+{
+  "slug": "top-des-joueurs-de-moins-de-25-ans-en-nba-2023-24",
+  "title": "Top des joueurs de moins de 25 ans en NBA ! (2023-24)",
+  "subject": "Top des joueurs de moins de 25 ans en NBA ! (2023-24)",
+  "format": 10,
+  "temporalType": "dated",
+  "season": "2023-24",
+  "version": 1,
+  "publishedAt": "2023-12-05",
+  "videoId": "5FwWSRpc8Ck",
+  "tags": [
+    "saison"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Luka Doncic",
+          "entities": [
+            {
+              "entityId": "luka-doncic",
+              "entityType": "player",
+              "nbaId": 1629029
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Anthony Edwards",
+          "entities": [
+            {
+              "entityId": "anthony-edwards",
+              "entityType": "player",
+              "nbaId": 1630162
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Tyrese Haliburton",
+          "entities": [
+            {
+              "entityId": "tyrese-haliburton",
+              "entityType": "player",
+              "nbaId": 1630169
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "LaMelo Ball",
+          "entities": [
+            {
+              "entityId": "lamelo-ball",
+              "entityType": "player",
+              "nbaId": 1630163
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Ja Morant",
+          "entities": [
+            {
+              "entityId": "ja-morant",
+              "entityType": "player",
+              "nbaId": 1629630
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Tyrese Maxey",
+          "entities": [
+            {
+              "entityId": "tyrese-maxey",
+              "entityType": "player",
+              "nbaId": 1630178
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Zion Williamson",
+          "entities": [
+            {
+              "entityId": "zion-williamson",
+              "entityType": "player",
+              "nbaId": 1629627
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Victor Wembanyama",
+          "entities": [
+            {
+              "entityId": "victor-wembanyama",
+              "entityType": "player",
+              "nbaId": 1641705
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Chet Holmgren",
+          "entities": [
+            {
+              "entityId": "chet-holmgren",
+              "entityType": "player",
+              "nbaId": 1631096
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Alperen Sengun",
+          "entities": [
+            {
+              "entityId": "alperen-sengun",
+              "entityType": "player",
+              "nbaId": 1630578
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Luka Doncic",
+          "entities": [
+            {
+              "entityId": "luka-doncic",
+              "entityType": "player",
+              "nbaId": 1629029
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Anthony Edwards",
+          "entities": [
+            {
+              "entityId": "anthony-edwards",
+              "entityType": "player",
+              "nbaId": 1630162
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Tyrese Haliburton",
+          "entities": [
+            {
+              "entityId": "tyrese-haliburton",
+              "entityType": "player",
+              "nbaId": 1630169
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Ja Morant",
+          "entities": [
+            {
+              "entityId": "ja-morant",
+              "entityType": "player",
+              "nbaId": 1629630
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "LaMelo Ball",
+          "entities": [
+            {
+              "entityId": "lamelo-ball",
+              "entityType": "player",
+              "nbaId": 1630163
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Zion Williamson",
+          "entities": [
+            {
+              "entityId": "zion-williamson",
+              "entityType": "player",
+              "nbaId": 1629627
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Paolo Banchero",
+          "entities": [
+            {
+              "entityId": "paolo-banchero",
+              "entityType": "player",
+              "nbaId": 1631094
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Victor Wembanyama",
+          "entities": [
+            {
+              "entityId": "victor-wembanyama",
+              "entityType": "player",
+              "nbaId": 1641705
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Alperen Sengun",
+          "entities": [
+            {
+              "entityId": "alperen-sengun",
+              "entityType": "player",
+              "nbaId": 1630578
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Scottie Barnes",
+          "entities": [
+            {
+              "entityId": "scottie-barnes",
+              "entityType": "player",
+              "nbaId": 1630567
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "slug": "les-shooteurs",
+  "title": "Apéro TrashTalk #30 - Top 10 des shooteurs All-Time",
+  "subject": "des shooteurs All-Time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2016-04-07",
+  "videoId": "Tdb2ZsPxDjg",
+  "tags": [
+    "shoots",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Dirk Nowitzki",
+          "entities": [
+            {
+              "entityId": "dirk-nowitzki",
+              "entityType": "player",
+              "nbaId": 1717
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Stephen Curry",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player",
+              "nbaId": 201939
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Ray Allen",
+          "entities": [
+            {
+              "entityId": "ray-allen",
+              "entityType": "player",
+              "nbaId": 951
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Larry Bird",
+          "entities": [
+            {
+              "entityId": "larry-bird",
+              "entityType": "player",
+              "nbaId": 1449
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Drazen Petrovic",
+          "entities": [
+            {
+              "entityId": "drazen-petrovic",
+              "entityType": "player",
+              "nbaId": 77845
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Reggie Miller",
+          "entities": [
+            {
+              "entityId": "reggie-miller",
+              "entityType": "player",
+              "nbaId": 397
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Steve Nash",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player",
+              "nbaId": 959
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Peja Stojakovic",
+          "entities": [
+            {
+              "entityId": "peja-stojakovic",
+              "entityType": "player",
+              "nbaId": 978
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Mark Price",
+          "entities": [
+            {
+              "entityId": "mark-price",
+              "entityType": "player",
+              "nbaId": 899
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Glen Rice",
+          "entities": [
+            {
+              "entityId": "glen-rice",
+              "entityType": "player",
+              "nbaId": 779
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Larry Bird",
+          "entities": [
+            {
+              "entityId": "larry-bird",
+              "entityType": "player",
+              "nbaId": 1449
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Dirk Nowitzki",
+          "entities": [
+            {
+              "entityId": "dirk-nowitzki",
+              "entityType": "player",
+              "nbaId": 1717
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Ray Allen",
+          "entities": [
+            {
+              "entityId": "ray-allen",
+              "entityType": "player",
+              "nbaId": 951
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Stephen Curry",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player",
+              "nbaId": 201939
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Reggie Miller",
+          "entities": [
+            {
+              "entityId": "reggie-miller",
+              "entityType": "player",
+              "nbaId": 397
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Steve Nash",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player",
+              "nbaId": 959
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Peja Stojakovic",
+          "entities": [
+            {
+              "entityId": "peja-stojakovic",
+              "entityType": "player",
+              "nbaId": 978
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Drazen Petrovic",
+          "entities": [
+            {
+              "entityId": "drazen-petrovic",
+              "entityType": "player",
+              "nbaId": 77845
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Mark Price",
+          "entities": [
+            {
+              "entityId": "mark-price",
+              "entityType": "player",
+              "nbaId": 899
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Kyle Korver",
+          "entities": [
+            {
+              "entityId": "kyle-korver",
+              "entityType": "player",
+              "nbaId": 2594
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

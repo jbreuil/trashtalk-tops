@@ -1,0 +1,233 @@
+{
+  "slug": "tournants-de-playoffs-all-time",
+  "title": "Top 10 tournants de Playoffs all-time",
+  "subject": "tournants de Playoffs all-time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2019-03-04",
+  "videoId": "Aczd1n6p5Vc",
+  "tags": [
+    "all-time",
+    "playoffs"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "RAY ALLEN 2013",
+          "entities": [
+            {
+              "entityId": "ray-allen",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "LARRY BIRD 87",
+          "entities": [
+            {
+              "entityId": "larry-bird",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "ROBERT HORRY 2002",
+          "entities": [
+            {
+              "entityId": "robert-horry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "THE BLOCK",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "DEREK FISHER 0.4",
+          "entities": [
+            {
+              "entityId": "derek-fisher",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "TAYSHAUN PRINCE 2004",
+          "entities": [
+            {
+              "entityId": "tayshaun-prince",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "LARRY JOHNSON 99",
+          "entities": [
+            {
+              "entityId": "larry-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "FAUTE DE MANU",
+          "entities": [
+            {
+              "entityId": "manu-ginobili",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "REGGIE MILLER 95",
+          "entities": [
+            {
+              "entityId": "reggie-miller",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "MCHALE RAMBIS",
+          "entities": [
+            {
+              "entityId": "kevin-mchale",
+              "entityType": "player"
+            },
+            {
+              "entityId": "kurt-rambis",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "RAY ALLEN 2013",
+          "entities": [
+            {
+              "entityId": "ray-allen",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "LARRY BIRD 87",
+          "entities": [
+            {
+              "entityId": "larry-bird",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "THE BLOCK",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "DEREK FISHER 0.4",
+          "entities": [
+            {
+              "entityId": "derek-fisher",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "ROBERT HORRY 2002",
+          "entities": [
+            {
+              "entityId": "robert-horry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "NICK THE BRICK",
+          "entities": [
+            {
+              "entityId": "nick-anderson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "LARRY JOHNSON 99",
+          "entities": [
+            {
+              "entityId": "larry-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "TAYSHAUN PRINCE 2004",
+          "entities": [
+            {
+              "entityId": "tayshaun-prince",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "FAUTE DE MANU",
+          "entities": [
+            {
+              "entityId": "manu-ginobili",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "HORACE GRANT 93",
+          "entities": [
+            {
+              "entityId": "horace-grant",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

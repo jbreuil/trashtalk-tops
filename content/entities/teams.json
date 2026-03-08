@@ -1,15 +1,467 @@
 [
-  { "entityId": "los-angeles-lakers", "name": "Los Angeles Lakers", "type": "team", "nbaId": 1610612747 },
-  { "entityId": "golden-state-warriors", "name": "Golden State Warriors", "type": "team", "nbaId": 1610612744 },
-  { "entityId": "boston-celtics", "name": "Boston Celtics", "type": "team", "nbaId": 1610612738 },
-  { "entityId": "phoenix-suns", "name": "Phoenix Suns", "type": "team", "nbaId": 1610612756 },
-  { "entityId": "milwaukee-bucks", "name": "Milwaukee Bucks", "type": "team", "nbaId": 1610612749 },
-  { "entityId": "denver-nuggets", "name": "Denver Nuggets", "type": "team", "nbaId": 1610612743 },
-  { "entityId": "oklahoma-city-thunder", "name": "Oklahoma City Thunder", "type": "team", "nbaId": 1610612760, "years": "2008-present", "linkedTo": "seattle-supersonics" },
-  { "entityId": "seattle-supersonics", "name": "Seattle SuperSonics", "type": "team", "nbaId": 1610612760, "years": "1967-2008", "linkedTo": "oklahoma-city-thunder" },
-  { "entityId": "philadelphia-76ers", "name": "Philadelphia 76ers", "type": "team", "nbaId": 1610612755 },
-  { "entityId": "minnesota-timberwolves", "name": "Minnesota Timberwolves", "type": "team", "nbaId": 1610612750 },
-  { "entityId": "san-antonio-spurs", "name": "San Antonio Spurs", "type": "team", "nbaId": 1610612759 },
-  { "entityId": "miami-heat", "name": "Miami Heat", "type": "team", "nbaId": 1610612748 },
-  { "entityId": "cleveland-cavaliers", "name": "Cleveland Cavaliers", "type": "team", "nbaId": 1610612739 }
+  {
+    "entityId": "atlanta-hawks",
+    "name": "Atlanta Hawks",
+    "type": "team",
+    "nbaId": 1610612737,
+    "years": "1968-2023",
+    "linkedTo": "st-louis-hawks"
+  },
+  {
+    "entityId": "baltimore-bullets",
+    "name": "Baltimore Bullets",
+    "type": "team",
+    "nbaId": 1610612764,
+    "years": "1963-1972",
+    "linkedTo": "washington-wizards"
+  },
+  {
+    "entityId": "boston-celtics",
+    "name": "Boston Celtics",
+    "type": "team",
+    "nbaId": 1610612738,
+    "years": "1946-2023"
+  },
+  {
+    "entityId": "brooklyn-nets",
+    "name": "Brooklyn Nets",
+    "type": "team",
+    "nbaId": 1610612751,
+    "years": "2012-2023",
+    "linkedTo": "new-jersey-nets"
+  },
+  {
+    "entityId": "buffalo-braves",
+    "name": "Buffalo Braves",
+    "type": "team",
+    "nbaId": 1610612746,
+    "years": "1970-1977",
+    "linkedTo": "los-angeles-clippers"
+  },
+  {
+    "entityId": "capital-bullets",
+    "name": "Capital Bullets",
+    "type": "team",
+    "nbaId": 1610612764,
+    "years": "1973-1973",
+    "linkedTo": "washington-wizards"
+  },
+  {
+    "entityId": "charlotte-bobcats",
+    "name": "Charlotte Bobcats",
+    "type": "team",
+    "nbaId": 1610612766,
+    "years": "2004-2013",
+    "linkedTo": "charlotte-hornets"
+  },
+  {
+    "entityId": "charlotte-hornets",
+    "name": "Charlotte Hornets",
+    "type": "team",
+    "nbaId": 1610612766,
+    "years": "2014-2023",
+    "linkedTo": "charlotte-bobcats"
+  },
+  {
+    "entityId": "charlotte-hornets",
+    "name": "Charlotte Hornets",
+    "type": "team",
+    "nbaId": 1610612766,
+    "years": "1988-2001",
+    "linkedTo": "charlotte-hornets"
+  },
+  {
+    "entityId": "chicago-bulls",
+    "name": "Chicago Bulls",
+    "type": "team",
+    "nbaId": 1610612741,
+    "years": "1966-2023"
+  },
+  {
+    "entityId": "chicago-packers",
+    "name": "Chicago Packers",
+    "type": "team",
+    "nbaId": 1610612764,
+    "years": "1961-1961",
+    "linkedTo": "washington-wizards"
+  },
+  {
+    "entityId": "chicago-zephyrs",
+    "name": "Chicago Zephyrs",
+    "type": "team",
+    "nbaId": 1610612764,
+    "years": "1962-1962",
+    "linkedTo": "washington-wizards"
+  },
+  {
+    "entityId": "cincinnati-royals",
+    "name": "Cincinnati Royals",
+    "type": "team",
+    "nbaId": 1610612758,
+    "years": "1957-1971",
+    "linkedTo": "sacramento-kings"
+  },
+  {
+    "entityId": "cleveland-cavaliers",
+    "name": "Cleveland Cavaliers",
+    "type": "team",
+    "nbaId": 1610612739,
+    "years": "1970-2023"
+  },
+  {
+    "entityId": "dallas-mavericks",
+    "name": "Dallas Mavericks",
+    "type": "team",
+    "nbaId": 1610612742,
+    "years": "1980-2023"
+  },
+  {
+    "entityId": "denver-nuggets",
+    "name": "Denver Nuggets",
+    "type": "team",
+    "nbaId": 1610612743,
+    "years": "1976-2023"
+  },
+  {
+    "entityId": "detroit-pistons",
+    "name": "Detroit Pistons",
+    "type": "team",
+    "nbaId": 1610612765,
+    "years": "1957-2023",
+    "linkedTo": "ft-wayne-zollner-pistons"
+  },
+  {
+    "entityId": "ft-wayne-zollner-pistons",
+    "name": "Ft. Wayne Zollner Pistons",
+    "type": "team",
+    "nbaId": 1610612765,
+    "years": "1948-1956",
+    "linkedTo": "detroit-pistons"
+  },
+  {
+    "entityId": "golden-state-warriors",
+    "name": "Golden State Warriors",
+    "type": "team",
+    "nbaId": 1610612744,
+    "years": "1971-2023",
+    "linkedTo": "san-francisco-warriors"
+  },
+  {
+    "entityId": "houston-rockets",
+    "name": "Houston Rockets",
+    "type": "team",
+    "nbaId": 1610612745,
+    "years": "1971-2023",
+    "linkedTo": "san-diego-rockets"
+  },
+  {
+    "entityId": "indiana-pacers",
+    "name": "Indiana Pacers",
+    "type": "team",
+    "nbaId": 1610612754,
+    "years": "1976-2023"
+  },
+  {
+    "entityId": "kansas-city-kings",
+    "name": "Kansas City Kings",
+    "type": "team",
+    "nbaId": 1610612758,
+    "years": "1975-1984",
+    "linkedTo": "sacramento-kings"
+  },
+  {
+    "entityId": "kansas-city-omaha-kings",
+    "name": "Kansas City-Omaha Kings",
+    "type": "team",
+    "nbaId": 1610612758,
+    "years": "1972-1974",
+    "linkedTo": "sacramento-kings"
+  },
+  {
+    "entityId": "los-angeles-clippers",
+    "name": "Los Angeles Clippers",
+    "type": "team",
+    "nbaId": 1610612746,
+    "years": "1984-2023",
+    "linkedTo": "san-diego-clippers"
+  },
+  {
+    "entityId": "los-angeles-lakers",
+    "name": "Los Angeles Lakers",
+    "type": "team",
+    "nbaId": 1610612747,
+    "years": "1960-2023",
+    "linkedTo": "minneapolis-lakers"
+  },
+  {
+    "entityId": "memphis-grizzlies",
+    "name": "Memphis Grizzlies",
+    "type": "team",
+    "nbaId": 1610612763,
+    "years": "2001-2023",
+    "linkedTo": "vancouver-grizzlies"
+  },
+  {
+    "entityId": "miami-heat",
+    "name": "Miami Heat",
+    "type": "team",
+    "nbaId": 1610612748,
+    "years": "1988-2023"
+  },
+  {
+    "entityId": "milwaukee-bucks",
+    "name": "Milwaukee Bucks",
+    "type": "team",
+    "nbaId": 1610612749,
+    "years": "1968-2023"
+  },
+  {
+    "entityId": "milwaukee-hawks",
+    "name": "Milwaukee Hawks",
+    "type": "team",
+    "nbaId": 1610612737,
+    "years": "1951-1954",
+    "linkedTo": "atlanta-hawks"
+  },
+  {
+    "entityId": "minneapolis-lakers",
+    "name": "Minneapolis Lakers",
+    "type": "team",
+    "nbaId": 1610612747,
+    "years": "1948-1959",
+    "linkedTo": "los-angeles-lakers"
+  },
+  {
+    "entityId": "minnesota-timberwolves",
+    "name": "Minnesota Timberwolves",
+    "type": "team",
+    "nbaId": 1610612750,
+    "years": "1989-2023"
+  },
+  {
+    "entityId": "new-jersey-nets",
+    "name": "New Jersey Nets",
+    "type": "team",
+    "nbaId": 1610612751,
+    "years": "1977-2011",
+    "linkedTo": "brooklyn-nets"
+  },
+  {
+    "entityId": "new-orleans-hornets",
+    "name": "New Orleans Hornets",
+    "type": "team",
+    "nbaId": 1610612740,
+    "years": "2007-2012",
+    "linkedTo": "new-orleans-pelicans"
+  },
+  {
+    "entityId": "new-orleans-hornets",
+    "name": "New Orleans Hornets",
+    "type": "team",
+    "nbaId": 1610612740,
+    "years": "2002-2004",
+    "linkedTo": "new-orleans-pelicans"
+  },
+  {
+    "entityId": "new-orleans-jazz",
+    "name": "New Orleans Jazz",
+    "type": "team",
+    "nbaId": 1610612762,
+    "years": "1974-1978",
+    "linkedTo": "utah-jazz"
+  },
+  {
+    "entityId": "new-orleans-oklahoma-city-hornets",
+    "name": "New Orleans/Oklahoma City Hornets",
+    "type": "team",
+    "nbaId": 1610612740,
+    "years": "2005-2006",
+    "linkedTo": "new-orleans-pelicans"
+  },
+  {
+    "entityId": "new-orleans-pelicans",
+    "name": "New Orleans Pelicans",
+    "type": "team",
+    "nbaId": 1610612740,
+    "years": "2013-2023",
+    "linkedTo": "new-orleans-hornets"
+  },
+  {
+    "entityId": "new-york-knicks",
+    "name": "New York Knicks",
+    "type": "team",
+    "nbaId": 1610612752,
+    "years": "1946-2023"
+  },
+  {
+    "entityId": "new-york-nets",
+    "name": "New York Nets",
+    "type": "team",
+    "nbaId": 1610612751,
+    "years": "1976-1976",
+    "linkedTo": "brooklyn-nets"
+  },
+  {
+    "entityId": "oklahoma-city-thunder",
+    "name": "Oklahoma City Thunder",
+    "type": "team",
+    "nbaId": 1610612760,
+    "years": "2008-2023",
+    "linkedTo": "seattle-supersonics"
+  },
+  {
+    "entityId": "orlando-magic",
+    "name": "Orlando Magic",
+    "type": "team",
+    "nbaId": 1610612753,
+    "years": "1989-2023"
+  },
+  {
+    "entityId": "philadelphia-76ers",
+    "name": "Philadelphia 76ers",
+    "type": "team",
+    "nbaId": 1610612755,
+    "years": "1963-2023",
+    "linkedTo": "syracuse-nationals"
+  },
+  {
+    "entityId": "philadelphia-warriors",
+    "name": "Philadelphia Warriors",
+    "type": "team",
+    "nbaId": 1610612744,
+    "years": "1946-1961",
+    "linkedTo": "golden-state-warriors"
+  },
+  {
+    "entityId": "phoenix-suns",
+    "name": "Phoenix Suns",
+    "type": "team",
+    "nbaId": 1610612756,
+    "years": "1968-2023"
+  },
+  {
+    "entityId": "portland-trail-blazers",
+    "name": "Portland Trail Blazers",
+    "type": "team",
+    "nbaId": 1610612757,
+    "years": "1970-2023"
+  },
+  {
+    "entityId": "rochester-royals",
+    "name": "Rochester Royals",
+    "type": "team",
+    "nbaId": 1610612758,
+    "years": "1948-1956",
+    "linkedTo": "sacramento-kings"
+  },
+  {
+    "entityId": "sacramento-kings",
+    "name": "Sacramento Kings",
+    "type": "team",
+    "nbaId": 1610612758,
+    "years": "1985-2023",
+    "linkedTo": "kansas-city-kings"
+  },
+  {
+    "entityId": "san-antonio-spurs",
+    "name": "San Antonio Spurs",
+    "type": "team",
+    "nbaId": 1610612759,
+    "years": "1976-2023"
+  },
+  {
+    "entityId": "san-diego-clippers",
+    "name": "San Diego Clippers",
+    "type": "team",
+    "nbaId": 1610612746,
+    "years": "1978-1983",
+    "linkedTo": "los-angeles-clippers"
+  },
+  {
+    "entityId": "san-diego-rockets",
+    "name": "San Diego Rockets",
+    "type": "team",
+    "nbaId": 1610612745,
+    "years": "1967-1970",
+    "linkedTo": "houston-rockets"
+  },
+  {
+    "entityId": "san-francisco-warriors",
+    "name": "San Francisco Warriors",
+    "type": "team",
+    "nbaId": 1610612744,
+    "years": "1962-1970",
+    "linkedTo": "golden-state-warriors"
+  },
+  {
+    "entityId": "seattle-supersonics",
+    "name": "Seattle SuperSonics",
+    "type": "team",
+    "nbaId": 1610612760,
+    "years": "1967-2007",
+    "linkedTo": "oklahoma-city-thunder"
+  },
+  {
+    "entityId": "st-louis-hawks",
+    "name": "St. Louis Hawks",
+    "type": "team",
+    "nbaId": 1610612737,
+    "years": "1955-1967",
+    "linkedTo": "atlanta-hawks"
+  },
+  {
+    "entityId": "syracuse-nationals",
+    "name": "Syracuse Nationals",
+    "type": "team",
+    "nbaId": 1610612755,
+    "years": "1949-1962",
+    "linkedTo": "philadelphia-76ers"
+  },
+  {
+    "entityId": "toronto-raptors",
+    "name": "Toronto Raptors",
+    "type": "team",
+    "nbaId": 1610612761,
+    "years": "1995-2023"
+  },
+  {
+    "entityId": "tri-cities-blackhawks",
+    "name": "Tri-Cities Blackhawks",
+    "type": "team",
+    "nbaId": 1610612737,
+    "years": "1949-1950",
+    "linkedTo": "atlanta-hawks"
+  },
+  {
+    "entityId": "utah-jazz",
+    "name": "Utah Jazz",
+    "type": "team",
+    "nbaId": 1610612762,
+    "years": "1979-2023",
+    "linkedTo": "new-orleans-jazz"
+  },
+  {
+    "entityId": "vancouver-grizzlies",
+    "name": "Vancouver Grizzlies",
+    "type": "team",
+    "nbaId": 1610612763,
+    "years": "1995-2000",
+    "linkedTo": "memphis-grizzlies"
+  },
+  {
+    "entityId": "washington-bullets",
+    "name": "Washington Bullets",
+    "type": "team",
+    "nbaId": 1610612764,
+    "years": "1974-1996",
+    "linkedTo": "washington-wizards"
+  },
+  {
+    "entityId": "washington-wizards",
+    "name": "Washington Wizards",
+    "type": "team",
+    "nbaId": 1610612764,
+    "years": "1997-2023",
+    "linkedTo": "washington-bullets"
+  }
 ]

@@ -1,0 +1,229 @@
+{
+  "slug": "des-pyromanes-all-time",
+  "title": "Top 10 des Pyromanes all-time",
+  "subject": "Pyromanes all-time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2018-03-12",
+  "videoId": "W6t4DDvY5_8",
+  "tags": [
+    "pyromane",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "KOBE BRYANT",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "STEPHEN CURRY",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "KLAY THOMPSON",
+          "entities": [
+            {
+              "entityId": "klay-thompson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "RICK BARRY",
+          "entities": [
+            {
+              "entityId": "rick-barry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "JAMAL CRAWFORD",
+          "entities": [
+            {
+              "entityId": "jamal-crawford",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "TRACY MCGRADY",
+          "entities": [
+            {
+              "entityId": "tracy-mcgrady",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "PETE MARAVICH",
+          "entities": [
+            {
+              "entityId": "pete-maravich",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "REGGIE MILLER",
+          "entities": [
+            {
+              "entityId": "reggie-miller",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "WORLD B FREE",
+          "entities": [
+            {
+              "entityId": "world-free",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "LARRY BIRD",
+          "entities": [
+            {
+              "entityId": "larry-bird",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "KOBE BRYANT",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "STEPHEN CURRY",
+          "entities": [
+            {
+              "entityId": "stephen-curry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "TRACY MCGRADY",
+          "entities": [
+            {
+              "entityId": "tracy-mcgrady",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "KLAY THOMPSON",
+          "entities": [
+            {
+              "entityId": "klay-thompson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "JAMAL CRAWFORD",
+          "entities": [
+            {
+              "entityId": "jamal-crawford",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "REGGIE MILLER",
+          "entities": [
+            {
+              "entityId": "reggie-miller",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "JERRY WEST",
+          "entities": [
+            {
+              "entityId": "jerry-west",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "GILBERT ARENAS",
+          "entities": [
+            {
+              "entityId": "gilbert-arenas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "JR SMITH",
+          "entities": [
+            {
+              "entityId": "jr-smith",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "DEVIN BOOKER",
+          "entities": [
+            {
+              "entityId": "devin-booker",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

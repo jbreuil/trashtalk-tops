@@ -1,0 +1,249 @@
+{
+  "slug": "defenseurs-exterieurs-all-time",
+  "title": "Apéro TrashTalk #50 - Top 10 Défenseurs Extérieurs All-Time",
+  "subject": "Défenseurs Extérieurs All-Time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2016-08-04",
+  "videoId": "VjWo7enrFzg",
+  "tags": [
+    "defense",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Scottie Pippen",
+          "entities": [
+            {
+              "entityId": "scottie-pippen",
+              "entityType": "player",
+              "nbaId": 937
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Michael Jordan",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player",
+              "nbaId": 893
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Gary Payton",
+          "entities": [
+            {
+              "entityId": "gary-payton",
+              "entityType": "player",
+              "nbaId": 56
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Sidney Moncrief",
+          "entities": [
+            {
+              "entityId": "sidney-moncrief",
+              "entityType": "player",
+              "nbaId": 77626
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Joe Dumars",
+          "entities": [
+            {
+              "entityId": "joe-dumars",
+              "entityType": "player",
+              "nbaId": 247
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Dennis Johnson",
+          "entities": [
+            {
+              "entityId": "dennis-johnson",
+              "entityType": "player",
+              "nbaId": 77141
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Michael Cooper",
+          "entities": [
+            {
+              "entityId": "michael-cooper",
+              "entityType": "player",
+              "nbaId": 76444
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Ron Artest",
+          "entities": [
+            {
+              "entityId": "metta-world-peace",
+              "entityType": "player",
+              "nbaId": 1897
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "LeBron James",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player",
+              "nbaId": 2544
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Alvin Robertson",
+          "entities": [
+            {
+              "entityId": "alvin-robertson",
+              "entityType": "player",
+              "nbaId": 926
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Scottie Pippen",
+          "entities": [
+            {
+              "entityId": "scottie-pippen",
+              "entityType": "player",
+              "nbaId": 937
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Gary Payton",
+          "entities": [
+            {
+              "entityId": "gary-payton",
+              "entityType": "player",
+              "nbaId": 56
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Michael Jordan",
+          "entities": [
+            {
+              "entityId": "michael-jordan",
+              "entityType": "player",
+              "nbaId": 893
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Dennis Johnson",
+          "entities": [
+            {
+              "entityId": "dennis-johnson",
+              "entityType": "player",
+              "nbaId": 77141
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Joe Dumars",
+          "entities": [
+            {
+              "entityId": "joe-dumars",
+              "entityType": "player",
+              "nbaId": 247
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Sidney Moncrief",
+          "entities": [
+            {
+              "entityId": "sidney-moncrief",
+              "entityType": "player",
+              "nbaId": 77626
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Michael Cooper",
+          "entities": [
+            {
+              "entityId": "michael-cooper",
+              "entityType": "player",
+              "nbaId": 76444
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Ron Artest",
+          "entities": [
+            {
+              "entityId": "metta-world-peace",
+              "entityType": "player",
+              "nbaId": 1897
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Alvin Robertson",
+          "entities": [
+            {
+              "entityId": "alvin-robertson",
+              "entityType": "player",
+              "nbaId": 926
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "LeBron James",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player",
+              "nbaId": 2544
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

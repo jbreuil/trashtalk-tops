@@ -1,0 +1,230 @@
+{
+  "slug": "les-meilleures-equipes-defensives",
+  "title": "NBA Top 10 All-Time (2021-22) : les meilleures équipes défensives",
+  "subject": "les meilleures équipes défensives",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2022-01-24",
+  "videoId": "qjxjfyDqz_E",
+  "tags": [
+    "all-time",
+    "defense",
+    "franchise"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "PISTONS 2004",
+          "entities": [
+            {
+              "entityId": "detroit-pistons",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "BULLS 1996",
+          "entities": [
+            {
+              "entityId": "chicago-bulls",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "SPURS 2005",
+          "entities": [
+            {
+              "entityId": "san-antonio-spurs",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "KNICKS 1994",
+          "entities": [
+            {
+              "entityId": "new-york-knicks",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "CELTICS 1964",
+          "entities": [
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "CELTICS 2008",
+          "entities": [
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "PISTONS 1989",
+          "entities": [
+            {
+              "entityId": "detroit-pistons",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "WARRIORS 2015",
+          "entities": [
+            {
+              "entityId": "golden-state-warriors",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "GRIZZLIES 2013",
+          "entities": [
+            {
+              "entityId": "memphis-grizzlies",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "BULLS 2011",
+          "entities": [
+            {
+              "entityId": "chicago-bulls",
+              "entityType": "team"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "CELTICS 60S",
+          "entities": [
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "PISTONS 2004",
+          "entities": [
+            {
+              "entityId": "detroit-pistons",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "BULLS 1996",
+          "entities": [
+            {
+              "entityId": "chicago-bulls",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "WARRIORS 2015",
+          "entities": [
+            {
+              "entityId": "golden-state-warriors",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "SPURS 2004",
+          "entities": [
+            {
+              "entityId": "san-antonio-spurs",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "KNICKS 1993",
+          "entities": [
+            {
+              "entityId": "new-york-knicks",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "CELTICS 2008",
+          "entities": [
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "SPURS 1999",
+          "entities": [
+            {
+              "entityId": "san-antonio-spurs",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "PACERS 2014",
+          "entities": [
+            {
+              "entityId": "indiana-pacers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "PISTONS 1989",
+          "entities": [
+            {
+              "entityId": "detroit-pistons",
+              "entityType": "team"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

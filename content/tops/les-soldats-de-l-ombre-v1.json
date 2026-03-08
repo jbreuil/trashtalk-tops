@@ -1,0 +1,233 @@
+{
+  "slug": "les-soldats-de-l-ombre",
+  "title": "NBA Top 10 All-Time (2021-22) : les soldats de l'ombre",
+  "subject": "les soldats de l'ombre",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2021-11-08",
+  "videoId": "NO60oN2CF2o",
+  "tags": [
+    "soldat",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "RICK MAHORN",
+          "entities": [
+            {
+              "entityId": "rick-mahorn",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "ZAZA PACHULIA",
+          "entities": [
+            {
+              "entityId": "zaza-pachulia",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "CHARLES OAKLEY",
+          "entities": [
+            {
+              "entityId": "charles-oakley",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "MARIO ELIE",
+          "entities": [
+            {
+              "entityId": "mario-elie",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "UDONIS HASLEM",
+          "entities": [
+            {
+              "entityId": "udonis-haslem",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "MATT BARNES",
+          "entities": [
+            {
+              "entityId": "matt-barnes",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "KURT THOMAS",
+          "entities": [
+            {
+              "entityId": "kurt-thomas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "DALE DAVIS",
+          "entities": [
+            {
+              "entityId": "dale-davis",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "BRUCE BOWEN",
+          "entities": [
+            {
+              "entityId": "bruce-bowen",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "TONY ALLEN",
+          "entities": [
+            {
+              "entityId": "tony-allen",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "J. SALLEY (ET ZAZA)",
+          "entities": [
+            {
+              "entityId": "john-salley",
+              "entityType": "player"
+            },
+            {
+              "entityId": "zaza-pachulia",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "MARIO ELIE",
+          "entities": [
+            {
+              "entityId": "mario-elie",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "PJ TUCKER",
+          "entities": [
+            {
+              "entityId": "p-j-tucker",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "RICK MAHORN",
+          "entities": [
+            {
+              "entityId": "rick-mahorn",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "KURT RAMBIS",
+          "entities": [
+            {
+              "entityId": "kurt-rambis",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "UDONIS HASLEM",
+          "entities": [
+            {
+              "entityId": "udonis-haslem",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "STACEY KING",
+          "entities": [
+            {
+              "entityId": "stacey-king",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "KC JONES",
+          "entities": [
+            {
+              "entityId": "k-c-jones",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "CARL HERRERA",
+          "entities": [
+            {
+              "entityId": "carl-herrera",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "MATTHEW DELLAVEDOVA",
+          "entities": [
+            {
+              "entityId": "matthew-dellavedova",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

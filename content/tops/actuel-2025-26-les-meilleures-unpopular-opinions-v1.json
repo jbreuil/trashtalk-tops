@@ -1,0 +1,168 @@
+{
+  "slug": "actuel-2025-26-les-meilleures-unpopular-opinions",
+  "title": "NBA Top 10 actuel (2025-26) : les meilleures « unpopular opinions »",
+  "subject": "actuel (2025-26) : les meilleures « unpopular opinions »",
+  "format": 10,
+  "temporalType": "dated",
+  "season": "2025-26",
+  "version": 1,
+  "publishedAt": "2025-12-22",
+  "videoId": "Xb6goSg4ca0",
+  "tags": [
+    "saison"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Le handle est une qualité surcotée"
+        },
+        {
+          "rank": 2,
+          "name": "Le Joker est le meilleur joueur offensif de l'histoire"
+        },
+        {
+          "rank": 3,
+          "name": "Les Mavs ne doivent rien toucher"
+        },
+        {
+          "rank": 4,
+          "name": "Les fans de Harden le desservent"
+        },
+        {
+          "rank": 5,
+          "name": "Les Knicks jouent mieux sans KAT"
+        },
+        {
+          "rank": 6,
+          "name": "Les Hawks ont raison de garder Trae"
+        },
+        {
+          "rank": 7,
+          "name": "Giannis est déjà Top 5 all-time",
+          "entities": [
+            {
+              "entityId": "giannis-antetokounmpo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "LaVine peut être un vrai lieutenant",
+          "entities": [
+            {
+              "entityId": "zach-lavine",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Les L2M reports sont nocifs pour la NBA"
+        },
+        {
+          "rank": 10,
+          "name": "Mark Williams doit être titulaire",
+          "entities": [
+            {
+              "entityId": "mark-williams",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Les Finales NBA c'est surfait"
+        },
+        {
+          "rank": 2,
+          "name": "Darius Garland = D'Angelo Russell",
+          "entities": [
+            {
+              "entityId": "darius-garland",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Steve Kerr sans Curry c'est rien",
+          "entities": [
+            {
+              "entityId": "steve-kerr",
+              "entityType": "coach"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "On n'a pas le droit de critiquer Jokic",
+          "entities": [
+            {
+              "entityId": "nikola-jokic",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Sabonis est surcôté",
+          "entities": [
+            {
+              "entityId": "domantas-sabonis",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Le poste de GM est trop important"
+        },
+        {
+          "rank": 7,
+          "name": "Il faut trader Giannis",
+          "entities": [
+            {
+              "entityId": "giannis-antetokounmpo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Tyler Herro doit être transféré",
+          "entities": [
+            {
+              "entityId": "tyler-herro",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "On turlute trop sur les picks de draft"
+        },
+        {
+          "rank": 10,
+          "name": "LeBron doit prendre sa player option",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

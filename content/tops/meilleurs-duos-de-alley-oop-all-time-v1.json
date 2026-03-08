@@ -1,0 +1,302 @@
+{
+  "slug": "meilleurs-duos-de-alley-oop-all-time",
+  "title": "Top 10 Meilleurs Duos de Alley-oop All-Time",
+  "subject": "Meilleurs Duos de Alley-oop All-Time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2017-11-20",
+  "videoId": "ZcBA7QvhQwM",
+  "tags": [
+    "alley-oops",
+    "duo",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "PAYTON & KEMP",
+          "entities": [
+            {
+              "entityId": "gary-payton",
+              "entityType": "player"
+            },
+            {
+              "entityId": "shawn-kemp",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "WADE & LEBRON",
+          "entities": [
+            {
+              "entityId": "dwyane-wade",
+              "entityType": "player"
+            },
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "KIDD & MARTIN",
+          "entities": [
+            {
+              "entityId": "jason-kidd",
+              "entityType": "player"
+            },
+            {
+              "entityId": "kenyon-martin",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "CP3 & DEANDRE",
+          "entities": [
+            {
+              "entityId": "chris-paul",
+              "entityType": "player"
+            },
+            {
+              "entityId": "deandre-jordan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "PENNY & SHAQ",
+          "entities": [
+            {
+              "entityId": "anfernee-hardaway",
+              "entityType": "player"
+            },
+            {
+              "entityId": "shaquille-o-neal",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "MAGIC & COOPER",
+          "entities": [
+            {
+              "entityId": "magic-johnson",
+              "entityType": "player"
+            },
+            {
+              "entityId": "michael-cooper",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "DURANT & WESTBROOK",
+          "entities": [
+            {
+              "entityId": "kevin-durant",
+              "entityType": "player"
+            },
+            {
+              "entityId": "russell-westbrook",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "DOC & WILKINS",
+          "entities": [
+            {
+              "entityId": "doc-rivers",
+              "entityType": "player"
+            },
+            {
+              "entityId": "dominique-wilkins",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "NASH & STOUDEMIRE",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player"
+            },
+            {
+              "entityId": "amar-e-stoudemire",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "VINCE CARTER & ?!",
+          "entities": [
+            {
+              "entityId": "vince-carter",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "KIDD & MARTIN",
+          "entities": [
+            {
+              "entityId": "jason-kidd",
+              "entityType": "player"
+            },
+            {
+              "entityId": "kenyon-martin",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "PAYTON & KEMP",
+          "entities": [
+            {
+              "entityId": "gary-payton",
+              "entityType": "player"
+            },
+            {
+              "entityId": "shawn-kemp",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "WADE & LEBRON",
+          "entities": [
+            {
+              "entityId": "dwyane-wade",
+              "entityType": "player"
+            },
+            {
+              "entityId": "lebron-james",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "PENNY & SHAQ",
+          "entities": [
+            {
+              "entityId": "anfernee-hardaway",
+              "entityType": "player"
+            },
+            {
+              "entityId": "shaquille-o-neal",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "CP3 & DEANDRE",
+          "entities": [
+            {
+              "entityId": "chris-paul",
+              "entityType": "player"
+            },
+            {
+              "entityId": "deandre-jordan",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "DURANT & WESTBROOK",
+          "entities": [
+            {
+              "entityId": "kevin-durant",
+              "entityType": "player"
+            },
+            {
+              "entityId": "russell-westbrook",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "MAGIC & COOPER",
+          "entities": [
+            {
+              "entityId": "magic-johnson",
+              "entityType": "player"
+            },
+            {
+              "entityId": "michael-cooper",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "IVERSON & IGUODALA",
+          "entities": [
+            {
+              "entityId": "allen-iverson",
+              "entityType": "player"
+            },
+            {
+              "entityId": "andre-iguodala",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "PORTER & DREXLER",
+          "entities": [
+            {
+              "entityId": "terry-porter",
+              "entityType": "player"
+            },
+            {
+              "entityId": "clyde-drexler",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "VINCE CARTER & ?!",
+          "entities": [
+            {
+              "entityId": "vince-carter",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

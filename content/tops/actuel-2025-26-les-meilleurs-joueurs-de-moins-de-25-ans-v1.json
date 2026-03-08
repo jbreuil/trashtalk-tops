@@ -1,0 +1,228 @@
+{
+  "slug": "actuel-2025-26-les-meilleurs-joueurs-de-moins-de-25-ans",
+  "title": "NBA Top 10 actuel (2025-26) : les meilleurs joueurs de moins de 25 ans",
+  "subject": "actuel (2025-26) : les meilleurs joueurs de moins de 25 ans",
+  "format": 10,
+  "temporalType": "dated",
+  "season": "2025-26",
+  "version": 1,
+  "publishedAt": "2025-12-08",
+  "videoId": "y3vFzWKLHMc",
+  "tags": [
+    "saison"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Victor Wembanyama",
+          "entities": [
+            {
+              "entityId": "victor-wembanyama",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Anthony Edwards",
+          "entities": [
+            {
+              "entityId": "anthony-edwards",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Cade Cunningham",
+          "entities": [
+            {
+              "entityId": "cade-cunningham",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Alperen Sengun",
+          "entities": [
+            {
+              "entityId": "alperen-sengun",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Jalen Williams",
+          "entities": [
+            {
+              "entityId": "jalen-williams",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Paolo Banchero",
+          "entities": [
+            {
+              "entityId": "paolo-banchero",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Evan Mobley",
+          "entities": [
+            {
+              "entityId": "evan-mobley",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Jalen Johnson",
+          "entities": [
+            {
+              "entityId": "jalen-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Scottie Barnes",
+          "entities": [
+            {
+              "entityId": "scottie-barnes",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Cooper Flagg",
+          "entities": [
+            {
+              "entityId": "cooper-flagg",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Victor Wembanyama",
+          "entities": [
+            {
+              "entityId": "victor-wembanyama",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Anthony Edwards",
+          "entities": [
+            {
+              "entityId": "anthony-edwards",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Alperen Sengun",
+          "entities": [
+            {
+              "entityId": "alperen-sengun",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Cade Cunningham",
+          "entities": [
+            {
+              "entityId": "cade-cunningham",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Jalen Williams",
+          "entities": [
+            {
+              "entityId": "jalen-williams",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Paolo Banchero",
+          "entities": [
+            {
+              "entityId": "paolo-banchero",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Evan Mobley",
+          "entities": [
+            {
+              "entityId": "evan-mobley",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Scottie Barnes",
+          "entities": [
+            {
+              "entityId": "scottie-barnes",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Jalen Johnson",
+          "entities": [
+            {
+              "entityId": "jalen-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "LaMelo Ball",
+          "entities": [
+            {
+              "entityId": "lamelo-ball",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

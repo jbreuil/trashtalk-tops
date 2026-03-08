@@ -1,0 +1,160 @@
+{
+  "slug": "ailiers-nba-2019-20-top-6-et-gros-debats",
+  "title": "Le Grand Apéro des ailiers NBA 2019-20 : Top 6 et gros débats !",
+  "subject": "ailiers NBA 2019-20 : Top 6 et gros débats",
+  "format": 6,
+  "temporalType": "dated",
+  "season": "2019-20",
+  "version": 1,
+  "publishedAt": "2020-05-10",
+  "videoId": "ebcB9a4ddPA",
+  "tags": [
+    "ailier"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "LeBron James",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player",
+              "nbaId": 2544
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Kawhi Leonard",
+          "entities": [
+            {
+              "entityId": "kawhi-leonard",
+              "entityType": "player",
+              "nbaId": 202695
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Jayson Tatum",
+          "entities": [
+            {
+              "entityId": "jayson-tatum",
+              "entityType": "player",
+              "nbaId": 1628369
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Khris Middleton",
+          "entities": [
+            {
+              "entityId": "khris-middleton",
+              "entityType": "player",
+              "nbaId": 203114
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Brandon Ingram",
+          "entities": [
+            {
+              "entityId": "brandon-ingram",
+              "entityType": "player",
+              "nbaId": 1627742
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Paul George",
+          "entities": [
+            {
+              "entityId": "paul-george",
+              "entityType": "player",
+              "nbaId": 202331
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "LeBron James",
+          "entities": [
+            {
+              "entityId": "lebron-james",
+              "entityType": "player",
+              "nbaId": 2544
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Kawhi Leonard",
+          "entities": [
+            {
+              "entityId": "kawhi-leonard",
+              "entityType": "player",
+              "nbaId": 202695
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Jayson Tatum",
+          "entities": [
+            {
+              "entityId": "jayson-tatum",
+              "entityType": "player",
+              "nbaId": 1628369
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Khris Middleton",
+          "entities": [
+            {
+              "entityId": "khris-middleton",
+              "entityType": "player",
+              "nbaId": 203114
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Brandon Ingram",
+          "entities": [
+            {
+              "entityId": "brandon-ingram",
+              "entityType": "player",
+              "nbaId": 1627742
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "DeMar DeRozan",
+          "entities": [
+            {
+              "entityId": "demar-derozan",
+              "entityType": "player",
+              "nbaId": 201942
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

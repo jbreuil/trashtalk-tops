@@ -1,22 +1,30 @@
 <script setup lang="ts">
 import type { Entity, SearchResultGroup, Top } from '~/types'
-import { ref } from 'vue'
+import { ref, watch } from 'vue'
 
-defineProps<{
+const props = defineProps<{
   groups: SearchResultGroup[]
 }>()
 
 const expandedCategories = ref<Set<string>>(new Set())
 
-function toggleExpand(category: string) {
-  if (expandedCategories.value.has(category))
-    expandedCategories.value.delete(category)
-  else
-    expandedCategories.value.add(category)
+// Reset expanded state when groups change (new search query)
+watch(() => props.groups, () => {
+  expandedCategories.value = new Set()
+})
+
+function expand(category: string) {
+  expandedCategories.value = new Set([...expandedCategories.value, category])
 }
 
 function isTop(item: Top | Entity): item is Top {
   return 'videoId' in item
+}
+
+function visibleResults(group: SearchResultGroup) {
+  if (expandedCategories.value.has(group.category))
+    return group.results
+  return group.results.slice(0, group.defaultCount)
 }
 </script>
 
@@ -25,22 +33,22 @@ function isTop(item: Top | Entity): item is Top {
     <div v-for="group in groups" :key="group.category">
       <h2 class="mb-3 text-sm font-semibold uppercase tracking-wide text-[var(--color-text-soft)]">
         {{ group.label }}
-        <span class="ml-1 text-xs font-normal">({{ group.total }})</span>
+        <span class="ml-1 text-xs font-normal">({{ group.results.length }})</span>
       </h2>
 
       <div class="space-y-2">
-        <template v-for="result in group.results" :key="isTop(result.item) ? (result.item as Top).slug : (result.item as Entity).entityId">
+        <template v-for="result in visibleResults(group)" :key="isTop(result.item) ? (result.item as Top).slug : (result.item as Entity).entityId">
           <TopCard v-if="isTop(result.item)" :top="(result.item as Top)" />
           <EntityCard v-else :entity="(result.item as Entity)" />
         </template>
       </div>
 
       <button
-        v-if="group.total > group.results.length && !expandedCategories.has(group.category)"
+        v-if="group.results.length > group.defaultCount && !expandedCategories.has(group.category)"
         class="mt-2 text-sm text-primary-500 hover:text-primary-600 transition-colors"
-        @click="toggleExpand(group.category)"
+        @click="expand(group.category)"
       >
-        Voir les {{ group.total }} résultats
+        Voir les {{ group.results.length }} résultats
       </button>
     </div>
   </div>

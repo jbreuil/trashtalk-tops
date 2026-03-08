@@ -1,0 +1,230 @@
+{
+  "slug": "meilleurs-joueurs-non-draftes-all-time",
+  "title": "Top 10 meilleurs joueurs non draftés all-time",
+  "subject": "meilleurs joueurs non draftés all-time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2018-12-10",
+  "videoId": "y8MdStJHtwk",
+  "tags": [
+    "drafts",
+    "non-drafte",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "BEN WALLACE",
+          "entities": [
+            {
+              "entityId": "ben-wallace",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "JOHN STARKS",
+          "entities": [
+            {
+              "entityId": "john-starks",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "BRUCE BOWEN",
+          "entities": [
+            {
+              "entityId": "bruce-bowen",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "CONNIE HAWKINS",
+          "entities": [
+            {
+              "entityId": "connie-hawkins",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "UDONIS HASLEM",
+          "entities": [
+            {
+              "entityId": "udonis-haslem",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "BRAD MILLER",
+          "entities": [
+            {
+              "entityId": "brad-miller",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "AVERY JOHNSON",
+          "entities": [
+            {
+              "entityId": "avery-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "JOSE BAREA",
+          "entities": [
+            {
+              "entityId": "j-j-barea",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "JOSE CALDERON",
+          "entities": [
+            {
+              "entityId": "jose-calderon",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "EARL BOYKINS",
+          "entities": [
+            {
+              "entityId": "earl-boykins",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "BEN WALLACE",
+          "entities": [
+            {
+              "entityId": "ben-wallace",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "JOHN STARKS",
+          "entities": [
+            {
+              "entityId": "john-starks",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "CONNIE HAWKINS",
+          "entities": [
+            {
+              "entityId": "connie-hawkins",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "BRAD MILLER",
+          "entities": [
+            {
+              "entityId": "brad-miller",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "BRUCE BOWEN",
+          "entities": [
+            {
+              "entityId": "bruce-bowen",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "AVERY JOHNSON",
+          "entities": [
+            {
+              "entityId": "avery-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "UDONIS HASLEM",
+          "entities": [
+            {
+              "entityId": "udonis-haslem",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "WES MATTHEWS",
+          "entities": [
+            {
+              "entityId": "wes-matthews",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "RAJA BELL",
+          "entities": [
+            {
+              "entityId": "raja-bell",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "JJ BAREA",
+          "entities": [
+            {
+              "entityId": "j-j-barea",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

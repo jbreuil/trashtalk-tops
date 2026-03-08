@@ -1,0 +1,205 @@
+{
+  "slug": "actuel-2024-25-les-grosses-deceptions-de-la-saison",
+  "title": "NBA Top 10 actuel (2024-25) : les + grosses déceptions de la saison !",
+  "subject": "actuel (2024-25) : les + grosses déceptions de la saison",
+  "format": 10,
+  "temporalType": "dated",
+  "season": "2024-25",
+  "version": 1,
+  "publishedAt": "2025-04-14",
+  "videoId": "57kVGVk5qNc",
+  "tags": [
+    "deceptions",
+    "saison"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Les Suns",
+          "entities": [
+            {
+              "entityId": "phoenix-suns",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Dumont et Harrison"
+        },
+        {
+          "rank": 3,
+          "name": "Paul George",
+          "entities": [
+            {
+              "entityId": "paul-george",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Zion et les Pels",
+          "entities": [
+            {
+              "entityId": "zion-williamson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Les Nuggets",
+          "entities": [
+            {
+              "entityId": "denver-nuggets",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Joel Embiid",
+          "entities": [
+            {
+              "entityId": "joel-embiid",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Lauri Markkanen",
+          "entities": [
+            {
+              "entityId": "lauri-markkanen",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Les Kings",
+          "entities": [
+            {
+              "entityId": "sacramento-kings",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Patrick Williams",
+          "entities": [
+            {
+              "entityId": "patrick-williams",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "La Conf. Est"
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Les Suns",
+          "entities": [
+            {
+              "entityId": "phoenix-suns",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Les Sixers",
+          "entities": [
+            {
+              "entityId": "philadelphia-76ers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Ja Morant",
+          "entities": [
+            {
+              "entityId": "ja-morant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Dumont et Harrison"
+        },
+        {
+          "rank": 5,
+          "name": "Scottie Barnes",
+          "entities": [
+            {
+              "entityId": "scottie-barnes",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "L'attaque du Magic",
+          "entities": [
+            {
+              "entityId": "orlando-magic",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Zion Williamson",
+          "entities": [
+            {
+              "entityId": "zion-williamson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Les Kings",
+          "entities": [
+            {
+              "entityId": "sacramento-kings",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Les Thromboses"
+        },
+        {
+          "rank": 10,
+          "name": "Blessure de B. Miller",
+          "entities": [
+            {
+              "entityId": "brandon-miller",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

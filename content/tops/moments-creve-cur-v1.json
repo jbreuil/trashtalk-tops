@@ -1,0 +1,215 @@
+{
+  "slug": "moments-creve-cur",
+  "title": "NBA Top 10 All-Time (2021-22) : moments crève-cœur",
+  "subject": "moments crève-cœur",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2022-04-18",
+  "videoId": "DycVgFgugsI",
+  "tags": [
+    "moments",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "RIP Kobe",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Ray Allen Spurs",
+          "entities": [
+            {
+              "entityId": "ray-allen",
+              "entityType": "player"
+            },
+            {
+              "entityId": "san-antonio-spurs",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Pau Gasol 2015",
+          "entities": [
+            {
+              "entityId": "pau-gasol",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Derrick Rose ACL",
+          "entities": [
+            {
+              "entityId": "derrick-rose",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Diamantidis"
+        },
+        {
+          "rank": 6,
+          "name": "Tibia PG",
+          "entities": [
+            {
+              "entityId": "chris-paul",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "EDF JO 2016"
+        },
+        {
+          "rank": 8,
+          "name": "KD Blessure 2019",
+          "entities": [
+            {
+              "entityId": "kevin-durant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "KG en larmes",
+          "entities": [
+            {
+              "entityId": "kevin-garnett",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "RIP Saunders",
+          "entities": [
+            {
+              "entityId": "flip-saunders",
+              "entityType": "coach"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "RIP Kobe",
+          "entities": [
+            {
+              "entityId": "kobe-bryant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Pau Gasol 2015",
+          "entities": [
+            {
+              "entityId": "pau-gasol",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Diamantidis"
+        },
+        {
+          "rank": 4,
+          "name": "K. Johnson Contr",
+          "entities": [
+            {
+              "entityId": "kevin-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Isaiah Thomas en larmes",
+          "entities": [
+            {
+              "entityId": "isaiah-thomas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Klay Genou 2019",
+          "entities": [
+            {
+              "entityId": "klay-thompson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Magic Retraite HIV",
+          "entities": [
+            {
+              "entityId": "magic-johnson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Trade Pat Ewing",
+          "entities": [
+            {
+              "entityId": "patrick-ewing",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Hayward Cheville",
+          "entities": [
+            {
+              "entityId": "gordon-hayward",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "B-Roy Fin",
+          "entities": [
+            {
+              "entityId": "brandon-roy",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,14 +1,26 @@
 <script setup lang="ts">
-import type { Top } from '~/types'
+interface VersionItem {
+  version: number
+  publishedAt?: string
+  publishedYear?: number
+}
 
 defineProps<{
-  versions: Top[]
+  versions: VersionItem[]
   currentVersion: number
 }>()
 
 const emit = defineEmits<{
   change: [version: number]
 }>()
+
+function versionLabel(v: VersionItem): string {
+  if (v.publishedAt)
+    return v.publishedAt
+  if (v.publishedYear)
+    return String(v.publishedYear)
+  return ''
+}
 </script>
 
 <template>
@@ -25,7 +37,7 @@ const emit = defineEmits<{
         @click="emit('change', v.version)"
       >
         V{{ v.version }}
-        <span class="ml-1 text-xs opacity-75">{{ v.publishedAt }}</span>
+        <span v-if="versionLabel(v)" class="ml-1 text-xs opacity-75">{{ versionLabel(v) }}</span>
       </button>
     </div>
   </div>

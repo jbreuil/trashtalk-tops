@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { RankingEntry } from '~/types'
+import type { RankerRanking, RankingEntry } from '~/types'
 import { computed, ref } from 'vue'
 import { useRankingOrder } from '~/composables/useRankingOrder'
 import { useTops } from '~/composables/useTops'
@@ -33,25 +33,50 @@ const previousTop = computed(() => {
   return idx > 0 ? versions[idx - 1] : null
 })
 
-/** Build a map of entityId -> rank for a given ranking */
+// v1 side reference: use v1 rankings to determine consistent left/right sides
+const v1Rankings = versions[0].rankings
+
+/** Get the side for a ranker, using v1 as reference */
+function getSideForRanker(rankerName: string): 'left' | 'right' {
+  const v1Ranking = v1Rankings.find(r => r.ranker.toLowerCase() === rankerName.toLowerCase())
+  if (v1Ranking)
+    return v1Ranking.side
+  // Fallback to the ranker's own declared side
+  const own = currentTop.value.rankings.find(r => r.ranker.toLowerCase() === rankerName.toLowerCase())
+  return own?.side ?? 'left'
+}
+
+/** Rankings with sides resolved from v1 reference */
+const resolvedRankings = computed<RankerRanking[]>(() => {
+  return currentTop.value.rankings.map(r => ({
+    ...r,
+    side: getSideForRanker(r.ranker),
+  }))
+})
+
+/** Build a map of entityId -> rank for a given ranking's entries */
 function buildRankMap(entries: RankingEntry[]): Map<string, number> {
-  return new Map(
-    entries
-      .filter(e => e.entityId)
-      .map(e => [e.entityId!, e.rank]),
-  )
+  const map = new Map<string, number>()
+  for (const entry of entries) {
+    if (entry.entities) {
+      for (const ref of entry.entities) {
+        map.set(ref.entityId, entry.rank)
+      }
+    }
+  }
+  return map
 }
 
-function getPreviousRankAlex(entry: RankingEntry): number | undefined {
-  if (!previousTop.value || !entry.entityId)
+/** Get the previous rank for an entry in a specific ranker's ranking */
+function getPreviousRank(entry: RankingEntry, rankerName: string): number | undefined {
+  if (!previousTop.value || !entry.entities?.length)
     return undefined
-  return buildRankMap(previousTop.value.rankingAlex).get(entry.entityId)
-}
-
-function getPreviousRankBastien(entry: RankingEntry): number | undefined {
-  if (!previousTop.value || !entry.entityId)
+  const prevRanking = previousTop.value.rankings.find(r => r.ranker.toLowerCase() === rankerName.toLowerCase())
+  if (!prevRanking)
     return undefined
-  return buildRankMap(previousTop.value.rankingBastien).get(entry.entityId)
+  const rankMap = buildRankMap(prevRanking.entries)
+  // Use the first entity's ID for lookup
+  return rankMap.get(entry.entities[0].entityId)
 }
 
 const { prev, next } = getAdjacentTops(slug)
@@ -124,34 +149,19 @@ useHead({
     </div>
 
     <!-- Rankings side by side -->
-    <div class="mb-8 grid gap-4 md:grid-cols-2">
-      <RankingTable
-        ranker="Alex"
-        :entries="currentTop.rankingAlex"
+    <div class="mb-8">
+      <RankingComparison
+        :rankings="resolvedRankings"
         :video-id="currentTop.videoId"
       >
-        <template #badge="{ entry }">
+        <template #badge="{ entry, ranker }">
           <VersionDiffBadge
             v-if="previousTop"
-            :previous-rank="getPreviousRankAlex(entry)"
+            :previous-rank="getPreviousRank(entry, ranker)"
             :current-rank="entry.rank"
           />
         </template>
-      </RankingTable>
-
-      <RankingTable
-        ranker="Bastien"
-        :entries="currentTop.rankingBastien"
-        :video-id="currentTop.videoId"
-      >
-        <template #badge="{ entry }">
-          <VersionDiffBadge
-            v-if="previousTop"
-            :previous-rank="getPreviousRankBastien(entry)"
-            :current-rank="entry.rank"
-          />
-        </template>
-      </RankingTable>
+      </RankingComparison>
     </div>
 
     <!-- Navigation -->

@@ -1,16 +1,30 @@
+// --- Entity reference inside a ranking entry ---
+
+export interface RankingEntityRef {
+  entityId: string
+  entityType: 'player' | 'coach' | 'team' | 'gm'
+  nbaId?: number
+}
+
 // --- Ranking entry (used in both TOPs and Top 100) ---
 
 export interface RankingEntry {
   rank: number
   name: string
-  entityId?: string
-  entityType?: 'player' | 'coach' | 'team'
-  nbaId?: number
+  entities?: RankingEntityRef[]
   /** Seconds into the YouTube video — generates a ?t= link */
   timestamp?: number
   /** Disambiguation when the same entity appears multiple times (e.g. "Saison 2012-13") */
   context?: string
   note?: string
+}
+
+// --- Ranker ranking (one ranker's ordered list) ---
+
+export interface RankerRanking {
+  ranker: string
+  side: 'left' | 'right'
+  entries: RankingEntry[]
 }
 
 // --- TOP (one JSON file = one version) ---
@@ -26,8 +40,7 @@ export interface Top {
   publishedAt: string
   videoId: string
   tags: string[]
-  rankingAlex: RankingEntry[]
-  rankingBastien: RankingEntry[]
+  rankings: RankerRanking[]
 }
 
 // --- Top 100 ---
@@ -42,8 +55,7 @@ export interface Top100 {
   version: number
   publishedYear: number
   segments: Top100Segment[]
-  rankingAlex: RankingEntry[]
-  rankingBastien: RankingEntry[]
+  rankings: RankerRanking[]
 }
 
 // --- Entity ---
@@ -51,18 +63,25 @@ export interface Top100 {
 export interface Entity {
   entityId: string
   name: string
-  type: 'player' | 'coach' | 'team'
-  nbaId: number
+  type: 'player' | 'coach' | 'team' | 'gm'
+  nbaId?: number
   gamesPlayed?: number
+  gamesCoached?: number
+  wins?: number
+  losses?: number
   years?: string
   linkedTo?: string
+  team?: string
 }
 
 // --- Tags (controlled vocabulary, categorized) ---
 
 export interface Tags {
   position: string[]
+  skill: string[]
   theme: string[]
+  profile: string[]
+  collectif: string[]
   scope: string[]
   era: string[]
   [key: string]: string[]
@@ -72,7 +91,7 @@ export interface Tags {
 
 export type SearchCategory = 'tops' | 'franchises' | 'joueurs' | 'coaches'
 
-export interface SearchResult {
+export interface SearchResultItem {
   category: SearchCategory
   item: Top | Entity
   score: number
@@ -81,6 +100,6 @@ export interface SearchResult {
 export interface SearchResultGroup {
   category: SearchCategory
   label: string
-  results: SearchResult[]
-  total: number
+  results: SearchResultItem[]
+  defaultCount: number
 }

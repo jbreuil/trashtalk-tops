@@ -1,0 +1,233 @@
+{
+  "slug": "les-meilleurs-lieutenants",
+  "title": "NBA Top 10 All-Time (2021-22) : les meilleurs lieutenants",
+  "subject": "les meilleurs lieutenants",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2022-05-02",
+  "videoId": "VN8SiISra0Y",
+  "tags": [
+    "lieutenant",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Scottie Pippen",
+          "entities": [
+            {
+              "entityId": "scottie-pippen",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Klay Thompson",
+          "entities": [
+            {
+              "entityId": "klay-thompson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "James Worthy",
+          "entities": [
+            {
+              "entityId": "james-worthy",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Kevin McHale",
+          "entities": [
+            {
+              "entityId": "kevin-mchale",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Joe Dumars",
+          "entities": [
+            {
+              "entityId": "joe-dumars",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Tony Parker",
+          "entities": [
+            {
+              "entityId": "tony-parker",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Pau Gasol",
+          "entities": [
+            {
+              "entityId": "pau-gasol",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Sam Jones",
+          "entities": [
+            {
+              "entityId": "sam-jones",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Chris Bosh",
+          "entities": [
+            {
+              "entityId": "chris-bosh",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Kyle Lowry",
+          "entities": [
+            {
+              "entityId": "kyle-lowry",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Scottie Pippen",
+          "entities": [
+            {
+              "entityId": "scottie-pippen",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Klay Thompson",
+          "entities": [
+            {
+              "entityId": "klay-thompson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Pau Gasol",
+          "entities": [
+            {
+              "entityId": "pau-gasol",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Joe Dumars",
+          "entities": [
+            {
+              "entityId": "joe-dumars",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Kyrie Irving",
+          "entities": [
+            {
+              "entityId": "kyrie-irving",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "James Worthy",
+          "entities": [
+            {
+              "entityId": "james-worthy",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Tony & Manu",
+          "entities": [
+            {
+              "entityId": "tony-parker",
+              "entityType": "player"
+            },
+            {
+              "entityId": "manu-ginobili",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Kevin McHale",
+          "entities": [
+            {
+              "entityId": "kevin-mchale",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Sam Jones",
+          "entities": [
+            {
+              "entityId": "sam-jones",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Shawn Marion",
+          "entities": [
+            {
+              "entityId": "shawn-marion",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

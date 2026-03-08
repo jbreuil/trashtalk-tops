@@ -1,0 +1,309 @@
+{
+  "slug": "maillots-non-retires",
+  "title": "NBA Top 10 All-Time (2021-22) : maillots non retirés",
+  "subject": "maillots non retirés",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2022-04-04",
+  "videoId": "t5PWYI9aglM",
+  "tags": [
+    "maillots",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Garnett - Wolves",
+          "entities": [
+            {
+              "entityId": "kevin-garnett",
+              "entityType": "player"
+            },
+            {
+              "entityId": "minnesota-timberwolves",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Payton - Sonics",
+          "entities": [
+            {
+              "entityId": "gary-payton",
+              "entityType": "player"
+            },
+            {
+              "entityId": "seattle-supersonics",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Carter - Toronto",
+          "entities": [
+            {
+              "entityId": "vince-carter",
+              "entityType": "player"
+            },
+            {
+              "entityId": "toronto-raptors",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "McAdoo - Clippers",
+          "entities": [
+            {
+              "entityId": "bob-mcadoo",
+              "entityType": "player"
+            },
+            {
+              "entityId": "los-angeles-clippers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Nash - Suns",
+          "entities": [
+            {
+              "entityId": "steve-nash",
+              "entityType": "player"
+            },
+            {
+              "entityId": "phoenix-suns",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Arizin - Warriors",
+          "entities": [
+            {
+              "entityId": "paul-arizin",
+              "entityType": "player"
+            },
+            {
+              "entityId": "golden-state-warriors",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Gasol - Lakers",
+          "entities": [
+            {
+              "entityId": "pau-gasol",
+              "entityType": "player"
+            },
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Oakley - Knicks",
+          "entities": [
+            {
+              "entityId": "charles-oakley",
+              "entityType": "player"
+            },
+            {
+              "entityId": "new-york-knicks",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Shaq - Orlando",
+          "entities": [
+            {
+              "entityId": "shaquille-o-neal",
+              "entityType": "player"
+            },
+            {
+              "entityId": "orlando-magic",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Yao - Houston",
+          "entities": [
+            {
+              "entityId": "yao-ming",
+              "entityType": "player"
+            },
+            {
+              "entityId": "houston-rockets",
+              "entityType": "team"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Garnett - Wolves",
+          "entities": [
+            {
+              "entityId": "kevin-garnett",
+              "entityType": "player"
+            },
+            {
+              "entityId": "minnesota-timberwolves",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Starks - Knicks",
+          "entities": [
+            {
+              "entityId": "john-starks",
+              "entityType": "player"
+            },
+            {
+              "entityId": "new-york-knicks",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Mikan - Lakers",
+          "entities": [
+            {
+              "entityId": "george-mikan",
+              "entityType": "player"
+            },
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Oakley - Knicks",
+          "entities": [
+            {
+              "entityId": "charles-oakley",
+              "entityType": "player"
+            },
+            {
+              "entityId": "new-york-knicks",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Shaq - Magic",
+          "entities": [
+            {
+              "entityId": "shaquille-o-neal",
+              "entityType": "player"
+            },
+            {
+              "entityId": "orlando-magic",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "M. Gasol - Grizzlies",
+          "entities": [
+            {
+              "entityId": "marc-gasol",
+              "entityType": "player"
+            },
+            {
+              "entityId": "memphis-grizzlies",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Payton - Sonics",
+          "entities": [
+            {
+              "entityId": "gary-payton",
+              "entityType": "player"
+            },
+            {
+              "entityId": "seattle-supersonics",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Marion - Suns",
+          "entities": [
+            {
+              "entityId": "shawn-marion",
+              "entityType": "player"
+            },
+            {
+              "entityId": "phoenix-suns",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Arizin - Warriors",
+          "entities": [
+            {
+              "entityId": "paul-arizin",
+              "entityType": "player"
+            },
+            {
+              "entityId": "golden-state-warriors",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Smits - Pacers",
+          "entities": [
+            {
+              "entityId": "rik-smits",
+              "entityType": "player"
+            },
+            {
+              "entityId": "indiana-pacers",
+              "entityType": "team"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

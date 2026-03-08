@@ -1,0 +1,229 @@
+{
+  "slug": "des-gauchers-all-time",
+  "title": "Top 10 des gauchers All-Time",
+  "subject": "gauchers All-Time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2018-05-14",
+  "videoId": "A2QztoaNN3s",
+  "tags": [
+    "gaucher",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "DAVID ROBINSON",
+          "entities": [
+            {
+              "entityId": "david-robinson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "BILL RUSSELL",
+          "entities": [
+            {
+              "entityId": "bill-russell",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "JAMES HARDEN",
+          "entities": [
+            {
+              "entityId": "james-harden",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "WILLIS REED",
+          "entities": [
+            {
+              "entityId": "willis-reed",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "MANU GINOBILI",
+          "entities": [
+            {
+              "entityId": "manu-ginobili",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "CHRIS BOSH",
+          "entities": [
+            {
+              "entityId": "chris-bosh",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "CHRIS MULLIN",
+          "entities": [
+            {
+              "entityId": "chris-mullin",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "BOB LANIER",
+          "entities": [
+            {
+              "entityId": "bob-lanier",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "NATE ARCHIBALD",
+          "entities": [
+            {
+              "entityId": "nate-archibald",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "ZACH RANDOLPH",
+          "entities": [
+            {
+              "entityId": "zach-randolph",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "BILL RUSSELL",
+          "entities": [
+            {
+              "entityId": "bill-russell",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "DAVID ROBINSON",
+          "entities": [
+            {
+              "entityId": "david-robinson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "WILLIS REED",
+          "entities": [
+            {
+              "entityId": "willis-reed",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "JAMES HARDEN",
+          "entities": [
+            {
+              "entityId": "james-harden",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "CHRIS MULLIN",
+          "entities": [
+            {
+              "entityId": "chris-mullin",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "CHRIS BOSH",
+          "entities": [
+            {
+              "entityId": "chris-bosh",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "MANU GINOBILI",
+          "entities": [
+            {
+              "entityId": "manu-ginobili",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "BOB LANIER",
+          "entities": [
+            {
+              "entityId": "bob-lanier",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "DAVE COWENS",
+          "entities": [
+            {
+              "entityId": "dave-cowens",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "NATE ARCHIBALD",
+          "entities": [
+            {
+              "entityId": "nate-archibald",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

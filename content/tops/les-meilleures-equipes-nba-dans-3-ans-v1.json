@@ -1,0 +1,228 @@
+{
+  "slug": "les-meilleures-equipes-nba-dans-3-ans",
+  "title": "NBA Top 10 : les meilleures équipes NBA dans 3 ans !",
+  "subject": "meilleures équipes NBA dans 3 ans",
+  "format": 10,
+  "temporalType": "dated",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2026-01-19",
+  "videoId": "xwSuleQmcG0",
+  "tags": [
+    "franchise"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Celtics",
+          "entities": [
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Thunder",
+          "entities": [
+            {
+              "entityId": "oklahoma-city-thunder",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Knicks",
+          "entities": [
+            {
+              "entityId": "new-york-knicks",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Spurs",
+          "entities": [
+            {
+              "entityId": "san-antonio-spurs",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Heat",
+          "entities": [
+            {
+              "entityId": "miami-heat",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Lakers",
+          "entities": [
+            {
+              "entityId": "los-angeles-lakers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Pistons",
+          "entities": [
+            {
+              "entityId": "detroit-pistons",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Nuggets",
+          "entities": [
+            {
+              "entityId": "denver-nuggets",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Raptors",
+          "entities": [
+            {
+              "entityId": "toronto-raptors",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Mavs",
+          "entities": [
+            {
+              "entityId": "dallas-mavericks",
+              "entityType": "team"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Thunder",
+          "entities": [
+            {
+              "entityId": "oklahoma-city-thunder",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Spurs",
+          "entities": [
+            {
+              "entityId": "san-antonio-spurs",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Celtics",
+          "entities": [
+            {
+              "entityId": "boston-celtics",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Wizards",
+          "entities": [
+            {
+              "entityId": "washington-wizards",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Pacers",
+          "entities": [
+            {
+              "entityId": "indiana-pacers",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Pistons",
+          "entities": [
+            {
+              "entityId": "detroit-pistons",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Raptors",
+          "entities": [
+            {
+              "entityId": "toronto-raptors",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Magic",
+          "entities": [
+            {
+              "entityId": "orlando-magic",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Rockets",
+          "entities": [
+            {
+              "entityId": "houston-rockets",
+              "entityType": "team"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Hawks",
+          "entities": [
+            {
+              "entityId": "atlanta-hawks",
+              "entityType": "team"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

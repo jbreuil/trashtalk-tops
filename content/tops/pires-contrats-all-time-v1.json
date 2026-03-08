@@ -1,0 +1,233 @@
+{
+  "slug": "pires-contrats-all-time",
+  "title": "NBA Top 10 All-Time (2021-22) : pires contrats all-time",
+  "subject": "pires contrats all-time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2022-03-07",
+  "videoId": "wuAc8zgcrXI",
+  "tags": [
+    "contrats",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Jayson Williams",
+          "entities": [
+            {
+              "entityId": "jayson-williams",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Chandler Parsons",
+          "entities": [
+            {
+              "entityId": "chandler-parsons",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Erick Dampier",
+          "entities": [
+            {
+              "entityId": "erick-dampier",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Gilbert Arenas",
+          "entities": [
+            {
+              "entityId": "gilbert-arenas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Timofey Mozgov",
+          "entities": [
+            {
+              "entityId": "timofey-mozgov",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Bryant Reeves",
+          "entities": [
+            {
+              "entityId": "bryant-reeves",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Jerome James",
+          "entities": [
+            {
+              "entityId": "jerome-james",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Jim McIlvaine",
+          "entities": [
+            {
+              "entityId": "jim-mcilvaine",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Bismack Biyombo",
+          "entities": [
+            {
+              "entityId": "bismack-biyombo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Allan Houston",
+          "entities": [
+            {
+              "entityId": "allan-houston",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Chandler Parsons",
+          "entities": [
+            {
+              "entityId": "chandler-parsons",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Jayson Williams",
+          "entities": [
+            {
+              "entityId": "jayson-williams",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Gilbert Arenas",
+          "entities": [
+            {
+              "entityId": "gilbert-arenas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "John Wall",
+          "entities": [
+            {
+              "entityId": "john-wall",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Jerome James",
+          "entities": [
+            {
+              "entityId": "jerome-james",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Omer Asik",
+          "entities": [
+            {
+              "entityId": "omer-asik",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Eddy Curry",
+          "entities": [
+            {
+              "entityId": "eddy-curry",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Bismack Biyombo",
+          "entities": [
+            {
+              "entityId": "bismack-biyombo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Shawn Kemp",
+          "entities": [
+            {
+              "entityId": "shawn-kemp",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Mozgov / Deng",
+          "entities": [
+            {
+              "entityId": "timofey-mozgov",
+              "entityType": "player"
+            },
+            {
+              "entityId": "luol-deng",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

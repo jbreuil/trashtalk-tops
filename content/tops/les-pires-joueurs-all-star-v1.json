@@ -1,0 +1,229 @@
+{
+  "slug": "les-pires-joueurs-all-star",
+  "title": "NBA Top 10 All Time : les pires joueurs All-Star !",
+  "subject": "les pires joueurs All-Star",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2026-01-26",
+  "videoId": "Ykm8Z9uIHts",
+  "tags": [
+    "all-time",
+    "all-star-game"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Jamaal Magloire",
+          "entities": [
+            {
+              "entityId": "jamaal-magloire",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Roy Hibbert",
+          "entities": [
+            {
+              "entityId": "roy-hibbert",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Dale Davis",
+          "entities": [
+            {
+              "entityId": "dale-davis",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Kyle Korver",
+          "entities": [
+            {
+              "entityId": "kyle-korver",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Jayson Williams",
+          "entities": [
+            {
+              "entityId": "jayson-williams",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "AC Green",
+          "entities": [
+            {
+              "entityId": "a-c-green",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Antonio Davis",
+          "entities": [
+            {
+              "entityId": "antonio-davis",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Tyrone Hill",
+          "entities": [
+            {
+              "entityId": "tyrone-hill",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "James Donaldson",
+          "entities": [
+            {
+              "entityId": "james-donaldson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Wally Szczerbiak",
+          "entities": [
+            {
+              "entityId": "wally-szczerbiak",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Kyle Korver",
+          "entities": [
+            {
+              "entityId": "kyle-korver",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Jamaal Magloire",
+          "entities": [
+            {
+              "entityId": "jamaal-magloire",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Roy Hibbert",
+          "entities": [
+            {
+              "entityId": "roy-hibbert",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "James Donaldson",
+          "entities": [
+            {
+              "entityId": "james-donaldson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Dale Davis",
+          "entities": [
+            {
+              "entityId": "dale-davis",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Tyrone Hill",
+          "entities": [
+            {
+              "entityId": "tyrone-hill",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Antonio Davis",
+          "entities": [
+            {
+              "entityId": "antonio-davis",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Jeff Teague",
+          "entities": [
+            {
+              "entityId": "jeff-teague",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "BJ Armstrong",
+          "entities": [
+            {
+              "entityId": "b-j-armstrong",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Chris Kaman",
+          "entities": [
+            {
+              "entityId": "chris-kaman",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

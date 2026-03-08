@@ -1,0 +1,228 @@
+{
+  "slug": "des-plus-grosses-tetes-brulees-all-time",
+  "title": "Top 10 des plus grosses têtes brûlées All-Time",
+  "subject": "plus grosses têtes brûlées all-time",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2017-11-27",
+  "videoId": "FC_n5Up_e2g",
+  "tags": [
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Ron Artest",
+          "entities": [
+            {
+              "entityId": "metta-world-peace",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Dennis Rodman",
+          "entities": [
+            {
+              "entityId": "dennis-rodman",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Rasheed Wallace",
+          "entities": [
+            {
+              "entityId": "rasheed-wallace",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Charles Barkley",
+          "entities": [
+            {
+              "entityId": "charles-barkley",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "DeMarcus Cousins",
+          "entities": [
+            {
+              "entityId": "demarcus-cousins",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Vernon Maxwell",
+          "entities": [
+            {
+              "entityId": "vernon-maxwell",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Isiah Thomas",
+          "entities": [
+            {
+              "entityId": "isiah-thomas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "John Starks",
+          "entities": [
+            {
+              "entityId": "john-starks",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Gary Payton",
+          "entities": [
+            {
+              "entityId": "gary-payton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Latrell Sprewell",
+          "entities": [
+            {
+              "entityId": "latrell-sprewell",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Dennis Rodman",
+          "entities": [
+            {
+              "entityId": "dennis-rodman",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Metta World Peace",
+          "entities": [
+            {
+              "entityId": "metta-world-peace",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Rasheed Wallace",
+          "entities": [
+            {
+              "entityId": "rasheed-wallace",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Charles Barkley",
+          "entities": [
+            {
+              "entityId": "charles-barkley",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "DeMarcus Cousins",
+          "entities": [
+            {
+              "entityId": "demarcus-cousins",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Latrell Sprewell",
+          "entities": [
+            {
+              "entityId": "latrell-sprewell",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Vernon Maxwell",
+          "entities": [
+            {
+              "entityId": "vernon-maxwell",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Gary Payton",
+          "entities": [
+            {
+              "entityId": "gary-payton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Isiah Thomas",
+          "entities": [
+            {
+              "entityId": "isiah-thomas",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Rajon Rondo",
+          "entities": [
+            {
+              "entityId": "rajon-rondo",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

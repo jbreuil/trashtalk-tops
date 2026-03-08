@@ -1,0 +1,248 @@
+{
+  "slug": "top-des-joueurs-de-moins-de-25-ans-en-nba-c-est-l-heure-de-trancher",
+  "title": "Top des joueurs de moins de 25 ans en NBA : c'est l'heure de trancher !",
+  "subject": "Top des joueurs de moins de 25 ans en NBA : c'est l'heure de trancher",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2021-04-08",
+  "videoId": "vwf6s-9kW1Y",
+  "tags": [
+    "saison"
+  ],
+  "rankings": [
+    {
+      "ranker": "Alex",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Luka Doncic",
+          "entities": [
+            {
+              "entityId": "luka-doncic",
+              "entityType": "player",
+              "nbaId": 1629029
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Zion Williamson",
+          "entities": [
+            {
+              "entityId": "zion-williamson",
+              "entityType": "player",
+              "nbaId": 1629627
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Jayson Tatum",
+          "entities": [
+            {
+              "entityId": "jayson-tatum",
+              "entityType": "player",
+              "nbaId": 1628369
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Devin Booker",
+          "entities": [
+            {
+              "entityId": "devin-booker",
+              "entityType": "player",
+              "nbaId": 1626164
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Donovan Mitchell",
+          "entities": [
+            {
+              "entityId": "donovan-mitchell",
+              "entityType": "player",
+              "nbaId": 1628378
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Bam Adebayo",
+          "entities": [
+            {
+              "entityId": "bam-adebayo",
+              "entityType": "player",
+              "nbaId": 1628389
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Brandon Ingram",
+          "entities": [
+            {
+              "entityId": "brandon-ingram",
+              "entityType": "player",
+              "nbaId": 1627742
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Ben Simmons",
+          "entities": [
+            {
+              "entityId": "ben-simmons",
+              "entityType": "player",
+              "nbaId": 1627732
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Trae Young",
+          "entities": [
+            {
+              "entityId": "trae-young",
+              "entityType": "player",
+              "nbaId": 1629027
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Shai Gilgeous-Alexander",
+          "entities": [
+            {
+              "entityId": "shai-gilgeous-alexander",
+              "entityType": "player",
+              "nbaId": 1628983
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Bastien",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Luka Doncic",
+          "entities": [
+            {
+              "entityId": "luka-doncic",
+              "entityType": "player",
+              "nbaId": 1629029
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Devin Booker",
+          "entities": [
+            {
+              "entityId": "devin-booker",
+              "entityType": "player",
+              "nbaId": 1626164
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Jayson Tatum",
+          "entities": [
+            {
+              "entityId": "jayson-tatum",
+              "entityType": "player",
+              "nbaId": 1628369
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Donovan Mitchell",
+          "entities": [
+            {
+              "entityId": "donovan-mitchell",
+              "entityType": "player",
+              "nbaId": 1628378
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Zion Williamson",
+          "entities": [
+            {
+              "entityId": "zion-williamson",
+              "entityType": "player",
+              "nbaId": 1629627
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Ben Simmons",
+          "entities": [
+            {
+              "entityId": "ben-simmons",
+              "entityType": "player",
+              "nbaId": 1627732
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Bam Adebayo",
+          "entities": [
+            {
+              "entityId": "bam-adebayo",
+              "entityType": "player",
+              "nbaId": 1628389
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "De'Aaron Fox",
+          "entities": [
+            {
+              "entityId": "de-aaron-fox",
+              "entityType": "player",
+              "nbaId": 1628368
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Jamal Murray",
+          "entities": [
+            {
+              "entityId": "jamal-murray",
+              "entityType": "player",
+              "nbaId": 1627750
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Jaylen Brown",
+          "entities": [
+            {
+              "entityId": "jaylen-brown",
+              "entityType": "player",
+              "nbaId": 1627759
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
