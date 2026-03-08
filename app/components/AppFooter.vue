@@ -39,6 +39,13 @@ const currentYear = new Date().getFullYear()
         <NuxtLink to="/about" class="text-primary-500 hover:text-primary-600 underline">
           la page À propos
         </NuxtLink>.
+        Un bug ou une erreur ?
+        <a
+          href="https://github.com/jbreuil/trashtalk-tops/issues"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="text-primary-500 hover:text-primary-600 underline"
+        >Ouvrir une issue</a>.
       </p>
     </div>
   </footer>

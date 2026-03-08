@@ -116,6 +116,16 @@ useHead({
           >dépôt GitHub</a>
           du projet.
         </p>
+        <p class="mt-2">
+          Si vous repérez un bug ou une erreur dans les données (classement, joueur, etc.),
+          n'hésitez pas à ouvrir une
+          <a
+            href="https://github.com/jbreuil/trashtalk-tops/issues"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-primary-500 hover:text-primary-600 underline"
+          >issue GitHub</a>.
+        </p>
       </section>
     </div>
   </div>

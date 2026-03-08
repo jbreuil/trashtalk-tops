@@ -5,9 +5,10 @@ import { useTops } from '~/composables/useTops'
 const { query, results } = useSearch()
 const { getAllTops } = useTops()
 
-const allTops = getAllTops()
+const recentTops = getAllTops()
   .slice()
   .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt))
+  .slice(0, 10)
 
 function onSearch(q: string) {
   query.value = q
@@ -36,7 +37,7 @@ function onSearch(q: string) {
         Derniers TOPs
       </h2>
       <div class="space-y-3">
-        <TopCard v-for="top in allTops" :key="top.slug" :top="top" />
+        <TopCard v-for="top in recentTops" :key="top.slug" :top="top" />
       </div>
     </template>
   </div>
