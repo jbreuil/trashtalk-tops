@@ -1,0 +1,46 @@
+{
+  "slug": "ils-n-ont-jamais-joue-en-nba",
+  "title": "NBA Top 10 All Time : ils n'ont jamais joué en NBA !",
+  "subject": "ils n'ont jamais joué en NBA",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2026-03-10",
+  "videoId": "FNyiOGQTd2k",
+  "tags": ["what-if", "carrieres", "international", "all-time"],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "left",
+      "entries": [
+        { "rank": 1, "name": "Oscar Schmidt", "entities": [{ "entityId": "oscar-schmidt", "entityType": "player" }] },
+        { "rank": 2, "name": "Nikos Galis", "entities": [{ "entityId": "nikos-galis", "entityType": "player" }] },
+        { "rank": 3, "name": "Dejan Bodiroga", "entities": [{ "entityId": "dejan-bodiroga", "entityType": "player" }] },
+        { "rank": 4, "name": "Sergei Belov", "entities": [{ "entityId": "sergei-belov", "entityType": "player" }] },
+        { "rank": 5, "name": "Roger Brown", "entities": [{ "entityId": "roger-brown", "entityType": "player" }] },
+        { "rank": 6, "name": "Sergio Llull", "entities": [{ "entityId": "sergio-llull", "entityType": "player" }] },
+        { "rank": 7, "name": "Theo Papaloukas", "entities": [{ "entityId": "theo-papaloukas", "entityType": "player" }] },
+        { "rank": 8, "name": "Earl Manigault", "entities": [{ "entityId": "earl-manigault", "entityType": "player" }] },
+        { "rank": 9, "name": "Joe Hammond", "entities": [{ "entityId": "joe-hammond", "entityType": "player" }] },
+        { "rank": 10, "name": "Len Bias", "entities": [{ "entityId": "len-bias", "entityType": "player" }] }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "right",
+      "entries": [
+        { "rank": 1, "name": "Oscar Schmidt", "entities": [{ "entityId": "oscar-schmidt", "entityType": "player" }] },
+        { "rank": 2, "name": "Dejan Bodiroga", "entities": [{ "entityId": "dejan-bodiroga", "entityType": "player" }] },
+        { "rank": 3, "name": "Nikos Galis", "entities": [{ "entityId": "nikos-galis", "entityType": "player" }] },
+        { "rank": 4, "name": "Roger Brown", "entities": [{ "entityId": "roger-brown", "entityType": "player" }] },
+        { "rank": 5, "name": "Kresimir Cosic", "entities": [{ "entityId": "kresimir-cosic", "entityType": "player" }] },
+        { "rank": 6, "name": "Earl Manigault", "entities": [{ "entityId": "earl-manigault", "entityType": "player" }] },
+        { "rank": 7, "name": "Hervé Dubuisson", "entities": [{ "entityId": "herve-dubuisson", "entityType": "player" }] },
+        { "rank": 8, "name": "Warren Jabali", "entities": [{ "entityId": "warren-jabali", "entityType": "player" }] },
+        { "rank": 9, "name": "Len Bias", "entities": [{ "entityId": "len-bias", "entityType": "player" }] },
+        { "rank": 10, "name": "Hank Gathers", "entities": [{ "entityId": "hank-gathers", "entityType": "player" }] }
+      ]
+    }
+  ]
+}

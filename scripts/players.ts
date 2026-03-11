@@ -15,6 +15,18 @@ export interface Player {
 /** Players drafted but never played — not in any API list */
 export const HARDCODED_PLAYERS: Player[] = [
   { entityId: 'len-bias', name: 'Len Bias', type: 'player', gamesPlayed: 0 },
+  { entityId: 'oscar-schmidt', name: 'Oscar Schmidt', type: 'player', gamesPlayed: 0 },
+  { entityId: 'nikos-galis', name: 'Nikos Galis', type: 'player', gamesPlayed: 0 },
+  { entityId: 'dejan-bodiroga', name: 'Dejan Bodiroga', type: 'player', gamesPlayed: 0 },
+  { entityId: 'sergei-belov', name: 'Sergei Belov', type: 'player', gamesPlayed: 0 },
+  { entityId: 'sergio-llull', name: 'Sergio Llull', type: 'player', gamesPlayed: 0 },
+  { entityId: 'theo-papaloukas', name: 'Theo Papaloukas', type: 'player', gamesPlayed: 0 },
+  { entityId: 'earl-manigault', name: 'Earl Manigault', type: 'player', gamesPlayed: 0 },
+  { entityId: 'joe-hammond', name: 'Joe Hammond', type: 'player', gamesPlayed: 0 },
+  { entityId: 'kresimir-cosic', name: 'Kresimir Cosic', type: 'player', gamesPlayed: 0 },
+  { entityId: 'herve-dubuisson', name: 'Hervé Dubuisson', type: 'player', gamesPlayed: 0 },
+  { entityId: 'warren-jabali', name: 'Warren Jabali', type: 'player', gamesPlayed: 0 },
+  { entityId: 'hank-gathers', name: 'Hank Gathers', type: 'player', gamesPlayed: 0 },
 ]
 
 /**
