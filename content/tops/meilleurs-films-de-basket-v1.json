@@ -1,0 +1,109 @@
+{
+  "slug": "meilleurs-films-de-basket",
+  "title": "NBA Top 10 All Time : meilleurs films de basket",
+  "subject": "meilleurs films de basket",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2026-03-16",
+  "videoId": "mw3454hwfZc",
+  "tags": [
+    "films",
+    "all-time"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Space Jam"
+        },
+        {
+          "rank": 2,
+          "name": "White Men Can't Jump"
+        },
+        {
+          "rank": 3,
+          "name": "Coach Carter"
+        },
+        {
+          "rank": 4,
+          "name": "Above the Rim"
+        },
+        {
+          "rank": 5,
+          "name": "He Got Game"
+        },
+        {
+          "rank": 6,
+          "name": "L'étoile du Bronx"
+        },
+        {
+          "rank": 7,
+          "name": "Love & Basketball"
+        },
+        {
+          "rank": 8,
+          "name": "AIR"
+        },
+        {
+          "rank": 9,
+          "name": "Blue Chips"
+        },
+        {
+          "rank": 10,
+          "name": "The Red Sneakers"
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "White Men Can't Jump"
+        },
+        {
+          "rank": 2,
+          "name": "He Got Game"
+        },
+        {
+          "rank": 3,
+          "name": "Love & Basketball"
+        },
+        {
+          "rank": 4,
+          "name": "Hoosiers"
+        },
+        {
+          "rank": 5,
+          "name": "Rebound"
+        },
+        {
+          "rank": 6,
+          "name": "Coach Carter"
+        },
+        {
+          "rank": 7,
+          "name": "The First Slam Dunk"
+        },
+        {
+          "rank": 8,
+          "name": "Le rêve américain"
+        },
+        {
+          "rank": 9,
+          "name": "Hustle"
+        },
+        {
+          "rank": 10,
+          "name": "Blue Chips"
+        }
+      ]
+    }
+  ]
+}
