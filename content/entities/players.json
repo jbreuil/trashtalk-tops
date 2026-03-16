@@ -52,7 +52,7 @@
     "entityId": "aaron-gordon",
     "name": "Aaron Gordon",
     "type": "player",
-    "gamesPlayed": 744,
+    "gamesPlayed": 747,
     "nbaId": 203932
   },
   {
@@ -80,7 +80,7 @@
     "entityId": "aaron-holiday",
     "name": "Aaron Holiday",
     "type": "player",
-    "gamesPlayed": 488,
+    "gamesPlayed": 491,
     "nbaId": 1628988
   },
   {
@@ -115,7 +115,7 @@
     "entityId": "aaron-nesmith",
     "name": "Aaron Nesmith",
     "type": "player",
-    "gamesPlayed": 323,
+    "gamesPlayed": 326,
     "nbaId": 1630174
   },
   {
@@ -129,7 +129,7 @@
     "entityId": "aaron-wiggins",
     "name": "Aaron Wiggins",
     "type": "player",
-    "gamesPlayed": 324,
+    "gamesPlayed": 326,
     "nbaId": 1630598
   },
   {
@@ -157,7 +157,7 @@
     "entityId": "ace-bailey",
     "name": "Ace Bailey",
     "type": "player",
-    "gamesPlayed": 57,
+    "gamesPlayed": 59,
     "nbaId": 1642846
   },
   {
@@ -227,7 +227,7 @@
     "entityId": "adem-bona",
     "name": "Adem Bona",
     "type": "player",
-    "gamesPlayed": 112,
+    "gamesPlayed": 115,
     "nbaId": 1641737
   },
   {
@@ -269,7 +269,7 @@
     "entityId": "adou-thiero",
     "name": "Adou Thiero",
     "type": "player",
-    "gamesPlayed": 18,
+    "gamesPlayed": 19,
     "nbaId": 1642876
   },
   {
@@ -325,7 +325,7 @@
     "entityId": "aj-green",
     "name": "AJ Green",
     "type": "player",
-    "gamesPlayed": 222,
+    "gamesPlayed": 226,
     "nbaId": 1631260
   },
   {
@@ -346,7 +346,7 @@
     "entityId": "aj-johnson",
     "name": "AJ Johnson",
     "type": "player",
-    "gamesPlayed": 64,
+    "gamesPlayed": 67,
     "nbaId": 1642358
   },
   {
@@ -360,7 +360,7 @@
     "entityId": "ajay-mitchell",
     "name": "Ajay Mitchell",
     "type": "player",
-    "gamesPlayed": 79,
+    "gamesPlayed": 81,
     "nbaId": 1642349
   },
   {
@@ -458,7 +458,7 @@
     "entityId": "al-horford",
     "name": "Al Horford",
     "type": "player",
-    "gamesPlayed": 1179,
+    "gamesPlayed": 1181,
     "nbaId": 201143
   },
   {
@@ -710,7 +710,7 @@
     "entityId": "alex-caruso",
     "name": "Alex Caruso",
     "type": "player",
-    "gamesPlayed": 460,
+    "gamesPlayed": 461,
     "nbaId": 1627936
   },
   {
@@ -794,7 +794,7 @@
     "entityId": "alex-sarr",
     "name": "Alex Sarr",
     "type": "player",
-    "gamesPlayed": 108,
+    "gamesPlayed": 112,
     "nbaId": 1642259
   },
   {
@@ -878,7 +878,7 @@
     "entityId": "alijah-martin",
     "name": "Alijah Martin",
     "type": "player",
-    "gamesPlayed": 14,
+    "gamesPlayed": 16,
     "nbaId": 1642918
   },
   {
@@ -983,7 +983,7 @@
     "entityId": "alperen-sengun",
     "name": "Alperen Sengun",
     "type": "player",
-    "gamesPlayed": 341,
+    "gamesPlayed": 344,
     "nbaId": 1630578
   },
   {
@@ -1095,14 +1095,14 @@
     "entityId": "amari-williams",
     "name": "Amari Williams",
     "type": "player",
-    "gamesPlayed": 17,
+    "gamesPlayed": 19,
     "nbaId": 1642873
   },
   {
     "entityId": "amen-thompson",
     "name": "Amen Thompson",
     "type": "player",
-    "gamesPlayed": 191,
+    "gamesPlayed": 195,
     "nbaId": 1641708
   },
   {
@@ -1123,7 +1123,7 @@
     "entityId": "amir-coffey",
     "name": "Amir Coffey",
     "type": "player",
-    "gamesPlayed": 362,
+    "gamesPlayed": 364,
     "nbaId": 1629599
   },
   {
@@ -1139,6 +1139,13 @@
     "type": "player",
     "gamesPlayed": 632,
     "nbaId": 2760
+  },
+  {
+    "entityId": "andersson-garcia",
+    "name": "Andersson Garcia",
+    "type": "player",
+    "gamesPlayed": 2,
+    "nbaId": 1643158
   },
   {
     "entityId": "andrae-patterson",
@@ -1179,7 +1186,7 @@
     "entityId": "andre-drummond",
     "name": "Andre Drummond",
     "type": "player",
-    "gamesPlayed": 952,
+    "gamesPlayed": 953,
     "nbaId": 203083
   },
   {
@@ -1207,7 +1214,7 @@
     "entityId": "andre-jackson-jr",
     "name": "Andre Jackson Jr.",
     "type": "player",
-    "gamesPlayed": 156,
+    "gamesPlayed": 159,
     "nbaId": 1641748
   },
   {
@@ -1368,7 +1375,7 @@
     "entityId": "andrew-nembhard",
     "name": "Andrew Nembhard",
     "type": "player",
-    "gamesPlayed": 257,
+    "gamesPlayed": 260,
     "nbaId": 1629614
   },
   {
@@ -1592,7 +1599,7 @@
     "entityId": "anthony-edwards",
     "name": "Anthony Edwards",
     "type": "player",
-    "gamesPlayed": 435,
+    "gamesPlayed": 438,
     "nbaId": 1630162
   },
   {
@@ -1606,7 +1613,7 @@
     "entityId": "anthony-gill",
     "name": "Anthony Gill",
     "type": "player",
-    "gamesPlayed": 265,
+    "gamesPlayed": 269,
     "nbaId": 1630264
   },
   {
@@ -1872,7 +1879,7 @@
     "entityId": "ariel-hukporti",
     "name": "Ariel Hukporti",
     "type": "player",
-    "gamesPlayed": 71,
+    "gamesPlayed": 73,
     "nbaId": 1630574
   },
   {
@@ -2166,7 +2173,7 @@
     "entityId": "austin-reaves",
     "name": "Austin Reaves",
     "type": "player",
-    "gamesPlayed": 317,
+    "gamesPlayed": 321,
     "nbaId": 1630559
   },
   {
@@ -2208,7 +2215,7 @@
     "entityId": "ayo-dosunmu",
     "name": "Ayo Dosunmu",
     "type": "player",
-    "gamesPlayed": 335,
+    "gamesPlayed": 337,
     "nbaId": 1630245
   },
   {
@@ -2236,7 +2243,7 @@
     "entityId": "bam-adebayo",
     "name": "Bam Adebayo",
     "type": "player",
-    "gamesPlayed": 623,
+    "gamesPlayed": 627,
     "nbaId": 1628389
   },
   {
@@ -2320,7 +2327,7 @@
     "entityId": "baylor-scheierman",
     "name": "Baylor Scheierman",
     "type": "player",
-    "gamesPlayed": 89,
+    "gamesPlayed": 93,
     "nbaId": 1631248
   },
   {
@@ -2432,7 +2439,7 @@
     "entityId": "ben-saraf",
     "name": "Ben Saraf",
     "type": "player",
-    "gamesPlayed": 27,
+    "gamesPlayed": 31,
     "nbaId": 1642879
   },
   {
@@ -2453,7 +2460,7 @@
     "entityId": "ben-sheppard",
     "name": "Ben Sheppard",
     "type": "player",
-    "gamesPlayed": 172,
+    "gamesPlayed": 176,
     "nbaId": 1641767
   },
   {
@@ -2488,7 +2495,7 @@
     "entityId": "bennedict-mathurin",
     "name": "Bennedict Mathurin",
     "type": "player",
-    "gamesPlayed": 248,
+    "gamesPlayed": 252,
     "nbaId": 1631097
   },
   {
@@ -2576,10 +2583,17 @@
     "nbaId": 76434
   },
   {
+    "entityId": "bez-mbeng",
+    "name": "Bez Mbeng",
+    "type": "player",
+    "gamesPlayed": 1,
+    "nbaId": 1643016
+  },
+  {
     "entityId": "bilal-coulibaly",
     "name": "Bilal Coulibaly",
     "type": "player",
-    "gamesPlayed": 164,
+    "gamesPlayed": 168,
     "nbaId": 1641731
   },
   {
@@ -2999,7 +3013,7 @@
     "entityId": "bismack-biyombo",
     "name": "Bismack Biyombo",
     "type": "player",
-    "gamesPlayed": 885,
+    "gamesPlayed": 886,
     "nbaId": 202687
   },
   {
@@ -3048,14 +3062,14 @@
     "entityId": "blake-hinson",
     "name": "Blake Hinson",
     "type": "player",
-    "gamesPlayed": 7,
+    "gamesPlayed": 8,
     "nbaId": 1642396
   },
   {
     "entityId": "blake-wesley",
     "name": "Blake Wesley",
     "type": "player",
-    "gamesPlayed": 176,
+    "gamesPlayed": 178,
     "nbaId": 1631104
   },
   {
@@ -3727,7 +3741,7 @@
     "entityId": "bobby-portis",
     "name": "Bobby Portis",
     "type": "player",
-    "gamesPlayed": 714,
+    "gamesPlayed": 717,
     "nbaId": 1626171
   },
   {
@@ -3769,7 +3783,7 @@
     "entityId": "bobi-klintman",
     "name": "Bobi Klintman",
     "type": "player",
-    "gamesPlayed": 18,
+    "gamesPlayed": 19,
     "nbaId": 1641752
   },
   {
@@ -3797,7 +3811,7 @@
     "entityId": "bones-hyland",
     "name": "Bones Hyland",
     "type": "player",
-    "gamesPlayed": 241,
+    "gamesPlayed": 244,
     "nbaId": 1630538
   },
   {
@@ -3958,7 +3972,7 @@
     "entityId": "brandin-podziemski",
     "name": "Brandin Podziemski",
     "type": "player",
-    "gamesPlayed": 201,
+    "gamesPlayed": 204,
     "nbaId": 1641764
   },
   {
@@ -4014,7 +4028,7 @@
     "entityId": "brandon-ingram",
     "name": "Brandon Ingram",
     "type": "player",
-    "gamesPlayed": 555,
+    "gamesPlayed": 559,
     "nbaId": 1627742
   },
   {
@@ -4035,7 +4049,7 @@
     "entityId": "brandon-miller",
     "name": "Brandon Miller",
     "type": "player",
-    "gamesPlayed": 148,
+    "gamesPlayed": 152,
     "nbaId": 1641706
   },
   {
@@ -4077,7 +4091,7 @@
     "entityId": "brandon-williams",
     "name": "Brandon Williams",
     "type": "player",
-    "gamesPlayed": 128,
+    "gamesPlayed": 132,
     "nbaId": 1630314
   },
   {
@@ -4301,7 +4315,7 @@
     "entityId": "brice-sensabaugh",
     "name": "Brice Sensabaugh",
     "type": "player",
-    "gamesPlayed": 164,
+    "gamesPlayed": 167,
     "nbaId": 1641729
   },
   {
@@ -4322,14 +4336,14 @@
     "entityId": "bronny-james",
     "name": "Bronny James",
     "type": "player",
-    "gamesPlayed": 58,
+    "gamesPlayed": 59,
     "nbaId": 1642355
   },
   {
     "entityId": "brook-lopez",
     "name": "Brook Lopez",
     "type": "player",
-    "gamesPlayed": 1161,
+    "gamesPlayed": 1165,
     "nbaId": 201572
   },
   {
@@ -4364,7 +4378,7 @@
     "entityId": "bruce-brown",
     "name": "Bruce Brown",
     "type": "player",
-    "gamesPlayed": 521,
+    "gamesPlayed": 525,
     "nbaId": 1628971
   },
   {
@@ -4469,7 +4483,7 @@
     "entityId": "bryce-mcgowens",
     "name": "Bryce McGowens",
     "type": "player",
-    "gamesPlayed": 159,
+    "gamesPlayed": 160,
     "nbaId": 1631121
   },
   {
@@ -4490,7 +4504,7 @@
     "entityId": "bub-carrington",
     "name": "Bub Carrington",
     "type": "player",
-    "gamesPlayed": 144,
+    "gamesPlayed": 148,
     "nbaId": 1642267
   },
   {
@@ -4665,7 +4679,7 @@
     "entityId": "cade-cunningham",
     "name": "Cade Cunningham",
     "type": "player",
-    "gamesPlayed": 263,
+    "gamesPlayed": 267,
     "nbaId": 1630595
   },
   {
@@ -4714,7 +4728,7 @@
     "entityId": "caleb-houstan",
     "name": "Caleb Houstan",
     "type": "player",
-    "gamesPlayed": 180,
+    "gamesPlayed": 181,
     "nbaId": 1631216
   },
   {
@@ -4728,7 +4742,7 @@
     "entityId": "caleb-martin",
     "name": "Caleb Martin",
     "type": "player",
-    "gamesPlayed": 365,
+    "gamesPlayed": 368,
     "nbaId": 1628997
   },
   {
@@ -4770,7 +4784,7 @@
     "entityId": "cam-christie",
     "name": "Cam Christie",
     "type": "player",
-    "gamesPlayed": 56,
+    "gamesPlayed": 57,
     "nbaId": 1642353
   },
   {
@@ -4791,14 +4805,14 @@
     "entityId": "cam-spencer",
     "name": "Cam Spencer",
     "type": "player",
-    "gamesPlayed": 85,
+    "gamesPlayed": 88,
     "nbaId": 1642285
   },
   {
     "entityId": "cam-thomas",
     "name": "Cam Thomas",
     "type": "player",
-    "gamesPlayed": 251,
+    "gamesPlayed": 255,
     "nbaId": 1630560
   },
   {
@@ -4819,7 +4833,7 @@
     "entityId": "cameron-johnson",
     "name": "Cameron Johnson",
     "type": "player",
-    "gamesPlayed": 378,
+    "gamesPlayed": 382,
     "nbaId": 1629661
   },
   {
@@ -4840,7 +4854,7 @@
     "entityId": "cameron-payne",
     "name": "Cameron Payne",
     "type": "player",
-    "gamesPlayed": 486,
+    "gamesPlayed": 490,
     "nbaId": 1626166
   },
   {
@@ -4861,7 +4875,7 @@
     "entityId": "caris-levert",
     "name": "Caris LeVert",
     "type": "player",
-    "gamesPlayed": 569,
+    "gamesPlayed": 570,
     "nbaId": 1627747
   },
   {
@@ -5043,7 +5057,7 @@
     "entityId": "carter-bryant",
     "name": "Carter Bryant",
     "type": "player",
-    "gamesPlayed": 52,
+    "gamesPlayed": 56,
     "nbaId": 1642868
   },
   {
@@ -5071,7 +5085,7 @@
     "entityId": "cason-wallace",
     "name": "Cason Wallace",
     "type": "player",
-    "gamesPlayed": 212,
+    "gamesPlayed": 214,
     "nbaId": 1641717
   },
   {
@@ -5148,7 +5162,7 @@
     "entityId": "cedric-coward",
     "name": "Cedric Coward",
     "type": "player",
-    "gamesPlayed": 50,
+    "gamesPlayed": 52,
     "nbaId": 1642907
   },
   {
@@ -5253,7 +5267,7 @@
     "entityId": "chaney-johnson",
     "name": "Chaney Johnson",
     "type": "player",
-    "gamesPlayed": 0,
+    "gamesPlayed": 4,
     "nbaId": 1643052
   },
   {
@@ -5582,7 +5596,7 @@
     "entityId": "chaz-lanier",
     "name": "Chaz Lanier",
     "type": "player",
-    "gamesPlayed": 21,
+    "gamesPlayed": 24,
     "nbaId": 1642404
   },
   {
@@ -5624,7 +5638,7 @@
     "entityId": "chet-holmgren",
     "name": "Chet Holmgren",
     "type": "player",
-    "gamesPlayed": 170,
+    "gamesPlayed": 171,
     "nbaId": 1631096
   },
   {
@@ -6072,7 +6086,7 @@
     "entityId": "christian-braun",
     "name": "Christian Braun",
     "type": "player",
-    "gamesPlayed": 265,
+    "gamesPlayed": 269,
     "nbaId": 1631128
   },
   {
@@ -6086,7 +6100,7 @@
     "entityId": "christian-koloko",
     "name": "Christian Koloko",
     "type": "player",
-    "gamesPlayed": 117,
+    "gamesPlayed": 118,
     "nbaId": 1631132
   },
   {
@@ -6268,7 +6282,7 @@
     "entityId": "cj-mccollum",
     "name": "CJ McCollum",
     "type": "player",
-    "gamesPlayed": 846,
+    "gamesPlayed": 849,
     "nbaId": 203468
   },
   {
@@ -6478,7 +6492,7 @@
     "entityId": "clint-capela",
     "name": "Clint Capela",
     "type": "player",
-    "gamesPlayed": 720,
+    "gamesPlayed": 724,
     "nbaId": 203991
   },
   {
@@ -6562,7 +6576,7 @@
     "entityId": "coby-white",
     "name": "Coby White",
     "type": "player",
-    "gamesPlayed": 456,
+    "gamesPlayed": 459,
     "nbaId": 1629632
   },
   {
@@ -6576,7 +6590,7 @@
     "entityId": "cody-williams",
     "name": "Cody Williams",
     "type": "player",
-    "gamesPlayed": 100,
+    "gamesPlayed": 103,
     "nbaId": 1642262
   },
   {
@@ -6625,7 +6639,7 @@
     "entityId": "collin-gillespie",
     "name": "Collin Gillespie",
     "type": "player",
-    "gamesPlayed": 119,
+    "gamesPlayed": 123,
     "nbaId": 1631221
   },
   {
@@ -6639,7 +6653,7 @@
     "entityId": "collin-sexton",
     "name": "Collin Sexton",
     "type": "player",
-    "gamesPlayed": 460,
+    "gamesPlayed": 461,
     "nbaId": 1629012
   },
   {
@@ -6688,7 +6702,7 @@
     "entityId": "cooper-flagg",
     "name": "Cooper Flagg",
     "type": "player",
-    "gamesPlayed": 51,
+    "gamesPlayed": 55,
     "nbaId": 1642843
   },
   {
@@ -6730,7 +6744,7 @@
     "entityId": "corey-kispert",
     "name": "Corey Kispert",
     "type": "player",
-    "gamesPlayed": 335,
+    "gamesPlayed": 338,
     "nbaId": 1630557
   },
   {
@@ -6940,7 +6954,7 @@
     "entityId": "craig-porter-jr",
     "name": "Craig Porter Jr.",
     "type": "player",
-    "gamesPlayed": 157,
+    "gamesPlayed": 160,
     "nbaId": 1641854
   },
   {
@@ -7115,7 +7129,7 @@
     "entityId": "daeqwon-plowden",
     "name": "Daeqwon Plowden",
     "type": "player",
-    "gamesPlayed": 21,
+    "gamesPlayed": 25,
     "nbaId": 1631342
   },
   {
@@ -7213,7 +7227,7 @@
     "entityId": "dalen-terry",
     "name": "Dalen Terry",
     "type": "player",
-    "gamesPlayed": 208,
+    "gamesPlayed": 212,
     "nbaId": 1631207
   },
   {
@@ -7234,7 +7248,7 @@
     "entityId": "dalton-knecht",
     "name": "Dalton Knecht",
     "type": "player",
-    "gamesPlayed": 125,
+    "gamesPlayed": 126,
     "nbaId": 1642261
   },
   {
@@ -7458,7 +7472,7 @@
     "entityId": "daniel-gafford",
     "name": "Daniel Gafford",
     "type": "player",
-    "gamesPlayed": 423,
+    "gamesPlayed": 426,
     "nbaId": 1629655
   },
   {
@@ -7521,7 +7535,7 @@
     "entityId": "daniss-jenkins",
     "name": "Daniss Jenkins",
     "type": "player",
-    "gamesPlayed": 60,
+    "gamesPlayed": 64,
     "nbaId": 1642450
   },
   {
@@ -7598,7 +7612,7 @@
     "entityId": "danny-wolf",
     "name": "Danny Wolf",
     "type": "player",
-    "gamesPlayed": 49,
+    "gamesPlayed": 53,
     "nbaId": 1642874
   },
   {
@@ -7682,7 +7696,7 @@
     "entityId": "darius-garland",
     "name": "Darius Garland",
     "type": "player",
-    "gamesPlayed": 411,
+    "gamesPlayed": 414,
     "nbaId": 1629636
   },
   {
@@ -8256,7 +8270,7 @@
     "entityId": "david-roddy",
     "name": "David Roddy",
     "type": "player",
-    "gamesPlayed": 169,
+    "gamesPlayed": 170,
     "nbaId": 1631223
   },
   {
@@ -8333,7 +8347,7 @@
     "entityId": "davion-mitchell",
     "name": "Davion Mitchell",
     "type": "player",
-    "gamesPlayed": 354,
+    "gamesPlayed": 358,
     "nbaId": 1630558
   },
   {
@@ -8354,14 +8368,14 @@
     "entityId": "day-ron-sharpe",
     "name": "Day'Ron Sharpe",
     "type": "player",
-    "gamesPlayed": 252,
+    "gamesPlayed": 253,
     "nbaId": 1630549
   },
   {
     "entityId": "de-aaron-fox",
     "name": "De'Aaron Fox",
     "type": "player",
-    "gamesPlayed": 585,
+    "gamesPlayed": 589,
     "nbaId": 1628368
   },
   {
@@ -8375,7 +8389,7 @@
     "entityId": "de-anthony-melton",
     "name": "De'Anthony Melton",
     "type": "player",
-    "gamesPlayed": 390,
+    "gamesPlayed": 392,
     "nbaId": 1629001
   },
   {
@@ -8410,14 +8424,14 @@
     "entityId": "dean-wade",
     "name": "Dean Wade",
     "type": "player",
-    "gamesPlayed": 331,
+    "gamesPlayed": 335,
     "nbaId": 1629731
   },
   {
     "entityId": "deandre-ayton",
     "name": "Deandre Ayton",
     "type": "player",
-    "gamesPlayed": 452,
+    "gamesPlayed": 456,
     "nbaId": 1629028
   },
   {
@@ -8431,7 +8445,7 @@
     "entityId": "deandre-jordan",
     "name": "DeAndre Jordan",
     "type": "player",
-    "gamesPlayed": 1119,
+    "gamesPlayed": 1121,
     "nbaId": 201599
   },
   {
@@ -8484,17 +8498,23 @@
     "nbaId": 1629686
   },
   {
+    "entityId": "dejan-bodiroga",
+    "name": "Dejan Bodiroga",
+    "type": "player",
+    "gamesPlayed": 0
+  },
+  {
     "entityId": "dejon-jarreau",
     "name": "DeJon Jarreau",
     "type": "player",
-    "gamesPlayed": 10,
+    "gamesPlayed": 11,
     "nbaId": 1630610
   },
   {
     "entityId": "dejounte-murray",
     "name": "Dejounte Murray",
     "type": "player",
-    "gamesPlayed": 508,
+    "gamesPlayed": 511,
     "nbaId": 1627749
   },
   {
@@ -8557,7 +8577,7 @@
     "entityId": "demar-derozan",
     "name": "DeMar DeRozan",
     "type": "player",
-    "gamesPlayed": 1251,
+    "gamesPlayed": 1254,
     "nbaId": 201942
   },
   {
@@ -8627,7 +8647,7 @@
     "entityId": "deni-avdija",
     "name": "Deni Avdija",
     "type": "player",
-    "gamesPlayed": 407,
+    "gamesPlayed": 410,
     "nbaId": 1630166
   },
   {
@@ -8711,7 +8731,7 @@
     "entityId": "dennis-schroder",
     "name": "Dennis Schröder",
     "type": "player",
-    "gamesPlayed": 894,
+    "gamesPlayed": 898,
     "nbaId": 203471
   },
   {
@@ -8823,7 +8843,7 @@
     "entityId": "derik-queen",
     "name": "Derik Queen",
     "type": "player",
-    "gamesPlayed": 64,
+    "gamesPlayed": 67,
     "nbaId": 1642852
   },
   {
@@ -8921,7 +8941,7 @@
     "entityId": "derrick-jones-jr",
     "name": "Derrick Jones Jr.",
     "type": "player",
-    "gamesPlayed": 528,
+    "gamesPlayed": 532,
     "nbaId": 1627884
   },
   {
@@ -8963,7 +8983,7 @@
     "entityId": "derrick-white",
     "name": "Derrick White",
     "type": "player",
-    "gamesPlayed": 555,
+    "gamesPlayed": 558,
     "nbaId": 1628401
   },
   {
@@ -9005,7 +9025,7 @@
     "entityId": "desmond-bane",
     "name": "Desmond Bane",
     "type": "player",
-    "gamesPlayed": 375,
+    "gamesPlayed": 379,
     "nbaId": 1630217
   },
   {
@@ -9054,7 +9074,7 @@
     "entityId": "devin-booker",
     "name": "Devin Booker",
     "type": "player",
-    "gamesPlayed": 720,
+    "gamesPlayed": 724,
     "nbaId": 1626164
   },
   {
@@ -9075,7 +9095,7 @@
     "entityId": "devin-carter",
     "name": "Devin Carter",
     "type": "player",
-    "gamesPlayed": 61,
+    "gamesPlayed": 63,
     "nbaId": 1642269
   },
   {
@@ -9124,7 +9144,7 @@
     "entityId": "devin-vassell",
     "name": "Devin Vassell",
     "type": "player",
-    "gamesPlayed": 353,
+    "gamesPlayed": 357,
     "nbaId": 1630170
   },
   {
@@ -9621,7 +9641,7 @@
     "entityId": "dominick-barlow",
     "name": "Dominick Barlow",
     "type": "player",
-    "gamesPlayed": 148,
+    "gamesPlayed": 152,
     "nbaId": 1631230
   },
   {
@@ -9971,14 +9991,14 @@
     "entityId": "donovan-clingan",
     "name": "Donovan Clingan",
     "type": "player",
-    "gamesPlayed": 126,
+    "gamesPlayed": 129,
     "nbaId": 1642270
   },
   {
     "entityId": "donovan-mitchell",
     "name": "Donovan Mitchell",
     "type": "player",
-    "gamesPlayed": 594,
+    "gamesPlayed": 598,
     "nbaId": 1628378
   },
   {
@@ -10013,7 +10033,7 @@
     "entityId": "donte-divincenzo",
     "name": "Donte DiVincenzo",
     "type": "player",
-    "gamesPlayed": 480,
+    "gamesPlayed": 483,
     "nbaId": 1628978
   },
   {
@@ -10062,7 +10082,7 @@
     "entityId": "dorian-finney-smith",
     "name": "Dorian Finney-Smith",
     "type": "player",
-    "gamesPlayed": 618,
+    "gamesPlayed": 621,
     "nbaId": 1627827
   },
   {
@@ -10139,7 +10159,7 @@
     "entityId": "doug-mcdermott",
     "name": "Doug McDermott",
     "type": "player",
-    "gamesPlayed": 710,
+    "gamesPlayed": 713,
     "nbaId": 203926
   },
   {
@@ -10202,14 +10222,14 @@
     "entityId": "drake-powell",
     "name": "Drake Powell",
     "type": "player",
-    "gamesPlayed": 47,
+    "gamesPlayed": 50,
     "nbaId": 1642962
   },
   {
     "entityId": "draymond-green",
     "name": "Draymond Green",
     "type": "player",
-    "gamesPlayed": 933,
+    "gamesPlayed": 935,
     "nbaId": 203110
   },
   {
@@ -10230,7 +10250,7 @@
     "entityId": "drew-eubanks",
     "name": "Drew Eubanks",
     "type": "player",
-    "gamesPlayed": 423,
+    "gamesPlayed": 426,
     "nbaId": 1629234
   },
   {
@@ -10258,14 +10278,14 @@
     "entityId": "drew-timme",
     "name": "Drew Timme",
     "type": "player",
-    "gamesPlayed": 28,
+    "gamesPlayed": 30,
     "nbaId": 1631166
   },
   {
     "entityId": "dru-smith",
     "name": "Dru Smith",
     "type": "player",
-    "gamesPlayed": 99,
+    "gamesPlayed": 102,
     "nbaId": 1630696
   },
   {
@@ -10328,7 +10348,7 @@
     "entityId": "duncan-robinson",
     "name": "Duncan Robinson",
     "type": "player",
-    "gamesPlayed": 483,
+    "gamesPlayed": 487,
     "nbaId": 1629130
   },
   {
@@ -10440,7 +10460,7 @@
     "entityId": "dwight-powell",
     "name": "Dwight Powell",
     "type": "player",
-    "gamesPlayed": 752,
+    "gamesPlayed": 755,
     "nbaId": 203939
   },
   {
@@ -10461,14 +10481,14 @@
     "entityId": "dylan-cardwell",
     "name": "Dylan Cardwell",
     "type": "player",
-    "gamesPlayed": 29,
+    "gamesPlayed": 30,
     "nbaId": 1642928
   },
   {
     "entityId": "dylan-harper",
     "name": "Dylan Harper",
     "type": "player",
-    "gamesPlayed": 52,
+    "gamesPlayed": 55,
     "nbaId": 1642844
   },
   {
@@ -10489,7 +10509,7 @@
     "entityId": "dyson-daniels",
     "name": "Dyson Daniels",
     "type": "player",
-    "gamesPlayed": 257,
+    "gamesPlayed": 259,
     "nbaId": 1630700
   },
   {
@@ -10510,7 +10530,7 @@
     "entityId": "e-j-liddell",
     "name": "E.J. Liddell",
     "type": "player",
-    "gamesPlayed": 30,
+    "gamesPlayed": 34,
     "nbaId": 1630604
   },
   {
@@ -10582,6 +10602,12 @@
     "type": "player",
     "gamesPlayed": 0,
     "nbaId": 77394
+  },
+  {
+    "entityId": "earl-manigault",
+    "name": "Earl Manigault",
+    "type": "player",
+    "gamesPlayed": 0
   },
   {
     "entityId": "earl-monroe",
@@ -11098,7 +11124,7 @@
     "entityId": "elijah-harkless",
     "name": "Elijah Harkless",
     "type": "player",
-    "gamesPlayed": 25,
+    "gamesPlayed": 28,
     "nbaId": 1641989
   },
   {
@@ -11602,7 +11628,7 @@
     "entityId": "ethan-thompson",
     "name": "Ethan Thompson",
     "type": "player",
-    "gamesPlayed": 23,
+    "gamesPlayed": 24,
     "nbaId": 1630679
   },
   {
@@ -11637,7 +11663,7 @@
     "entityId": "evan-mobley",
     "name": "Evan Mobley",
     "type": "player",
-    "gamesPlayed": 317,
+    "gamesPlayed": 321,
     "nbaId": 1630596
   },
   {
@@ -12239,7 +12265,7 @@
     "entityId": "gabe-vincent",
     "name": "Gabe Vincent",
     "type": "player",
-    "gamesPlayed": 314,
+    "gamesPlayed": 317,
     "nbaId": 1629216
   },
   {
@@ -12323,7 +12349,7 @@
     "entityId": "garrett-temple",
     "name": "Garrett Temple",
     "type": "player",
-    "gamesPlayed": 785,
+    "gamesPlayed": 787,
     "nbaId": 202066
   },
   {
@@ -12435,7 +12461,7 @@
     "entityId": "gary-harris",
     "name": "Gary Harris",
     "type": "player",
-    "gamesPlayed": 660,
+    "gamesPlayed": 661,
     "nbaId": 203914
   },
   {
@@ -12477,7 +12503,7 @@
     "entityId": "gary-payton-ii",
     "name": "Gary Payton II",
     "type": "player",
-    "gamesPlayed": 326,
+    "gamesPlayed": 329,
     "nbaId": 1627780
   },
   {
@@ -12512,7 +12538,7 @@
     "entityId": "gary-trent-jr",
     "name": "Gary Trent Jr.",
     "type": "player",
-    "gamesPlayed": 469,
+    "gamesPlayed": 471,
     "nbaId": 1629018
   },
   {
@@ -13086,7 +13112,7 @@
     "entityId": "gg-jackson",
     "name": "GG Jackson",
     "type": "player",
-    "gamesPlayed": 119,
+    "gamesPlayed": 122,
     "nbaId": 1641713
   },
   {
@@ -13107,7 +13133,7 @@
     "entityId": "giannis-antetokounmpo",
     "name": "Giannis Antetokounmpo",
     "type": "player",
-    "gamesPlayed": 892,
+    "gamesPlayed": 894,
     "nbaId": 203507
   },
   {
@@ -13240,7 +13266,7 @@
     "entityId": "goga-bitadze",
     "name": "Goga Bitadze",
     "type": "player",
-    "gamesPlayed": 365,
+    "gamesPlayed": 367,
     "nbaId": 1629048
   },
   {
@@ -13282,7 +13308,7 @@
     "entityId": "gradey-dick",
     "name": "Gradey Dick",
     "type": "player",
-    "gamesPlayed": 174,
+    "gamesPlayed": 177,
     "nbaId": 1641711
   },
   {
@@ -13345,7 +13371,7 @@
     "entityId": "grant-williams",
     "name": "Grant Williams",
     "type": "player",
-    "gamesPlayed": 401,
+    "gamesPlayed": 404,
     "nbaId": 1629684
   },
   {
@@ -13359,7 +13385,7 @@
     "entityId": "grayson-allen",
     "name": "Grayson Allen",
     "type": "player",
-    "gamesPlayed": 444,
+    "gamesPlayed": 446,
     "nbaId": 1628960
   },
   {
@@ -13583,14 +13609,14 @@
     "entityId": "guerschon-yabusele",
     "name": "Guerschon Yabusele",
     "type": "player",
-    "gamesPlayed": 197,
+    "gamesPlayed": 200,
     "nbaId": 1627824
   },
   {
     "entityId": "gui-santos",
     "name": "Gui Santos",
     "type": "player",
-    "gamesPlayed": 131,
+    "gamesPlayed": 134,
     "nbaId": 1630611
   },
   {
@@ -13776,6 +13802,12 @@
     "nbaId": 76716
   },
   {
+    "entityId": "hank-gathers",
+    "name": "Hank Gathers",
+    "type": "player",
+    "gamesPlayed": 0
+  },
+  {
     "entityId": "hank-lefkowitz",
     "name": "Hank Lefkowitz",
     "type": "player",
@@ -13884,7 +13916,7 @@
     "entityId": "harrison-barnes",
     "name": "Harrison Barnes",
     "type": "player",
-    "gamesPlayed": 1053,
+    "gamesPlayed": 1055,
     "nbaId": 203084
   },
   {
@@ -14010,7 +14042,7 @@
     "entityId": "haywood-highsmith",
     "name": "Haywood Highsmith",
     "type": "player",
-    "gamesPlayed": 219,
+    "gamesPlayed": 222,
     "nbaId": 1629312
   },
   {
@@ -14150,7 +14182,7 @@
     "entityId": "herbert-jones",
     "name": "Herbert Jones",
     "type": "player",
-    "gamesPlayed": 282,
+    "gamesPlayed": 285,
     "nbaId": 1630529
   },
   {
@@ -14201,6 +14233,12 @@
     "type": "player",
     "gamesPlayed": 334,
     "nbaId": 765
+  },
+  {
+    "entityId": "herve-dubuisson",
+    "name": "Hervé Dubuisson",
+    "type": "player",
+    "gamesPlayed": 0
   },
   {
     "entityId": "hilton-armstrong",
@@ -14416,7 +14454,7 @@
     "entityId": "hugo-gonzalez",
     "name": "Hugo González",
     "type": "player",
-    "gamesPlayed": 58,
+    "gamesPlayed": 62,
     "nbaId": 1642864
   },
   {
@@ -14535,7 +14573,7 @@
     "entityId": "immanuel-quickley",
     "name": "Immanuel Quickley",
     "type": "player",
-    "gamesPlayed": 383,
+    "gamesPlayed": 387,
     "nbaId": 1630193
   },
   {
@@ -14612,14 +14650,14 @@
     "entityId": "isaac-jones",
     "name": "Isaac Jones",
     "type": "player",
-    "gamesPlayed": 44,
+    "gamesPlayed": 45,
     "nbaId": 1642403
   },
   {
     "entityId": "isaac-okoro",
     "name": "Isaac Okoro",
     "type": "player",
-    "gamesPlayed": 388,
+    "gamesPlayed": 389,
     "nbaId": 1630171
   },
   {
@@ -14647,14 +14685,14 @@
     "entityId": "isaiah-collier",
     "name": "Isaiah Collier",
     "type": "player",
-    "gamesPlayed": 126,
+    "gamesPlayed": 128,
     "nbaId": 1642268
   },
   {
     "entityId": "isaiah-crawford",
     "name": "Isaiah Crawford",
     "type": "player",
-    "gamesPlayed": 23,
+    "gamesPlayed": 26,
     "nbaId": 1642384
   },
   {
@@ -14675,21 +14713,21 @@
     "entityId": "isaiah-jackson",
     "name": "Isaiah Jackson",
     "type": "player",
-    "gamesPlayed": 208,
+    "gamesPlayed": 212,
     "nbaId": 1630543
   },
   {
     "entityId": "isaiah-joe",
     "name": "Isaiah Joe",
     "type": "player",
-    "gamesPlayed": 377,
+    "gamesPlayed": 379,
     "nbaId": 1630198
   },
   {
     "entityId": "isaiah-livers",
     "name": "Isaiah Livers",
     "type": "player",
-    "gamesPlayed": 126,
+    "gamesPlayed": 127,
     "nbaId": 1630587
   },
   {
@@ -14731,7 +14769,7 @@
     "entityId": "isaiah-stewart",
     "name": "Isaiah Stewart",
     "type": "player",
-    "gamesPlayed": 358,
+    "gamesPlayed": 362,
     "nbaId": 1630191
   },
   {
@@ -14829,7 +14867,7 @@
     "entityId": "ivica-zubac",
     "name": "Ivica Zubac",
     "type": "player",
-    "gamesPlayed": 627,
+    "gamesPlayed": 629,
     "nbaId": 1627826
   },
   {
@@ -14885,7 +14923,7 @@
     "entityId": "ja-kobe-walter",
     "name": "Ja'Kobe Walter",
     "type": "player",
-    "gamesPlayed": 104,
+    "gamesPlayed": 108,
     "nbaId": 1642266
   },
   {
@@ -14927,14 +14965,14 @@
     "entityId": "jabari-smith-jr",
     "name": "Jabari Smith Jr.",
     "type": "player",
-    "gamesPlayed": 270,
+    "gamesPlayed": 274,
     "nbaId": 1631095
   },
   {
     "entityId": "jabari-walker",
     "name": "Jabari Walker",
     "type": "player",
-    "gamesPlayed": 241,
+    "gamesPlayed": 244,
     "nbaId": 1631133
   },
   {
@@ -15284,7 +15322,7 @@
     "entityId": "jaden-hardy",
     "name": "Jaden Hardy",
     "type": "player",
-    "gamesPlayed": 220,
+    "gamesPlayed": 223,
     "nbaId": 1630702
   },
   {
@@ -15298,7 +15336,7 @@
     "entityId": "jaden-mcdaniels",
     "name": "Jaden McDaniels",
     "type": "player",
-    "gamesPlayed": 428,
+    "gamesPlayed": 431,
     "nbaId": 1630183
   },
   {
@@ -15340,7 +15378,7 @@
     "entityId": "jahmai-mashack",
     "name": "Jahmai Mashack",
     "type": "player",
-    "gamesPlayed": 19,
+    "gamesPlayed": 23,
     "nbaId": 1642942
   },
   {
@@ -15375,7 +15413,7 @@
     "entityId": "jaime-jaquez-jr",
     "name": "Jaime Jaquez Jr.",
     "type": "player",
-    "gamesPlayed": 200,
+    "gamesPlayed": 204,
     "nbaId": 1631170
   },
   {
@@ -15431,7 +15469,7 @@
     "entityId": "jake-laravia",
     "name": "Jake LaRavia",
     "type": "player",
-    "gamesPlayed": 199,
+    "gamesPlayed": 203,
     "nbaId": 1631222
   },
   {
@@ -15466,7 +15504,7 @@
     "entityId": "jakob-poeltl",
     "name": "Jakob Poeltl",
     "type": "player",
-    "gamesPlayed": 623,
+    "gamesPlayed": 626,
     "nbaId": 1627751
   },
   {
@@ -15480,7 +15518,7 @@
     "entityId": "jalen-brunson",
     "name": "Jalen Brunson",
     "type": "player",
-    "gamesPlayed": 546,
+    "gamesPlayed": 550,
     "nbaId": 1628973
   },
   {
@@ -15494,14 +15532,14 @@
     "entityId": "jalen-duren",
     "name": "Jalen Duren",
     "type": "player",
-    "gamesPlayed": 258,
+    "gamesPlayed": 262,
     "nbaId": 1631105
   },
   {
     "entityId": "jalen-green",
     "name": "Jalen Green",
     "type": "player",
-    "gamesPlayed": 322,
+    "gamesPlayed": 326,
     "nbaId": 1630224
   },
   {
@@ -15522,7 +15560,7 @@
     "entityId": "jalen-johnson",
     "name": "Jalen Johnson",
     "type": "player",
-    "gamesPlayed": 241,
+    "gamesPlayed": 244,
     "nbaId": 1630552
   },
   {
@@ -15550,7 +15588,7 @@
     "entityId": "jalen-pickett",
     "name": "Jalen Pickett",
     "type": "player",
-    "gamesPlayed": 118,
+    "gamesPlayed": 119,
     "nbaId": 1629618
   },
   {
@@ -15564,21 +15602,21 @@
     "entityId": "jalen-slawson",
     "name": "Jalen Slawson",
     "type": "player",
-    "gamesPlayed": 12,
+    "gamesPlayed": 14,
     "nbaId": 1641771
   },
   {
     "entityId": "jalen-smith",
     "name": "Jalen Smith",
     "type": "player",
-    "gamesPlayed": 317,
+    "gamesPlayed": 320,
     "nbaId": 1630188
   },
   {
     "entityId": "jalen-suggs",
     "name": "Jalen Suggs",
     "type": "player",
-    "gamesPlayed": 250,
+    "gamesPlayed": 254,
     "nbaId": 1630591
   },
   {
@@ -15592,7 +15630,7 @@
     "entityId": "jalen-wilson",
     "name": "Jalen Wilson",
     "type": "player",
-    "gamesPlayed": 163,
+    "gamesPlayed": 166,
     "nbaId": 1630592
   },
   {
@@ -15627,7 +15665,7 @@
     "entityId": "jamal-cain",
     "name": "Jamal Cain",
     "type": "player",
-    "gamesPlayed": 103,
+    "gamesPlayed": 105,
     "nbaId": 1631288
   },
   {
@@ -15648,7 +15686,7 @@
     "entityId": "jamal-murray",
     "name": "Jamal Murray",
     "type": "player",
-    "gamesPlayed": 595,
+    "gamesPlayed": 599,
     "nbaId": 1627750
   },
   {
@@ -15669,14 +15707,14 @@
     "entityId": "jamal-shead",
     "name": "Jamal Shead",
     "type": "player",
-    "gamesPlayed": 137,
+    "gamesPlayed": 141,
     "nbaId": 1642347
   },
   {
     "entityId": "jamaree-bouyea",
     "name": "Jamaree Bouyea",
     "type": "player",
-    "gamesPlayed": 52,
+    "gamesPlayed": 53,
     "nbaId": 1631123
   },
   {
@@ -15795,7 +15833,7 @@
     "entityId": "james-harden",
     "name": "James Harden",
     "type": "player",
-    "gamesPlayed": 1204,
+    "gamesPlayed": 1208,
     "nbaId": 201935
   },
   {
@@ -15984,14 +16022,14 @@
     "entityId": "jamir-watkins",
     "name": "Jamir Watkins",
     "type": "player",
-    "gamesPlayed": 32,
+    "gamesPlayed": 34,
     "nbaId": 1642364
   },
   {
     "entityId": "jamison-battle",
     "name": "Jamison Battle",
     "type": "player",
-    "gamesPlayed": 104,
+    "gamesPlayed": 108,
     "nbaId": 1642419
   },
   {
@@ -16047,7 +16085,7 @@
     "entityId": "jarace-walker",
     "name": "Jarace Walker",
     "type": "player",
-    "gamesPlayed": 170,
+    "gamesPlayed": 174,
     "nbaId": 1641716
   },
   {
@@ -16089,7 +16127,7 @@
     "entityId": "jared-mccain",
     "name": "Jared McCain",
     "type": "player",
-    "gamesPlayed": 73,
+    "gamesPlayed": 75,
     "nbaId": 1642272
   },
   {
@@ -16166,7 +16204,7 @@
     "entityId": "jarred-vanderbilt",
     "name": "Jarred Vanderbilt",
     "type": "player",
-    "gamesPlayed": 361,
+    "gamesPlayed": 364,
     "nbaId": 1629020
   },
   {
@@ -16383,7 +16421,7 @@
     "entityId": "javon-small",
     "name": "Javon Small",
     "type": "player",
-    "gamesPlayed": 28,
+    "gamesPlayed": 32,
     "nbaId": 1642914
   },
   {
@@ -16397,7 +16435,7 @@
     "entityId": "javonte-green",
     "name": "Javonte Green",
     "type": "player",
-    "gamesPlayed": 325,
+    "gamesPlayed": 329,
     "nbaId": 1629750
   },
   {
@@ -16432,7 +16470,7 @@
     "entityId": "jaxson-hayes",
     "name": "Jaxson Hayes",
     "type": "player",
-    "gamesPlayed": 420,
+    "gamesPlayed": 422,
     "nbaId": 1629637
   },
   {
@@ -16467,7 +16505,7 @@
     "entityId": "jay-huff",
     "name": "Jay Huff",
     "type": "player",
-    "gamesPlayed": 158,
+    "gamesPlayed": 162,
     "nbaId": 1630643
   },
   {
@@ -16530,14 +16568,14 @@
     "entityId": "jaylen-brown",
     "name": "Jaylen Brown",
     "type": "player",
-    "gamesPlayed": 659,
+    "gamesPlayed": 663,
     "nbaId": 1627759
   },
   {
     "entityId": "jaylen-clark",
     "name": "Jaylen Clark",
     "type": "player",
-    "gamesPlayed": 96,
+    "gamesPlayed": 98,
     "nbaId": 1641740
   },
   {
@@ -16579,7 +16617,7 @@
     "entityId": "jaylen-wells",
     "name": "Jaylen Wells",
     "type": "player",
-    "gamesPlayed": 140,
+    "gamesPlayed": 143,
     "nbaId": 1642377
   },
   {
@@ -16593,14 +16631,14 @@
     "entityId": "jaylin-williams",
     "name": "Jaylin Williams",
     "type": "player",
-    "gamesPlayed": 215,
+    "gamesPlayed": 217,
     "nbaId": 1631119
   },
   {
     "entityId": "jaylon-tyson",
     "name": "Jaylon Tyson",
     "type": "player",
-    "gamesPlayed": 105,
+    "gamesPlayed": 109,
     "nbaId": 1642281
   },
   {
@@ -16621,7 +16659,7 @@
     "entityId": "jayson-tatum",
     "name": "Jayson Tatum",
     "type": "player",
-    "gamesPlayed": 586,
+    "gamesPlayed": 589,
     "nbaId": 1628369
   },
   {
@@ -16705,7 +16743,7 @@
     "entityId": "jeff-green",
     "name": "Jeff Green",
     "type": "player",
-    "gamesPlayed": 1238,
+    "gamesPlayed": 1242,
     "nbaId": 201145
   },
   {
@@ -16901,7 +16939,7 @@
     "entityId": "jerami-grant",
     "name": "Jerami Grant",
     "type": "player",
-    "gamesPlayed": 767,
+    "gamesPlayed": 770,
     "nbaId": 203924
   },
   {
@@ -16915,7 +16953,7 @@
     "entityId": "jeremiah-fears",
     "name": "Jeremiah Fears",
     "type": "player",
-    "gamesPlayed": 65,
+    "gamesPlayed": 68,
     "nbaId": 1642847
   },
   {
@@ -16971,7 +17009,7 @@
     "entityId": "jeremy-sochan",
     "name": "Jeremy Sochan",
     "type": "player",
-    "gamesPlayed": 221,
+    "gamesPlayed": 222,
     "nbaId": 1631110
   },
   {
@@ -16992,7 +17030,7 @@
     "entityId": "jericho-sims",
     "name": "Jericho Sims",
     "type": "player",
-    "gamesPlayed": 239,
+    "gamesPlayed": 242,
     "nbaId": 1630579
   },
   {
@@ -17321,14 +17359,14 @@
     "entityId": "jett-howard",
     "name": "Jett Howard",
     "type": "player",
-    "gamesPlayed": 119,
+    "gamesPlayed": 122,
     "nbaId": 1641724
   },
   {
     "entityId": "jevon-carter",
     "name": "Jevon Carter",
     "type": "player",
-    "gamesPlayed": 445,
+    "gamesPlayed": 449,
     "nbaId": 1628975
   },
   {
@@ -17874,7 +17912,7 @@
     "entityId": "joan-beringer",
     "name": "Joan Beringer",
     "type": "player",
-    "gamesPlayed": 30,
+    "gamesPlayed": 31,
     "nbaId": 1642866
   },
   {
@@ -17895,7 +17933,7 @@
     "entityId": "jock-landale",
     "name": "Jock Landale",
     "type": "player",
-    "gamesPlayed": 278,
+    "gamesPlayed": 281,
     "nbaId": 1629111
   },
   {
@@ -18053,6 +18091,12 @@
     "nbaId": 76838
   },
   {
+    "entityId": "joe-hammond",
+    "name": "Joe Hammond",
+    "type": "player",
+    "gamesPlayed": 0
+  },
+  {
     "entityId": "joe-harris",
     "name": "Joe Harris",
     "type": "player",
@@ -18084,7 +18128,7 @@
     "entityId": "joe-ingles",
     "name": "Joe Ingles",
     "type": "player",
-    "gamesPlayed": 743,
+    "gamesPlayed": 745,
     "nbaId": 204060
   },
   {
@@ -18434,7 +18478,7 @@
     "entityId": "john-collins",
     "name": "John Collins",
     "type": "player",
-    "gamesPlayed": 526,
+    "gamesPlayed": 527,
     "nbaId": 1628381
   },
   {
@@ -18581,7 +18625,7 @@
     "entityId": "john-konchar",
     "name": "John Konchar",
     "type": "player",
-    "gamesPlayed": 349,
+    "gamesPlayed": 350,
     "nbaId": 1629723
   },
   {
@@ -19267,7 +19311,7 @@
     "entityId": "jonas-valanciunas",
     "name": "Jonas Valančiūnas",
     "type": "player",
-    "gamesPlayed": 989,
+    "gamesPlayed": 993,
     "nbaId": 202685
   },
   {
@@ -19288,7 +19332,7 @@
     "entityId": "jonathan-isaac",
     "name": "Jonathan Isaac",
     "type": "player",
-    "gamesPlayed": 327,
+    "gamesPlayed": 328,
     "nbaId": 1628371
   },
   {
@@ -19302,14 +19346,14 @@
     "entityId": "jonathan-kuminga",
     "name": "Jonathan Kuminga",
     "type": "player",
-    "gamesPlayed": 281,
+    "gamesPlayed": 282,
     "nbaId": 1630228
   },
   {
     "entityId": "jonathan-mogbo",
     "name": "Jonathan Mogbo",
     "type": "player",
-    "gamesPlayed": 88,
+    "gamesPlayed": 90,
     "nbaId": 1642367
   },
   {
@@ -19358,7 +19402,7 @@
     "entityId": "jordan-clarkson",
     "name": "Jordan Clarkson",
     "type": "player",
-    "gamesPlayed": 807,
+    "gamesPlayed": 811,
     "nbaId": 203903
   },
   {
@@ -19386,7 +19430,7 @@
     "entityId": "jordan-goodwin",
     "name": "Jordan Goodwin",
     "type": "player",
-    "gamesPlayed": 204,
+    "gamesPlayed": 207,
     "nbaId": 1630692
   },
   {
@@ -19407,7 +19451,7 @@
     "entityId": "jordan-hawkins",
     "name": "Jordan Hawkins",
     "type": "player",
-    "gamesPlayed": 163,
+    "gamesPlayed": 165,
     "nbaId": 1641722
   },
   {
@@ -19428,7 +19472,7 @@
     "entityId": "jordan-mclaughlin",
     "name": "Jordan McLaughlin",
     "type": "player",
-    "gamesPlayed": 319,
+    "gamesPlayed": 321,
     "nbaId": 1629162
   },
   {
@@ -19449,7 +19493,7 @@
     "entityId": "jordan-miller",
     "name": "Jordan Miller",
     "type": "player",
-    "gamesPlayed": 87,
+    "gamesPlayed": 91,
     "nbaId": 1641757
   },
   {
@@ -19484,7 +19528,7 @@
     "entityId": "jordan-walsh",
     "name": "Jordan Walsh",
     "type": "player",
-    "gamesPlayed": 117,
+    "gamesPlayed": 119,
     "nbaId": 1641775
   },
   {
@@ -19512,7 +19556,7 @@
     "entityId": "jose-alvarado",
     "name": "Jose Alvarado",
     "type": "player",
-    "gamesPlayed": 280,
+    "gamesPlayed": 284,
     "nbaId": 1630631
   },
   {
@@ -19589,7 +19633,7 @@
     "entityId": "josh-giddey",
     "name": "Josh Giddey",
     "type": "player",
-    "gamesPlayed": 321,
+    "gamesPlayed": 325,
     "nbaId": 1630581
   },
   {
@@ -19610,7 +19654,7 @@
     "entityId": "josh-green",
     "name": "Josh Green",
     "type": "player",
-    "gamesPlayed": 331,
+    "gamesPlayed": 335,
     "nbaId": 1630182
   },
   {
@@ -19631,7 +19675,7 @@
     "entityId": "josh-hart",
     "name": "Josh Hart",
     "type": "player",
-    "gamesPlayed": 582,
+    "gamesPlayed": 584,
     "nbaId": 1628404
   },
   {
@@ -19673,7 +19717,7 @@
     "entityId": "josh-minott",
     "name": "Josh Minott",
     "type": "player",
-    "gamesPlayed": 131,
+    "gamesPlayed": 134,
     "nbaId": 1631169
   },
   {
@@ -19687,7 +19731,7 @@
     "entityId": "josh-okogie",
     "name": "Josh Okogie",
     "type": "player",
-    "gamesPlayed": 475,
+    "gamesPlayed": 479,
     "nbaId": 1629006
   },
   {
@@ -19743,7 +19787,7 @@
     "entityId": "jrue-holiday",
     "name": "Jrue Holiday",
     "type": "player",
-    "gamesPlayed": 1072,
+    "gamesPlayed": 1075,
     "nbaId": 201950
   },
   {
@@ -19806,28 +19850,28 @@
     "entityId": "julian-champagnie",
     "name": "Julian Champagnie",
     "type": "player",
-    "gamesPlayed": 236,
+    "gamesPlayed": 240,
     "nbaId": 1630577
   },
   {
     "entityId": "julian-phillips",
     "name": "Julian Phillips",
     "type": "player",
-    "gamesPlayed": 159,
+    "gamesPlayed": 161,
     "nbaId": 1641763
   },
   {
     "entityId": "julian-reese",
     "name": "Julian Reese",
     "type": "player",
-    "gamesPlayed": 3,
+    "gamesPlayed": 4,
     "nbaId": 1642882
   },
   {
     "entityId": "julian-strawther",
     "name": "Julian Strawther",
     "type": "player",
-    "gamesPlayed": 156,
+    "gamesPlayed": 159,
     "nbaId": 1631124
   },
   {
@@ -19869,7 +19913,7 @@
     "entityId": "julius-randle",
     "name": "Julius Randle",
     "type": "player",
-    "gamesPlayed": 774,
+    "gamesPlayed": 777,
     "nbaId": 203944
   },
   {
@@ -19918,7 +19962,7 @@
     "entityId": "justin-champagnie",
     "name": "Justin Champagnie",
     "type": "player",
-    "gamesPlayed": 174,
+    "gamesPlayed": 177,
     "nbaId": 1630551
   },
   {
@@ -19932,7 +19976,7 @@
     "entityId": "justin-edwards",
     "name": "Justin Edwards",
     "type": "player",
-    "gamesPlayed": 90,
+    "gamesPlayed": 94,
     "nbaId": 1642348
   },
   {
@@ -20100,7 +20144,7 @@
     "entityId": "kam-jones",
     "name": "Kam Jones",
     "type": "player",
-    "gamesPlayed": 24,
+    "gamesPlayed": 27,
     "nbaId": 1642880
   },
   {
@@ -20142,7 +20186,7 @@
     "entityId": "karl-anthony-towns",
     "name": "Karl-Anthony Towns",
     "type": "player",
-    "gamesPlayed": 705,
+    "gamesPlayed": 708,
     "nbaId": 1626157
   },
   {
@@ -20156,7 +20200,7 @@
     "entityId": "karlo-matkovic",
     "name": "Karlo Matković",
     "type": "player",
-    "gamesPlayed": 93,
+    "gamesPlayed": 96,
     "nbaId": 1631255
   },
   {
@@ -20170,14 +20214,14 @@
     "entityId": "kasparas-jakucionis",
     "name": "Kasparas Jakučionis",
     "type": "player",
-    "gamesPlayed": 37,
+    "gamesPlayed": 41,
     "nbaId": 1642857
   },
   {
     "entityId": "kawhi-leonard",
     "name": "Kawhi Leonard",
     "type": "player",
-    "gamesPlayed": 782,
+    "gamesPlayed": 786,
     "nbaId": 202695
   },
   {
@@ -20191,7 +20235,7 @@
     "entityId": "keaton-wallace",
     "name": "Keaton Wallace",
     "type": "player",
-    "gamesPlayed": 76,
+    "gamesPlayed": 77,
     "nbaId": 1630811
   },
   {
@@ -20380,7 +20424,7 @@
     "entityId": "kel-el-ware",
     "name": "Kel'el Ware",
     "type": "player",
-    "gamesPlayed": 124,
+    "gamesPlayed": 127,
     "nbaId": 1642276
   },
   {
@@ -20394,7 +20438,7 @@
     "entityId": "keldon-johnson",
     "name": "Keldon Johnson",
     "type": "player",
-    "gamesPlayed": 433,
+    "gamesPlayed": 437,
     "nbaId": 1629640
   },
   {
@@ -20422,14 +20466,14 @@
     "entityId": "kelly-olynyk",
     "name": "Kelly Olynyk",
     "type": "player",
-    "gamesPlayed": 835,
+    "gamesPlayed": 836,
     "nbaId": 203482
   },
   {
     "entityId": "kelly-oubre-jr",
     "name": "Kelly Oubre Jr.",
     "type": "player",
-    "gamesPlayed": 694,
+    "gamesPlayed": 696,
     "nbaId": 1626162
   },
   {
@@ -20800,7 +20844,7 @@
     "entityId": "kenrich-williams",
     "name": "Kenrich Williams",
     "type": "player",
-    "gamesPlayed": 435,
+    "gamesPlayed": 436,
     "nbaId": 1629026
   },
   {
@@ -20849,7 +20893,7 @@
     "entityId": "keon-ellis",
     "name": "Keon Ellis",
     "type": "player",
-    "gamesPlayed": 207,
+    "gamesPlayed": 211,
     "nbaId": 1631165
   },
   {
@@ -20877,7 +20921,7 @@
     "entityId": "keshad-johnson",
     "name": "Keshad Johnson",
     "type": "player",
-    "gamesPlayed": 39,
+    "gamesPlayed": 40,
     "nbaId": 1642352
   },
   {
@@ -20919,7 +20963,7 @@
     "entityId": "kevin-durant",
     "name": "Kevin Durant",
     "type": "player",
-    "gamesPlayed": 1182,
+    "gamesPlayed": 1186,
     "nbaId": 201142
   },
   {
@@ -20968,7 +21012,7 @@
     "entityId": "kevin-huerter",
     "name": "Kevin Huerter",
     "type": "player",
-    "gamesPlayed": 533,
+    "gamesPlayed": 537,
     "nbaId": 1628989
   },
   {
@@ -21017,7 +21061,7 @@
     "entityId": "kevin-love",
     "name": "Kevin Love",
     "type": "player",
-    "gamesPlayed": 986,
+    "gamesPlayed": 988,
     "nbaId": 201567
   },
   {
@@ -21038,7 +21082,7 @@
     "entityId": "kevin-mccullar-jr",
     "name": "Kevin McCullar Jr.",
     "type": "player",
-    "gamesPlayed": 22,
+    "gamesPlayed": 23,
     "nbaId": 1641755
   },
   {
@@ -21094,7 +21138,7 @@
     "entityId": "kevin-porter-jr",
     "name": "Kevin Porter Jr.",
     "type": "player",
-    "gamesPlayed": 306,
+    "gamesPlayed": 308,
     "nbaId": 1629645
   },
   {
@@ -21192,7 +21236,7 @@
     "entityId": "keyonte-george",
     "name": "Keyonte George",
     "type": "player",
-    "gamesPlayed": 194,
+    "gamesPlayed": 196,
     "nbaId": 1641718
   },
   {
@@ -21213,7 +21257,7 @@
     "entityId": "khaman-maluach",
     "name": "Khaman Maluach",
     "type": "player",
-    "gamesPlayed": 28,
+    "gamesPlayed": 32,
     "nbaId": 1642863
   },
   {
@@ -21227,7 +21271,7 @@
     "entityId": "khris-middleton",
     "name": "Khris Middleton",
     "type": "player",
-    "gamesPlayed": 821,
+    "gamesPlayed": 825,
     "nbaId": 203114
   },
   {
@@ -21248,7 +21292,7 @@
     "entityId": "killian-hayes",
     "name": "Killian Hayes",
     "type": "player",
-    "gamesPlayed": 222,
+    "gamesPlayed": 226,
     "nbaId": 1630165
   },
   {
@@ -21346,14 +21390,14 @@
     "entityId": "klay-thompson",
     "name": "Klay Thompson",
     "type": "player",
-    "gamesPlayed": 921,
+    "gamesPlayed": 924,
     "nbaId": 202691
   },
   {
     "entityId": "kobe-brown",
     "name": "Kobe Brown",
     "type": "player",
-    "gamesPlayed": 128,
+    "gamesPlayed": 132,
     "nbaId": 1641738
   },
   {
@@ -21367,14 +21411,14 @@
     "entityId": "kobe-bufkin",
     "name": "Kobe Bufkin",
     "type": "player",
-    "gamesPlayed": 37,
+    "gamesPlayed": 38,
     "nbaId": 1641723
   },
   {
     "entityId": "kobe-sanders",
     "name": "Kobe Sanders",
     "type": "player",
-    "gamesPlayed": 53,
+    "gamesPlayed": 55,
     "nbaId": 1642920
   },
   {
@@ -21395,7 +21439,7 @@
     "entityId": "kon-knueppel",
     "name": "Kon Knueppel",
     "type": "player",
-    "gamesPlayed": 63,
+    "gamesPlayed": 67,
     "nbaId": 1642851
   },
   {
@@ -21441,10 +21485,16 @@
     "nbaId": 203123
   },
   {
+    "entityId": "kresimir-cosic",
+    "name": "Kresimir Cosic",
+    "type": "player",
+    "gamesPlayed": 0
+  },
+  {
     "entityId": "kris-dunn",
     "name": "Kris Dunn",
     "type": "player",
-    "gamesPlayed": 470,
+    "gamesPlayed": 474,
     "nbaId": 1627739
   },
   {
@@ -21465,14 +21515,14 @@
     "entityId": "kris-murray",
     "name": "Kris Murray",
     "type": "player",
-    "gamesPlayed": 171,
+    "gamesPlayed": 174,
     "nbaId": 1631200
   },
   {
     "entityId": "kristaps-porzingis",
     "name": "Kristaps Porziņģis",
     "type": "player",
-    "gamesPlayed": 520,
+    "gamesPlayed": 522,
     "nbaId": 204001
   },
   {
@@ -21528,7 +21578,7 @@
     "entityId": "kyle-anderson",
     "name": "Kyle Anderson",
     "type": "player",
-    "gamesPlayed": 740,
+    "gamesPlayed": 743,
     "nbaId": 203937
   },
   {
@@ -21542,7 +21592,7 @@
     "entityId": "kyle-filipowski",
     "name": "Kyle Filipowski",
     "type": "player",
-    "gamesPlayed": 135,
+    "gamesPlayed": 138,
     "nbaId": 1642271
   },
   {
@@ -21563,14 +21613,14 @@
     "entityId": "kyle-kuzma",
     "name": "Kyle Kuzma",
     "type": "player",
-    "gamesPlayed": 599,
+    "gamesPlayed": 602,
     "nbaId": 1628398
   },
   {
     "entityId": "kyle-lowry",
     "name": "Kyle Lowry",
     "type": "player",
-    "gamesPlayed": 1181,
+    "gamesPlayed": 1182,
     "nbaId": 200768
   },
   {
@@ -21654,7 +21704,7 @@
     "entityId": "lachlan-olbrich",
     "name": "Lachlan Olbrich",
     "type": "player",
-    "gamesPlayed": 21,
+    "gamesPlayed": 24,
     "nbaId": 1642950
   },
   {
@@ -21703,7 +21753,7 @@
     "entityId": "lamelo-ball",
     "name": "LaMelo Ball",
     "type": "player",
-    "gamesPlayed": 285,
+    "gamesPlayed": 289,
     "nbaId": 1630163
   },
   {
@@ -21773,7 +21823,7 @@
     "entityId": "landry-shamet",
     "name": "Landry Shamet",
     "type": "player",
-    "gamesPlayed": 437,
+    "gamesPlayed": 441,
     "nbaId": 1629013
   },
   {
@@ -21962,7 +22012,7 @@
     "entityId": "larry-nance-jr",
     "name": "Larry Nance Jr.",
     "type": "player",
-    "gamesPlayed": 573,
+    "gamesPlayed": 575,
     "nbaId": 1626204
   },
   {
@@ -22144,7 +22194,7 @@
     "entityId": "leaky-black",
     "name": "Leaky Black",
     "type": "player",
-    "gamesPlayed": 29,
+    "gamesPlayed": 31,
     "nbaId": 1641778
   },
   {
@@ -22165,7 +22215,7 @@
     "entityId": "lebron-james",
     "name": "LeBron James",
     "type": "player",
-    "gamesPlayed": 1606,
+    "gamesPlayed": 1608,
     "nbaId": 2544
   },
   {
@@ -22374,7 +22424,7 @@
     "entityId": "leonard-miller",
     "name": "Leonard Miller",
     "type": "player",
-    "gamesPlayed": 57,
+    "gamesPlayed": 61,
     "nbaId": 1631159
   },
   {
@@ -22528,7 +22578,7 @@
     "entityId": "lindy-waters-iii",
     "name": "Lindy Waters III",
     "type": "player",
-    "gamesPlayed": 189,
+    "gamesPlayed": 190,
     "nbaId": 1630322
   },
   {
@@ -22584,7 +22634,7 @@
     "entityId": "lj-cryer",
     "name": "LJ Cryer",
     "type": "player",
-    "gamesPlayed": 5,
+    "gamesPlayed": 8,
     "nbaId": 1643018
   },
   {
@@ -22864,7 +22914,7 @@
     "entityId": "luguentz-dort",
     "name": "Luguentz Dort",
     "type": "player",
-    "gamesPlayed": 417,
+    "gamesPlayed": 419,
     "nbaId": 1629652
   },
   {
@@ -22892,14 +22942,14 @@
     "entityId": "luka-doncic",
     "name": "Luka Dončić",
     "type": "player",
-    "gamesPlayed": 501,
+    "gamesPlayed": 505,
     "nbaId": 1629029
   },
   {
     "entityId": "luka-garza",
     "name": "Luka Garza",
     "type": "player",
-    "gamesPlayed": 177,
+    "gamesPlayed": 181,
     "nbaId": 1630568
   },
   {
@@ -22934,14 +22984,14 @@
     "entityId": "luke-kennard",
     "name": "Luke Kennard",
     "type": "player",
-    "gamesPlayed": 519,
+    "gamesPlayed": 523,
     "nbaId": 1628379
   },
   {
     "entityId": "luke-kornet",
     "name": "Luke Kornet",
     "type": "player",
-    "gamesPlayed": 406,
+    "gamesPlayed": 410,
     "nbaId": 1628436
   },
   {
@@ -23155,6 +23205,13 @@
     "nbaId": 1627781
   },
   {
+    "entityId": "malachi-smith",
+    "name": "Malachi Smith",
+    "type": "player",
+    "gamesPlayed": 1,
+    "nbaId": 1641869
+  },
+  {
     "entityId": "malaki-branham",
     "name": "Malaki Branham",
     "type": "player",
@@ -23221,7 +23278,7 @@
     "entityId": "malevy-leons",
     "name": "Malevy Leons",
     "type": "player",
-    "gamesPlayed": 16,
+    "gamesPlayed": 19,
     "nbaId": 1642502
   },
   {
@@ -23256,7 +23313,7 @@
     "entityId": "malik-monk",
     "name": "Malik Monk",
     "type": "player",
-    "gamesPlayed": 574,
+    "gamesPlayed": 576,
     "nbaId": 1628370
   },
   {
@@ -23487,14 +23544,14 @@
     "entityId": "marcus-sasser",
     "name": "Marcus Sasser",
     "type": "player",
-    "gamesPlayed": 149,
+    "gamesPlayed": 153,
     "nbaId": 1631204
   },
   {
     "entityId": "marcus-smart",
     "name": "Marcus Smart",
     "type": "player",
-    "gamesPlayed": 688,
+    "gamesPlayed": 691,
     "nbaId": 203935
   },
   {
@@ -23599,7 +23656,7 @@
     "entityId": "marjon-beauchamp",
     "name": "MarJon Beauchamp",
     "type": "player",
-    "gamesPlayed": 137,
+    "gamesPlayed": 140,
     "nbaId": 1630699
   },
   {
@@ -24082,7 +24139,7 @@
     "entityId": "marvin-bagley-iii",
     "name": "Marvin Bagley III",
     "type": "player",
-    "gamesPlayed": 334,
+    "gamesPlayed": 338,
     "nbaId": 1628963
   },
   {
@@ -24117,14 +24174,14 @@
     "entityId": "mason-plumlee",
     "name": "Mason Plumlee",
     "type": "player",
-    "gamesPlayed": 874,
+    "gamesPlayed": 876,
     "nbaId": 203486
   },
   {
     "entityId": "matas-buzelis",
     "name": "Matas Buzelis",
     "type": "player",
-    "gamesPlayed": 142,
+    "gamesPlayed": 146,
     "nbaId": 1641824
   },
   {
@@ -24138,7 +24195,7 @@
     "entityId": "matisse-thybulle",
     "name": "Matisse Thybulle",
     "type": "player",
-    "gamesPlayed": 359,
+    "gamesPlayed": 362,
     "nbaId": 1629680
   },
   {
@@ -24397,7 +24454,7 @@
     "entityId": "max-christie",
     "name": "Max Christie",
     "type": "player",
-    "gamesPlayed": 244,
+    "gamesPlayed": 248,
     "nbaId": 1631108
   },
   {
@@ -24411,7 +24468,7 @@
     "entityId": "max-shulga",
     "name": "Max Shulga",
     "type": "player",
-    "gamesPlayed": 2,
+    "gamesPlayed": 4,
     "nbaId": 1642917
   },
   {
@@ -24432,14 +24489,14 @@
     "entityId": "maxi-kleber",
     "name": "Maxi Kleber",
     "type": "player",
-    "gamesPlayed": 474,
+    "gamesPlayed": 475,
     "nbaId": 1628467
   },
   {
     "entityId": "maxime-raynaud",
     "name": "Maxime Raynaud",
     "type": "player",
-    "gamesPlayed": 56,
+    "gamesPlayed": 60,
     "nbaId": 1642875
   },
   {
@@ -24656,14 +24713,14 @@
     "entityId": "micah-peavy",
     "name": "Micah Peavy",
     "type": "player",
-    "gamesPlayed": 49,
+    "gamesPlayed": 51,
     "nbaId": 1642877
   },
   {
     "entityId": "micah-potter",
     "name": "Micah Potter",
     "type": "player",
-    "gamesPlayed": 94,
+    "gamesPlayed": 98,
     "nbaId": 1630695
   },
   {
@@ -24845,7 +24902,7 @@
     "entityId": "michael-porter-jr",
     "name": "Michael Porter Jr.",
     "type": "player",
-    "gamesPlayed": 396,
+    "gamesPlayed": 397,
     "nbaId": 1629008
   },
   {
@@ -24971,7 +25028,7 @@
     "entityId": "mikal-bridges",
     "name": "Mikal Bridges",
     "type": "player",
-    "gamesPlayed": 620,
+    "gamesPlayed": 624,
     "nbaId": 1628969
   },
   {
@@ -25419,7 +25476,7 @@
     "entityId": "miles-bridges",
     "name": "Miles Bridges",
     "type": "player",
-    "gamesPlayed": 483,
+    "gamesPlayed": 487,
     "nbaId": 1628970
   },
   {
@@ -25587,7 +25644,7 @@
     "entityId": "mitchell-robinson",
     "name": "Mitchell Robinson",
     "type": "player",
-    "gamesPlayed": 383,
+    "gamesPlayed": 386,
     "nbaId": 1629011
   },
   {
@@ -25657,7 +25714,7 @@
     "entityId": "mohamed-diawara",
     "name": "Mohamed Diawara",
     "type": "player",
-    "gamesPlayed": 53,
+    "gamesPlayed": 57,
     "nbaId": 1642885
   },
   {
@@ -25720,7 +25777,7 @@
     "entityId": "moritz-wagner",
     "name": "Moritz Wagner",
     "type": "player",
-    "gamesPlayed": 385,
+    "gamesPlayed": 389,
     "nbaId": 1629021
   },
   {
@@ -25783,7 +25840,7 @@
     "entityId": "mouhamed-gueye",
     "name": "Mouhamed Gueye",
     "type": "player",
-    "gamesPlayed": 100,
+    "gamesPlayed": 103,
     "nbaId": 1631243
   },
   {
@@ -25804,7 +25861,7 @@
     "entityId": "moussa-diabate",
     "name": "Moussa Diabaté",
     "type": "player",
-    "gamesPlayed": 160,
+    "gamesPlayed": 164,
     "nbaId": 1631217
   },
   {
@@ -25881,7 +25938,7 @@
     "entityId": "myles-turner",
     "name": "Myles Turner",
     "type": "player",
-    "gamesPlayed": 700,
+    "gamesPlayed": 704,
     "nbaId": 1626167
   },
   {
@@ -25895,7 +25952,7 @@
     "entityId": "myron-gardner",
     "name": "Myron Gardner",
     "type": "player",
-    "gamesPlayed": 32,
+    "gamesPlayed": 36,
     "nbaId": 1642066
   },
   {
@@ -25916,14 +25973,14 @@
     "entityId": "nae-qwan-tomlin",
     "name": "Nae'Qwan Tomlin",
     "type": "player",
-    "gamesPlayed": 55,
+    "gamesPlayed": 57,
     "nbaId": 1641772
   },
   {
     "entityId": "naji-marshall",
     "name": "Naji Marshall",
     "type": "player",
-    "gamesPlayed": 359,
+    "gamesPlayed": 363,
     "nbaId": 1630230
   },
   {
@@ -26063,7 +26120,7 @@
     "entityId": "nate-williams",
     "name": "Nate Williams",
     "type": "player",
-    "gamesPlayed": 51,
+    "gamesPlayed": 53,
     "nbaId": 1631466
   },
   {
@@ -26105,7 +26162,7 @@
     "entityId": "naz-reid",
     "name": "Naz Reid",
     "type": "player",
-    "gamesPlayed": 469,
+    "gamesPlayed": 472,
     "nbaId": 1629675
   },
   {
@@ -26140,7 +26197,7 @@
     "entityId": "neemias-queta",
     "name": "Neemias Queta",
     "type": "player",
-    "gamesPlayed": 169,
+    "gamesPlayed": 173,
     "nbaId": 1629674
   },
   {
@@ -26210,7 +26267,7 @@
     "entityId": "nic-claxton",
     "name": "Nic Claxton",
     "type": "player",
-    "gamesPlayed": 368,
+    "gamesPlayed": 371,
     "nbaId": 1629651
   },
   {
@@ -26266,7 +26323,7 @@
     "entityId": "nick-richards",
     "name": "Nick Richards",
     "type": "player",
-    "gamesPlayed": 296,
+    "gamesPlayed": 300,
     "nbaId": 1630208
   },
   {
@@ -26315,7 +26372,7 @@
     "entityId": "nickeil-alexander-walker",
     "name": "Nickeil Alexander-Walker",
     "type": "player",
-    "gamesPlayed": 442,
+    "gamesPlayed": 445,
     "nbaId": 1629638
   },
   {
@@ -26329,7 +26386,7 @@
     "entityId": "nicolas-batum",
     "name": "Nicolas Batum",
     "type": "player",
-    "gamesPlayed": 1191,
+    "gamesPlayed": 1194,
     "nbaId": 201587
   },
   {
@@ -26385,7 +26442,7 @@
     "entityId": "nikola-jokic",
     "name": "Nikola Jokić",
     "type": "player",
-    "gamesPlayed": 793,
+    "gamesPlayed": 797,
     "nbaId": 203999
   },
   {
@@ -26431,10 +26488,16 @@
     "nbaId": 2401
   },
   {
+    "entityId": "nikos-galis",
+    "name": "Nikos Galis",
+    "type": "player",
+    "gamesPlayed": 0
+  },
+  {
     "entityId": "nique-clifford",
     "name": "Nique Clifford",
     "type": "player",
-    "gamesPlayed": 60,
+    "gamesPlayed": 64,
     "nbaId": 1642363
   },
   {
@@ -26448,14 +26511,14 @@
     "entityId": "noah-clowney",
     "name": "Noah Clowney",
     "type": "player",
-    "gamesPlayed": 126,
+    "gamesPlayed": 130,
     "nbaId": 1641730
   },
   {
     "entityId": "noah-penda",
     "name": "Noah Penda",
     "type": "player",
-    "gamesPlayed": 43,
+    "gamesPlayed": 47,
     "nbaId": 1642869
   },
   {
@@ -26490,14 +26553,14 @@
     "entityId": "nolan-traore",
     "name": "Nolan Traore",
     "type": "player",
-    "gamesPlayed": 41,
+    "gamesPlayed": 44,
     "nbaId": 1642849
   },
   {
     "entityId": "norchad-omier",
     "name": "Norchad Omier",
     "type": "player",
-    "gamesPlayed": 2,
+    "gamesPlayed": 3,
     "nbaId": 1641807
   },
   {
@@ -26574,7 +26637,7 @@
     "entityId": "norman-powell",
     "name": "Norman Powell",
     "type": "player",
-    "gamesPlayed": 666,
+    "gamesPlayed": 667,
     "nbaId": 1626181
   },
   {
@@ -26623,7 +26686,7 @@
     "entityId": "obi-toppin",
     "name": "Obi Toppin",
     "type": "player",
-    "gamesPlayed": 369,
+    "gamesPlayed": 372,
     "nbaId": 1630167
   },
   {
@@ -26637,7 +26700,7 @@
     "entityId": "ochai-agbaji",
     "name": "Ochai Agbaji",
     "type": "player",
-    "gamesPlayed": 253,
+    "gamesPlayed": 254,
     "nbaId": 1630534
   },
   {
@@ -26658,7 +26721,7 @@
     "entityId": "og-anunoby",
     "name": "OG Anunoby",
     "type": "player",
-    "gamesPlayed": 542,
+    "gamesPlayed": 546,
     "nbaId": 1628384
   },
   {
@@ -26714,7 +26777,7 @@
     "entityId": "olivier-maxence-prosper",
     "name": "Olivier-Maxence Prosper",
     "type": "player",
-    "gamesPlayed": 130,
+    "gamesPlayed": 134,
     "nbaId": 1641765
   },
   {
@@ -26798,7 +26861,7 @@
     "entityId": "onyeka-okongwu",
     "name": "Onyeka Okongwu",
     "type": "player",
-    "gamesPlayed": 365,
+    "gamesPlayed": 368,
     "nbaId": 1630168
   },
   {
@@ -26844,6 +26907,12 @@
     "nbaId": 600015
   },
   {
+    "entityId": "oscar-schmidt",
+    "name": "Oscar Schmidt",
+    "type": "player",
+    "gamesPlayed": 0
+  },
+  {
     "entityId": "oscar-torres",
     "name": "Oscar Torres",
     "type": "player",
@@ -26854,7 +26923,7 @@
     "entityId": "oscar-tshiebwe",
     "name": "Oscar Tshiebwe",
     "type": "player",
-    "gamesPlayed": 31,
+    "gamesPlayed": 34,
     "nbaId": 1631131
   },
   {
@@ -26868,7 +26937,7 @@
     "entityId": "oso-ighodaro",
     "name": "Oso Ighodaro",
     "type": "player",
-    "gamesPlayed": 124,
+    "gamesPlayed": 128,
     "nbaId": 1642345
   },
   {
@@ -26959,7 +27028,7 @@
     "entityId": "ousmane-dieng",
     "name": "Ousmane Dieng",
     "type": "player",
-    "gamesPlayed": 148,
+    "gamesPlayed": 151,
     "nbaId": 1631172
   },
   {
@@ -26994,7 +27063,7 @@
     "entityId": "p-j-washington",
     "name": "P.J. Washington",
     "type": "player",
-    "gamesPlayed": 435,
+    "gamesPlayed": 438,
     "nbaId": 1629023
   },
   {
@@ -27015,14 +27084,14 @@
     "entityId": "pacome-dadiet",
     "name": "Pacôme Dadiet",
     "type": "player",
-    "gamesPlayed": 39,
+    "gamesPlayed": 41,
     "nbaId": 1642359
   },
   {
     "entityId": "paolo-banchero",
     "name": "Paolo Banchero",
     "type": "player",
-    "gamesPlayed": 250,
+    "gamesPlayed": 254,
     "nbaId": 1631094
   },
   {
@@ -27050,7 +27119,7 @@
     "entityId": "pascal-siakam",
     "name": "Pascal Siakam",
     "type": "player",
-    "gamesPlayed": 683,
+    "gamesPlayed": 684,
     "nbaId": 1627783
   },
   {
@@ -27064,7 +27133,7 @@
     "entityId": "pat-connaughton",
     "name": "Pat Connaughton",
     "type": "player",
-    "gamesPlayed": 624,
+    "gamesPlayed": 627,
     "nbaId": 1626192
   },
   {
@@ -27113,7 +27182,7 @@
     "entityId": "pat-spencer",
     "name": "Pat Spencer",
     "type": "player",
-    "gamesPlayed": 92,
+    "gamesPlayed": 95,
     "nbaId": 1630311
   },
   {
@@ -27190,7 +27259,7 @@
     "entityId": "patrick-williams",
     "name": "Patrick Williams",
     "type": "player",
-    "gamesPlayed": 331,
+    "gamesPlayed": 333,
     "nbaId": 1630172
   },
   {
@@ -27386,7 +27455,7 @@
     "entityId": "paul-reed",
     "name": "Paul Reed",
     "type": "player",
-    "gamesPlayed": 305,
+    "gamesPlayed": 309,
     "nbaId": 1630194
   },
   {
@@ -27470,7 +27539,7 @@
     "entityId": "payton-pritchard",
     "name": "Payton Pritchard",
     "type": "player",
-    "gamesPlayed": 409,
+    "gamesPlayed": 412,
     "nbaId": 1630202
   },
   {
@@ -27491,7 +27560,7 @@
     "entityId": "pelle-larsson",
     "name": "Pelle Larsson",
     "type": "player",
-    "gamesPlayed": 108,
+    "gamesPlayed": 112,
     "nbaId": 1641796
   },
   {
@@ -27589,7 +27658,7 @@
     "entityId": "pete-nance",
     "name": "Pete Nance",
     "type": "player",
-    "gamesPlayed": 51,
+    "gamesPlayed": 54,
     "nbaId": 1631250
   },
   {
@@ -27862,7 +27931,7 @@
     "entityId": "precious-achiuwa",
     "name": "Precious Achiuwa",
     "type": "player",
-    "gamesPlayed": 376,
+    "gamesPlayed": 380,
     "nbaId": 1630173
   },
   {
@@ -27911,7 +27980,7 @@
     "entityId": "quentin-grimes",
     "name": "Quentin Grimes",
     "type": "player",
-    "gamesPlayed": 300,
+    "gamesPlayed": 304,
     "nbaId": 1629656
   },
   {
@@ -27925,7 +27994,7 @@
     "entityId": "quenton-jackson",
     "name": "Quenton Jackson",
     "type": "player",
-    "gamesPlayed": 73,
+    "gamesPlayed": 75,
     "nbaId": 1631245
   },
   {
@@ -27995,7 +28064,7 @@
     "entityId": "quinten-post",
     "name": "Quinten Post",
     "type": "player",
-    "gamesPlayed": 103,
+    "gamesPlayed": 105,
     "nbaId": 1642366
   },
   {
@@ -28338,7 +28407,7 @@
     "entityId": "rasheer-fleming",
     "name": "Rasheer Fleming",
     "type": "player",
-    "gamesPlayed": 37,
+    "gamesPlayed": 41,
     "nbaId": 1642853
   },
   {
@@ -28527,14 +28596,14 @@
     "entityId": "rayan-rupert",
     "name": "Rayan Rupert",
     "type": "player",
-    "gamesPlayed": 145,
+    "gamesPlayed": 148,
     "nbaId": 1641712
   },
   {
     "entityId": "rayj-dennis",
     "name": "RayJ Dennis",
     "type": "player",
-    "gamesPlayed": 26,
+    "gamesPlayed": 27,
     "nbaId": 1642484
   },
   {
@@ -28604,7 +28673,7 @@
     "entityId": "reed-sheppard",
     "name": "Reed Sheppard",
     "type": "player",
-    "gamesPlayed": 114,
+    "gamesPlayed": 118,
     "nbaId": 1642263
   },
   {
@@ -29129,14 +29198,14 @@
     "entityId": "riley-minix",
     "name": "Riley Minix",
     "type": "player",
-    "gamesPlayed": 4,
+    "gamesPlayed": 6,
     "nbaId": 1642434
   },
   {
     "entityId": "rj-barrett",
     "name": "RJ Barrett",
     "type": "player",
-    "gamesPlayed": 425,
+    "gamesPlayed": 429,
     "nbaId": 1629628
   },
   {
@@ -29150,7 +29219,7 @@
     "entityId": "rob-dillingham",
     "name": "Rob Dillingham",
     "type": "player",
-    "gamesPlayed": 95,
+    "gamesPlayed": 99,
     "nbaId": 1642265
   },
   {
@@ -29332,7 +29401,7 @@
     "entityId": "robert-williams-iii",
     "name": "Robert Williams III",
     "type": "player",
-    "gamesPlayed": 279,
+    "gamesPlayed": 281,
     "nbaId": 1629057
   },
   {
@@ -29367,7 +29436,7 @@
     "entityId": "rocco-zikarsky",
     "name": "Rocco Zikarsky",
     "type": "player",
-    "gamesPlayed": 2,
+    "gamesPlayed": 3,
     "nbaId": 1642911
   },
   {
@@ -29724,7 +29793,7 @@
     "entityId": "ron-harper-jr",
     "name": "Ron Harper Jr.",
     "type": "player",
-    "gamesPlayed": 29,
+    "gamesPlayed": 32,
     "nbaId": 1631199
   },
   {
@@ -29843,7 +29912,7 @@
     "entityId": "ronald-holland-ii",
     "name": "Ronald Holland II",
     "type": "player",
-    "gamesPlayed": 139,
+    "gamesPlayed": 143,
     "nbaId": 1641842
   },
   {
@@ -30004,7 +30073,7 @@
     "entityId": "royce-o-neale",
     "name": "Royce O'Neale",
     "type": "player",
-    "gamesPlayed": 663,
+    "gamesPlayed": 667,
     "nbaId": 1626220
   },
   {
@@ -30081,7 +30150,7 @@
     "entityId": "rudy-gobert",
     "name": "Rudy Gobert",
     "type": "player",
-    "gamesPlayed": 890,
+    "gamesPlayed": 893,
     "nbaId": 203497
   },
   {
@@ -30123,7 +30192,7 @@
     "entityId": "rui-hachimura",
     "name": "Rui Hachimura",
     "type": "player",
-    "gamesPlayed": 388,
+    "gamesPlayed": 392,
     "nbaId": 1629060
   },
   {
@@ -30165,7 +30234,7 @@
     "entityId": "russell-westbrook",
     "name": "Russell Westbrook",
     "type": "player",
-    "gamesPlayed": 1296,
+    "gamesPlayed": 1299,
     "nbaId": 201566
   },
   {
@@ -30207,7 +30276,7 @@
     "entityId": "ryan-dunn",
     "name": "Ryan Dunn",
     "type": "player",
-    "gamesPlayed": 130,
+    "gamesPlayed": 133,
     "nbaId": 1642346
   },
   {
@@ -30235,7 +30304,7 @@
     "entityId": "ryan-kalkbrenner",
     "name": "Ryan Kalkbrenner",
     "type": "player",
-    "gamesPlayed": 52,
+    "gamesPlayed": 55,
     "nbaId": 1641750
   },
   {
@@ -30256,7 +30325,7 @@
     "entityId": "ryan-nembhard",
     "name": "Ryan Nembhard",
     "type": "player",
-    "gamesPlayed": 42,
+    "gamesPlayed": 46,
     "nbaId": 1642948
   },
   {
@@ -30277,7 +30346,7 @@
     "entityId": "ryan-rollins",
     "name": "Ryan Rollins",
     "type": "player",
-    "gamesPlayed": 141,
+    "gamesPlayed": 145,
     "nbaId": 1631157
   },
   {
@@ -30298,7 +30367,7 @@
     "entityId": "saddiq-bey",
     "name": "Saddiq Bey",
     "type": "player",
-    "gamesPlayed": 350,
+    "gamesPlayed": 353,
     "nbaId": 1630180
   },
   {
@@ -30340,7 +30409,7 @@
     "entityId": "sam-hauser",
     "name": "Sam Hauser",
     "type": "player",
-    "gamesPlayed": 316,
+    "gamesPlayed": 320,
     "nbaId": 1630573
   },
   {
@@ -30375,7 +30444,7 @@
     "entityId": "sam-merrill",
     "name": "Sam Merrill",
     "type": "player",
-    "gamesPlayed": 212,
+    "gamesPlayed": 215,
     "nbaId": 1630241
   },
   {
@@ -30487,7 +30556,7 @@
     "entityId": "sandro-mamukelashvili",
     "name": "Sandro Mamukelashvili",
     "type": "player",
-    "gamesPlayed": 251,
+    "gamesPlayed": 255,
     "nbaId": 1630572
   },
   {
@@ -30557,7 +30626,7 @@
     "entityId": "scoot-henderson",
     "name": "Scoot Henderson",
     "type": "player",
-    "gamesPlayed": 140,
+    "gamesPlayed": 143,
     "nbaId": 1630703
   },
   {
@@ -30690,7 +30759,7 @@
     "entityId": "scottie-barnes",
     "name": "Scottie Barnes",
     "type": "player",
-    "gamesPlayed": 336,
+    "gamesPlayed": 340,
     "nbaId": 1630567
   },
   {
@@ -30788,7 +30857,7 @@
     "entityId": "sean-pedulla",
     "name": "Sean Pedulla",
     "type": "player",
-    "gamesPlayed": 0,
+    "gamesPlayed": 1,
     "nbaId": 1642951
   },
   {
@@ -30876,6 +30945,12 @@
     "nbaId": 76128
   },
   {
+    "entityId": "sergei-belov",
+    "name": "Sergei Belov",
+    "type": "player",
+    "gamesPlayed": 0
+  },
+  {
     "entityId": "sergei-monia",
     "name": "Sergei Monia",
     "type": "player",
@@ -30890,6 +30965,12 @@
     "nbaId": 203508
   },
   {
+    "entityId": "sergio-llull",
+    "name": "Sergio Llull",
+    "type": "player",
+    "gamesPlayed": 0
+  },
+  {
     "entityId": "sergio-rodriguez",
     "name": "Sergio Rodriguez",
     "type": "player",
@@ -30900,7 +30981,7 @@
     "entityId": "seth-curry",
     "name": "Seth Curry",
     "type": "player",
-    "gamesPlayed": 552,
+    "gamesPlayed": 554,
     "nbaId": 203552
   },
   {
@@ -30935,7 +31016,7 @@
     "entityId": "shai-gilgeous-alexander",
     "name": "Shai Gilgeous-Alexander",
     "type": "player",
-    "gamesPlayed": 515,
+    "gamesPlayed": 517,
     "nbaId": 1628983
   },
   {
@@ -31040,7 +31121,7 @@
     "entityId": "sharife-cooper",
     "name": "Sharife Cooper",
     "type": "player",
-    "gamesPlayed": 34,
+    "gamesPlayed": 38,
     "nbaId": 1630536
   },
   {
@@ -31257,7 +31338,7 @@
     "entityId": "sidy-cissoko",
     "name": "Sidy Cissoko",
     "type": "player",
-    "gamesPlayed": 92,
+    "gamesPlayed": 94,
     "nbaId": 1631321
   },
   {
@@ -31271,7 +31352,7 @@
     "entityId": "simone-fontecchio",
     "name": "Simone Fontecchio",
     "type": "player",
-    "gamesPlayed": 251,
+    "gamesPlayed": 253,
     "nbaId": 1631323
   },
   {
@@ -31285,7 +31366,7 @@
     "entityId": "sion-james",
     "name": "Sion James",
     "type": "player",
-    "gamesPlayed": 64,
+    "gamesPlayed": 68,
     "nbaId": 1642883
   },
   {
@@ -31439,7 +31520,7 @@
     "entityId": "spencer-jones",
     "name": "Spencer Jones",
     "type": "player",
-    "gamesPlayed": 72,
+    "gamesPlayed": 76,
     "nbaId": 1642461
   },
   {
@@ -31656,7 +31737,7 @@
     "entityId": "stephon-castle",
     "name": "Stephon Castle",
     "type": "player",
-    "gamesPlayed": 134,
+    "gamesPlayed": 138,
     "nbaId": 1642264
   },
   {
@@ -32020,7 +32101,7 @@
     "entityId": "t-j-mcconnell",
     "name": "T.J. McConnell",
     "type": "player",
-    "gamesPlayed": 752,
+    "gamesPlayed": 754,
     "nbaId": 204456
   },
   {
@@ -32048,7 +32129,7 @@
     "entityId": "taelon-peter",
     "name": "Taelon Peter",
     "type": "player",
-    "gamesPlayed": 27,
+    "gamesPlayed": 29,
     "nbaId": 1643007
   },
   {
@@ -32062,7 +32143,7 @@
     "entityId": "taj-gibson",
     "name": "Taj Gibson",
     "type": "player",
-    "gamesPlayed": 1002,
+    "gamesPlayed": 1003,
     "nbaId": 201959
   },
   {
@@ -32111,7 +32192,7 @@
     "entityId": "tari-eason",
     "name": "Tari Eason",
     "type": "player",
-    "gamesPlayed": 201,
+    "gamesPlayed": 205,
     "nbaId": 1631106
   },
   {
@@ -32167,7 +32248,7 @@
     "entityId": "taurean-prince",
     "name": "Taurean Prince",
     "type": "player",
-    "gamesPlayed": 590,
+    "gamesPlayed": 593,
     "nbaId": 1627752
   },
   {
@@ -32181,7 +32262,7 @@
     "entityId": "taylor-hendricks",
     "name": "Taylor Hendricks",
     "type": "player",
-    "gamesPlayed": 88,
+    "gamesPlayed": 91,
     "nbaId": 1641707
   },
   {
@@ -32230,7 +32311,7 @@
     "entityId": "terance-mann",
     "name": "Terance Mann",
     "type": "player",
-    "gamesPlayed": 467,
+    "gamesPlayed": 469,
     "nbaId": 1629611
   },
   {
@@ -32314,7 +32395,7 @@
     "entityId": "terrence-shannon-jr",
     "name": "Terrence Shannon Jr.",
     "type": "player",
-    "gamesPlayed": 59,
+    "gamesPlayed": 61,
     "nbaId": 1630545
   },
   {
@@ -32475,7 +32556,7 @@
     "entityId": "thanasis-antetokounmpo",
     "name": "Thanasis Antetokounmpo",
     "type": "player",
-    "gamesPlayed": 222,
+    "gamesPlayed": 224,
     "nbaId": 203648
   },
   {
@@ -32491,6 +32572,12 @@
     "type": "player",
     "gamesPlayed": 177,
     "nbaId": 1630177
+  },
+  {
+    "entityId": "theo-papaloukas",
+    "name": "Theo Papaloukas",
+    "type": "player",
+    "gamesPlayed": 0
   },
   {
     "entityId": "theo-pinson",
@@ -32524,7 +32611,7 @@
     "entityId": "thomas-bryant",
     "name": "Thomas Bryant",
     "type": "player",
-    "gamesPlayed": 378,
+    "gamesPlayed": 382,
     "nbaId": 1628418
   },
   {
@@ -32671,7 +32758,7 @@
     "entityId": "tim-hardaway-jr",
     "name": "Tim Hardaway Jr.",
     "type": "player",
-    "gamesPlayed": 876,
+    "gamesPlayed": 880,
     "nbaId": 203501
   },
   {
@@ -32776,7 +32863,7 @@
     "entityId": "tobias-harris",
     "name": "Tobias Harris",
     "type": "player",
-    "gamesPlayed": 1016,
+    "gamesPlayed": 1019,
     "nbaId": 202699
   },
   {
@@ -33455,7 +33542,7 @@
     "entityId": "toumani-camara",
     "name": "Toumani Camara",
     "type": "player",
-    "gamesPlayed": 212,
+    "gamesPlayed": 215,
     "nbaId": 1641739
   },
   {
@@ -33497,7 +33584,7 @@
     "entityId": "trae-young",
     "name": "Trae Young",
     "type": "player",
-    "gamesPlayed": 494,
+    "gamesPlayed": 497,
     "nbaId": 1629027
   },
   {
@@ -33581,7 +33668,7 @@
     "entityId": "trayce-jackson-davis",
     "name": "Trayce Jackson-Davis",
     "type": "player",
-    "gamesPlayed": 173,
+    "gamesPlayed": 174,
     "nbaId": 1631218
   },
   {
@@ -33595,21 +33682,21 @@
     "entityId": "tre-johnson",
     "name": "Tre Johnson",
     "type": "player",
-    "gamesPlayed": 49,
+    "gamesPlayed": 53,
     "nbaId": 1642848
   },
   {
     "entityId": "tre-jones",
     "name": "Tre Jones",
     "type": "player",
-    "gamesPlayed": 343,
+    "gamesPlayed": 347,
     "nbaId": 1630200
   },
   {
     "entityId": "tre-mann",
     "name": "Tre Mann",
     "type": "player",
-    "gamesPlayed": 223,
+    "gamesPlayed": 224,
     "nbaId": 1630544
   },
   {
@@ -33637,7 +33724,7 @@
     "entityId": "trendon-watford",
     "name": "Trendon Watford",
     "type": "player",
-    "gamesPlayed": 257,
+    "gamesPlayed": 261,
     "nbaId": 1630570
   },
   {
@@ -33728,7 +33815,7 @@
     "entityId": "trevor-keels",
     "name": "Trevor Keels",
     "type": "player",
-    "gamesPlayed": 5,
+    "gamesPlayed": 7,
     "nbaId": 1631211
   },
   {
@@ -33805,7 +33892,7 @@
     "entityId": "trey-murphy-iii",
     "name": "Trey Murphy III",
     "type": "player",
-    "gamesPlayed": 307,
+    "gamesPlayed": 310,
     "nbaId": 1630530
   },
   {
@@ -33819,14 +33906,14 @@
     "entityId": "tristan-da-silva",
     "name": "Tristan da Silva",
     "type": "player",
-    "gamesPlayed": 131,
+    "gamesPlayed": 135,
     "nbaId": 1641783
   },
   {
     "entityId": "tristan-enaruna",
     "name": "Tristan Enaruna",
     "type": "player",
-    "gamesPlayed": 4,
+    "gamesPlayed": 6,
     "nbaId": 1642400
   },
   {
@@ -33840,7 +33927,7 @@
     "entityId": "tristan-vukcevic",
     "name": "Tristan Vukcevic",
     "type": "player",
-    "gamesPlayed": 83,
+    "gamesPlayed": 86,
     "nbaId": 1641774
   },
   {
@@ -33910,7 +33997,7 @@
     "entityId": "ty-jerome",
     "name": "Ty Jerome",
     "type": "player",
-    "gamesPlayed": 239,
+    "gamesPlayed": 241,
     "nbaId": 1629660
   },
   {
@@ -33933,6 +34020,13 @@
     "type": "player",
     "gamesPlayed": 18,
     "nbaId": 1630189
+  },
+  {
+    "entityId": "tyler-burton",
+    "name": "Tyler Burton",
+    "type": "player",
+    "gamesPlayed": 2,
+    "nbaId": 1631174
   },
   {
     "entityId": "tyler-cavanaugh",
@@ -33987,7 +34081,7 @@
     "entityId": "tyler-herro",
     "name": "Tyler Herro",
     "type": "player",
-    "gamesPlayed": 380,
+    "gamesPlayed": 382,
     "nbaId": 1629639
   },
   {
@@ -34008,7 +34102,7 @@
     "entityId": "tyler-kolek",
     "name": "Tyler Kolek",
     "type": "player",
-    "gamesPlayed": 94,
+    "gamesPlayed": 96,
     "nbaId": 1642278
   },
   {
@@ -34022,7 +34116,7 @@
     "entityId": "tyler-smith",
     "name": "Tyler Smith",
     "type": "player",
-    "gamesPlayed": 23,
+    "gamesPlayed": 24,
     "nbaId": 1641890
   },
   {
@@ -34064,7 +34158,7 @@
     "entityId": "tyrese-martin",
     "name": "Tyrese Martin",
     "type": "player",
-    "gamesPlayed": 117,
+    "gamesPlayed": 119,
     "nbaId": 1631213
   },
   {
@@ -34148,7 +34242,7 @@
     "entityId": "tyson-etienne",
     "name": "Tyson Etienne",
     "type": "player",
-    "gamesPlayed": 15,
+    "gamesPlayed": 19,
     "nbaId": 1630623
   },
   {
@@ -34162,7 +34256,7 @@
     "entityId": "tyty-washington-jr",
     "name": "TyTy Washington Jr.",
     "type": "player",
-    "gamesPlayed": 66,
+    "gamesPlayed": 67,
     "nbaId": 1631102
   },
   {
@@ -34176,7 +34270,7 @@
     "entityId": "tyus-jones",
     "name": "Tyus Jones",
     "type": "player",
-    "gamesPlayed": 740,
+    "gamesPlayed": 742,
     "nbaId": 1626145
   },
   {
@@ -34344,7 +34438,7 @@
     "entityId": "victor-wembanyama",
     "name": "Victor Wembanyama",
     "type": "player",
-    "gamesPlayed": 166,
+    "gamesPlayed": 169,
     "nbaId": 1641705
   },
   {
@@ -34456,7 +34550,7 @@
     "entityId": "vit-krejci",
     "name": "Vít Krejčí",
     "type": "player",
-    "gamesPlayed": 198,
+    "gamesPlayed": 201,
     "nbaId": 1630249
   },
   {
@@ -34477,7 +34571,7 @@
     "entityId": "vj-edgecombe",
     "name": "VJ Edgecombe",
     "type": "player",
-    "gamesPlayed": 57,
+    "gamesPlayed": 60,
     "nbaId": 1642845
   },
   {
@@ -34505,7 +34599,7 @@
     "entityId": "vladislav-goldin",
     "name": "Vladislav Goldin",
     "type": "player",
-    "gamesPlayed": 2,
+    "gamesPlayed": 4,
     "nbaId": 1642884
   },
   {
@@ -34736,7 +34830,7 @@
     "entityId": "walter-clayton-jr",
     "name": "Walter Clayton Jr.",
     "type": "player",
-    "gamesPlayed": 55,
+    "gamesPlayed": 56,
     "nbaId": 1642383
   },
   {
@@ -34822,6 +34916,12 @@
     "type": "player",
     "gamesPlayed": 0,
     "nbaId": 77111
+  },
+  {
+    "entityId": "warren-jabali",
+    "name": "Warren Jabali",
+    "type": "player",
+    "gamesPlayed": 0
   },
   {
     "entityId": "warren-kidd",
@@ -34974,7 +35074,7 @@
     "entityId": "wendell-carter-jr",
     "name": "Wendell Carter Jr.",
     "type": "player",
-    "gamesPlayed": 442,
+    "gamesPlayed": 446,
     "nbaId": 1628976
   },
   {
@@ -35149,14 +35249,14 @@
     "entityId": "will-richard",
     "name": "Will Richard",
     "type": "player",
-    "gamesPlayed": 54,
+    "gamesPlayed": 56,
     "nbaId": 1642954
   },
   {
     "entityId": "will-riley",
     "name": "Will Riley",
     "type": "player",
-    "gamesPlayed": 54,
+    "gamesPlayed": 58,
     "nbaId": 1642860
   },
   {
@@ -35506,7 +35606,7 @@
     "entityId": "xavier-tillman",
     "name": "Xavier Tillman",
     "type": "player",
-    "gamesPlayed": 281,
+    "gamesPlayed": 282,
     "nbaId": 1630214
   },
   {
@@ -35520,7 +35620,7 @@
     "entityId": "yang-hansen",
     "name": "Yang Hansen",
     "type": "player",
-    "gamesPlayed": 37,
+    "gamesPlayed": 39,
     "nbaId": 1642905
   },
   {
@@ -35583,7 +35683,7 @@
     "entityId": "yuki-kawamura",
     "name": "Yuki Kawamura",
     "type": "player",
-    "gamesPlayed": 28,
+    "gamesPlayed": 31,
     "nbaId": 1642530
   },
   {
@@ -35611,7 +35711,7 @@
     "entityId": "yves-missi",
     "name": "Yves Missi",
     "type": "player",
-    "gamesPlayed": 125,
+    "gamesPlayed": 128,
     "nbaId": 1642274
   },
   {
@@ -35639,7 +35739,7 @@
     "entityId": "zaccharie-risacher",
     "name": "Zaccharie Risacher",
     "type": "player",
-    "gamesPlayed": 125,
+    "gamesPlayed": 128,
     "nbaId": 1642258
   },
   {
@@ -35730,7 +35830,7 @@
     "entityId": "zeke-nnaji",
     "name": "Zeke Nnaji",
     "type": "player",
-    "gamesPlayed": 296,
+    "gamesPlayed": 297,
     "nbaId": 1630192
   },
   {
@@ -35779,7 +35879,7 @@
     "entityId": "ziaire-williams",
     "name": "Ziaire Williams",
     "type": "player",
-    "gamesPlayed": 258,
+    "gamesPlayed": 260,
     "nbaId": 1630533
   },
   {
@@ -35793,7 +35893,7 @@
     "entityId": "zion-williamson",
     "name": "Zion Williamson",
     "type": "player",
-    "gamesPlayed": 262,
+    "gamesPlayed": 265,
     "nbaId": 1629627
   },
   {
@@ -35830,77 +35930,5 @@
     "type": "player",
     "gamesPlayed": 3,
     "nbaId": 1642389
-  },
-  {
-    "entityId": "oscar-schmidt",
-    "name": "Oscar Schmidt",
-    "type": "player",
-    "gamesPlayed": 0
-  },
-  {
-    "entityId": "nikos-galis",
-    "name": "Nikos Galis",
-    "type": "player",
-    "gamesPlayed": 0
-  },
-  {
-    "entityId": "dejan-bodiroga",
-    "name": "Dejan Bodiroga",
-    "type": "player",
-    "gamesPlayed": 0
-  },
-  {
-    "entityId": "sergei-belov",
-    "name": "Sergei Belov",
-    "type": "player",
-    "gamesPlayed": 0
-  },
-  {
-    "entityId": "sergio-llull",
-    "name": "Sergio Llull",
-    "type": "player",
-    "gamesPlayed": 0
-  },
-  {
-    "entityId": "theo-papaloukas",
-    "name": "Theo Papaloukas",
-    "type": "player",
-    "gamesPlayed": 0
-  },
-  {
-    "entityId": "earl-manigault",
-    "name": "Earl Manigault",
-    "type": "player",
-    "gamesPlayed": 0
-  },
-  {
-    "entityId": "joe-hammond",
-    "name": "Joe Hammond",
-    "type": "player",
-    "gamesPlayed": 0
-  },
-  {
-    "entityId": "kresimir-cosic",
-    "name": "Kresimir Cosic",
-    "type": "player",
-    "gamesPlayed": 0
-  },
-  {
-    "entityId": "herve-dubuisson",
-    "name": "Hervé Dubuisson",
-    "type": "player",
-    "gamesPlayed": 0
-  },
-  {
-    "entityId": "warren-jabali",
-    "name": "Warren Jabali",
-    "type": "player",
-    "gamesPlayed": 0
-  },
-  {
-    "entityId": "hank-gathers",
-    "name": "Hank Gathers",
-    "type": "player",
-    "gamesPlayed": 0
   }
 ]
