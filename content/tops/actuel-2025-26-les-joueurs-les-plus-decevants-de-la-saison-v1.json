@@ -1,0 +1,229 @@
+{
+  "slug": "actuel-2025-26-les-joueurs-les-plus-decevants-de-la-saison",
+  "title": "NBA Top 10 actuel (2025-26) : les joueurs les plus décevants de la saison !",
+  "subject": "actuel (2025-26) : les joueurs les + décevants de la saison",
+  "format": 10,
+  "temporalType": "dated",
+  "season": "2025-26",
+  "version": 1,
+  "publishedAt": "2026-03-30",
+  "videoId": "4uJI6XcpR3A",
+  "tags": [
+    "deceptions",
+    "saison"
+  ],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "left",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Myles Turner",
+          "entities": [
+            {
+              "entityId": "myles-turner",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Ja Morant",
+          "entities": [
+            {
+              "entityId": "ja-morant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Bam Adebayo",
+          "entities": [
+            {
+              "entityId": "bam-adebayo",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Jordan Poole",
+          "entities": [
+            {
+              "entityId": "jordan-poole",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "DeAndre Hunter",
+          "entities": [
+            {
+              "entityId": "de-andre-hunter",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Keegan Murray",
+          "entities": [
+            {
+              "entityId": "keegan-murray",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Buddy Hield",
+          "entities": [
+            {
+              "entityId": "buddy-hield",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Brook Lopez",
+          "entities": [
+            {
+              "entityId": "brook-lopez",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "Zaccharie Risacher",
+          "entities": [
+            {
+              "entityId": "zaccharie-risacher",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Mike Conley",
+          "entities": [
+            {
+              "entityId": "mike-conley",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "right",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Evan Mobley",
+          "entities": [
+            {
+              "entityId": "evan-mobley",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "Paolo Banchero",
+          "entities": [
+            {
+              "entityId": "paolo-banchero",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "Deandre Ayton",
+          "entities": [
+            {
+              "entityId": "deandre-ayton",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "Zion Williamson",
+          "entities": [
+            {
+              "entityId": "zion-williamson",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "name": "Myles Turner",
+          "entities": [
+            {
+              "entityId": "myles-turner",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "name": "Draymond Green",
+          "entities": [
+            {
+              "entityId": "draymond-green",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "name": "Ja Morant",
+          "entities": [
+            {
+              "entityId": "ja-morant",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "name": "Brandin Podziemski",
+          "entities": [
+            {
+              "entityId": "brandin-podziemski",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "name": "De'Andre Hunter",
+          "entities": [
+            {
+              "entityId": "de-andre-hunter",
+              "entityType": "player"
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "name": "Zach LaVine",
+          "entities": [
+            {
+              "entityId": "zach-lavine",
+              "entityType": "player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
