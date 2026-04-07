@@ -1,0 +1,46 @@
+{
+  "slug": "goats-offensifs-all-time",
+  "title": "Top 10 all-time : les GOATs offensifs de la NBA",
+  "subject": "GOATs offensifs",
+  "format": 10,
+  "temporalType": "all-time",
+  "season": null,
+  "version": 1,
+  "publishedAt": "2026-04-06",
+  "videoId": "a5PDvc9esS0",
+  "tags": ["scoring", "all-time"],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "left",
+      "entries": [
+        { "rank": 1, "name": "Michael Jordan", "entities": [{ "entityId": "michael-jordan", "entityType": "player", "nbaId": 893 }] },
+        { "rank": 2, "name": "LeBron James", "entities": [{ "entityId": "lebron-james", "entityType": "player", "nbaId": 2544 }] },
+        { "rank": 3, "name": "Nikola Jokic", "entities": [{ "entityId": "nikola-jokic", "entityType": "player", "nbaId": 203999 }] },
+        { "rank": 4, "name": "Stephen Curry", "entities": [{ "entityId": "stephen-curry", "entityType": "player", "nbaId": 201939 }] },
+        { "rank": 5, "name": "Kevin Durant", "entities": [{ "entityId": "kevin-durant", "entityType": "player", "nbaId": 201142 }] },
+        { "rank": 6, "name": "Kobe Bryant", "entities": [{ "entityId": "kobe-bryant", "entityType": "player", "nbaId": 977 }] },
+        { "rank": 7, "name": "Larry Bird", "entities": [{ "entityId": "larry-bird", "entityType": "player", "nbaId": 1449 }] },
+        { "rank": 8, "name": "James Harden", "entities": [{ "entityId": "james-harden", "entityType": "player", "nbaId": 201935 }] },
+        { "rank": 9, "name": "Magic Johnson", "entities": [{ "entityId": "magic-johnson", "entityType": "player", "nbaId": 77142 }] },
+        { "rank": 10, "name": "Luka Doncic", "entities": [{ "entityId": "luka-doncic", "entityType": "player", "nbaId": 1629029 }] }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "right",
+      "entries": [
+        { "rank": 1, "name": "LeBron James", "entities": [{ "entityId": "lebron-james", "entityType": "player", "nbaId": 2544 }] },
+        { "rank": 2, "name": "Michael Jordan", "entities": [{ "entityId": "michael-jordan", "entityType": "player", "nbaId": 893 }] },
+        { "rank": 3, "name": "Nikola Jokic", "entities": [{ "entityId": "nikola-jokic", "entityType": "player", "nbaId": 203999 }] },
+        { "rank": 4, "name": "Stephen Curry", "entities": [{ "entityId": "stephen-curry", "entityType": "player", "nbaId": 201939 }] },
+        { "rank": 5, "name": "Kevin Durant", "entities": [{ "entityId": "kevin-durant", "entityType": "player", "nbaId": 201142 }] },
+        { "rank": 6, "name": "Shai Gilgeous-Alexander", "entities": [{ "entityId": "shai-gilgeous-alexander", "entityType": "player", "nbaId": 1628983 }] },
+        { "rank": 7, "name": "Luka Doncic", "entities": [{ "entityId": "luka-doncic", "entityType": "player", "nbaId": 1629029 }] },
+        { "rank": 8, "name": "Magic Johnson", "entities": [{ "entityId": "magic-johnson", "entityType": "player", "nbaId": 77142 }] },
+        { "rank": 9, "name": "James Harden", "entities": [{ "entityId": "james-harden", "entityType": "player", "nbaId": 201935 }] },
+        { "rank": 10, "name": "Larry Bird", "entities": [{ "entityId": "larry-bird", "entityType": "player", "nbaId": 1449 }] }
+      ]
+    }
+  ]
+}
