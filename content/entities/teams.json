@@ -4,7 +4,7 @@
     "name": "Atlanta Hawks",
     "type": "team",
     "nbaId": 1610612737,
-    "years": "1968-2023",
+    "years": "1968-present",
     "linkedTo": "st-louis-hawks"
   },
   {
@@ -20,14 +20,14 @@
     "name": "Boston Celtics",
     "type": "team",
     "nbaId": 1610612738,
-    "years": "1946-2023"
+    "years": "1946-present"
   },
   {
     "entityId": "brooklyn-nets",
     "name": "Brooklyn Nets",
     "type": "team",
     "nbaId": 1610612751,
-    "years": "2012-2023",
+    "years": "2012-present",
     "linkedTo": "new-jersey-nets"
   },
   {
@@ -59,23 +59,15 @@
     "name": "Charlotte Hornets",
     "type": "team",
     "nbaId": 1610612766,
-    "years": "2014-2023",
+    "years": "1988-2001, 2014-present",
     "linkedTo": "charlotte-bobcats"
-  },
-  {
-    "entityId": "charlotte-hornets",
-    "name": "Charlotte Hornets",
-    "type": "team",
-    "nbaId": 1610612766,
-    "years": "1988-2001",
-    "linkedTo": "charlotte-hornets"
   },
   {
     "entityId": "chicago-bulls",
     "name": "Chicago Bulls",
     "type": "team",
     "nbaId": 1610612741,
-    "years": "1966-2023"
+    "years": "1966-present"
   },
   {
     "entityId": "chicago-packers",
@@ -106,28 +98,28 @@
     "name": "Cleveland Cavaliers",
     "type": "team",
     "nbaId": 1610612739,
-    "years": "1970-2023"
+    "years": "1970-present"
   },
   {
     "entityId": "dallas-mavericks",
     "name": "Dallas Mavericks",
     "type": "team",
     "nbaId": 1610612742,
-    "years": "1980-2023"
+    "years": "1980-present"
   },
   {
     "entityId": "denver-nuggets",
     "name": "Denver Nuggets",
     "type": "team",
     "nbaId": 1610612743,
-    "years": "1976-2023"
+    "years": "1976-present"
   },
   {
     "entityId": "detroit-pistons",
     "name": "Detroit Pistons",
     "type": "team",
     "nbaId": 1610612765,
-    "years": "1957-2023",
+    "years": "1957-present",
     "linkedTo": "ft-wayne-zollner-pistons"
   },
   {
@@ -143,7 +135,7 @@
     "name": "Golden State Warriors",
     "type": "team",
     "nbaId": 1610612744,
-    "years": "1971-2023",
+    "years": "1971-present",
     "linkedTo": "san-francisco-warriors"
   },
   {
@@ -151,7 +143,7 @@
     "name": "Houston Rockets",
     "type": "team",
     "nbaId": 1610612745,
-    "years": "1971-2023",
+    "years": "1971-present",
     "linkedTo": "san-diego-rockets"
   },
   {
@@ -159,7 +151,7 @@
     "name": "Indiana Pacers",
     "type": "team",
     "nbaId": 1610612754,
-    "years": "1976-2023"
+    "years": "1976-present"
   },
   {
     "entityId": "kansas-city-kings",
@@ -182,7 +174,7 @@
     "name": "Los Angeles Clippers",
     "type": "team",
     "nbaId": 1610612746,
-    "years": "1984-2023",
+    "years": "1984-present",
     "linkedTo": "san-diego-clippers"
   },
   {
@@ -190,7 +182,7 @@
     "name": "Los Angeles Lakers",
     "type": "team",
     "nbaId": 1610612747,
-    "years": "1960-2023",
+    "years": "1960-present",
     "linkedTo": "minneapolis-lakers"
   },
   {
@@ -198,7 +190,7 @@
     "name": "Memphis Grizzlies",
     "type": "team",
     "nbaId": 1610612763,
-    "years": "2001-2023",
+    "years": "2001-present",
     "linkedTo": "vancouver-grizzlies"
   },
   {
@@ -206,14 +198,14 @@
     "name": "Miami Heat",
     "type": "team",
     "nbaId": 1610612748,
-    "years": "1988-2023"
+    "years": "1988-present"
   },
   {
     "entityId": "milwaukee-bucks",
     "name": "Milwaukee Bucks",
     "type": "team",
     "nbaId": 1610612749,
-    "years": "1968-2023"
+    "years": "1968-present"
   },
   {
     "entityId": "milwaukee-hawks",
@@ -236,7 +228,7 @@
     "name": "Minnesota Timberwolves",
     "type": "team",
     "nbaId": 1610612750,
-    "years": "1989-2023"
+    "years": "1989-present"
   },
   {
     "entityId": "new-jersey-nets",
@@ -251,15 +243,7 @@
     "name": "New Orleans Hornets",
     "type": "team",
     "nbaId": 1610612740,
-    "years": "2007-2012",
-    "linkedTo": "new-orleans-pelicans"
-  },
-  {
-    "entityId": "new-orleans-hornets",
-    "name": "New Orleans Hornets",
-    "type": "team",
-    "nbaId": 1610612740,
-    "years": "2002-2004",
+    "years": "2002-2004, 2007-2012",
     "linkedTo": "new-orleans-pelicans"
   },
   {
@@ -283,7 +267,7 @@
     "name": "New Orleans Pelicans",
     "type": "team",
     "nbaId": 1610612740,
-    "years": "2013-2023",
+    "years": "2013-present",
     "linkedTo": "new-orleans-hornets"
   },
   {
@@ -291,7 +275,7 @@
     "name": "New York Knicks",
     "type": "team",
     "nbaId": 1610612752,
-    "years": "1946-2023"
+    "years": "1946-present"
   },
   {
     "entityId": "new-york-nets",
@@ -306,7 +290,7 @@
     "name": "Oklahoma City Thunder",
     "type": "team",
     "nbaId": 1610612760,
-    "years": "2008-2023",
+    "years": "2008-present",
     "linkedTo": "seattle-supersonics"
   },
   {
@@ -314,14 +298,14 @@
     "name": "Orlando Magic",
     "type": "team",
     "nbaId": 1610612753,
-    "years": "1989-2023"
+    "years": "1989-present"
   },
   {
     "entityId": "philadelphia-76ers",
     "name": "Philadelphia 76ers",
     "type": "team",
     "nbaId": 1610612755,
-    "years": "1963-2023",
+    "years": "1963-present",
     "linkedTo": "syracuse-nationals"
   },
   {
@@ -337,14 +321,14 @@
     "name": "Phoenix Suns",
     "type": "team",
     "nbaId": 1610612756,
-    "years": "1968-2023"
+    "years": "1968-present"
   },
   {
     "entityId": "portland-trail-blazers",
     "name": "Portland Trail Blazers",
     "type": "team",
     "nbaId": 1610612757,
-    "years": "1970-2023"
+    "years": "1970-present"
   },
   {
     "entityId": "rochester-royals",
@@ -359,7 +343,7 @@
     "name": "Sacramento Kings",
     "type": "team",
     "nbaId": 1610612758,
-    "years": "1985-2023",
+    "years": "1985-present",
     "linkedTo": "kansas-city-kings"
   },
   {
@@ -367,7 +351,7 @@
     "name": "San Antonio Spurs",
     "type": "team",
     "nbaId": 1610612759,
-    "years": "1976-2023"
+    "years": "1976-present"
   },
   {
     "entityId": "san-diego-clippers",
@@ -422,7 +406,7 @@
     "name": "Toronto Raptors",
     "type": "team",
     "nbaId": 1610612761,
-    "years": "1995-2023"
+    "years": "1995-present"
   },
   {
     "entityId": "tri-cities-blackhawks",
@@ -437,7 +421,7 @@
     "name": "Utah Jazz",
     "type": "team",
     "nbaId": 1610612762,
-    "years": "1979-2023",
+    "years": "1979-present",
     "linkedTo": "new-orleans-jazz"
   },
   {
@@ -461,7 +445,7 @@
     "name": "Washington Wizards",
     "type": "team",
     "nbaId": 1610612764,
-    "years": "1997-2023",
+    "years": "1997-present",
     "linkedTo": "washington-bullets"
   }
 ]

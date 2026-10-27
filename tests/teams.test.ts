@@ -75,12 +75,39 @@ describe('buildFranchiseTeams', () => {
     expect(result[0].years).toBe('1946-present')
   })
 
-  it('uses yearActiveTill as end year when non-zero', () => {
-    const result = buildFranchiseTeams(NBA_ID, [
+  it('uses yearActiveTill as end year for past eras', () => {
+    const result = buildFranchiseTeams(1610612760, [
+      { city: 'Oklahoma City', nickname: 'Thunder', yearFounded: 2008, yearActiveTill: 0 },
       { city: 'Seattle', nickname: 'SuperSonics', yearFounded: 1967, yearActiveTill: 2008 },
     ])
 
-    expect(result[0].years).toBe('1967-2008')
+    expect(result[1].years).toBe('1967-2008')
+  })
+
+  it('treats the most recent era as "present" even when yearActiveTill is not 0', () => {
+    // The API sometimes returns a stale year (e.g. 2023) for the current era
+    const result = buildFranchiseTeams(NBA_ID, [
+      { city: 'Boston', nickname: 'Celtics', yearFounded: 1946, yearActiveTill: 2023 },
+    ])
+
+    expect(result[0].years).toBe('1946-present')
+  })
+
+  it('merges eras sharing the same name into one team', () => {
+    // Charlotte franchise: Hornets, then Bobcats, then Hornets again
+    const result = buildFranchiseTeams(1610612766, [
+      { city: 'Charlotte', nickname: 'Hornets', yearFounded: 2014, yearActiveTill: 2023 },
+      { city: 'Charlotte', nickname: 'Bobcats', yearFounded: 2004, yearActiveTill: 2013 },
+      { city: 'Charlotte', nickname: 'Hornets', yearFounded: 1988, yearActiveTill: 2001 },
+    ])
+
+    // One entity per name: no duplicate entityId
+    expect(result.map(t => t.entityId)).toEqual(['charlotte-hornets', 'charlotte-bobcats'])
+    // Year ranges are listed chronologically
+    expect(result[0].years).toBe('1988-2001, 2014-present')
+    // Links point to the other name, never to itself
+    expect(result[0].linkedTo).toBe('charlotte-bobcats')
+    expect(result[1].linkedTo).toBe('charlotte-hornets')
   })
 })
 

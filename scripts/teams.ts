@@ -26,16 +26,31 @@ export interface TeamHistoryRow {
  * Replicates the linkedTo logic from nba-fetcher:
  * - Each era links to the first OTHER era in the list
  * - Single-era franchises have no linkedTo
+ * Eras sharing the same name are merged into one team with several year
+ * ranges (e.g. Charlotte Hornets: "1988-2001, 2014-present").
  */
 export function buildFranchiseTeams(nbaId: number, rows: TeamHistoryRow[]): Team[] {
   if (rows.length === 0)
     return []
 
-  const eras = rows.map((row) => {
+  // The API's YEARACTIVETILL is not always 0 for the current era (e.g. 2023):
+  // all fetched franchises are active, so the most recent era is the current one
+  const currentYearFounded = Math.max(...rows.map(r => r.yearFounded))
+
+  // Group eras by name, keeping the API order of first appearance
+  const rowsByName = new Map<string, TeamHistoryRow[]>()
+  for (const row of rows) {
     const name = `${row.city} ${row.nickname}`
-    const years = row.yearActiveTill === 0
-      ? `${row.yearFounded}-present`
-      : `${row.yearFounded}-${row.yearActiveTill}`
+    rowsByName.set(name, [...(rowsByName.get(name) ?? []), row])
+  }
+
+  const eras = [...rowsByName].map(([name, nameRows]) => {
+    const years = [...nameRows]
+      .sort((a, b) => a.yearFounded - b.yearFounded)
+      .map(row => row.yearActiveTill === 0 || row.yearFounded === currentYearFounded
+        ? `${row.yearFounded}-present`
+        : `${row.yearFounded}-${row.yearActiveTill}`)
+      .join(', ')
 
     return { entityId: slugify(name), name, nbaId, years }
   })
