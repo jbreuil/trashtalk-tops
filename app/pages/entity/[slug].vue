@@ -128,11 +128,16 @@ const sortedAppearances = computed(() => {
   return items
 })
 
-// NBA stats link (only for entities with nbaId)
+// NBA stats link (only for players and teams, which have an nbaId)
 const nbaStatsUrl = computed(() => {
-  if (!entity.nbaId || entity.type === 'coach' || entity.type === 'gm')
+  if (!entity.nbaId)
     return null
-  return `https://www.nba.com/stats/player/${entity.nbaId}`
+  if (entity.type === 'player')
+    return `https://www.nba.com/stats/player/${entity.nbaId}`
+  // Former eras (e.g. Seattle SuperSonics) share the franchise id: link to the franchise page
+  if (entity.type === 'team')
+    return `https://www.nba.com/stats/team/${entity.nbaId}`
+  return null
 })
 
 useHead({
