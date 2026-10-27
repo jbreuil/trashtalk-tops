@@ -109,10 +109,7 @@ async function main(): Promise<void> {
 
   allTeams.sort((a, b) => a.entityId.localeCompare(b.entityId))
 
-  writeFileSync(outputPath, `${JSON.stringify(allTeams, null, 2)}\n`, 'utf-8')
-  console.log(`\nExported ${allTeams.length} teams to ${outputPath}`)
-
-  // Sanity check against existing file
+  // Sanity check against the existing file (read before overwriting it)
   try {
     const existing = JSON.parse(readFileSync(outputPath, 'utf-8')) as Team[]
     const oldIds = new Set(existing.map(t => t.entityId))
@@ -120,13 +117,16 @@ async function main(): Promise<void> {
     const removed = [...oldIds].filter(id => !newIds.has(id))
     const added = [...newIds].filter(id => !oldIds.has(id))
     if (removed.length > 0)
-      console.warn(`Warning: ${removed.length} teams removed: ${removed.join(', ')}`)
+      console.warn(`\nWarning: ${removed.length} teams removed: ${removed.join(', ')}`)
     if (added.length > 0)
-      console.log(`New teams: ${added.join(', ')}`)
+      console.log(`\nNew teams: ${added.join(', ')}`)
   }
   catch {
     // No existing file to compare
   }
+
+  writeFileSync(outputPath, `${JSON.stringify(allTeams, null, 2)}\n`, 'utf-8')
+  console.log(`\nExported ${allTeams.length} teams to ${outputPath}`)
 }
 
 main().catch((err) => {
