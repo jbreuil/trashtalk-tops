@@ -1,0 +1,46 @@
+{
+  "slug": "actuel-2026-27-les-joueurs-qui-ont-le-plus-la-pression",
+  "title": "Top 10 actuel (2026-27) : les joueurs qui ont le plus la pression !",
+  "subject": "joueurs qui ont le plus la pression",
+  "format": 10,
+  "temporalType": "dated",
+  "season": "2026-27",
+  "version": 1,
+  "publishedAt": "2026-10-26",
+  "videoId": "L-vzrdE4zp8",
+  "tags": ["pression", "saison"],
+  "rankings": [
+    {
+      "ranker": "Bastien",
+      "side": "left",
+      "entries": [
+        { "rank": 1, "name": "Jayson Tatum", "entities": [{ "entityId": "jayson-tatum", "entityType": "player", "nbaId": 1628369 }] },
+        { "rank": 2, "name": "Jalen Duren", "entities": [{ "entityId": "jalen-duren", "entityType": "player", "nbaId": 1631105 }] },
+        { "rank": 3, "name": "Bam Adebayo", "entities": [{ "entityId": "bam-adebayo", "entityType": "player", "nbaId": 1628389 }] },
+        { "rank": 4, "name": "Joel Embiid", "entities": [{ "entityId": "joel-embiid", "entityType": "player", "nbaId": 203954 }] },
+        { "rank": 5, "name": "Paolo Banchero", "entities": [{ "entityId": "paolo-banchero", "entityType": "player", "nbaId": 1631094 }] },
+        { "rank": 6, "name": "Kawhi Leonard", "entities": [{ "entityId": "kawhi-leonard", "entityType": "player", "nbaId": 202695 }] },
+        { "rank": 7, "name": "Ja Morant", "entities": [{ "entityId": "ja-morant", "entityType": "player", "nbaId": 1629630 }] },
+        { "rank": 8, "name": "Aaron Gordon", "entities": [{ "entityId": "aaron-gordon", "entityType": "player", "nbaId": 203932 }] },
+        { "rank": 9, "name": "Karl-Anthony Towns", "entities": [{ "entityId": "karl-anthony-towns", "entityType": "player", "nbaId": 1626157 }] },
+        { "rank": 10, "name": "Mitch Johnson et Chris Finch", "entities": [{ "entityId": "mitch-johnson", "entityType": "coach" }, { "entityId": "chris-finch", "entityType": "coach" }] }
+      ]
+    },
+    {
+      "ranker": "Alex",
+      "side": "right",
+      "entries": [
+        { "rank": 1, "name": "Christian Braun", "entities": [{ "entityId": "christian-braun", "entityType": "player", "nbaId": 1631128 }] },
+        { "rank": 2, "name": "Giannis Antetokounmpo", "entities": [{ "entityId": "giannis-antetokounmpo", "entityType": "player", "nbaId": 203507 }] },
+        { "rank": 3, "name": "Luka Doncic", "entities": [{ "entityId": "luka-doncic", "entityType": "player", "nbaId": 1629029 }] },
+        { "rank": 4, "name": "De'Aaron Fox", "entities": [{ "entityId": "de-aaron-fox", "entityType": "player", "nbaId": 1628368 }] },
+        { "rank": 5, "name": "Paolo Banchero", "entities": [{ "entityId": "paolo-banchero", "entityType": "player", "nbaId": 1631094 }] },
+        { "rank": 6, "name": "Jalen Duren", "entities": [{ "entityId": "jalen-duren", "entityType": "player", "nbaId": 1631105 }] },
+        { "rank": 7, "name": "Jamal Murray", "entities": [{ "entityId": "jamal-murray", "entityType": "player", "nbaId": 1627750 }] },
+        { "rank": 8, "name": "Zion Williamson", "entities": [{ "entityId": "zion-williamson", "entityType": "player", "nbaId": 1629627 }] },
+        { "rank": 9, "name": "Anthony Davis", "entities": [{ "entityId": "anthony-davis", "entityType": "player", "nbaId": 203076 }] },
+        { "rank": 10, "name": "LaMelant'", "entities": [{ "entityId": "lamelo-ball", "entityType": "player", "nbaId": 1630163 }, { "entityId": "anthony-edwards", "entityType": "player", "nbaId": 1630162 }] }
+      ]
+    }
+  ]
+}
