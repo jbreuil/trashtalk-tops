@@ -2,7 +2,7 @@
  * Logic for building player entities from NBA API responses.
  */
 
-import { slugify } from './utils'
+import { disambiguateEntityIds, slugify } from './utils'
 
 export interface Player {
   entityId: string
@@ -95,13 +95,17 @@ export function buildPlayers(
   allPlayersList: { id: number, name: string }[],
   gpById: Map<number, number>,
 ): Player[] {
-  const players: Player[] = allPlayersList.map(p => ({
+  // Sort by nbaId: newly added players always get higher IDs, so a newcomer
+  // homonym gets a suffix and never steals an existing slug
+  // (not chronological: historical players have 76xxx-78xxx IDs)
+  const sortedList = [...allPlayersList].sort((a, b) => a.id - b.id)
+  const players: Player[] = disambiguateEntityIds(sortedList.map(p => ({
     entityId: slugify(p.name),
     name: p.name,
     type: 'player' as const,
     gamesPlayed: gpById.get(p.id) ?? 0,
     nbaId: p.id,
-  }))
+  })))
 
   // Add hardcoded players not in the API list
   const existingIds = new Set(players.map(p => p.entityId))

@@ -115,6 +115,15 @@ Entity IDs (`entityId`) are generated from the player's full legal name as retur
 
 When referencing a player in a TOP JSON file, always use the `entityId` from `content/entities/players.json` — not the common name.
 
+Homonyms (different people with the same name) are disambiguated with a numeric suffix: the first one keeps the bare slug, the others get `-2`, `-3`, ... Players are ordered by `nbaId`, coaches by career start year. Always check the `nbaId` to pick the right one:
+
+| Name | `entityId` | `nbaId` |
+|---|---|---|
+| Glen Rice (Sr.) | `glen-rice` | 779 |
+| Glen Rice (Jr.) | `glen-rice-2` | 203318 |
+| Patrick Ewing (Sr.) | `patrick-ewing` | 121 |
+| Patrick Ewing (Jr.) | `patrick-ewing-2` | 201607 |
+
 ```json
 { "entityId": "jimmy-butler-iii", "entityType": "player", "nbaId": 202710 }
 ```

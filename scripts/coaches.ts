@@ -2,7 +2,7 @@
  * Parsing logic for Basketball Reference coaches CSV export.
  */
 
-import { slugify } from './utils'
+import { disambiguateEntityIds, slugify } from './utils'
 
 export { slugify }
 
@@ -18,12 +18,13 @@ export interface Coach {
 // BB-Ref CSV column indices
 // Format: Rk, Coach, From, To, Yrs, G, W, L, W/L%, W > .500, G, W, L, W/L%, Conf, Champ
 const COL_COACH = 1
+const COL_FROM = 2
 const COL_G = 5
 const COL_W = 6
 const COL_L = 7
 
 export function parseCsv(content: string): Coach[] {
-  const coaches: Coach[] = []
+  const rows: { coach: Coach, from: number }[] = []
   let headerFound = false
 
   for (const line of content.split('\n')) {
@@ -63,15 +64,25 @@ export function parseCsv(content: string): Coach[] {
     if (Number.isNaN(gamesCoached) || Number.isNaN(wins) || Number.isNaN(losses))
       continue
 
-    coaches.push({
-      entityId: slugify(nameRaw),
-      name: nameRaw,
-      type: 'coach',
-      gamesCoached,
-      wins,
-      losses,
+    rows.push({
+      coach: {
+        entityId: slugify(nameRaw),
+        name: nameRaw,
+        type: 'coach',
+        gamesCoached,
+        wins,
+        losses,
+      },
+      from: Number.parseInt(cols[COL_FROM], 10) || 0,
     })
   }
 
-  return coaches
+  // Disambiguate homonyms by career start year (earliest keeps the bare slug),
+  // while preserving the CSV order in the output
+  const byFrom = [...rows].sort((a, b) => a.from - b.from)
+  disambiguateEntityIds(byFrom.map(r => r.coach)).forEach((coach, i) => {
+    byFrom[i].coach = coach
+  })
+
+  return rows.map(r => r.coach)
 }

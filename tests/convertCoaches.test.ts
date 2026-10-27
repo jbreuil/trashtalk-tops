@@ -144,6 +144,22 @@ describe('parseCsv', () => {
     expect(result[0].name).toBe('Steve Kerr')
   })
 
+  it('keeps the bare slug for the earliest homonym coach', () => {
+    // The newer Wes Unseld (Jr.) is listed first on purpose
+    const csv = [
+      HEADER,
+      '1,Wes Unseld,2022,2024,3,207,77,130,.372,-26.5,,,,,0,0',
+      '2,Wes Unseld,1988,1994,7,547,202,345,.369,-71.5,5,2,3,.400,0,0',
+    ].join('\n')
+    const result = parseCsv(csv)
+
+    // Output keeps the CSV order, only the ids are disambiguated
+    expect(result.map(c => [c.entityId, c.gamesCoached])).toEqual([
+      ['wes-unseld-2', 207],
+      ['wes-unseld', 547],
+    ])
+  })
+
   it('returns empty array for empty input', () => {
     expect(parseCsv('')).toEqual([])
   })

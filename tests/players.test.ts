@@ -137,6 +137,21 @@ describe('buildPlayers', () => {
     expect(lenBias?.nbaId).toBeUndefined()
   })
 
+  it('keeps the bare slug for the oldest homonym (lowest nbaId)', () => {
+    // API order is not guaranteed: the newer Glen Rice (Jr.) comes first here
+    const allPlayers = [
+      { id: 203318, name: 'Glen Rice' },
+      { id: 779, name: 'Glen Rice' },
+    ]
+    const gpById = new Map<number, number>()
+
+    const result = buildPlayers(allPlayers, gpById)
+
+    // find() returns the first matching player, or undefined if none
+    expect(result.find(p => p.entityId === 'glen-rice')?.nbaId).toBe(779)
+    expect(result.find(p => p.entityId === 'glen-rice-2')?.nbaId).toBe(203318)
+  })
+
   it('does not duplicate hardcoded player if already in API list', () => {
     // If Len Bias somehow appeared in the API list
     const allPlayers = [{ id: 9999, name: 'Len Bias' }]
