@@ -62,7 +62,7 @@
           "name": "Mike Brown",
           "entities": [
             {
-              "entityId": "mike-brown",
+              "entityId": "mike-brown-coach",
               "entityType": "coach"
             }
           ]
@@ -138,7 +138,7 @@
           "name": "Mike Brown",
           "entities": [
             {
-              "entityId": "mike-brown",
+              "entityId": "mike-brown-coach",
               "entityType": "coach"
             }
           ]

@@ -15,6 +15,19 @@ export interface Coach {
   losses: number
 }
 
+/**
+ * A coach sharing its entityId with a player is merged with that player on the
+ * site (same person, e.g. Larry Bird). Override the id when that's wrong:
+ * a different person gets a `-coach` suffix, or the coach is matched to the
+ * right player homonym. Check new player/coach collisions on each update.
+ */
+export const COACH_ID_OVERRIDES: Record<string, string> = {
+  'Jerry Reynolds': 'jerry-reynolds-coach', // player is Jerry "Ice" Reynolds (b. 1962)
+  'Mike Brown': 'mike-brown-coach', // player is Mike Brown (b. 1963)
+  'Mike Dunleavy': 'mike-dunleavy-2', // Sr. — mike-dunleavy is the player Jr.
+  'Mike Miller': 'mike-miller-coach', // player is Mike Miller (b. 1980)
+}
+
 // BB-Ref CSV column indices
 // Format: Rk, Coach, From, To, Yrs, G, W, L, W/L%, W > .500, G, W, L, W/L%, Conf, Champ
 const COL_COACH = 1
@@ -66,7 +79,7 @@ export function parseCsv(content: string): Coach[] {
 
     rows.push({
       coach: {
-        entityId: slugify(nameRaw),
+        entityId: COACH_ID_OVERRIDES[nameRaw] ?? slugify(nameRaw),
         name: nameRaw,
         type: 'coach',
         gamesCoached,

@@ -160,6 +160,20 @@ describe('parseCsv', () => {
     ])
   })
 
+  it('applies COACH_ID_OVERRIDES for coaches distinct from a homonym player', () => {
+    const csv = [
+      HEADER,
+      '1,Mike Brown,2006,2027,13,843,507,336,.601,85.5,109,66,43,.606,2,1',
+      '2,Mike Dunleavy,1991,2010,17,1329,613,716,.461,-51.5,71,38,33,.535,1,0',
+    ].join('\n')
+    const result = parseCsv(csv)
+
+    // Different person from the player Mike Brown -> -coach suffix
+    expect(result[0].entityId).toBe('mike-brown-coach')
+    // Same person as the player Mike Dunleavy Sr. (mike-dunleavy-2)
+    expect(result[1].entityId).toBe('mike-dunleavy-2')
+  })
+
   it('returns empty array for empty input', () => {
     expect(parseCsv('')).toEqual([])
   })

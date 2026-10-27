@@ -1376,7 +1376,7 @@
     "losses": 60
   },
   {
-    "entityId": "jerry-reynolds",
+    "entityId": "jerry-reynolds-coach",
     "name": "Jerry Reynolds",
     "type": "coach",
     "gamesCoached": 170,
@@ -2032,7 +2032,7 @@
     "losses": 394
   },
   {
-    "entityId": "mike-brown",
+    "entityId": "mike-brown-coach",
     "name": "Mike Brown",
     "type": "coach",
     "gamesCoached": 843,
@@ -2064,7 +2064,7 @@
     "losses": 61
   },
   {
-    "entityId": "mike-dunleavy",
+    "entityId": "mike-dunleavy-2",
     "name": "Mike Dunleavy",
     "type": "coach",
     "gamesCoached": 1329,
@@ -2096,7 +2096,7 @@
     "losses": 548
   },
   {
-    "entityId": "mike-miller",
+    "entityId": "mike-miller-coach",
     "name": "Mike Miller",
     "type": "coach",
     "gamesCoached": 44,

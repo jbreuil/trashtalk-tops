@@ -139,6 +139,17 @@ async function main(): Promise<void> {
     if (removed.length > 0)
       console.warn(`\n  ${removed.length} removed player(s): ${removed.join(', ')}`)
 
+    // New players sharing an entityId with a coach get merged with that coach on the site
+    const coachesPath = resolve('content/entities/coaches.json')
+    if (added.length > 0 && existsSync(coachesPath)) {
+      const coachIds = new Set((JSON.parse(readFileSync(coachesPath, 'utf-8')) as { entityId: string }[]).map(c => c.entityId))
+      const collisions = added.filter(id => coachIds.has(id))
+      if (collisions.length > 0) {
+        console.warn(`\n  ${collisions.length} new player(s) merged with a coach — check they are the same person: ${collisions.join(', ')}`)
+        console.warn('  If not, add the coach to COACH_ID_OVERRIDES in scripts/coaches.ts and re-run convert-coaches.ts')
+      }
+    }
+
     // Check if removed entityIds are referenced in any TOP file
     if (removed.length > 0) {
       const topDirs = [resolve('content/tops'), resolve('content/top100')]
