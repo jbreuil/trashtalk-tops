@@ -14,7 +14,7 @@ export default defineNuxtConfig({
   ],
 
   app: {
-    baseURL: '/trashtalk-tops/',
+    baseURL: '/',
     head: {
       title: 'TrashTalk TOPs',
       meta: [

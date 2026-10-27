@@ -1,0 +1,4 @@
+# Netlify build settings (Node version is read from .nvmrc)
+[build]
+command = "pnpm generate"
+publish = "dist"

@@ -4,7 +4,7 @@ A static fan-made website to browse and explore NBA rankings ("TOPs") from [Tras
 
 > **Disclaimer**: This is an unofficial, non-commercial fan project. It is not affiliated with TrashTalk, the NBA, or any team or player mentioned.
 
-[**Live Demo**](https://jbreuil.github.io/trashtalk-tops/)
+[**Live Demo**](https://trashtalk-tops.netlify.app)
 
 ## Features
 
@@ -25,6 +25,7 @@ A static fan-made website to browse and explore NBA rankings ("TOPs") from [Tras
 - [Fuse.js](https://www.fusejs.io/) (client-side fuzzy search)
 - [VueUse](https://vueuse.org/) (composable utilities)
 - [Vitest](https://vitest.dev/) (unit testing)
+- [Netlify](https://www.netlify.com/) (hosting)
 
 ## Getting Started
 
@@ -52,6 +53,10 @@ pnpm generate
 ```
 
 The static site is output to `.output/public/`.
+
+### Deployment
+
+The site is hosted on [Netlify](https://www.netlify.com/), which builds and deploys automatically on every push to `main` (and creates a preview for each pull request). Build settings live in `netlify.toml`: `pnpm generate`, publish directory `dist` (Nuxt's Netlify output), Node version from `.nvmrc`.
 
 ### Lint
 
