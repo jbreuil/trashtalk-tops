@@ -5,24 +5,30 @@
  *   npx tsx scripts/fetch-players.ts
  *
  * Calls CommonAllPlayers (1 call) for the full player list, then
- * LeagueDashPlayerStats for each NBA season (~80 calls) to accumulate
- * career games played. Writes players.json.
+ * LeagueDashPlayerStats for each NBA season since 1996-97 (~30 calls) to
+ * accumulate career games played. Careers starting before 1996-97 (not
+ * covered by LeagueDashPlayerStats) use PlayerCareerStats totals, cached in
+ * scripts/data/career-games-played.json: these players are all retired, so
+ * only players missing from the cache are fetched. Writes players.json.
  *
- * Expected runtime: ~2 minutes.
+ * Expected runtime: ~1 minute (~40 minutes when the cache is empty).
  */
 
-import { existsSync, readdirSync, readFileSync, writeFileSync } from 'node:fs'
-import { resolve } from 'node:path'
+import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from 'node:fs'
+import { dirname, resolve } from 'node:path'
 import process from 'node:process'
 import {
   buildPlayers,
   currentSeasonYear,
+  FIRST_DASH_STATS_SEASON_YEAR,
+  needsCareerTotals,
   parseAllPlayersResponse,
+  parseCareerTotalsResponse,
   parseSeasonStatsResponse,
   seasonString,
 } from './players'
 
-const FIRST_SEASON_YEAR = 1946
+const CAREER_GP_CACHE_PATH = resolve('scripts/data/career-games-played.json')
 
 const NBA_API_BASE = 'https://stats.nba.com/stats'
 const DELAY_MS = 600
@@ -79,13 +85,13 @@ async function main(): Promise<void> {
 
   // Step 2: Fetch season stats and accumulate GP
   const seasons = Array.from(
-    { length: currentYear - FIRST_SEASON_YEAR + 1 },
-    (_, i) => FIRST_SEASON_YEAR + i,
+    { length: currentYear - FIRST_DASH_STATS_SEASON_YEAR + 1 },
+    (_, i) => FIRST_DASH_STATS_SEASON_YEAR + i,
   )
   const totalSeasons = seasons.length
   const gpById = new Map<number, number>()
 
-  console.log(`Fetching stats for ${totalSeasons} seasons (${seasonString(FIRST_SEASON_YEAR)} to ${currentSeason})...`)
+  console.log(`Fetching stats for ${totalSeasons} seasons (${seasonString(FIRST_DASH_STATS_SEASON_YEAR)} to ${currentSeason})...`)
 
   for (let i = 0; i < totalSeasons; i++) {
     const season = seasonString(seasons[i])
@@ -120,6 +126,43 @@ async function main(): Promise<void> {
   }
 
   console.log(`\n  GP data for ${gpById.size} unique players`)
+
+  // Step 2b: Career totals for careers starting before dash stats coverage.
+  // Cached by nbaId (as string key) — retired careers never change
+  const careerGp: Record<string, number> = existsSync(CAREER_GP_CACHE_PATH)
+    ? JSON.parse(readFileSync(CAREER_GP_CACHE_PATH, 'utf-8'))
+    : {}
+  const saveCache = (): void => {
+    mkdirSync(dirname(CAREER_GP_CACHE_PATH), { recursive: true })
+    const sorted = Object.fromEntries(Object.entries(careerGp).sort(([a], [b]) => Number(a) - Number(b)))
+    writeFileSync(CAREER_GP_CACHE_PATH, `${JSON.stringify(sorted, null, 2)}\n`, 'utf-8')
+  }
+
+  const oldCareers = allPlayersList.filter(p => needsCareerTotals(p.fromYear))
+  const missing = oldCareers.filter(p => !(String(p.id) in careerGp))
+  console.log(`Career totals: ${oldCareers.length} pre-${seasonString(FIRST_DASH_STATS_SEASON_YEAR)} careers, ${missing.length} not cached`)
+
+  for (let i = 0; i < missing.length; i++) {
+    process.stdout.write(`  ${i + 1}/${missing.length} (${missing[i].name})\x1B[K\r`)
+    const data = await fetchWithRetry(`${NBA_API_BASE}/playercareerstats?PlayerID=${missing[i].id}&PerMode=Totals&LeagueID=00`)
+    if (!data)
+      continue // not cached: retried on next run
+    careerGp[String(missing[i].id)] = parseCareerTotalsResponse(data)
+    // Save regularly so an interrupted run can resume
+    if ((i + 1) % 100 === 0)
+      saveCache()
+  }
+  if (missing.length > 0) {
+    saveCache()
+    console.log('')
+  }
+
+  // Career totals replace the partial dash stats accumulation (seasons since 1996-97 only)
+  for (const p of oldCareers) {
+    const gp = careerGp[String(p.id)]
+    if (gp !== undefined)
+      gpById.set(p.id, gp)
+  }
 
   // Step 3: Build players
   const players = buildPlayers(allPlayersList, gpById)

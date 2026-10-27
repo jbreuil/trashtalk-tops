@@ -44,8 +44,19 @@ export function seasonString(startYear: number): string {
   return `${startYear}-${endYear.toString().padStart(2, '0')}`
 }
 
+/**
+ * First season covered by LeagueDashPlayerStats (1996-97): earlier seasons
+ * return no rows, so older careers need PlayerCareerStats totals instead.
+ */
+export const FIRST_DASH_STATS_SEASON_YEAR = 1996
+
+/** True when part of the career predates LeagueDashPlayerStats coverage */
+export function needsCareerTotals(fromYear: number | undefined): boolean {
+  return fromYear !== undefined && fromYear < FIRST_DASH_STATS_SEASON_YEAR
+}
+
 /** Parse the CommonAllPlayers resultSet from the API response */
-export function parseAllPlayersResponse(data: Record<string, unknown>): { id: number, name: string }[] {
+export function parseAllPlayersResponse(data: Record<string, unknown>): { id: number, name: string, fromYear?: number }[] {
   const resultSets = data.resultSets as { name: string, headers: string[], rowSet: unknown[][] }[]
   const playerSet = resultSets?.find(rs => rs.name === 'CommonAllPlayers')
 
@@ -55,6 +66,7 @@ export function parseAllPlayersResponse(data: Record<string, unknown>): { id: nu
   const headers = playerSet.headers
   const idxId = headers.indexOf('PERSON_ID')
   const idxName = headers.indexOf('DISPLAY_FIRST_LAST')
+  const idxFrom = headers.indexOf('FROM_YEAR')
 
   if (idxId === -1 || idxName === -1)
     return []
@@ -62,7 +74,20 @@ export function parseAllPlayersResponse(data: Record<string, unknown>): { id: nu
   return playerSet.rowSet.map(row => ({
     id: row[idxId] as number,
     name: (row[idxName] as string).trim(),
+    fromYear: idxFrom === -1 ? undefined : Number(row[idxFrom]) || undefined,
   }))
+}
+
+/** Parse PlayerCareerStats — returns career regular season games played (0 if none) */
+export function parseCareerTotalsResponse(data: Record<string, unknown>): number {
+  const resultSets = data.resultSets as { name: string, headers: string[], rowSet: unknown[][] }[]
+  const totalsSet = resultSets?.find(rs => rs.name === 'CareerTotalsRegularSeason')
+  const idxGp = totalsSet?.headers.indexOf('GP') ?? -1
+
+  if (!totalsSet || idxGp === -1 || totalsSet.rowSet.length === 0)
+    return 0
+
+  return totalsSet.rowSet[0][idxGp] as number
 }
 
 /** Parse LeagueDashPlayerStats resultSet — returns player ID and games played */

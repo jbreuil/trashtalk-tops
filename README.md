@@ -176,7 +176,7 @@ Once per year, at the end of the NBA season.
 npx tsx scripts/fetch-players.ts
 ```
 
-This fetches the full player list and career games played from the NBA API (~80 calls, ~2 minutes).
+This fetches the full player list and career games played from the NBA API (~30 calls, ~1 minute). `LeagueDashPlayerStats` has no data before 1996-97, so careers starting earlier use `PlayerCareerStats` totals, cached in `scripts/data/career-games-played.json` (committed). Only players missing from the cache are fetched (one call each — ~40 minutes if the cache is deleted).
 
 ### Summary
 
@@ -184,7 +184,7 @@ This fetches the full player list and career games played from the NBA API (~80 
 |---|---|---|---|
 | Coaches | `npx tsx scripts/convert-coaches.ts` | CSV from Basketball-Reference | Once per year |
 | Teams | `npx tsx scripts/fetch-teams.ts` | NBA API (30 calls, ~20s) | New franchise only |
-| Players | `npx tsx scripts/fetch-players.ts` | NBA API (81 calls, ~2min) | Once per year |
+| Players | `npx tsx scripts/fetch-players.ts` | NBA API (~30 calls, ~1min) | Once per year |
 
 ## Data Sources & Attribution
 

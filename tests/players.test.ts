@@ -3,7 +3,9 @@ import {
   buildPlayers,
   currentSeasonYear,
   HARDCODED_PLAYERS,
+  needsCareerTotals,
   parseAllPlayersResponse,
+  parseCareerTotalsResponse,
   parseSeasonStatsResponse,
   seasonString,
 } from '../scripts/players'
@@ -66,6 +68,55 @@ describe('parseAllPlayersResponse', () => {
     }
 
     expect(parseAllPlayersResponse(data)).toEqual([])
+  })
+})
+
+describe('parseAllPlayersResponse with FROM_YEAR', () => {
+  it('parses the career start year when available', () => {
+    // The API returns FROM_YEAR as a string
+    const data = {
+      resultSets: [{
+        name: 'CommonAllPlayers',
+        headers: ['PERSON_ID', 'DISPLAY_FIRST_LAST', 'FROM_YEAR'],
+        rowSet: [[1449, 'Larry Bird', '1979']],
+      }],
+    }
+
+    expect(parseAllPlayersResponse(data)[0]).toEqual({ id: 1449, name: 'Larry Bird', fromYear: 1979 })
+  })
+})
+
+describe('needsCareerTotals', () => {
+  it('is true for careers starting before 1996-97', () => {
+    expect(needsCareerTotals(1979)).toBe(true)
+    expect(needsCareerTotals(1995)).toBe(true)
+  })
+
+  it('is false from 1996-97 on, or when the start year is unknown', () => {
+    expect(needsCareerTotals(1996)).toBe(false)
+    expect(needsCareerTotals(undefined)).toBe(false)
+  })
+})
+
+describe('parseCareerTotalsResponse', () => {
+  it('returns career regular season GP', () => {
+    // Other result sets (per-season, playoffs) must be ignored
+    const data = {
+      resultSets: [
+        { name: 'SeasonTotalsRegularSeason', headers: ['PLAYER_ID', 'GP'], rowSet: [[1449, 82]] },
+        { name: 'CareerTotalsRegularSeason', headers: ['PLAYER_ID', 'LEAGUE_ID', 'TEAM_ID', 'GP'], rowSet: [[1449, '00', 0, 897]] },
+        { name: 'CareerTotalsPostSeason', headers: ['PLAYER_ID', 'GP'], rowSet: [[1449, 164]] },
+      ],
+    }
+
+    expect(parseCareerTotalsResponse(data)).toBe(897)
+  })
+
+  it('returns 0 when the player has no career totals', () => {
+    const data = { resultSets: [{ name: 'CareerTotalsRegularSeason', headers: ['PLAYER_ID', 'GP'], rowSet: [] }] }
+
+    expect(parseCareerTotalsResponse(data)).toBe(0)
+    expect(parseCareerTotalsResponse({ resultSets: [] })).toBe(0)
   })
 })
 
