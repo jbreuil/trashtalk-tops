@@ -72,6 +72,7 @@ export interface Entity {
   years?: string
   linkedTo?: string
   team?: string
+  roles?: Entity['type'][] // player-coaches merged into one entity: ['player', 'coach']
 }
 
 // --- Tags (controlled vocabulary, categorized) ---

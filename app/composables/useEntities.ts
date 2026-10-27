@@ -4,10 +4,11 @@ import coachesData from '~/../content/entities/coaches.json'
 import gmsData from '~/../content/entities/gms.json'
 import playersData from '~/../content/entities/players.json'
 import teamsData from '~/../content/entities/teams.json'
+import { mergePlayerCoaches } from '~/utils/entities'
 
 const allEntities: Entity[] = [
-  ...(playersData as Entity[]),
-  ...(coachesData as Entity[]),
+  // Player-coaches become a single 'player' entity with both careers
+  ...mergePlayerCoaches(playersData as Entity[], coachesData as Entity[]),
   ...(gmsData as Entity[]),
   ...(teamsData as Entity[]),
 ]

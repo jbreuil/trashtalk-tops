@@ -4,6 +4,7 @@ import { computed, ref } from 'vue'
 import { useEntities } from '~/composables/useEntities'
 import { useSpoiler } from '~/composables/useSpoiler'
 import { useTops } from '~/composables/useTops'
+import { entityTypeLabel } from '~/utils/entities'
 
 const route = useRoute()
 const entityId = route.params.slug as string
@@ -26,13 +27,6 @@ const linkedEntity = computed(() => {
     return null
   return entityMap.get(entity.linkedTo) ?? null
 })
-
-const typeLabels: Record<string, string> = {
-  player: 'Joueur',
-  coach: 'Coach',
-  team: 'Équipe',
-  gm: 'General Manager',
-}
 
 // Collect all TOP appearances for this entity across all files (all versions)
 interface RankerAppearance {
@@ -165,7 +159,7 @@ useHead({
           {{ entity.name }}
         </h1>
         <div class="flex items-center gap-2 text-sm text-[var(--color-text-soft)]">
-          <span>{{ typeLabels[entity.type] ?? entity.type }}</span>
+          <span>{{ entityTypeLabel(entity) }}</span>
           <a
             v-if="nbaStatsUrl"
             :href="nbaStatsUrl"

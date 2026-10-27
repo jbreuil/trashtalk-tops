@@ -1,15 +1,10 @@
 <script setup lang="ts">
 import type { Entity } from '~/types'
+import { entityTypeLabel } from '~/utils/entities'
 
 defineProps<{
   entity: Entity
 }>()
-
-const typeLabels: Record<string, string> = {
-  player: 'Joueur',
-  coach: 'Coach',
-  team: 'Équipe',
-}
 </script>
 
 <template>
@@ -29,7 +24,7 @@ const typeLabels: Record<string, string> = {
         {{ entity.name }}
       </h3>
       <p class="text-xs text-[var(--color-text-soft)]">
-        {{ typeLabels[entity.type] ?? entity.type }}
+        {{ entityTypeLabel(entity) }}
       </p>
     </div>
   </NuxtLink>

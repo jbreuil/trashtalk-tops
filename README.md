@@ -124,6 +124,8 @@ Homonyms (different people with the same name) are disambiguated with a numeric 
 | Patrick Ewing (Sr.) | `patrick-ewing` | 121 |
 | Patrick Ewing (Jr.) | `patrick-ewing-2` | 201607 |
 
+A coach who was also an NBA player shares the player's `entityId` (e.g. `larry-bird`, `steve-kerr`) and both careers are shown on a single entity page. Coaches who are a different person from a homonym player have a distinct id, defined in `COACH_ID_OVERRIDES` (`scripts/coaches.ts`): e.g. `mike-brown-coach`.
+
 ```json
 { "entityId": "jimmy-butler-iii", "entityType": "player", "nbaId": 202710 }
 ```

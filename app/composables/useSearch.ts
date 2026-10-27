@@ -57,7 +57,8 @@ export function useSearch() {
 
   /** Compute popularity score for an entity (0-1) based on career stats + TOP appearances */
   function entityPopularity(entity: Entity, topAppearances: number): number {
-    const gp = entity.gamesPlayed ?? entity.gamesCoached ?? 0
+    // Player-coaches have both: use the longer career
+    const gp = Math.max(entity.gamesPlayed ?? 0, entity.gamesCoached ?? 0)
     // Normalize gamesPlayed/gamesCoached (max ~2000 for a long career)
     const gpScore = Math.min(gp / 2000, 1)
     // Normalize TOP appearances (max ~20 as reasonable cap)
